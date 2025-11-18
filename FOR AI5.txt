@@ -1,0 +1,2056 @@
+(trading_env) serkanozturk@192:~/Desktop/JTTWS% cd ~/Desktop/JTTWS
+find . -name "*.csv" -type f | wc -l
+     393
+(trading_env) serkanozturk@192:~/Desktop/JTTWS% find . -name "*.csv" -type f | sort > csv_listesi.txt
+cat csv_listesi.txt
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024.csv
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024.csv
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_05.05.2003-01.01.2006.csv
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009_weekly_ranges.csv
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012_weekly_ranges.csv
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015_weekly_ranges.csv
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018_weekly_ranges.csv
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021_weekly_ranges.csv
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024_weekly_ranges.csv
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024_weekly_ranges.csv
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_05.05.2003-01.01.2006_weekly_ranges.csv
+./data/EURUSD_weekly_ranges.csv
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024.csv
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024.csv
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_05.05.2003-31.12.2005.csv
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009_weekly_ranges.csv
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012_weekly_ranges.csv
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015_weekly_ranges.csv
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018_weekly_ranges.csv
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021_weekly_ranges.csv
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024_weekly_ranges.csv
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024_weekly_ranges.csv
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_05.05.2003-31.12.2005_weekly_ranges.csv
+./data/GBPUSD_weekly_ranges.csv
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2021-01.01.2023.csv
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2023-31.12.2024.csv
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_05.05.2003-01.01.2006.csv
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2006-01.01.2009_weekly_ranges.csv
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2009-01.01.2012_weekly_ranges.csv
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2012-01.01.2015_weekly_ranges.csv
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2015-01.01.2018_weekly_ranges.csv
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2018-01.01.2021_weekly_ranges.csv
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2021-01.01.2023_weekly_ranges.csv
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2023-31.12.2024_weekly_ranges.csv
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_05.05.2003-01.01.2006_weekly_ranges.csv
+./data/USDJPY_weekly_ranges.csv
+./data/calendar-event-list-10.csv
+./data/calendar-event-list-11.csv
+./data/calendar-event-list-12.csv
+./data/calendar-event-list-13.csv
+./data/calendar-event-list-14.csv
+./data/calendar-event-list-15.csv
+./data/calendar-event-list-16.csv
+./data/calendar-event-list-17.csv
+./data/calendar-event-list-18.csv
+./data/calendar-event-list-19.csv
+./data/calendar-event-list-2.csv
+./data/calendar-event-list-3.csv
+./data/calendar-event-list-4.csv
+./data/calendar-event-list-5.csv
+./data/calendar-event-list-6.csv
+./data/calendar-event-list-7.csv
+./data/calendar-event-list-8.csv
+./data/calendar-event-list-9.csv
+./data/combined_economic_calendar.csv
+./data/ta-lib 2/src/ta_common/ta_retcode.csv
+./data/ta-lib 3/src/ta_common/ta_retcode.csv
+./data/ta-lib/src/ta_common/ta_retcode.csv
+./data/trading_env_backup/lib/python3.10/site-packages/matplotlib/mpl-data/sample_data/Stocks.csv
+./data/trading_env_backup/lib/python3.10/site-packages/matplotlib/mpl-data/sample_data/data_x_x2_x3.csv
+./data/trading_env_backup/lib/python3.10/site-packages/matplotlib/mpl-data/sample_data/msft.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-arccos.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-arccosh.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-arcsin.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-arcsinh.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-arctan.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-arctanh.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-cbrt.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-cos.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-cosh.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-exp.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-exp2.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-expm1.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-log.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-log10.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-log1p.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-log2.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-sin.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-sinh.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-tan.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/core/tests/data/umath-validation-set-tanh.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/random/tests/data/mt19937-testset-1.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/random/tests/data/mt19937-testset-2.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/random/tests/data/pcg64-testset-1.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/random/tests/data/pcg64-testset-2.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/random/tests/data/pcg64dxsm-testset-1.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/random/tests/data/pcg64dxsm-testset-2.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/random/tests/data/philox-testset-1.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/random/tests/data/philox-testset-2.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/random/tests/data/sfc64-testset-1.csv
+./data/trading_env_backup/lib/python3.10/site-packages/numpy/random/tests/data/sfc64-testset-2.csv
+./data/trading_env_backup/lib/python3.10/site-packages/sklearn/datasets/data/breast_cancer.csv
+./data/trading_env_backup/lib/python3.10/site-packages/sklearn/datasets/data/iris.csv
+./data/trading_env_backup/lib/python3.10/site-packages/sklearn/datasets/data/linnerud_exercise.csv
+./data/trading_env_backup/lib/python3.10/site-packages/sklearn/datasets/data/linnerud_physiological.csv
+./data/trading_env_backup/lib/python3.10/site-packages/sklearn/datasets/data/wine_data.csv
+./outputs/walk_forward_results_v8.csv
+./trading_env/lib/python3.13/site-packages/matplotlib/mpl-data/sample_data/Stocks.csv
+./trading_env/lib/python3.13/site-packages/matplotlib/mpl-data/sample_data/data_x_x2_x3.csv
+./trading_env/lib/python3.13/site-packages/matplotlib/mpl-data/sample_data/msft.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-arccos.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-arccosh.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-arcsin.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-arcsinh.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-arctan.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-arctanh.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-cbrt.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-cos.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-cosh.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-exp.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-exp2.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-expm1.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-log.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-log10.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-log1p.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-log2.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-sin.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-sinh.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-tan.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-tanh.csv
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/mt19937-testset-1.csv
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/mt19937-testset-2.csv
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/pcg64-testset-1.csv
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/pcg64-testset-2.csv
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/pcg64dxsm-testset-1.csv
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/pcg64dxsm-testset-2.csv
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/philox-testset-1.csv
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/philox-testset-2.csv
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/sfc64-testset-1.csv
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/sfc64-testset-2.csv
+./trading_env/lib/python3.13/site-packages/sklearn/datasets/data/breast_cancer.csv
+./trading_env/lib/python3.13/site-packages/sklearn/datasets/data/iris.csv
+./trading_env/lib/python3.13/site-packages/sklearn/datasets/data/linnerud_exercise.csv
+./trading_env/lib/python3.13/site-packages/sklearn/datasets/data/linnerud_physiological.csv
+./trading_env/lib/python3.13/site-packages/sklearn/datasets/data/wine_data.csv
+./venv_backup/lib/python3.10/site-packages/arch/tests/unitroot/data/zivot-andrews.csv
+./venv_backup/lib/python3.10/site-packages/matplotlib/mpl-data/sample_data/Stocks.csv
+./venv_backup/lib/python3.10/site-packages/matplotlib/mpl-data/sample_data/data_x_x2_x3.csv
+./venv_backup/lib/python3.10/site-packages/matplotlib/mpl-data/sample_data/msft.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-arccos.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-arccosh.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-arcsin.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-arcsinh.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-arctan.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-arctanh.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-cbrt.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-cos.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-cosh.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-exp.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-exp2.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-expm1.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-log.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-log10.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-log1p.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-log2.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-sin.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-sinh.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-tan.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-tanh.csv
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/mt19937-testset-1.csv
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/mt19937-testset-2.csv
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/pcg64-testset-1.csv
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/pcg64-testset-2.csv
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/pcg64dxsm-testset-1.csv
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/pcg64dxsm-testset-2.csv
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/philox-testset-1.csv
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/philox-testset-2.csv
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/sfc64-testset-1.csv
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/sfc64-testset-2.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/anes96/anes96.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/cancer/cancer.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/ccard/ccard.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/china_smoking/china_smoking.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/co2/co2.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/committee/committee.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/copper/copper.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/cpunish/cpunish.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/danish_data/data.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/elec_equip/elec_equip.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/elnino/elnino.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/engel/engel.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/fair/fair.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/fair/fair_pt.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/fertility/fertility.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/grunfeld/grunfeld.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/heart/heart.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/interest_inflation/E6.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/interest_inflation/E6_jmulti.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/longley/longley.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/macrodata/macrodata.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/modechoice/modechoice.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/nile/nile.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/randhie/randhie.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/scotland/scotvote.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/spector/spector.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/stackloss/stackloss.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/star98/star98.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/statecrime/statecrime.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/strikes/strikes.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/sunspots/sunspots.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/mnlogit_resid.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/nbinom_resids.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/phat_mnlogit.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/poisson_resid.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/predict_prob_poisson.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/ships.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/sm3533.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/yhat_mnlogit.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/yhat_poisson.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/duration/tests/results/bmt.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/duration/tests/results/bmt_results.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/duration/tests/results/survival_data_1000_10.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/duration/tests/results/survival_data_100_5.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/duration/tests/results/survival_data_20_1.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/duration/tests/results/survival_data_50_1.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/duration/tests/results/survival_data_50_2.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/autos.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/autos_exog.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/autos_predict.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/cubic_cyclic_splines_from_mgcv.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/gam_PIRLS_results.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/logit_gam_mgcv.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/motorcycle.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/prediction_from_mgcv.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/enet_binomial.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/enet_poisson.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/epil.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/gee_linear_1.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/gee_logistic_1.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/gee_nested_linear_1.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/gee_nominal_1.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/gee_ordinal_1.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/gee_poisson_1.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/igaussident_resids.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/inv_gaussian.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/iris.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/medparlogresids.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/results_tweedie_aweights_nonrobust.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/stata_cancer_glm.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/stata_lbw_glm.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/stata_medpar1_glm.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/miscmodels/tests/results/ologit_ucla.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/multivariate/tests/results/factor_data.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/multivariate/tests/results/factors_stata.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/results_kcde.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/results_kde.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/results_kde_fft.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/results_kde_univ_weights.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/results_kde_weights.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/results_kernel_regression.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/test_lowess_delta.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/test_lowess_frac.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/test_lowess_iter.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/test_lowess_simple.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/othermod/tests/results/foodexpenditure.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/othermod/tests/results/methylation-test.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/othermod/tests/results/resid_methylation.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/dietox.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lasso_data.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme00.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme01.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme02.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme03.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme04.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme05.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme06.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme07.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme08.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme09.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme10.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme11.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/pastes.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/results_rls_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/results_rls_stata.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/theil_textile_predict.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/sandbox/regression/tests/racd10data_with_transformed.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/binary_constrict.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/bootleg.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/contingency_table_r_results.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/framing.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/influence_measures_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/influence_measures_bool_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/results_influence_logit.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/wspec1.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/wspec2.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/wspec3.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/wspec4.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/treatment/tests/results/cataneo2.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/holtwinters/tests/results/housing-data.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/regime_switching/tests/results/mar_filardo.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/regime_switching/tests/results/results_predict_fedfunds.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/regime_switching/tests/results/results_predict_rgnp.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_Omega_11.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_Omega_22.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_S10.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_Si0.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_beta.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_invP.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_posterior_mean.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_state_variates.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_v10.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_vi0.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/clark1989.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/exponential_smoothing_params.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/exponential_smoothing_predict.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/exponential_smoothing_states.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/frbny_nowcast/Nowcasting/data/US/2016-06-29.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/frbny_nowcast/Nowcasting/data/US/2016-07-29.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_clark1989_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_dynamic_factor_stata.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_common_level_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_common_level_restricted_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_dfm_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_local_level_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_local_linear_trend_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_local_linear_trend_missing_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_var1_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_var1_measurement_error_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_var1_missing_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_var1_mixed_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_intercepts_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_realgdpar_stata.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_sarimax_coverage.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing0.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing1.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing2.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing3.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing3_variates.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing4.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing5.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing6.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_smoothing2_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_smoothing3_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_smoothing_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_smoothing_generalobscov_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_var_R_output.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_var_stata.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_varmax_stata.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_wpi1_ar3_matlab_ssm.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_wpi1_ar3_stata.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_wpi1_missing_ar3_matlab_ssm.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/stl/tests/results/mstl_elec_vic.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/stl/tests/results/mstl_test_results.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/stl/tests/results/stl_co2.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/stl/tests/results/stl_test_results.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/ARMLEConstantPredict.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/AROLSConstantPredict.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/AROLSNoConstantPredict.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/arima111_forecasts.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/arima212_forecast.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/bds_data.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/bds_results.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/gnpdef.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/rand10000.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/resids_css_c.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/resids_css_nc.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/resids_exact_c.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/resids_exact_nc.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_ar_forecast_mle_dynamic.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arima_exog_forecasts_css.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arima_exog_forecasts_mle.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arima_forecasts.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arima_forecasts_all_css.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arima_forecasts_all_css_diff.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arima_forecasts_all_mle.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arima_forecasts_all_mle_diff.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arma_forecasts.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_ccf.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_corrgram.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/rgnp.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/rgnpq.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/stkprc.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/y_arma_data.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/yhat_css_c.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/yhat_css_nc.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/yhat_exact_c.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/yhat_exact_nc.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/vector_ar/tests/Matlab_results/test_coint.csv
+(trading_env) serkanozturk@192:~/Desktop/JTTWS% find . -path "./data/trading_env_backup" -prune -o -name "*.csv" -type f -print | sort
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024.csv
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024.csv
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_05.05.2003-01.01.2006.csv
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009_weekly_ranges.csv
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012_weekly_ranges.csv
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015_weekly_ranges.csv
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018_weekly_ranges.csv
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021_weekly_ranges.csv
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024_weekly_ranges.csv
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024_weekly_ranges.csv
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_05.05.2003-01.01.2006_weekly_ranges.csv
+./data/EURUSD_weekly_ranges.csv
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024.csv
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024.csv
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_05.05.2003-31.12.2005.csv
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009_weekly_ranges.csv
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012_weekly_ranges.csv
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015_weekly_ranges.csv
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018_weekly_ranges.csv
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021_weekly_ranges.csv
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024_weekly_ranges.csv
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024_weekly_ranges.csv
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_05.05.2003-31.12.2005_weekly_ranges.csv
+./data/GBPUSD_weekly_ranges.csv
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2021-01.01.2023.csv
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2023-31.12.2024.csv
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_05.05.2003-01.01.2006.csv
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2006-01.01.2009_weekly_ranges.csv
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2009-01.01.2012_weekly_ranges.csv
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2012-01.01.2015_weekly_ranges.csv
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2015-01.01.2018_weekly_ranges.csv
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2018-01.01.2021_weekly_ranges.csv
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2021-01.01.2023_weekly_ranges.csv
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2023-31.12.2024_weekly_ranges.csv
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_05.05.2003-01.01.2006_weekly_ranges.csv
+./data/USDJPY_weekly_ranges.csv
+./data/calendar-event-list-10.csv
+./data/calendar-event-list-11.csv
+./data/calendar-event-list-12.csv
+./data/calendar-event-list-13.csv
+./data/calendar-event-list-14.csv
+./data/calendar-event-list-15.csv
+./data/calendar-event-list-16.csv
+./data/calendar-event-list-17.csv
+./data/calendar-event-list-18.csv
+./data/calendar-event-list-19.csv
+./data/calendar-event-list-2.csv
+./data/calendar-event-list-3.csv
+./data/calendar-event-list-4.csv
+./data/calendar-event-list-5.csv
+./data/calendar-event-list-6.csv
+./data/calendar-event-list-7.csv
+./data/calendar-event-list-8.csv
+./data/calendar-event-list-9.csv
+./data/combined_economic_calendar.csv
+./data/ta-lib 2/src/ta_common/ta_retcode.csv
+./data/ta-lib 3/src/ta_common/ta_retcode.csv
+./data/ta-lib/src/ta_common/ta_retcode.csv
+./outputs/walk_forward_results_v8.csv
+./trading_env/lib/python3.13/site-packages/matplotlib/mpl-data/sample_data/Stocks.csv
+./trading_env/lib/python3.13/site-packages/matplotlib/mpl-data/sample_data/data_x_x2_x3.csv
+./trading_env/lib/python3.13/site-packages/matplotlib/mpl-data/sample_data/msft.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-arccos.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-arccosh.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-arcsin.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-arcsinh.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-arctan.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-arctanh.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-cbrt.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-cos.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-cosh.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-exp.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-exp2.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-expm1.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-log.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-log10.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-log1p.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-log2.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-sin.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-sinh.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-tan.csv
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-tanh.csv
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/mt19937-testset-1.csv
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/mt19937-testset-2.csv
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/pcg64-testset-1.csv
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/pcg64-testset-2.csv
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/pcg64dxsm-testset-1.csv
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/pcg64dxsm-testset-2.csv
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/philox-testset-1.csv
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/philox-testset-2.csv
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/sfc64-testset-1.csv
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/sfc64-testset-2.csv
+./trading_env/lib/python3.13/site-packages/sklearn/datasets/data/breast_cancer.csv
+./trading_env/lib/python3.13/site-packages/sklearn/datasets/data/iris.csv
+./trading_env/lib/python3.13/site-packages/sklearn/datasets/data/linnerud_exercise.csv
+./trading_env/lib/python3.13/site-packages/sklearn/datasets/data/linnerud_physiological.csv
+./trading_env/lib/python3.13/site-packages/sklearn/datasets/data/wine_data.csv
+./venv_backup/lib/python3.10/site-packages/arch/tests/unitroot/data/zivot-andrews.csv
+./venv_backup/lib/python3.10/site-packages/matplotlib/mpl-data/sample_data/Stocks.csv
+./venv_backup/lib/python3.10/site-packages/matplotlib/mpl-data/sample_data/data_x_x2_x3.csv
+./venv_backup/lib/python3.10/site-packages/matplotlib/mpl-data/sample_data/msft.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-arccos.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-arccosh.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-arcsin.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-arcsinh.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-arctan.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-arctanh.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-cbrt.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-cos.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-cosh.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-exp.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-exp2.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-expm1.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-log.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-log10.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-log1p.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-log2.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-sin.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-sinh.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-tan.csv
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-tanh.csv
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/mt19937-testset-1.csv
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/mt19937-testset-2.csv
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/pcg64-testset-1.csv
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/pcg64-testset-2.csv
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/pcg64dxsm-testset-1.csv
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/pcg64dxsm-testset-2.csv
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/philox-testset-1.csv
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/philox-testset-2.csv
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/sfc64-testset-1.csv
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/sfc64-testset-2.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/anes96/anes96.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/cancer/cancer.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/ccard/ccard.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/china_smoking/china_smoking.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/co2/co2.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/committee/committee.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/copper/copper.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/cpunish/cpunish.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/danish_data/data.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/elec_equip/elec_equip.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/elnino/elnino.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/engel/engel.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/fair/fair.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/fair/fair_pt.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/fertility/fertility.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/grunfeld/grunfeld.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/heart/heart.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/interest_inflation/E6.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/interest_inflation/E6_jmulti.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/longley/longley.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/macrodata/macrodata.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/modechoice/modechoice.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/nile/nile.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/randhie/randhie.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/scotland/scotvote.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/spector/spector.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/stackloss/stackloss.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/star98/star98.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/statecrime/statecrime.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/strikes/strikes.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/sunspots/sunspots.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/mnlogit_resid.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/nbinom_resids.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/phat_mnlogit.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/poisson_resid.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/predict_prob_poisson.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/ships.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/sm3533.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/yhat_mnlogit.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/yhat_poisson.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/duration/tests/results/bmt.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/duration/tests/results/bmt_results.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/duration/tests/results/survival_data_1000_10.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/duration/tests/results/survival_data_100_5.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/duration/tests/results/survival_data_20_1.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/duration/tests/results/survival_data_50_1.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/duration/tests/results/survival_data_50_2.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/autos.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/autos_exog.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/autos_predict.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/cubic_cyclic_splines_from_mgcv.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/gam_PIRLS_results.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/logit_gam_mgcv.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/motorcycle.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/prediction_from_mgcv.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/enet_binomial.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/enet_poisson.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/epil.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/gee_linear_1.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/gee_logistic_1.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/gee_nested_linear_1.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/gee_nominal_1.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/gee_ordinal_1.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/gee_poisson_1.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/igaussident_resids.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/inv_gaussian.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/iris.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/medparlogresids.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/results_tweedie_aweights_nonrobust.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/stata_cancer_glm.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/stata_lbw_glm.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/stata_medpar1_glm.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/miscmodels/tests/results/ologit_ucla.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/multivariate/tests/results/factor_data.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/multivariate/tests/results/factors_stata.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/results_kcde.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/results_kde.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/results_kde_fft.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/results_kde_univ_weights.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/results_kde_weights.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/results_kernel_regression.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/test_lowess_delta.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/test_lowess_frac.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/test_lowess_iter.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/test_lowess_simple.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/othermod/tests/results/foodexpenditure.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/othermod/tests/results/methylation-test.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/othermod/tests/results/resid_methylation.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/dietox.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lasso_data.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme00.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme01.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme02.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme03.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme04.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme05.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme06.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme07.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme08.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme09.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme10.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme11.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/pastes.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/results_rls_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/results_rls_stata.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/theil_textile_predict.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/sandbox/regression/tests/racd10data_with_transformed.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/binary_constrict.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/bootleg.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/contingency_table_r_results.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/framing.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/influence_measures_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/influence_measures_bool_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/results_influence_logit.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/wspec1.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/wspec2.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/wspec3.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/wspec4.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/treatment/tests/results/cataneo2.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/holtwinters/tests/results/housing-data.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/regime_switching/tests/results/mar_filardo.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/regime_switching/tests/results/results_predict_fedfunds.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/regime_switching/tests/results/results_predict_rgnp.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_Omega_11.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_Omega_22.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_S10.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_Si0.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_beta.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_invP.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_posterior_mean.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_state_variates.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_v10.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_vi0.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/clark1989.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/exponential_smoothing_params.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/exponential_smoothing_predict.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/exponential_smoothing_states.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/frbny_nowcast/Nowcasting/data/US/2016-06-29.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/frbny_nowcast/Nowcasting/data/US/2016-07-29.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_clark1989_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_dynamic_factor_stata.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_common_level_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_common_level_restricted_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_dfm_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_local_level_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_local_linear_trend_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_local_linear_trend_missing_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_var1_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_var1_measurement_error_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_var1_missing_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_var1_mixed_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_intercepts_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_realgdpar_stata.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_sarimax_coverage.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing0.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing1.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing2.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing3.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing3_variates.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing4.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing5.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing6.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_smoothing2_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_smoothing3_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_smoothing_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_smoothing_generalobscov_R.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_var_R_output.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_var_stata.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_varmax_stata.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_wpi1_ar3_matlab_ssm.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_wpi1_ar3_stata.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_wpi1_missing_ar3_matlab_ssm.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/stl/tests/results/mstl_elec_vic.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/stl/tests/results/mstl_test_results.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/stl/tests/results/stl_co2.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/stl/tests/results/stl_test_results.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/ARMLEConstantPredict.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/AROLSConstantPredict.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/AROLSNoConstantPredict.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/arima111_forecasts.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/arima212_forecast.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/bds_data.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/bds_results.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/gnpdef.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/rand10000.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/resids_css_c.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/resids_css_nc.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/resids_exact_c.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/resids_exact_nc.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_ar_forecast_mle_dynamic.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arima_exog_forecasts_css.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arima_exog_forecasts_mle.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arima_forecasts.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arima_forecasts_all_css.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arima_forecasts_all_css_diff.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arima_forecasts_all_mle.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arima_forecasts_all_mle_diff.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arma_forecasts.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_ccf.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_corrgram.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/rgnp.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/rgnpq.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/stkprc.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/y_arma_data.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/yhat_css_c.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/yhat_css_nc.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/yhat_exact_c.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/yhat_exact_nc.csv
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/vector_ar/tests/Matlab_results/test_coint.csv
+(trading_env) serkanozturk@192:~/Desktop/JTTWS% find . -path "./data/trading_env_backup" -prune -o -name "*.csv" -type f -exec ls -lh {} \; | awk '{print $9, $5}' | sort
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv 6,1M
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv 5,5M
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv 6,1M
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv 6,0M
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv 6,1M
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024.csv 6,1M
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024.csv 1,5M
+./data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_05.05.2003-01.01.2006.csv 5,5M
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009_weekly_ranges.csv 18K
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012_weekly_ranges.csv 18K
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015_weekly_ranges.csv 18K
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018_weekly_ranges.csv 18K
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021_weekly_ranges.csv 18K
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024_weekly_ranges.csv 18K
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024_weekly_ranges.csv 4,9K
+./data/EURUSD_EURUSD_Candlestick_15_M_BID_05.05.2003-01.01.2006_weekly_ranges.csv 15K
+./data/EURUSD_weekly_ranges.csv 138K
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv 6,0M
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv 6,0M
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv 6,1M
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv 6,1M
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv 4,4M
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024.csv 6,1M
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024.csv 2,0M
+./data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_05.05.2003-31.12.2005.csv 5,3M
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009_weekly_ranges.csv 17K
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012_weekly_ranges.csv 18K
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015_weekly_ranges.csv 18K
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018_weekly_ranges.csv 18K
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021_weekly_ranges.csv 18K
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024_weekly_ranges.csv 18K
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024_weekly_ranges.csv 4,9K
+./data/GBPUSD_GBPUSD_Candlestick_15_M_BID_05.05.2003-31.12.2005_weekly_ranges.csv 15K
+./data/GBPUSD_weekly_ranges.csv 138K
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv 5,6M
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv 5,3M
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv 5,9M
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv 6,1M
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv 6,1M
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2021-01.01.2023.csv 4,1M
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2023-31.12.2024.csv 4,1M
+./data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_05.05.2003-01.01.2006.csv 4,9M
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2006-01.01.2009_weekly_ranges.csv 17K
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2009-01.01.2012_weekly_ranges.csv 17K
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2012-01.01.2015_weekly_ranges.csv 17K
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2015-01.01.2018_weekly_ranges.csv 17K
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2018-01.01.2021_weekly_ranges.csv 17K
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2021-01.01.2023_weekly_ranges.csv 11K
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2023-31.12.2024_weekly_ranges.csv 11K
+./data/USDJPY_USDJPY_Candlestick_15_M_BID_05.05.2003-01.01.2006_weekly_ranges.csv 15K
+./data/USDJPY_weekly_ranges.csv 133K
+./data/calendar-event-list-10.csv 441K
+./data/calendar-event-list-11.csv 479K
+./data/calendar-event-list-12.csv 490K
+./data/calendar-event-list-13.csv 503K
+./data/calendar-event-list-14.csv 515K
+./data/calendar-event-list-15.csv 524K
+./data/calendar-event-list-16.csv 531K
+./data/calendar-event-list-17.csv 529K
+./data/calendar-event-list-18.csv 537K
+./data/calendar-event-list-19.csv 560K
+./data/calendar-event-list-2.csv 177K
+./data/calendar-event-list-3.csv 283K
+./data/calendar-event-list-4.csv 290K
+./data/calendar-event-list-5.csv 300K
+./data/calendar-event-list-6.csv 310K
+./data/calendar-event-list-7.csv 390K
+./data/calendar-event-list-8.csv 426K
+./data/calendar-event-list-9.csv 429K
+./data/combined_economic_calendar.csv 9,4M
+./data/ta-lib 633B
+./data/ta-lib 633B
+./data/ta-lib/src/ta_common/ta_retcode.csv 633B
+./outputs/walk_forward_results_v8.csv 5,6K
+./trading_env/lib/python3.13/site-packages/matplotlib/mpl-data/sample_data/Stocks.csv 66K
+./trading_env/lib/python3.13/site-packages/matplotlib/mpl-data/sample_data/data_x_x2_x3.csv 132B
+./trading_env/lib/python3.13/site-packages/matplotlib/mpl-data/sample_data/msft.csv 3,1K
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-arccos.csv 60K
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-arccosh.csv 60K
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-arcsin.csv 60K
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-arcsinh.csv 59K
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-arctan.csv 59K
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-arctanh.csv 60K
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-cbrt.csv 59K
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-cos.csv 58K
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-cosh.csv 59K
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-exp.csv 17K
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-exp2.csv 57K
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-expm1.csv 59K
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-log.csv 11K
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-log10.csv 67K
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-log1p.csv 59K
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-log2.csv 67K
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-sin.csv 57K
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-sinh.csv 59K
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-tan.csv 59K
+./trading_env/lib/python3.13/site-packages/numpy/_core/tests/data/umath-validation-set-tanh.csv 59K
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/mt19937-testset-1.csv 15K
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/mt19937-testset-2.csv 15K
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/pcg64-testset-1.csv 23K
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/pcg64-testset-2.csv 23K
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/pcg64dxsm-testset-1.csv 23K
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/pcg64dxsm-testset-2.csv 23K
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/philox-testset-1.csv 23K
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/philox-testset-2.csv 23K
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/sfc64-testset-1.csv 23K
+./trading_env/lib/python3.13/site-packages/numpy/random/tests/data/sfc64-testset-2.csv 23K
+./trading_env/lib/python3.13/site-packages/sklearn/datasets/data/breast_cancer.csv 117K
+./trading_env/lib/python3.13/site-packages/sklearn/datasets/data/iris.csv 2,7K
+./trading_env/lib/python3.13/site-packages/sklearn/datasets/data/linnerud_exercise.csv 212B
+./trading_env/lib/python3.13/site-packages/sklearn/datasets/data/linnerud_physiological.csv 219B
+./trading_env/lib/python3.13/site-packages/sklearn/datasets/data/wine_data.csv 11K
+./venv_backup/lib/python3.10/site-packages/arch/tests/unitroot/data/zivot-andrews.csv 218K
+./venv_backup/lib/python3.10/site-packages/matplotlib/mpl-data/sample_data/Stocks.csv 66K
+./venv_backup/lib/python3.10/site-packages/matplotlib/mpl-data/sample_data/data_x_x2_x3.csv 132B
+./venv_backup/lib/python3.10/site-packages/matplotlib/mpl-data/sample_data/msft.csv 3,1K
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-arccos.csv 60K
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-arccosh.csv 60K
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-arcsin.csv 60K
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-arcsinh.csv 59K
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-arctan.csv 59K
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-arctanh.csv 60K
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-cbrt.csv 59K
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-cos.csv 58K
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-cosh.csv 59K
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-exp.csv 17K
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-exp2.csv 57K
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-expm1.csv 59K
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-log.csv 11K
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-log10.csv 67K
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-log1p.csv 59K
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-log2.csv 67K
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-sin.csv 57K
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-sinh.csv 59K
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-tan.csv 59K
+./venv_backup/lib/python3.10/site-packages/numpy/_core/tests/data/umath-validation-set-tanh.csv 59K
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/mt19937-testset-1.csv 15K
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/mt19937-testset-2.csv 15K
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/pcg64-testset-1.csv 23K
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/pcg64-testset-2.csv 23K
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/pcg64dxsm-testset-1.csv 23K
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/pcg64dxsm-testset-2.csv 23K
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/philox-testset-1.csv 23K
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/philox-testset-2.csv 23K
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/sfc64-testset-1.csv 23K
+./venv_backup/lib/python3.10/site-packages/numpy/random/tests/data/sfc64-testset-2.csv 23K
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/anes96/anes96.csv 21K
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/cancer/cancer.csv 2,4K
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/ccard/ccard.csv 1,5K
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/china_smoking/china_smoking.csv 280B
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/co2/co2.csv 33K
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/committee/committee.csv 712B
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/copper/copper.csv 982B
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/cpunish/cpunish.csv 746B
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/danish_data/data.csv 3,2K
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/elec_equip/elec_equip.csv 4,4K
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/elnino/elnino.csv 5,4K
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/engel/engel.csv 7,8K
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/fair/fair.csv 148K
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/fair/fair_pt.csv 22K
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/fertility/fertility.csv 92K
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/grunfeld/grunfeld.csv 7,5K
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/heart/heart.csv 2,0K
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/interest_inflation/E6.csv 2,5K
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/interest_inflation/E6_jmulti.csv 1,7K
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/longley/longley.csv 742B
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/macrodata/macrodata.csv 17K
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/modechoice/modechoice.csv 21K
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/nile/nile.csv 942B
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/randhie/randhie.csv 731K
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/scotland/scotvote.csv 1,8K
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/spector/spector.csv 497B
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/stackloss/stackloss.csv 292B
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/star98/star98.csv 64K
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/statecrime/statecrime.csv 2,3K
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/strikes/strikes.csv 718B
+./venv_backup/lib/python3.10/site-packages/statsmodels/datasets/sunspots/sunspots.csv 2,9K
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/mnlogit_resid.csv 4,6K
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/nbinom_resids.csv 941B
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/phat_mnlogit.csv 161K
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/poisson_resid.csv 132K
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/predict_prob_poisson.csv 190K
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/ships.csv 879B
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/sm3533.csv 6,4K
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/yhat_mnlogit.csv 165K
+./venv_backup/lib/python3.10/site-packages/statsmodels/discrete/tests/results/yhat_poisson.csv 350K
+./venv_backup/lib/python3.10/site-packages/statsmodels/duration/tests/results/bmt.csv 2,3K
+./venv_backup/lib/python3.10/site-packages/statsmodels/duration/tests/results/bmt_results.csv 1,6K
+./venv_backup/lib/python3.10/site-packages/statsmodels/duration/tests/results/survival_data_1000_10.csv 106K
+./venv_backup/lib/python3.10/site-packages/statsmodels/duration/tests/results/survival_data_100_5.csv 6,5K
+./venv_backup/lib/python3.10/site-packages/statsmodels/duration/tests/results/survival_data_20_1.csv 648B
+./venv_backup/lib/python3.10/site-packages/statsmodels/duration/tests/results/survival_data_50_1.csv 1,6K
+./venv_backup/lib/python3.10/site-packages/statsmodels/duration/tests/results/survival_data_50_2.csv 2,0K
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/autos.csv 28K
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/autos_exog.csv 35K
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/autos_predict.csv 35K
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/cubic_cyclic_splines_from_mgcv.csv 64K
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/gam_PIRLS_results.csv 16K
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/logit_gam_mgcv.csv 8,3K
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/motorcycle.csv 1,3K
+./venv_backup/lib/python3.10/site-packages/statsmodels/gam/tests/results/prediction_from_mgcv.csv 116K
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/enet_binomial.csv 6,4K
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/enet_poisson.csv 6,3K
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/epil.csv 16K
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/gee_linear_1.csv 9,9K
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/gee_logistic_1.csv 9,7K
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/gee_nested_linear_1.csv 58K
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/gee_nominal_1.csv 14K
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/gee_ordinal_1.csv 29K
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/gee_poisson_1.csv 15K
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/igaussident_resids.csv 170K
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/inv_gaussian.csv 724K
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/iris.csv 2,7K
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/medparlogresids.csv 460K
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/results_tweedie_aweights_nonrobust.csv 387K
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/stata_cancer_glm.csv 386B
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/stata_lbw_glm.csv 6,6K
+./venv_backup/lib/python3.10/site-packages/statsmodels/genmod/tests/results/stata_medpar1_glm.csv 48K
+./venv_backup/lib/python3.10/site-packages/statsmodels/miscmodels/tests/results/ologit_ucla.csv 8,1K
+./venv_backup/lib/python3.10/site-packages/statsmodels/multivariate/tests/results/factor_data.csv 3,6K
+./venv_backup/lib/python3.10/site-packages/statsmodels/multivariate/tests/results/factors_stata.csv 8,2K
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/results_kcde.csv 12K
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/results_kde.csv 9,4K
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/results_kde_fft.csv 13K
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/results_kde_univ_weights.csv 5,9K
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/results_kde_weights.csv 862B
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/results_kernel_regression.csv 6,6K
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/test_lowess_delta.csv 8,2K
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/test_lowess_frac.csv 2,1K
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/test_lowess_iter.csv 978B
+./venv_backup/lib/python3.10/site-packages/statsmodels/nonparametric/tests/results/test_lowess_simple.csv 631B
+./venv_backup/lib/python3.10/site-packages/statsmodels/othermod/tests/results/foodexpenditure.csv 615B
+./venv_backup/lib/python3.10/site-packages/statsmodels/othermod/tests/results/methylation-test.csv 2,9K
+./venv_backup/lib/python3.10/site-packages/statsmodels/othermod/tests/results/resid_methylation.csv 4,7K
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/dietox.csv 29K
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lasso_data.csv 6,7K
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme00.csv 6,1K
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme01.csv 6,5K
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme02.csv 7,5K
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme03.csv 7,3K
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme04.csv 9,6K
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme05.csv 10K
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme06.csv 8,3K
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme07.csv 8,3K
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme08.csv 9,5K
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme09.csv 9,8K
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme10.csv 12K
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/lme11.csv 12K
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/pastes.csv 1,4K
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/results_rls_R.csv 14K
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/results_rls_stata.csv 13K
+./venv_backup/lib/python3.10/site-packages/statsmodels/regression/tests/results/theil_textile_predict.csv 365B
+./venv_backup/lib/python3.10/site-packages/statsmodels/sandbox/regression/tests/racd10data_with_transformed.csv 314K
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/binary_constrict.csv 2,7K
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/bootleg.csv 276K
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/contingency_table_r_results.csv 861B
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/framing.csv 24K
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/influence_measures_R.csv 28K
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/influence_measures_bool_R.csv 9,4K
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/results_influence_logit.csv 3,6K
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/wspec1.csv 799B
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/wspec2.csv 1,0K
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/wspec3.csv 905B
+./venv_backup/lib/python3.10/site-packages/statsmodels/stats/tests/results/wspec4.csv 1,2K
+./venv_backup/lib/python3.10/site-packages/statsmodels/treatment/tests/results/cataneo2.csv 419K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/holtwinters/tests/results/housing-data.csv 12K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/regime_switching/tests/results/mar_filardo.csv 39K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/regime_switching/tests/results/results_predict_fedfunds.csv 27K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/regime_switching/tests/results/results_predict_rgnp.csv 13K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_Omega_11.csv 94B
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_Omega_22.csv 178B
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_S10.csv 95B
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_Si0.csv 166B
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_beta.csv 1,4K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_invP.csv 23K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_posterior_mean.csv 1,3K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_state_variates.csv 1,4K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_v10.csv 6B
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/cfa_tvpvar_vi0.csv 4B
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/clark1989.csv 4,3K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/exponential_smoothing_params.csv 1,7K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/exponential_smoothing_predict.csv 11K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/exponential_smoothing_states.csv 13K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/frbny_nowcast/Nowcasting/data/US/2016-06-29.csv 57K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/frbny_nowcast/Nowcasting/data/US/2016-07-29.csv 57K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_clark1989_R.csv 25K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_dynamic_factor_stata.csv 42K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_common_level_R.csv 5,2K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_common_level_restricted_R.csv 4,6K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_dfm_R.csv 17K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_local_level_R.csv 3,4K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_local_linear_trend_R.csv 4,2K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_local_linear_trend_missing_R.csv 4,2K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_var1_R.csv 9,4K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_var1_measurement_error_R.csv 19K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_var1_missing_R.csv 12K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_exact_initial_var1_mixed_R.csv 9,5K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_intercepts_R.csv 117K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_realgdpar_stata.csv 61K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_sarimax_coverage.csv 6,1K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing0.csv 2,1K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing1.csv 2,2K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing2.csv 2,2K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing3.csv 47K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing3_variates.csv 22K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing4.csv 47K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing5.csv 46K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_simulation_smoothing6.csv 43K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_smoothing2_R.csv 141K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_smoothing3_R.csv 32K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_smoothing_R.csv 114K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_smoothing_generalobscov_R.csv 119K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_var_R_output.csv 67K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_var_stata.csv 24K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_varmax_stata.csv 25K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_wpi1_ar3_matlab_ssm.csv 6,1K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_wpi1_ar3_stata.csv 14K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/statespace/tests/results/results_wpi1_missing_ar3_matlab_ssm.csv 6,4K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/stl/tests/results/mstl_elec_vic.csv 119K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/stl/tests/results/mstl_test_results.csv 285K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/stl/tests/results/stl_co2.csv 2,3K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/stl/tests/results/stl_test_results.csv 257K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/ARMLEConstantPredict.csv 4,6K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/AROLSConstantPredict.csv 21K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/AROLSNoConstantPredict.csv 20K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/arima111_forecasts.csv 6,4K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/arima212_forecast.csv 6,1K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/bds_data.csv 3,9K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/bds_results.csv 1,4K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/gnpdef.csv 986B
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/rand10000.csv 121K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/resids_css_c.csv 20K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/resids_css_nc.csv 20K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/resids_exact_c.csv 20K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/resids_exact_nc.csv 20K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_ar_forecast_mle_dynamic.csv 10K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arima_exog_forecasts_css.csv 4,3K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arima_exog_forecasts_mle.csv 4,5K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arima_forecasts.csv 23K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arima_forecasts_all_css.csv 15K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arima_forecasts_all_css_diff.csv 14K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arima_forecasts_all_mle.csv 14K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arima_forecasts_all_mle_diff.csv 15K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_arma_forecasts.csv 1,3K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_ccf.csv 388B
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/results_corrgram.csv 3,0K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/rgnp.csv 743B
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/rgnpq.csv 1,9K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/stkprc.csv 1,2K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/y_arma_data.csv 74K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/yhat_css_c.csv 19K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/yhat_css_nc.csv 20K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/yhat_exact_c.csv 19K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/tests/results/yhat_exact_nc.csv 20K
+./venv_backup/lib/python3.10/site-packages/statsmodels/tsa/vector_ar/tests/Matlab_results/test_coint.csv 22K
+(trading_env) serkanozturk@192:~/Desktop/JTTWS% ls -la data/*.csv 2>/dev/null | head -20
+ls -la data/*/*.csv 2>/dev/null | head -20
+-rw-r--r--  1 serkanozturk  staff    18043 11 Ağu 03:17 data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    18134 11 Ağu 03:17 data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    18230 11 Ağu 03:17 data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    18169 11 Ağu 03:17 data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    18157 11 Ağu 03:17 data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    18249 11 Ağu 03:17 data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff     5004 11 Ağu 03:17 data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    15856 11 Ağu 03:17 data/EURUSD_EURUSD_Candlestick_15_M_BID_05.05.2003-01.01.2006_weekly_ranges.csv
+-rw-r--r--@ 1 serkanozturk  staff   141550 11 Ağu 01:57 data/EURUSD_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    17828 11 Ağu 03:17 data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    17965 11 Ağu 03:17 data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    18249 11 Ağu 03:17 data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    18147 11 Ağu 03:17 data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    18242 11 Ağu 03:17 data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    18148 11 Ağu 03:17 data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff     5013 11 Ağu 03:17 data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    15679 11 Ağu 03:17 data/GBPUSD_GBPUSD_Candlestick_15_M_BID_05.05.2003-31.12.2005_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff   140960 11 Ağu 01:57 data/GBPUSD_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    17271 11 Ağu 03:17 data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2006-01.01.2009_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    17025 11 Ağu 03:17 data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2009-01.01.2012_weekly_ranges.csv
+-rw-r--r--@ 1 serkanozturk  staff  6415198  5 Tem 02:07 data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv
+-rw-r--r--@ 1 serkanozturk  staff  5788885  5 Tem 02:07 data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv
+-rw-r--r--@ 1 serkanozturk  staff  6431712  5 Tem 02:07 data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv
+-rw-r--r--  1 serkanozturk  staff  6317404  5 Tem 02:07 data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv
+-rw-r--r--  1 serkanozturk  staff  6441097  5 Tem 02:07 data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv
+-rw-r--r--@ 1 serkanozturk  staff  6431604  5 Tem 02:07 data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024.csv
+-rw-r--r--@ 1 serkanozturk  staff  1574590  5 Tem 02:07 data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024.csv
+-rw-r--r--@ 1 serkanozturk  staff  5755049  5 Tem 02:07 data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_05.05.2003-01.01.2006.csv
+-rw-r--r--@ 1 serkanozturk  staff  6289089  5 Tem 02:07 data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv
+-rw-r--r--@ 1 serkanozturk  staff  6304966  5 Tem 02:07 data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv
+-rw-r--r--  1 serkanozturk  staff  6405764  5 Tem 02:07 data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv
+-rw-r--r--@ 1 serkanozturk  staff  6428277  5 Tem 02:07 data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv
+-rw-r--r--@ 1 serkanozturk  staff  4624063  5 Tem 02:07 data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv
+-rw-r--r--@ 1 serkanozturk  staff  6404843  5 Tem 02:07 data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024.csv
+-rw-r--r--@ 1 serkanozturk  staff  2137153  5 Tem 02:07 data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024.csv
+-rw-r--r--  1 serkanozturk  staff  5607650  5 Tem 02:07 data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_05.05.2003-31.12.2005.csv
+-rw-r--r--@ 1 serkanozturk  staff  5870311  5 Tem 02:07 data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv
+-rw-r--r--@ 1 serkanozturk  staff  5595324  5 Tem 02:07 data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv
+-rw-r--r--@ 1 serkanozturk  staff  6146679  5 Tem 02:07 data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv
+-rw-r--r--@ 1 serkanozturk  staff  6421803  5 Tem 02:07 data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv
+(trading_env) serkanozturk@192:~/Desktop/JTTWS% ls -la data/*.csv 2>/dev/null | head -20
+ls -la data/*/*.csv 2>/dev/null | head -20
+-rw-r--r--  1 serkanozturk  staff    18043 11 Ağu 03:17 data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    18134 11 Ağu 03:17 data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    18230 11 Ağu 03:17 data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    18169 11 Ağu 03:17 data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    18157 11 Ağu 03:17 data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    18249 11 Ağu 03:17 data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff     5004 11 Ağu 03:17 data/EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    15856 11 Ağu 03:17 data/EURUSD_EURUSD_Candlestick_15_M_BID_05.05.2003-01.01.2006_weekly_ranges.csv
+-rw-r--r--@ 1 serkanozturk  staff   141550 11 Ağu 01:57 data/EURUSD_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    17828 11 Ağu 03:17 data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    17965 11 Ağu 03:17 data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    18249 11 Ağu 03:17 data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    18147 11 Ağu 03:17 data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    18242 11 Ağu 03:17 data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    18148 11 Ağu 03:17 data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff     5013 11 Ağu 03:17 data/GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    15679 11 Ağu 03:17 data/GBPUSD_GBPUSD_Candlestick_15_M_BID_05.05.2003-31.12.2005_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff   140960 11 Ağu 01:57 data/GBPUSD_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    17271 11 Ağu 03:17 data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2006-01.01.2009_weekly_ranges.csv
+-rw-r--r--  1 serkanozturk  staff    17025 11 Ağu 03:17 data/USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2009-01.01.2012_weekly_ranges.csv
+-rw-r--r--@ 1 serkanozturk  staff  6415198  5 Tem 02:07 data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv
+-rw-r--r--@ 1 serkanozturk  staff  5788885  5 Tem 02:07 data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv
+-rw-r--r--@ 1 serkanozturk  staff  6431712  5 Tem 02:07 data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv
+-rw-r--r--  1 serkanozturk  staff  6317404  5 Tem 02:07 data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv
+-rw-r--r--  1 serkanozturk  staff  6441097  5 Tem 02:07 data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv
+-rw-r--r--@ 1 serkanozturk  staff  6431604  5 Tem 02:07 data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024.csv
+-rw-r--r--@ 1 serkanozturk  staff  1574590  5 Tem 02:07 data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024.csv
+-rw-r--r--@ 1 serkanozturk  staff  5755049  5 Tem 02:07 data/EURUSD2003-2024/EURUSD_Candlestick_15_M_BID_05.05.2003-01.01.2006.csv
+-rw-r--r--@ 1 serkanozturk  staff  6289089  5 Tem 02:07 data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv
+-rw-r--r--@ 1 serkanozturk  staff  6304966  5 Tem 02:07 data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv
+-rw-r--r--  1 serkanozturk  staff  6405764  5 Tem 02:07 data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv
+-rw-r--r--@ 1 serkanozturk  staff  6428277  5 Tem 02:07 data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv
+-rw-r--r--@ 1 serkanozturk  staff  4624063  5 Tem 02:07 data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv
+-rw-r--r--@ 1 serkanozturk  staff  6404843  5 Tem 02:07 data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024.csv
+-rw-r--r--@ 1 serkanozturk  staff  2137153  5 Tem 02:07 data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024.csv
+-rw-r--r--  1 serkanozturk  staff  5607650  5 Tem 02:07 data/GBPUSD2003-2024/GBPUSD_Candlestick_15_M_BID_05.05.2003-31.12.2005.csv
+-rw-r--r--@ 1 serkanozturk  staff  5870311  5 Tem 02:07 data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv
+-rw-r--r--@ 1 serkanozturk  staff  5595324  5 Tem 02:07 data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv
+-rw-r--r--@ 1 serkanozturk  staff  6146679  5 Tem 02:07 data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv
+-rw-r--r--@ 1 serkanozturk  staff  6421803  5 Tem 02:07 data/USDJPY2003-2024/USDJPY_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv
+(trading_env) serkanozturk@192:~/Desktop/JTTWS% nano csv_analiz.py
+(trading_env) serkanozturk@192:~/Desktop/JTTWS% python csv_analiz.py
+======================================================================
+FOREX VERİ ANALİZ ARACI
+======================================================================
+
+Taranacak klasör: /Users/serkanozturk/Desktop/JTTWS/data
+----------------------------------------------------------------------
+
+Toplam 73 CSV dosyası bulundu
+
+
+[1/73] Analiz ediliyor: GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.02 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 143
+Tarih aralığı: 2012-04-09 00:00:00+00:00 - 2014-12-29 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 1.48860 - 1.71577
+Ortalama fiyat: 1.60101
+✅ Fiyat aralığı mantıklı
+
+[2/73] Analiz ediliyor: USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2012-01.01.2015_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.02 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 143
+Tarih aralığı: 2012-04-09 00:00:00+00:00 - 2014-12-29 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 77.92100 - 121.42500
+Ortalama fiyat: 96.13298
+✅ Fiyat aralığı mantıklı
+
+[3/73] Analiz ediliyor: EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.02 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 143
+Tarih aralığı: 2018-04-09 00:00:00+00:00 - 2020-12-28 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 1.06929 - 1.23282
+Ortalama fiyat: 1.13913
+✅ Fiyat aralığı mantıklı
+
+[4/73] Analiz ediliyor: USDJPY_USDJPY_Candlestick_15_M_BID_05.05.2003-01.01.2006_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.01 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 125
+Tarih aralığı: 2003-08-11 00:00:00+00:00 - 2005-12-26 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 102.03000 - 120.62500
+Ortalama fiyat: 109.49007
+✅ Fiyat aralığı mantıklı
+
+[5/73] Analiz ediliyor: USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2023-31.12.2024_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.01 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 91
+Tarih aralığı: 2023-04-10 00:00:00+00:00 - 2024-12-30 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 133.74800 - 160.80200
+Ortalama fiyat: 148.24909
+✅ Fiyat aralığı mantıklı
+
+[6/73] Analiz ediliyor: EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.00 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 39
+Tarih aralığı: 2024-04-08 00:00:00+00:00 - 2024-12-30 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 1.03583 - 1.11872
+Ortalama fiyat: 1.07941
+✅ Fiyat aralığı mantıklı
+
+[7/73] Analiz ediliyor: GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.02 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 143
+Tarih aralığı: 2015-04-06 00:00:00+00:00 - 2017-12-25 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 1.21636 - 1.58821
+Ortalama fiyat: 1.37824
+✅ Fiyat aralığı mantıklı
+
+[8/73] Analiz ediliyor: USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2009-01.01.2012_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.02 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 143
+Tarih aralığı: 2009-04-06 00:00:00+00:00 - 2011-12-26 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 75.79700 - 100.23000
+Ortalama fiyat: 86.30641
+✅ Fiyat aralığı mantıklı
+
+[9/73] Analiz ediliyor: calendar-event-list-2.csv
+--------------------------------------------------
+Dosya boyutu: 0.17 MB
+Kolon sayısı: 5
+Kolonlar: Id, Start, Name, Impact, Currency
+Toplam satır: 1,892
+Tarih kolonu bulunamadı
+❌ Fiyat kolonu bulunamadı
+
+[10/73] Analiz ediliyor: EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.02 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 143
+Tarih aralığı: 2021-04-05 00:00:00+00:00 - 2023-12-25 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 0.96885 - 1.21905
+Ortalama fiyat: 1.09640
+✅ Fiyat aralığı mantıklı
+
+[11/73] Analiz ediliyor: USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2015-01.01.2018_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.02 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 143
+Tarih aralığı: 2015-04-06 00:00:00+00:00 - 2017-12-25 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 100.18700 - 125.57800
+Ortalama fiyat: 113.42570
+✅ Fiyat aralığı mantıklı
+
+[12/73] Analiz ediliyor: GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.02 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 143
+Tarih aralığı: 2009-04-06 00:00:00+00:00 - 2011-12-26 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 1.44515 - 1.67105
+Ortalama fiyat: 1.58488
+✅ Fiyat aralığı mantıklı
+
+[13/73] Analiz ediliyor: calendar-event-list-3.csv
+--------------------------------------------------
+Dosya boyutu: 0.28 MB
+Kolon sayısı: 5
+Kolonlar: Id, Start, Name, Impact, Currency
+Toplam satır: 3,047
+Tarih kolonu bulunamadı
+❌ Fiyat kolonu bulunamadı
+
+[14/73] Analiz ediliyor: GBPUSD_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.13 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 1,117
+Tarih aralığı: 2003-08-17 00:00:00+00:00 - 2025-01-05 00:00:00+00:00
+⚠️  UYARI: 1117 hafta sonu verisi bulundu!
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 1.08474 - 2.08956
+Ortalama fiyat: 1.56144
+✅ Fiyat aralığı mantıklı
+
+[15/73] Analiz ediliyor: calendar-event-list-7.csv
+--------------------------------------------------
+Dosya boyutu: 0.38 MB
+Kolon sayısı: 5
+Kolonlar: Id, Start, Name, Impact, Currency
+Toplam satır: 4,222
+Tarih kolonu bulunamadı
+❌ Fiyat kolonu bulunamadı
+
+[16/73] Analiz ediliyor: calendar-event-list-6.csv
+--------------------------------------------------
+Dosya boyutu: 0.30 MB
+Kolon sayısı: 5
+Kolonlar: Id, Start, Name, Impact, Currency
+Toplam satır: 3,328
+Tarih kolonu bulunamadı
+❌ Fiyat kolonu bulunamadı
+
+[17/73] Analiz ediliyor: calendar-event-list-4.csv
+--------------------------------------------------
+Dosya boyutu: 0.28 MB
+Kolon sayısı: 5
+Kolonlar: Id, Start, Name, Impact, Currency
+Toplam satır: 3,119
+Tarih kolonu bulunamadı
+❌ Fiyat kolonu bulunamadı
+
+[18/73] Analiz ediliyor: GBPUSD_GBPUSD_Candlestick_15_M_BID_05.05.2003-31.12.2005_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.01 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 125
+Tarih aralığı: 2003-08-11 00:00:00+00:00 - 2005-12-26 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 1.57473 - 1.94362
+Ortalama fiyat: 1.80120
+✅ Fiyat aralığı mantıklı
+
+[19/73] Analiz ediliyor: calendar-event-list-19.csv
+--------------------------------------------------
+Dosya boyutu: 0.55 MB
+Kolon sayısı: 5
+Kolonlar: Id, Start, Name, Impact, Currency
+Toplam satır: 6,125
+Tarih kolonu bulunamadı
+❌ Fiyat kolonu bulunamadı
+
+[20/73] Analiz ediliyor: calendar-event-list-18.csv
+--------------------------------------------------
+Dosya boyutu: 0.52 MB
+Kolon sayısı: 5
+Kolonlar: Id, Start, Name, Impact, Currency
+Toplam satır: 5,860
+Tarih kolonu bulunamadı
+❌ Fiyat kolonu bulunamadı
+
+[21/73] Analiz ediliyor: calendar-event-list-5.csv
+--------------------------------------------------
+Dosya boyutu: 0.29 MB
+Kolon sayısı: 5
+Kolonlar: Id, Start, Name, Impact, Currency
+Toplam satır: 3,224
+Tarih kolonu bulunamadı
+❌ Fiyat kolonu bulunamadı
+
+[22/73] Analiz ediliyor: EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.02 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 143
+Tarih aralığı: 2006-04-10 00:00:00+00:00 - 2008-12-29 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 1.21056 - 1.59368
+Ortalama fiyat: 1.38244
+✅ Fiyat aralığı mantıklı
+
+[23/73] Analiz ediliyor: calendar-event-list-8.csv
+--------------------------------------------------
+Dosya boyutu: 0.42 MB
+Kolon sayısı: 5
+Kolonlar: Id, Start, Name, Impact, Currency
+Toplam satır: 4,624
+Tarih kolonu bulunamadı
+❌ Fiyat kolonu bulunamadı
+
+[24/73] Analiz ediliyor: USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2021-01.01.2023_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.01 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 91
+Tarih aralığı: 2021-04-05 00:00:00+00:00 - 2022-12-26 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 107.86400 - 148.72500
+Ortalama fiyat: 122.70079
+✅ Fiyat aralığı mantıklı
+
+[25/73] Analiz ediliyor: calendar-event-list-15.csv
+--------------------------------------------------
+Dosya boyutu: 0.51 MB
+Kolon sayısı: 5
+Kolonlar: Id, Start, Name, Impact, Currency
+Toplam satır: 5,703
+Tarih kolonu bulunamadı
+❌ Fiyat kolonu bulunamadı
+
+[26/73] Analiz ediliyor: calendar-event-list-14.csv
+--------------------------------------------------
+Dosya boyutu: 0.50 MB
+Kolon sayısı: 5
+Kolonlar: Id, Start, Name, Impact, Currency
+Toplam satır: 5,616
+Tarih kolonu bulunamadı
+❌ Fiyat kolonu bulunamadı
+
+[27/73] Analiz ediliyor: calendar-event-list-9.csv
+--------------------------------------------------
+Dosya boyutu: 0.42 MB
+Kolon sayısı: 5
+Kolonlar: Id, Start, Name, Impact, Currency
+Toplam satır: 4,661
+Tarih kolonu bulunamadı
+❌ Fiyat kolonu bulunamadı
+
+[28/73] Analiz ediliyor: USDJPY_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.13 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 1,117
+Tarih aralığı: 2003-08-17 00:00:00+00:00 - 2025-01-05 00:00:00+00:00
+⚠️  UYARI: 1117 hafta sonu verisi bulundu!
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 75.79700 - 145.21800
+Ortalama fiyat: 105.45305
+✅ Fiyat aralığı mantıklı
+
+[29/73] Analiz ediliyor: calendar-event-list-16.csv
+--------------------------------------------------
+Dosya boyutu: 0.52 MB
+Kolon sayısı: 5
+Kolonlar: Id, Start, Name, Impact, Currency
+Toplam satır: 5,784
+Tarih kolonu bulunamadı
+❌ Fiyat kolonu bulunamadı
+
+[30/73] Analiz ediliyor: calendar-event-list-17.csv
+--------------------------------------------------
+Dosya boyutu: 0.52 MB
+Kolon sayısı: 5
+Kolonlar: Id, Start, Name, Impact, Currency
+Toplam satır: 5,768
+Tarih kolonu bulunamadı
+❌ Fiyat kolonu bulunamadı
+
+[31/73] Analiz ediliyor: EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.02 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 143
+Tarih aralığı: 2012-04-09 00:00:00+00:00 - 2014-12-29 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 1.20976 - 1.39126
+Ortalama fiyat: 1.31373
+✅ Fiyat aralığı mantıklı
+
+[32/73] Analiz ediliyor: USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2018-01.01.2021_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.02 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 143
+Tarih aralığı: 2018-04-09 00:00:00+00:00 - 2020-12-28 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 103.25900 - 113.77200
+Ortalama fiyat: 108.71052
+✅ Fiyat aralığı mantıklı
+
+[33/73] Analiz ediliyor: combined_economic_calendar.csv
+--------------------------------------------------
+Dosya boyutu: 9.44 MB
+Kolon sayısı: 7
+Kolonlar: Id, Start, Name, Impact, Currency, datetime, Category
+Toplam satır: 83,522
+Tarih kolonu bulunamadı
+❌ Fiyat kolonu bulunamadı
+
+[34/73] Analiz ediliyor: EURUSD_EURUSD_Candlestick_15_M_BID_05.05.2003-01.01.2006_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.02 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 125
+Tarih aralığı: 2003-08-11 00:00:00+00:00 - 2005-12-26 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 1.08731 - 1.35523
+Ortalama fiyat: 1.23151
+✅ Fiyat aralığı mantıklı
+
+[35/73] Analiz ediliyor: calendar-event-list-13.csv
+--------------------------------------------------
+Dosya boyutu: 0.49 MB
+Kolon sayısı: 5
+Kolonlar: Id, Start, Name, Impact, Currency
+Toplam satır: 5,484
+Tarih kolonu bulunamadı
+❌ Fiyat kolonu bulunamadı
+
+[36/73] Analiz ediliyor: calendar-event-list-12.csv
+--------------------------------------------------
+Dosya boyutu: 0.48 MB
+Kolon sayısı: 5
+Kolonlar: Id, Start, Name, Impact, Currency
+Toplam satır: 5,329
+Tarih kolonu bulunamadı
+❌ Fiyat kolonu bulunamadı
+
+[37/73] Analiz ediliyor: GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.02 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 143
+Tarih aralığı: 2018-04-09 00:00:00+00:00 - 2020-12-28 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 1.16301 - 1.42372
+Ortalama fiyat: 1.28907
+✅ Fiyat aralığı mantıklı
+
+[38/73] Analiz ediliyor: calendar-event-list-10.csv
+--------------------------------------------------
+Dosya boyutu: 0.43 MB
+Kolon sayısı: 5
+Kolonlar: Id, Start, Name, Impact, Currency
+Toplam satır: 4,791
+Tarih kolonu bulunamadı
+❌ Fiyat kolonu bulunamadı
+
+[39/73] Analiz ediliyor: GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.00 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 39
+Tarih aralığı: 2024-04-08 00:00:00+00:00 - 2024-12-30 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 1.23695 - 1.33714
+Ortalama fiyat: 1.28067
+✅ Fiyat aralığı mantıklı
+
+[40/73] Analiz ediliyor: calendar-event-list-11.csv
+--------------------------------------------------
+Dosya boyutu: 0.47 MB
+Kolon sayısı: 5
+Kolonlar: Id, Start, Name, Impact, Currency
+Toplam satır: 5,214
+Tarih kolonu bulunamadı
+❌ Fiyat kolonu bulunamadı
+
+[41/73] Analiz ediliyor: GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.02 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 143
+Tarih aralığı: 2021-04-05 00:00:00+00:00 - 2023-12-25 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 1.08474 - 1.41834
+Ortalama fiyat: 1.27570
+✅ Fiyat aralığı mantıklı
+
+[42/73] Analiz ediliyor: EURUSD_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.13 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 1,117
+Tarih aralığı: 2003-08-17 00:00:00+00:00 - 2025-01-05 00:00:00+00:00
+⚠️  UYARI: 1117 hafta sonu verisi bulundu!
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 0.96885 - 1.59368
+Ortalama fiyat: 1.24657
+✅ Fiyat aralığı mantıklı
+
+[43/73] Analiz ediliyor: EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.02 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 143
+Tarih aralığı: 2009-04-06 00:00:00+00:00 - 2011-12-26 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 1.19637 - 1.50057
+Ortalama fiyat: 1.37752
+✅ Fiyat aralığı mantıklı
+
+[44/73] Analiz ediliyor: EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.02 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 143
+Tarih aralığı: 2015-04-06 00:00:00+00:00 - 2017-12-25 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 1.04483 - 1.20347
+Ortalama fiyat: 1.11508
+✅ Fiyat aralığı mantıklı
+
+[45/73] Analiz ediliyor: GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.02 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 143
+Tarih aralığı: 2006-04-10 00:00:00+00:00 - 2008-12-29 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 1.45585 - 2.08956
+Ortalama fiyat: 1.91157
+✅ Fiyat aralığı mantıklı
+
+[46/73] Analiz ediliyor: USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2006-01.01.2009_weekly_ranges.csv
+--------------------------------------------------
+Dosya boyutu: 0.02 MB
+Kolon sayısı: 8
+Kolonlar: time, high, low, close, atr, ma, range, range_pips
+Toplam satır: 143
+Tarih aralığı: 2006-04-10 00:00:00+00:00 - 2008-12-29 00:00:00+00:00
+✅ Hafta sonu verisi yok (iyi)
+✅ Fiyat kolonları bulundu: close, high, low
+Fiyat aralığı: 89.29000 - 123.87000
+Ortalama fiyat: 111.89876
+✅ Fiyat aralığı mantıklı
+
+[47/73] Analiz ediliyor: GBPUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv
+--------------------------------------------------
+Dosya boyutu: 6.13 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 105,308
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 1.50363 - 1.55839
+Ortalama fiyat: 1.52606
+✅ Fiyat aralığı mantıklı
+
+[48/73] Analiz ediliyor: GBPUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv
+--------------------------------------------------
+Dosya boyutu: 6.00 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 105,312
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 1.71761 - 1.77173
+Ortalama fiyat: 1.75220
+✅ Fiyat aralığı mantıklı
+
+[49/73] Analiz ediliyor: GBPUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv
+--------------------------------------------------
+Dosya boyutu: 4.41 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 73,875
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 1.34867 - 1.36119
+Ortalama fiyat: 1.35436
+✅ Fiyat aralığı mantıklı
+
+[50/73] Analiz ediliyor: GBPUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024.csv
+--------------------------------------------------
+Dosya boyutu: 2.04 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 35,136
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 1.26149 - 1.27705
+Ortalama fiyat: 1.27046
+✅ Fiyat aralığı mantıklı
+
+[51/73] Analiz ediliyor: GBPUSD_Candlestick_15_M_BID_05.05.2003-31.12.2005.csv
+--------------------------------------------------
+Dosya boyutu: 5.35 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 93,316
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 1.59128 - 1.62018
+Ortalama fiyat: 1.60654
+✅ Fiyat aralığı mantıklı
+
+[52/73] Analiz ediliyor: GBPUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv
+--------------------------------------------------
+Dosya boyutu: 6.01 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 105,216
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 1.43920 - 1.53440
+Ortalama fiyat: 1.48158
+✅ Fiyat aralığı mantıklı
+
+[53/73] Analiz ediliyor: GBPUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv
+--------------------------------------------------
+Dosya boyutu: 6.11 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 105,312
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 1.53767 - 1.56694
+Ortalama fiyat: 1.55032
+✅ Fiyat aralığı mantıklı
+
+[54/73] Analiz ediliyor: GBPUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024.csv
+--------------------------------------------------
+Dosya boyutu: 6.11 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 105,216
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 1.34964 - 1.36976
+Ortalama fiyat: 1.36090
+✅ Fiyat aralığı mantıklı
+
+[55/73] Analiz ediliyor: EURUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024.csv
+--------------------------------------------------
+Dosya boyutu: 6.13 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 105,216
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 1.21682 - 1.23468
+Ortalama fiyat: 1.22441
+✅ Fiyat aralığı mantıklı
+
+[56/73] Analiz ediliyor: EURUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv
+--------------------------------------------------
+Dosya boyutu: 6.13 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 105,312
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 1.26708 - 1.30715
+Ortalama fiyat: 1.28434
+✅ Fiyat aralığı mantıklı
+
+[57/73] Analiz ediliyor: EURUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv
+--------------------------------------------------
+Dosya boyutu: 5.52 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 95,352
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 1.33150 - 1.40690
+Ortalama fiyat: 1.37160
+✅ Fiyat aralığı mantıklı
+
+[58/73] Analiz ediliyor: EURUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024.csv
+--------------------------------------------------
+Dosya boyutu: 1.50 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 25,292
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 1.08957 - 1.10438
+Ortalama fiyat: 1.09570
+✅ Fiyat aralığı mantıklı
+
+[59/73] Analiz ediliyor: EURUSD_Candlestick_15_M_BID_05.05.2003-01.01.2006.csv
+--------------------------------------------------
+Dosya boyutu: 5.49 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 93,412
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 1.12018 - 1.16061
+Ortalama fiyat: 1.14398
+✅ Fiyat aralığı mantıklı
+
+[60/73] Analiz ediliyor: EURUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv
+--------------------------------------------------
+Dosya boyutu: 6.14 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 105,312
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 1.19178 - 1.20878
+Ortalama fiyat: 1.20109
+✅ Fiyat aralığı mantıklı
+
+[61/73] Analiz ediliyor: EURUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv
+--------------------------------------------------
+Dosya boyutu: 6.12 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 105,312
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 1.18125 - 1.21605
+Ortalama fiyat: 1.20358
+✅ Fiyat aralığı mantıklı
+
+[62/73] Analiz ediliyor: EURUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv
+--------------------------------------------------
+Dosya boyutu: 6.02 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 103,216
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 1.17605 - 1.21039
+Ortalama fiyat: 1.19283
+✅ Fiyat aralığı mantıklı
+
+[63/73] Analiz ediliyor: USDJPY_Candlestick_15_M_BID_05.05.2003-01.01.2006.csv
+--------------------------------------------------
+Dosya boyutu: 4.91 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 93,412
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 115.67900 - 119.03300
+Ortalama fiyat: 117.23695
+✅ Fiyat aralığı mantıklı
+
+[64/73] Analiz ediliyor: USDJPY_Candlestick_15_M_BID_01.01.2023-31.12.2024.csv
+--------------------------------------------------
+Dosya boyutu: 4.10 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 70,176
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 129.54700 - 134.67100
+Ortalama fiyat: 131.79363
+✅ Fiyat aralığı mantıklı
+
+[65/73] Analiz ediliyor: USDJPY_Candlestick_15_M_BID_01.01.2021-01.01.2023.csv
+--------------------------------------------------
+Dosya boyutu: 4.09 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 70,176
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 102.60800 - 104.20800
+Ortalama fiyat: 103.40082
+✅ Fiyat aralığı mantıklı
+
+[66/73] Analiz ediliyor: USDJPY_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv
+--------------------------------------------------
+Dosya boyutu: 5.34 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 105,216
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 89.46000 - 94.51000
+Ortalama fiyat: 91.78191
+✅ Fiyat aralığı mantıklı
+
+[67/73] Analiz ediliyor: USDJPY_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv
+--------------------------------------------------
+Dosya boyutu: 5.86 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 105,312
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 76.62000 - 77.27000
+Ortalama fiyat: 76.89414
+✅ Fiyat aralığı mantıklı
+
+[68/73] Analiz ediliyor: USDJPY_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv
+--------------------------------------------------
+Dosya boyutu: 5.60 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 105,312
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 113.78000 - 117.85000
+Ortalama fiyat: 115.72525
+✅ Fiyat aralığı mantıklı
+
+[69/73] Analiz ediliyor: USDJPY_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv
+--------------------------------------------------
+Dosya boyutu: 6.12 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 105,308
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 118.21800 - 120.70400
+Ortalama fiyat: 119.59457
+✅ Fiyat aralığı mantıklı
+
+[70/73] Analiz ediliyor: USDJPY_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv
+--------------------------------------------------
+Dosya boyutu: 6.13 MB
+Kolon sayısı: 6
+Kolonlar: Local time, Open, High, Low, Close, Volume
+Toplam satır: 105,312
+Tarih kolonu bulunamadı
+✅ Fiyat kolonları bulundu: Close, High, Low, Open
+Fiyat aralığı: 111.30900 - 113.37200
+Ortalama fiyat: 112.65062
+✅ Fiyat aralığı mantıklı
+
+[71/73] Analiz ediliyor: ta_retcode.csv
+--------------------------------------------------
+Dosya boyutu: 0.00 MB
+Kolon sayısı: 3
+Kolonlar: 0, TA_SUCCESS, No error
+Toplam satır: 17
+Tarih kolonu bulunamadı
+❌ Fiyat kolonu bulunamadı
+
+[72/73] Analiz ediliyor: ta_retcode.csv
+--------------------------------------------------
+Dosya boyutu: 0.00 MB
+Kolon sayısı: 3
+Kolonlar: 0, TA_SUCCESS, No error
+Toplam satır: 17
+Tarih kolonu bulunamadı
+❌ Fiyat kolonu bulunamadı
+
+[73/73] Analiz ediliyor: ta_retcode.csv
+--------------------------------------------------
+Dosya boyutu: 0.00 MB
+Kolon sayısı: 3
+Kolonlar: 0, TA_SUCCESS, No error
+Toplam satır: 17
+Tarih kolonu bulunamadı
+❌ Fiyat kolonu bulunamadı
+
+======================================================================
+ÖZET RAPOR
+======================================================================
+
+Toplam dosya: 73
+Başarılı: 73
+Hatalı: 0
+Toplam veri boyutu: 145.11 MB
+Toplam satır sayısı: 2,401,120
+
+======================================================================
+Analiz tamamlandı!
+(trading_env) serkanozturk@192:~/Desktop/JTTWS% 
