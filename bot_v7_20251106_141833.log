@@ -1,0 +1,106 @@
+2025-11-06 14:18:33,771 | FTMO_Bot_V7 | INFO | main:1656 | ======================================================================
+2025-11-06 14:18:33,772 | FTMO_Bot_V7 | INFO | main:1657 | 🚀 ULTIMATE FTMO TRADING BOT V7.0 BAŞLATILIYOR...
+2025-11-06 14:18:33,772 | FTMO_Bot_V7 | INFO | main:1658 | 📋 Mod: BACKTEST
+2025-11-06 14:18:33,772 | FTMO_Bot_V7 | INFO | main:1659 | 📅 Yıl Aralığı: 2020-2024
+2025-11-06 14:18:33,772 | FTMO_Bot_V7 | INFO | main:1660 | ======================================================================
+2025-11-06 14:18:33,772 | FTMO_Bot_V7 | INFO | __init__:125 | 💰 RightsManager: Daily budget $5000.00
+2025-11-06 14:18:33,783 | FTMO_Bot_V7 | INFO | _load_all_ranges:211 | 📈 EURUSD Weekly Ranges: avg=0.0 pips, p95=0.0 pips
+2025-11-06 14:18:33,786 | FTMO_Bot_V7 | INFO | _load_all_ranges:211 | 📈 GBPUSD Weekly Ranges: avg=0.0 pips, p95=0.1 pips
+2025-11-06 14:18:33,790 | FTMO_Bot_V7 | INFO | _load_all_ranges:211 | 📈 USDJPY Weekly Ranges: avg=2.2 pips, p95=4.6 pips
+2025-11-06 14:18:33,892 | FTMO_Bot_V7 | ERROR | _load_news_calendar:289 | ❌ News calendar yüklenemedi: 'time'
+2025-11-06 14:18:33,945 | FTMO_Bot_V7 | INFO | _initialize_bot:576 | 📱 Telegram bot başlatıldı.
+2025-11-06 14:18:35,787 | FTMO_Bot_V7 | INFO | backtest:1413 | 📊 BACKTEST: 2020-2024
+2025-11-06 14:18:35,787 | FTMO_Bot_V7 | INFO | load_data_and_initialize:1390 | 🚀 Sistem başlatılıyor...
+2025-11-06 14:18:35,787 | FTMO_Bot_V7 | INFO | load_data:669 | 📂 Veri yükleniyor: 2020-2024
+2025-11-06 14:18:35,787 | FTMO_Bot_V7 | INFO | load_data:674 | 🔍 EURUSD: Klasör kontrol ediliyor: /Users/serkanozturk/Desktop/JTTWS/data/EURUSD2003-2024
+2025-11-06 14:18:35,788 | FTMO_Bot_V7 | INFO | load_data:683 | 📁 EURUSD: 8 CSV dosyası bulundu
+2025-11-06 14:18:35,788 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: EURUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv
+2025-11-06 14:18:35,869 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: EURUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv
+2025-11-06 14:18:35,936 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: EURUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv
+2025-11-06 14:18:36,018 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: EURUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv
+2025-11-06 14:18:36,095 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: EURUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv
+2025-11-06 14:18:36,178 | FTMO_Bot_V7 | INFO | load_data:714 |   ✅ EURUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv: 35220 bars (2020-2021)
+2025-11-06 14:18:36,178 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: EURUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024.csv
+2025-11-06 14:18:36,258 | FTMO_Bot_V7 | INFO | load_data:714 |   ✅ EURUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024.csv: 105216 bars (2020-2024)
+2025-11-06 14:18:36,258 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: EURUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024.csv
+2025-11-06 14:18:36,277 | FTMO_Bot_V7 | INFO | load_data:714 |   ✅ EURUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024.csv: 25292 bars (2023-2024)
+2025-11-06 14:18:36,277 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: EURUSD_Candlestick_15_M_BID_05.05.2003-01.01.2006.csv
+2025-11-06 14:18:36,352 | FTMO_Bot_V7 | INFO | load_data:734 |   ⚙️  EURUSD: 165536 bars, 1H'a resample ediliyor...
+2025-11-06 14:18:36,369 | FTMO_Bot_V7 | INFO | load_data:745 |   ✅ Resample: 41384 bars (1H)
+2025-11-06 14:18:36,369 | FTMO_Bot_V7 | INFO | load_data:748 | ✅ EURUSD: 41384 bars (2020-2024)
+2025-11-06 14:18:36,369 | FTMO_Bot_V7 | INFO | load_data:674 | 🔍 GBPUSD: Klasör kontrol ediliyor: /Users/serkanozturk/Desktop/JTTWS/data/GBPUSD2003-2024
+2025-11-06 14:18:36,369 | FTMO_Bot_V7 | INFO | load_data:683 | 📁 GBPUSD: 8 CSV dosyası bulundu
+2025-11-06 14:18:36,370 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: GBPUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv
+2025-11-06 14:18:36,448 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: GBPUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv
+2025-11-06 14:18:36,554 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: GBPUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv
+2025-11-06 14:18:36,638 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: GBPUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv
+2025-11-06 14:18:36,717 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: GBPUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv
+2025-11-06 14:18:36,771 | FTMO_Bot_V7 | INFO | load_data:714 |   ✅ GBPUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv: 24440 bars (2020-2021)
+2025-11-06 14:18:36,771 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: GBPUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024.csv
+2025-11-06 14:18:36,850 | FTMO_Bot_V7 | INFO | load_data:714 |   ✅ GBPUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024.csv: 105216 bars (2020-2024)
+2025-11-06 14:18:36,850 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: GBPUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024.csv
+2025-11-06 14:18:36,878 | FTMO_Bot_V7 | INFO | load_data:714 |   ✅ GBPUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024.csv: 35136 bars (2023-2024)
+2025-11-06 14:18:36,878 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: GBPUSD_Candlestick_15_M_BID_05.05.2003-31.12.2005.csv
+2025-11-06 14:18:36,952 | FTMO_Bot_V7 | INFO | load_data:734 |   ⚙️  GBPUSD: 164612 bars, 1H'a resample ediliyor...
+2025-11-06 14:18:36,965 | FTMO_Bot_V7 | INFO | load_data:745 |   ✅ Resample: 41153 bars (1H)
+2025-11-06 14:18:36,965 | FTMO_Bot_V7 | INFO | load_data:748 | ✅ GBPUSD: 41153 bars (2020-2024)
+2025-11-06 14:18:36,965 | FTMO_Bot_V7 | INFO | load_data:674 | 🔍 USDJPY: Klasör kontrol ediliyor: /Users/serkanozturk/Desktop/JTTWS/data/USDJPY2003-2024
+2025-11-06 14:18:36,967 | FTMO_Bot_V7 | INFO | load_data:683 | 📁 USDJPY: 8 CSV dosyası bulundu
+2025-11-06 14:18:36,968 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: USDJPY_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv
+2025-11-06 14:18:37,048 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: USDJPY_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv
+2025-11-06 14:18:37,125 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: USDJPY_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv
+2025-11-06 14:18:37,203 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: USDJPY_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv
+2025-11-06 14:18:37,287 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: USDJPY_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv
+2025-11-06 14:18:37,363 | FTMO_Bot_V7 | INFO | load_data:714 |   ✅ USDJPY_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv: 35220 bars (2020-2021)
+2025-11-06 14:18:37,363 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: USDJPY_Candlestick_15_M_BID_01.01.2021-01.01.2023.csv
+2025-11-06 14:18:37,413 | FTMO_Bot_V7 | INFO | load_data:714 |   ✅ USDJPY_Candlestick_15_M_BID_01.01.2021-01.01.2023.csv: 70176 bars (2020-2023)
+2025-11-06 14:18:37,414 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: USDJPY_Candlestick_15_M_BID_01.01.2023-31.12.2024.csv
+2025-11-06 14:18:37,472 | FTMO_Bot_V7 | INFO | load_data:714 |   ✅ USDJPY_Candlestick_15_M_BID_01.01.2023-31.12.2024.csv: 70176 bars (2022-2024)
+2025-11-06 14:18:37,472 | FTMO_Bot_V7 | INFO | load_data:691 |   🔎 İnceleniyor: USDJPY_Candlestick_15_M_BID_05.05.2003-01.01.2006.csv
+2025-11-06 14:18:37,552 | FTMO_Bot_V7 | INFO | load_data:734 |   ⚙️  USDJPY: 175380 bars, 1H'a resample ediliyor...
+2025-11-06 14:18:37,564 | FTMO_Bot_V7 | INFO | load_data:745 |   ✅ Resample: 43845 bars (1H)
+2025-11-06 14:18:37,564 | FTMO_Bot_V7 | INFO | load_data:748 | ✅ USDJPY: 43845 bars (2020-2024)
+2025-11-06 14:18:37,564 | FTMO_Bot_V7 | INFO | load_data_and_initialize:1397 | ⚙️  EURUSD için feature'lar hesaplanıyor...
+2025-11-06 14:18:37,597 | FTMO_Bot_V7 | INFO | __init__:1245 | 🤖 DQN Device: cpu
+2025-11-06 14:18:38,178 | FTMO_Bot_V7 | INFO | load_data_and_initialize:1409 | ✅ EURUSD hazır: 29719 bars, state_size=23
+2025-11-06 14:18:38,178 | FTMO_Bot_V7 | INFO | load_data_and_initialize:1397 | ⚙️  GBPUSD için feature'lar hesaplanıyor...
+2025-11-06 14:18:38,205 | FTMO_Bot_V7 | INFO | __init__:1245 | 🤖 DQN Device: cpu
+2025-11-06 14:18:38,208 | FTMO_Bot_V7 | INFO | load_data_and_initialize:1409 | ✅ GBPUSD hazır: 29608 bars, state_size=23
+2025-11-06 14:18:38,208 | FTMO_Bot_V7 | INFO | load_data_and_initialize:1397 | ⚙️  USDJPY için feature'lar hesaplanıyor...
+2025-11-06 14:18:38,234 | FTMO_Bot_V7 | INFO | __init__:1245 | 🤖 DQN Device: cpu
+2025-11-06 14:18:38,237 | FTMO_Bot_V7 | INFO | load_data_and_initialize:1409 | ✅ USDJPY hazır: 31051 bars, state_size=23
+2025-11-06 14:18:38,237 | FTMO_Bot_V7 | INFO | backtest:1419 | 
+============================================================
+🔍 EURUSD Backtest Başlıyor...
+============================================================
+2025-11-06 14:18:52,601 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 1000/29718, Balance: $100148.85
+2025-11-06 14:19:08,240 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 2000/29718, Balance: $99931.83
+2025-11-06 14:19:25,140 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 3000/29718, Balance: $99423.34
+2025-11-06 14:19:45,137 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 4000/29718, Balance: $99784.36
+2025-11-06 14:20:02,049 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 5000/29718, Balance: $99834.68
+2025-11-06 14:20:18,321 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 6000/29718, Balance: $99928.91
+2025-11-06 14:20:34,515 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 7000/29718, Balance: $100185.94
+2025-11-06 14:20:50,519 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 8000/29718, Balance: $100130.16
+2025-11-06 14:21:06,839 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 9000/29718, Balance: $100013.51
+2025-11-06 14:21:23,720 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 10000/29718, Balance: $100128.33
+2025-11-06 14:21:39,823 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 11000/29718, Balance: $100269.21
+2025-11-06 14:21:56,119 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 12000/29718, Balance: $100064.91
+2025-11-06 14:22:12,340 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 13000/29718, Balance: $99881.07
+2025-11-06 14:22:28,556 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 14000/29718, Balance: $100540.31
+2025-11-06 14:22:44,298 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 15000/29718, Balance: $100563.57
+2025-11-06 14:23:01,442 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 16000/29718, Balance: $100363.59
+2025-11-06 14:23:17,856 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 17000/29718, Balance: $99917.14
+2025-11-06 14:23:35,348 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 18000/29718, Balance: $99964.30
+2025-11-06 14:23:53,343 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 19000/29718, Balance: $99747.78
+2025-11-06 14:24:10,118 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 20000/29718, Balance: $100065.30
+2025-11-06 14:24:27,026 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 21000/29718, Balance: $100171.89
+2025-11-06 14:24:43,420 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 22000/29718, Balance: $100279.84
+2025-11-06 14:24:59,775 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 23000/29718, Balance: $100232.16
+2025-11-06 14:25:17,342 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 24000/29718, Balance: $100102.55
+2025-11-06 14:25:33,967 | FTMO_Bot_V7 | INFO | backtest:1443 |   Step 25000/29718, Balance: $100335.79
+2025-11-06 14:25:43,252 | FTMO_Bot_V7 | INFO | main:1677 | 
+
+⚠️ Kullanıcı tarafından durduruldu (Ctrl+C)
+2025-11-06 14:25:43,253 | FTMO_Bot_V7 | INFO | main:1684 | ======================================================================
+2025-11-06 14:25:43,253 | FTMO_Bot_V7 | INFO | main:1685 | 🏁 BOT DURDURULDU
+2025-11-06 14:25:43,253 | FTMO_Bot_V7 | INFO | main:1686 | ======================================================================

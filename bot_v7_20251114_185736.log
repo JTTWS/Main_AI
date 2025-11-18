@@ -1,0 +1,527 @@
+2025-11-14 18:57:37,708 - UltimateBot_V8 - INFO - 🚀 UltimateTradingSystemV8 initialized (PPO: True)
+2025-11-14 18:57:37,708 - UltimateBot_V8 - INFO - 📂 Loading data: 2023-2024
+2025-11-14 18:57:37,708 - DataManagerV8 - INFO - 📂 DataManagerV8 initialized with data_dir: /Users/serkanozturk/Desktop/JTTWS/data
+2025-11-14 18:57:37,708 - DataManagerV8 - INFO - 📥 Loading EURUSD data (2023-01-01 to 2024-12-31)...
+2025-11-14 18:57:37,709 - DataManagerV8 - INFO - 📂 Found 8 CSV files for EURUSD
+2025-11-14 18:57:38,331 - DataManagerV8 - INFO - ✅ Loaded 60273 rows for EURUSD from /Users/serkanozturk/Desktop/JTTWS/data/EURUSD2003-2024
+2025-11-14 18:57:38,331 - FeatureEngineerV9 - INFO - 🔧 FeatureEngineerV9 initialized
+2025-11-14 18:57:38,331 - FeatureEngineerV9 - INFO -    TA-Lib: True
+2025-11-14 18:57:38,331 - FeatureEngineerV9 - INFO -    Multi-Timeframe: True
+2025-11-14 18:57:38,331 - FeatureEngineerV9 - INFO -    Timeframes: ['15T', '1H', '4H']
+2025-11-14 18:57:38,331 - FeatureEngineerV9 - INFO - 🛠️  Engineering features for EURUSD...
+2025-11-14 18:57:38,549 - FeatureEngineerV9 - INFO - ✅ Added 74 features for EURUSD
+2025-11-14 18:57:38,550 - DataManagerV8 - INFO - ✅ Added 74 features via FeatureEngineerV9
+2025-11-14 18:57:38,550 - UltimateBot_V8 - INFO -   ✓ EURUSD: 60273 bars
+2025-11-14 18:57:38,551 - DataManagerV8 - INFO - 📥 Loading GBPUSD data (2023-01-01 to 2024-12-31)...
+2025-11-14 18:57:38,553 - DataManagerV8 - INFO - 📂 Found 8 CSV files for GBPUSD
+2025-11-14 18:57:39,184 - DataManagerV8 - INFO - ✅ Loaded 70081 rows for GBPUSD from /Users/serkanozturk/Desktop/JTTWS/data/GBPUSD2003-2024
+2025-11-14 18:57:39,184 - FeatureEngineerV9 - INFO - 🔧 FeatureEngineerV9 initialized
+2025-11-14 18:57:39,184 - FeatureEngineerV9 - INFO -    TA-Lib: True
+2025-11-14 18:57:39,184 - FeatureEngineerV9 - INFO -    Multi-Timeframe: True
+2025-11-14 18:57:39,184 - FeatureEngineerV9 - INFO -    Timeframes: ['15T', '1H', '4H']
+2025-11-14 18:57:39,184 - FeatureEngineerV9 - INFO - 🛠️  Engineering features for GBPUSD...
+2025-11-14 18:57:39,375 - FeatureEngineerV9 - INFO - ✅ Added 74 features for GBPUSD
+2025-11-14 18:57:39,376 - DataManagerV8 - INFO - ✅ Added 74 features via FeatureEngineerV9
+2025-11-14 18:57:39,376 - UltimateBot_V8 - INFO -   ✓ GBPUSD: 70081 bars
+2025-11-14 18:57:39,376 - DataManagerV8 - INFO - 📥 Loading USDJPY data (2023-01-01 to 2024-12-31)...
+2025-11-14 18:57:39,377 - DataManagerV8 - INFO - 📂 Found 8 CSV files for USDJPY
+2025-11-14 18:57:39,977 - DataManagerV8 - INFO - ✅ Loaded 70081 rows for USDJPY from /Users/serkanozturk/Desktop/JTTWS/data/USDJPY2003-2024
+2025-11-14 18:57:39,978 - FeatureEngineerV9 - INFO - 🔧 FeatureEngineerV9 initialized
+2025-11-14 18:57:39,978 - FeatureEngineerV9 - INFO -    TA-Lib: True
+2025-11-14 18:57:39,978 - FeatureEngineerV9 - INFO -    Multi-Timeframe: True
+2025-11-14 18:57:39,978 - FeatureEngineerV9 - INFO -    Timeframes: ['15T', '1H', '4H']
+2025-11-14 18:57:39,978 - FeatureEngineerV9 - INFO - 🛠️  Engineering features for USDJPY...
+2025-11-14 18:57:40,134 - FeatureEngineerV9 - INFO - ✅ Added 74 features for USDJPY
+2025-11-14 18:57:40,134 - DataManagerV8 - INFO - ✅ Added 74 features via FeatureEngineerV9
+2025-11-14 18:57:40,135 - UltimateBot_V8 - INFO -   ✓ USDJPY: 70081 bars
+2025-11-14 18:57:40,135 - UltimateBot_V8 - INFO - ✅ Data loaded: 3 symbols
+2025-11-14 18:57:40,135 - UltimateBot_V8 - INFO - 📊 Running backtest: 1 episodes
+2025-11-14 18:57:40,135 - TradingEnvPro - INFO - 🏦 Professional Trading Environment initialized
+2025-11-14 18:57:40,135 - TradingEnvPro - INFO -    Capital: $25,000.00
+2025-11-14 18:57:40,135 - TradingEnvPro - INFO -    Max Positions: 3
+2025-11-14 18:57:40,135 - TradingEnvPro - INFO -    Position Size: 2.0% of equity
+2025-11-14 18:57:40,135 - TradingEnvPro - INFO -    Commission: 2.0 pips
+2025-11-14 18:57:40,135 - TradingEnvPro - INFO -    Spread: 1.0 pips
+2025-11-14 18:57:40,724 - UltimateBot_V8 - WARNING - ⚠️  No trained model found at /Users/serkanozturk/Desktop/JTTWS/models_v8/ppo_model_v8.zip
+2025-11-14 18:57:40,724 - UltimateBot_V8 - INFO -    Using untrained agent (actions may be random)...
+2025-11-14 18:57:40,724 - UltimateBot_V8 - INFO - 
+📈 Episode 1/1
+2025-11-14 18:57:40,738 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG USDJPY @ 131.07200
+2025-11-14 18:57:40,739 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 130.57200, TP: 132.07200
+2025-11-14 18:57:40,739 - TradingEnvPro - INFO -    Costs: $0.23 (Comm: $0.15, Spread: $0.08)
+2025-11-14 18:57:40,739 - TradingEnvPro - INFO -    Balance: $24999.77
+2025-11-14 18:57:40,739 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG EURUSD @ 1.07026
+2025-11-14 18:57:40,739 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.06526, TP: 1.08026
+2025-11-14 18:57:40,739 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:40,739 - TradingEnvPro - INFO -    Balance: $24999.47
+2025-11-14 18:57:40,740 - TradingEnvPro - INFO - 🔔 TRADE OPENED: SHORT GBPUSD @ 1.20934
+2025-11-14 18:57:40,740 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.21434, TP: 1.19934
+2025-11-14 18:57:40,740 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:40,740 - TradingEnvPro - INFO -    Balance: $24999.17
+2025-11-14 18:57:40,788 - TradingEnvPro - INFO -    ⏱️  Timeout: LONG USDJPY @ 130.99900, PnL: $-0.56 (-7.3 pips)
+2025-11-14 18:57:40,789 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG USDJPY
+2025-11-14 18:57:40,789 - TradingEnvPro - INFO -    Entry: 131.07200 → Exit: 130.99900
+2025-11-14 18:57:40,789 - TradingEnvPro - INFO -    PnL: $-0.56 (-7.3 pips)
+2025-11-14 18:57:40,789 - TradingEnvPro - INFO -    Reason: TIMEOUT
+2025-11-14 18:57:40,789 - TradingEnvPro - INFO -    Balance: $24998.61
+2025-11-14 18:57:40,789 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG USDJPY @ 130.99900
+2025-11-14 18:57:40,789 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 130.49900, TP: 131.99900
+2025-11-14 18:57:40,789 - TradingEnvPro - INFO -    Costs: $0.23 (Comm: $0.15, Spread: $0.08)
+2025-11-14 18:57:40,789 - TradingEnvPro - INFO -    Balance: $24998.38
+2025-11-14 18:57:40,789 - TradingEnvPro - INFO -    ⏱️  Timeout: LONG EURUSD @ 1.06949, PnL: $-0.77 (-7.7 pips)
+2025-11-14 18:57:40,789 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG EURUSD
+2025-11-14 18:57:40,789 - TradingEnvPro - INFO -    Entry: 1.07026 → Exit: 1.06949
+2025-11-14 18:57:40,789 - TradingEnvPro - INFO -    PnL: $-0.77 (-7.7 pips)
+2025-11-14 18:57:40,789 - TradingEnvPro - INFO -    Reason: TIMEOUT
+2025-11-14 18:57:40,789 - TradingEnvPro - INFO -    Balance: $24997.61
+2025-11-14 18:57:40,789 - TradingEnvPro - INFO - 🔔 TRADE OPENED: SHORT USDJPY @ 130.79600
+2025-11-14 18:57:40,790 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 131.29600, TP: 129.79600
+2025-11-14 18:57:40,790 - TradingEnvPro - INFO -    Costs: $0.23 (Comm: $0.15, Spread: $0.08)
+2025-11-14 18:57:40,790 - TradingEnvPro - INFO -    Balance: $24997.39
+2025-11-14 18:57:40,790 - TradingEnvPro - INFO -    ⏱️  Timeout: SHORT GBPUSD @ 1.20855, PnL: $0.79 (7.9 pips)
+2025-11-14 18:57:40,790 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: SHORT GBPUSD
+2025-11-14 18:57:40,790 - TradingEnvPro - INFO -    Entry: 1.20934 → Exit: 1.20855
+2025-11-14 18:57:40,790 - TradingEnvPro - INFO -    PnL: $0.79 (7.9 pips)
+2025-11-14 18:57:40,790 - TradingEnvPro - INFO -    Reason: TIMEOUT
+2025-11-14 18:57:40,790 - TradingEnvPro - INFO -    Balance: $24998.18
+2025-11-14 18:57:40,790 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG GBPUSD @ 1.20855
+2025-11-14 18:57:40,790 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.20355, TP: 1.21855
+2025-11-14 18:57:40,790 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:40,790 - TradingEnvPro - INFO -    Balance: $24997.88
+2025-11-14 18:57:40,791 - UltimateBot_V8 - INFO -   Step 100: Reward=0.5875, Balance=$24997.88, Equity=$24996.87, Open Positions=3, Total Trades=3
+2025-11-14 18:57:40,836 - TradingEnvPro - INFO -    ⏱️  Timeout: LONG USDJPY @ 130.80200, PnL: $-1.51 (-19.7 pips)
+2025-11-14 18:57:40,836 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG USDJPY
+2025-11-14 18:57:40,836 - TradingEnvPro - INFO -    Entry: 130.99900 → Exit: 130.80200
+2025-11-14 18:57:40,836 - TradingEnvPro - INFO -    PnL: $-1.51 (-19.7 pips)
+2025-11-14 18:57:40,836 - TradingEnvPro - INFO -    Reason: TIMEOUT
+2025-11-14 18:57:40,836 - TradingEnvPro - INFO -    Balance: $24996.37
+2025-11-14 18:57:40,836 - TradingEnvPro - INFO -    ⏱️  Timeout: SHORT USDJPY @ 130.65900, PnL: $1.05 (13.7 pips)
+2025-11-14 18:57:40,836 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: SHORT USDJPY
+2025-11-14 18:57:40,836 - TradingEnvPro - INFO -    Entry: 130.79600 → Exit: 130.65900
+2025-11-14 18:57:40,836 - TradingEnvPro - INFO -    PnL: $1.05 (13.7 pips)
+2025-11-14 18:57:40,837 - TradingEnvPro - INFO -    Reason: TIMEOUT
+2025-11-14 18:57:40,837 - TradingEnvPro - INFO -    Balance: $24997.42
+2025-11-14 18:57:40,837 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG EURUSD @ 1.06735
+2025-11-14 18:57:40,837 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.06235, TP: 1.07735
+2025-11-14 18:57:40,837 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:40,837 - TradingEnvPro - INFO -    Balance: $24997.12
+2025-11-14 18:57:40,837 - TradingEnvPro - INFO -    ⏱️  Timeout: LONG GBPUSD @ 1.20536, PnL: $-3.19 (-31.9 pips)
+2025-11-14 18:57:40,837 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG GBPUSD
+2025-11-14 18:57:40,837 - TradingEnvPro - INFO -    Entry: 1.20855 → Exit: 1.20536
+2025-11-14 18:57:40,837 - TradingEnvPro - INFO -    PnL: $-3.19 (-31.9 pips)
+2025-11-14 18:57:40,837 - TradingEnvPro - INFO -    Reason: TIMEOUT
+2025-11-14 18:57:40,837 - TradingEnvPro - INFO -    Balance: $24993.93
+2025-11-14 18:57:40,837 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG GBPUSD @ 1.20536
+2025-11-14 18:57:40,837 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.20036, TP: 1.21536
+2025-11-14 18:57:40,837 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:40,837 - TradingEnvPro - INFO -    Balance: $24993.63
+2025-11-14 18:57:40,838 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG USDJPY @ 130.20900
+2025-11-14 18:57:40,838 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 129.70900, TP: 131.20900
+2025-11-14 18:57:40,838 - TradingEnvPro - INFO -    Costs: $0.23 (Comm: $0.15, Spread: $0.08)
+2025-11-14 18:57:40,838 - TradingEnvPro - INFO -    Balance: $24993.40
+2025-11-14 18:57:40,840 - UltimateBot_V8 - INFO -   Step 200: Reward=0.8674, Balance=$24993.40, Equity=$24991.86, Open Positions=3, Total Trades=6
+2025-11-14 18:57:40,844 - TradingEnvPro - INFO -    🎯 SL Hit: LONG USDJPY @ 129.54700, PnL: $-5.11 (-66.2 pips)
+2025-11-14 18:57:40,844 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG USDJPY
+2025-11-14 18:57:40,844 - TradingEnvPro - INFO -    Entry: 130.20900 → Exit: 129.54700
+2025-11-14 18:57:40,844 - TradingEnvPro - INFO -    PnL: $-5.11 (-66.2 pips)
+2025-11-14 18:57:40,844 - TradingEnvPro - INFO -    Reason: SL
+2025-11-14 18:57:40,844 - TradingEnvPro - INFO -    Balance: $24988.29
+2025-11-14 18:57:40,844 - TradingEnvPro - INFO - 🔔 TRADE OPENED: SHORT EURUSD @ 1.06776
+2025-11-14 18:57:40,844 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.07276, TP: 1.05776
+2025-11-14 18:57:40,844 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:40,844 - TradingEnvPro - INFO -    Balance: $24987.99
+2025-11-14 18:57:40,851 - TradingEnvPro - INFO -    🎯 SL Hit: LONG EURUSD @ 1.05878, PnL: $-8.57 (-85.7 pips)
+2025-11-14 18:57:40,851 - TradingEnvPro - INFO -    🎯 SL Hit: LONG GBPUSD @ 1.19597, PnL: $-9.39 (-93.9 pips)
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG EURUSD
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO -    Entry: 1.06735 → Exit: 1.05878
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO -    PnL: $-8.57 (-85.7 pips)
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO -    Reason: SL
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO -    Balance: $24979.42
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG GBPUSD
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO -    Entry: 1.20536 → Exit: 1.19597
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO -    PnL: $-9.39 (-93.9 pips)
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO -    Reason: SL
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO -    Balance: $24970.03
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO - 🔔 TRADE OPENED: SHORT USDJPY @ 130.32900
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 130.82900, TP: 129.32900
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO -    Costs: $0.23 (Comm: $0.15, Spread: $0.08)
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO -    Balance: $24969.80
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO -    🎯 TP Hit: SHORT EURUSD @ 1.05761, PnL: $10.15 (101.5 pips)
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: SHORT EURUSD
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO -    Entry: 1.06776 → Exit: 1.05761
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO -    PnL: $10.15 (101.5 pips)
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO -    Reason: TP
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO -    Balance: $24979.95
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO - 🔔 TRADE OPENED: SHORT GBPUSD @ 1.19556
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.20056, TP: 1.18556
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:40,852 - TradingEnvPro - INFO -    Balance: $24979.65
+2025-11-14 18:57:40,853 - TradingEnvPro - INFO - 🔔 TRADE OPENED: SHORT GBPUSD @ 1.19438
+2025-11-14 18:57:40,853 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.19938, TP: 1.18438
+2025-11-14 18:57:40,853 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:40,853 - TradingEnvPro - INFO -    Balance: $24979.35
+2025-11-14 18:57:40,859 - TradingEnvPro - INFO -    🎯 SL Hit: SHORT USDJPY @ 130.87400, PnL: $-4.16 (-54.5 pips)
+2025-11-14 18:57:40,859 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: SHORT USDJPY
+2025-11-14 18:57:40,859 - TradingEnvPro - INFO -    Entry: 130.32900 → Exit: 130.87400
+2025-11-14 18:57:40,859 - TradingEnvPro - INFO -    PnL: $-4.16 (-54.5 pips)
+2025-11-14 18:57:40,859 - TradingEnvPro - INFO -    Reason: SL
+2025-11-14 18:57:40,859 - TradingEnvPro - INFO -    Balance: $24975.18
+2025-11-14 18:57:40,859 - TradingEnvPro - INFO - 🔔 TRADE OPENED: SHORT GBPUSD @ 1.19310
+2025-11-14 18:57:40,859 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.19810, TP: 1.18310
+2025-11-14 18:57:40,859 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:40,859 - TradingEnvPro - INFO -    Balance: $24974.88
+2025-11-14 18:57:40,863 - TradingEnvPro - INFO -    🎯 SL Hit: SHORT GBPUSD @ 1.20028, PnL: $-5.90 (-59.0 pips)
+2025-11-14 18:57:40,863 - TradingEnvPro - INFO -    🎯 SL Hit: SHORT GBPUSD @ 1.20028, PnL: $-7.18 (-71.8 pips)
+2025-11-14 18:57:40,863 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: SHORT GBPUSD
+2025-11-14 18:57:40,863 - TradingEnvPro - INFO -    Entry: 1.19438 → Exit: 1.20028
+2025-11-14 18:57:40,863 - TradingEnvPro - INFO -    PnL: $-5.90 (-59.0 pips)
+2025-11-14 18:57:40,863 - TradingEnvPro - INFO -    Reason: SL
+2025-11-14 18:57:40,863 - TradingEnvPro - INFO -    Balance: $24968.98
+2025-11-14 18:57:40,863 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: SHORT GBPUSD
+2025-11-14 18:57:40,863 - TradingEnvPro - INFO -    Entry: 1.19310 → Exit: 1.20028
+2025-11-14 18:57:40,863 - TradingEnvPro - INFO -    PnL: $-7.18 (-71.8 pips)
+2025-11-14 18:57:40,863 - TradingEnvPro - INFO -    Reason: SL
+2025-11-14 18:57:40,863 - TradingEnvPro - INFO -    Balance: $24961.80
+2025-11-14 18:57:40,864 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG USDJPY @ 130.65400
+2025-11-14 18:57:40,864 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 130.15400, TP: 131.65400
+2025-11-14 18:57:40,864 - TradingEnvPro - INFO -    Costs: $0.23 (Comm: $0.15, Spread: $0.08)
+2025-11-14 18:57:40,864 - TradingEnvPro - INFO -    Balance: $24961.57
+2025-11-14 18:57:40,864 - TradingEnvPro - INFO - 🔔 TRADE OPENED: SHORT EURUSD @ 1.05741
+2025-11-14 18:57:40,864 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.06241, TP: 1.04741
+2025-11-14 18:57:40,864 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:40,864 - TradingEnvPro - INFO -    Balance: $24961.27
+2025-11-14 18:57:40,865 - TradingEnvPro - INFO -    🎯 SL Hit: SHORT GBPUSD @ 1.20124, PnL: $-5.68 (-56.8 pips)
+2025-11-14 18:57:40,865 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: SHORT GBPUSD
+2025-11-14 18:57:40,865 - TradingEnvPro - INFO -    Entry: 1.19556 → Exit: 1.20124
+2025-11-14 18:57:40,865 - TradingEnvPro - INFO -    PnL: $-5.68 (-56.8 pips)
+2025-11-14 18:57:40,865 - TradingEnvPro - INFO -    Reason: SL
+2025-11-14 18:57:40,865 - TradingEnvPro - INFO -    Balance: $24955.59
+2025-11-14 18:57:40,865 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG GBPUSD @ 1.20124
+2025-11-14 18:57:40,865 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.19624, TP: 1.21124
+2025-11-14 18:57:40,865 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:40,865 - TradingEnvPro - INFO -    Balance: $24955.29
+2025-11-14 18:57:40,871 - TradingEnvPro - INFO -    🎯 SL Hit: LONG GBPUSD @ 1.19584, PnL: $-5.40 (-54.0 pips)
+2025-11-14 18:57:40,871 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG GBPUSD
+2025-11-14 18:57:40,871 - TradingEnvPro - INFO -    Entry: 1.20124 → Exit: 1.19584
+2025-11-14 18:57:40,871 - TradingEnvPro - INFO -    PnL: $-5.40 (-54.0 pips)
+2025-11-14 18:57:40,871 - TradingEnvPro - INFO -    Reason: SL
+2025-11-14 18:57:40,871 - TradingEnvPro - INFO -    Balance: $24949.89
+2025-11-14 18:57:40,871 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG GBPUSD @ 1.19584
+2025-11-14 18:57:40,871 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.19084, TP: 1.20584
+2025-11-14 18:57:40,871 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:40,871 - TradingEnvPro - INFO -    Balance: $24949.59
+2025-11-14 18:57:40,890 - UltimateBot_V8 - INFO -   Step 300: Reward=1.6161, Balance=$24949.59, Equity=$24954.01, Open Positions=3, Total Trades=15
+2025-11-14 18:57:40,900 - TradingEnvPro - INFO -    🎯 SL Hit: LONG USDJPY @ 130.05700, PnL: $-4.59 (-59.7 pips)
+2025-11-14 18:57:40,900 - TradingEnvPro - INFO -    🎯 SL Hit: SHORT EURUSD @ 1.06263, PnL: $-5.22 (-52.2 pips)
+2025-11-14 18:57:40,901 - TradingEnvPro - INFO -    🎯 TP Hit: LONG GBPUSD @ 1.20691, PnL: $11.07 (110.7 pips)
+2025-11-14 18:57:40,901 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG USDJPY
+2025-11-14 18:57:40,901 - TradingEnvPro - INFO -    Entry: 130.65400 → Exit: 130.05700
+2025-11-14 18:57:40,901 - TradingEnvPro - INFO -    PnL: $-4.59 (-59.7 pips)
+2025-11-14 18:57:40,901 - TradingEnvPro - INFO -    Reason: SL
+2025-11-14 18:57:40,901 - TradingEnvPro - INFO -    Balance: $24945.00
+2025-11-14 18:57:40,901 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: SHORT EURUSD
+2025-11-14 18:57:40,901 - TradingEnvPro - INFO -    Entry: 1.05741 → Exit: 1.06263
+2025-11-14 18:57:40,901 - TradingEnvPro - INFO -    PnL: $-5.22 (-52.2 pips)
+2025-11-14 18:57:40,901 - TradingEnvPro - INFO -    Reason: SL
+2025-11-14 18:57:40,901 - TradingEnvPro - INFO -    Balance: $24939.78
+2025-11-14 18:57:40,901 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG GBPUSD
+2025-11-14 18:57:40,901 - TradingEnvPro - INFO -    Entry: 1.19584 → Exit: 1.20691
+2025-11-14 18:57:40,901 - TradingEnvPro - INFO -    PnL: $11.07 (110.7 pips)
+2025-11-14 18:57:40,901 - TradingEnvPro - INFO -    Reason: TP
+2025-11-14 18:57:40,901 - TradingEnvPro - INFO -    Balance: $24950.85
+2025-11-14 18:57:40,901 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG USDJPY @ 130.05700
+2025-11-14 18:57:40,901 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 129.55700, TP: 131.05700
+2025-11-14 18:57:40,901 - TradingEnvPro - INFO -    Costs: $0.23 (Comm: $0.15, Spread: $0.08)
+2025-11-14 18:57:40,901 - TradingEnvPro - INFO -    Balance: $24950.62
+2025-11-14 18:57:40,901 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG EURUSD @ 1.06214
+2025-11-14 18:57:40,902 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.05714, TP: 1.07214
+2025-11-14 18:57:40,902 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:40,902 - TradingEnvPro - INFO -    Balance: $24950.32
+2025-11-14 18:57:40,902 - TradingEnvPro - INFO - 🔔 TRADE OPENED: SHORT EURUSD @ 1.06098
+2025-11-14 18:57:40,902 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.06598, TP: 1.05098
+2025-11-14 18:57:40,902 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:40,902 - TradingEnvPro - INFO -    Balance: $24950.02
+2025-11-14 18:57:40,915 - TradingEnvPro - INFO -    🎯 TP Hit: LONG USDJPY @ 131.72900, PnL: $12.69 (167.2 pips)
+2025-11-14 18:57:40,915 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG USDJPY
+2025-11-14 18:57:40,915 - TradingEnvPro - INFO -    Entry: 130.05700 → Exit: 131.72900
+2025-11-14 18:57:40,915 - TradingEnvPro - INFO -    PnL: $12.69 (167.2 pips)
+2025-11-14 18:57:40,915 - TradingEnvPro - INFO -    Reason: TP
+2025-11-14 18:57:40,915 - TradingEnvPro - INFO -    Balance: $24962.72
+2025-11-14 18:57:40,915 - TradingEnvPro - INFO - 🔔 TRADE OPENED: SHORT GBPUSD @ 1.20239
+2025-11-14 18:57:40,915 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.20739, TP: 1.19239
+2025-11-14 18:57:40,915 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:40,915 - TradingEnvPro - INFO -    Balance: $24962.42
+2025-11-14 18:57:40,940 - UltimateBot_V8 - INFO -   Step 400: Reward=2.0412, Balance=$24962.42, Equity=$24960.30, Open Positions=3, Total Trades=19
+2025-11-14 18:57:40,948 - TradingEnvPro - INFO -    ⏱️  Timeout: LONG EURUSD @ 1.06195, PnL: $-0.19 (-1.9 pips)
+2025-11-14 18:57:40,948 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG EURUSD
+2025-11-14 18:57:40,948 - TradingEnvPro - INFO -    Entry: 1.06214 → Exit: 1.06195
+2025-11-14 18:57:40,948 - TradingEnvPro - INFO -    PnL: $-0.19 (-1.9 pips)
+2025-11-14 18:57:40,948 - TradingEnvPro - INFO -    Reason: TIMEOUT
+2025-11-14 18:57:40,948 - TradingEnvPro - INFO -    Balance: $24962.23
+2025-11-14 18:57:40,948 - TradingEnvPro - INFO - 🔔 TRADE OPENED: SHORT USDJPY @ 132.78100
+2025-11-14 18:57:40,948 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 133.28100, TP: 131.78100
+2025-11-14 18:57:40,948 - TradingEnvPro - INFO -    Costs: $0.23 (Comm: $0.15, Spread: $0.08)
+2025-11-14 18:57:40,948 - TradingEnvPro - INFO -    Balance: $24962.00
+2025-11-14 18:57:40,948 - TradingEnvPro - INFO -    ⏱️  Timeout: SHORT EURUSD @ 1.06175, PnL: $-0.77 (-7.7 pips)
+2025-11-14 18:57:40,949 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: SHORT EURUSD
+2025-11-14 18:57:40,949 - TradingEnvPro - INFO -    Entry: 1.06098 → Exit: 1.06175
+2025-11-14 18:57:40,949 - TradingEnvPro - INFO -    PnL: $-0.77 (-7.7 pips)
+2025-11-14 18:57:40,949 - TradingEnvPro - INFO -    Reason: TIMEOUT
+2025-11-14 18:57:40,949 - TradingEnvPro - INFO -    Balance: $24961.23
+2025-11-14 18:57:40,949 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG USDJPY @ 132.81100
+2025-11-14 18:57:40,949 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 132.31100, TP: 133.81100
+2025-11-14 18:57:40,949 - TradingEnvPro - INFO -    Costs: $0.23 (Comm: $0.15, Spread: $0.08)
+2025-11-14 18:57:40,949 - TradingEnvPro - INFO -    Balance: $24961.00
+2025-11-14 18:57:40,958 - TradingEnvPro - INFO -    🎯 SL Hit: SHORT USDJPY @ 133.42900, PnL: $-4.86 (-64.8 pips)
+2025-11-14 18:57:40,958 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: SHORT USDJPY
+2025-11-14 18:57:40,958 - TradingEnvPro - INFO -    Entry: 132.78100 → Exit: 133.42900
+2025-11-14 18:57:40,958 - TradingEnvPro - INFO -    PnL: $-4.86 (-64.8 pips)
+2025-11-14 18:57:40,958 - TradingEnvPro - INFO -    Reason: SL
+2025-11-14 18:57:40,958 - TradingEnvPro - INFO -    Balance: $24956.15
+2025-11-14 18:57:40,958 - TradingEnvPro - INFO - 🔔 TRADE OPENED: SHORT GBPUSD @ 1.19660
+2025-11-14 18:57:40,958 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.20160, TP: 1.18660
+2025-11-14 18:57:40,958 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:40,958 - TradingEnvPro - INFO -    Balance: $24955.85
+2025-11-14 18:57:40,959 - TradingEnvPro - INFO -    🎯 TP Hit: SHORT GBPUSD @ 1.19196, PnL: $10.43 (104.3 pips)
+2025-11-14 18:57:40,959 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: SHORT GBPUSD
+2025-11-14 18:57:40,959 - TradingEnvPro - INFO -    Entry: 1.20239 → Exit: 1.19196
+2025-11-14 18:57:40,959 - TradingEnvPro - INFO -    PnL: $10.43 (104.3 pips)
+2025-11-14 18:57:40,959 - TradingEnvPro - INFO -    Reason: TP
+2025-11-14 18:57:40,959 - TradingEnvPro - INFO -    Balance: $24966.28
+2025-11-14 18:57:40,959 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG GBPUSD @ 1.19196
+2025-11-14 18:57:40,959 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.18696, TP: 1.20196
+2025-11-14 18:57:40,959 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:40,959 - TradingEnvPro - INFO -    Balance: $24965.98
+2025-11-14 18:57:40,962 - TradingEnvPro - INFO -    🎯 TP Hit: LONG USDJPY @ 133.94100, PnL: $8.44 (113.0 pips)
+2025-11-14 18:57:40,962 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG USDJPY
+2025-11-14 18:57:40,962 - TradingEnvPro - INFO -    Entry: 132.81100 → Exit: 133.94100
+2025-11-14 18:57:40,962 - TradingEnvPro - INFO -    PnL: $8.44 (113.0 pips)
+2025-11-14 18:57:40,962 - TradingEnvPro - INFO -    Reason: TP
+2025-11-14 18:57:40,962 - TradingEnvPro - INFO -    Balance: $24974.41
+2025-11-14 18:57:40,962 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG USDJPY @ 133.94100
+2025-11-14 18:57:40,962 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 133.44100, TP: 134.94100
+2025-11-14 18:57:40,962 - TradingEnvPro - INFO -    Costs: $0.22 (Comm: $0.15, Spread: $0.07)
+2025-11-14 18:57:40,962 - TradingEnvPro - INFO -    Balance: $24974.19
+2025-11-14 18:57:40,966 - TradingEnvPro - INFO -    🎯 SL Hit: LONG USDJPY @ 133.43200, PnL: $-3.81 (-50.9 pips)
+2025-11-14 18:57:40,966 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG USDJPY
+2025-11-14 18:57:40,966 - TradingEnvPro - INFO -    Entry: 133.94100 → Exit: 133.43200
+2025-11-14 18:57:40,966 - TradingEnvPro - INFO -    PnL: $-3.81 (-50.9 pips)
+2025-11-14 18:57:40,966 - TradingEnvPro - INFO -    Reason: SL
+2025-11-14 18:57:40,966 - TradingEnvPro - INFO -    Balance: $24970.37
+2025-11-14 18:57:40,966 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG EURUSD @ 1.05225
+2025-11-14 18:57:40,966 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.04725, TP: 1.06225
+2025-11-14 18:57:40,966 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:40,966 - TradingEnvPro - INFO -    Balance: $24970.07
+2025-11-14 18:57:40,989 - UltimateBot_V8 - INFO -   Step 500: Reward=2.6975, Balance=$24970.07, Equity=$24974.36, Open Positions=3, Total Trades=25
+2025-11-14 18:57:40,998 - TradingEnvPro - INFO -    🎯 TP Hit: SHORT GBPUSD @ 1.18620, PnL: $10.40 (104.0 pips)
+2025-11-14 18:57:40,998 - TradingEnvPro - INFO -    🎯 SL Hit: LONG GBPUSD @ 1.18620, PnL: $-5.76 (-57.6 pips)
+2025-11-14 18:57:40,998 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: SHORT GBPUSD
+2025-11-14 18:57:40,998 - TradingEnvPro - INFO -    Entry: 1.19660 → Exit: 1.18620
+2025-11-14 18:57:40,998 - TradingEnvPro - INFO -    PnL: $10.40 (104.0 pips)
+2025-11-14 18:57:40,998 - TradingEnvPro - INFO -    Reason: TP
+2025-11-14 18:57:40,998 - TradingEnvPro - INFO -    Balance: $24980.47
+2025-11-14 18:57:40,998 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG GBPUSD
+2025-11-14 18:57:40,998 - TradingEnvPro - INFO -    Entry: 1.19196 → Exit: 1.18620
+2025-11-14 18:57:40,998 - TradingEnvPro - INFO -    PnL: $-5.76 (-57.6 pips)
+2025-11-14 18:57:40,998 - TradingEnvPro - INFO -    Reason: SL
+2025-11-14 18:57:40,998 - TradingEnvPro - INFO -    Balance: $24974.71
+2025-11-14 18:57:40,998 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG EURUSD @ 1.05064
+2025-11-14 18:57:40,998 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.04564, TP: 1.06064
+2025-11-14 18:57:40,998 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:40,998 - TradingEnvPro - INFO -    Balance: $24974.41
+2025-11-14 18:57:40,999 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG EURUSD @ 1.05072
+2025-11-14 18:57:40,999 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.04572, TP: 1.06072
+2025-11-14 18:57:40,999 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:40,999 - TradingEnvPro - INFO -    Balance: $24974.11
+2025-11-14 18:57:41,011 - TradingEnvPro - INFO -    🎯 TP Hit: LONG EURUSD @ 1.06168, PnL: $11.04 (110.4 pips)
+2025-11-14 18:57:41,011 - TradingEnvPro - INFO -    🎯 TP Hit: LONG EURUSD @ 1.06168, PnL: $10.96 (109.6 pips)
+2025-11-14 18:57:41,012 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG EURUSD
+2025-11-14 18:57:41,012 - TradingEnvPro - INFO -    Entry: 1.05064 → Exit: 1.06168
+2025-11-14 18:57:41,012 - TradingEnvPro - INFO -    PnL: $11.04 (110.4 pips)
+2025-11-14 18:57:41,012 - TradingEnvPro - INFO -    Reason: TP
+2025-11-14 18:57:41,012 - TradingEnvPro - INFO -    Balance: $24985.15
+2025-11-14 18:57:41,012 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG EURUSD
+2025-11-14 18:57:41,012 - TradingEnvPro - INFO -    Entry: 1.05072 → Exit: 1.06168
+2025-11-14 18:57:41,012 - TradingEnvPro - INFO -    PnL: $10.96 (109.6 pips)
+2025-11-14 18:57:41,012 - TradingEnvPro - INFO -    Reason: TP
+2025-11-14 18:57:41,012 - TradingEnvPro - INFO -    Balance: $24996.11
+2025-11-14 18:57:41,012 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG GBPUSD @ 1.20579
+2025-11-14 18:57:41,012 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.20079, TP: 1.21579
+2025-11-14 18:57:41,012 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:41,012 - TradingEnvPro - INFO -    Balance: $24995.81
+2025-11-14 18:57:41,013 - TradingEnvPro - INFO -    ⏱️  Timeout: LONG EURUSD @ 1.06194, PnL: $9.69 (96.9 pips)
+2025-11-14 18:57:41,013 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG EURUSD
+2025-11-14 18:57:41,013 - TradingEnvPro - INFO -    Entry: 1.05225 → Exit: 1.06194
+2025-11-14 18:57:41,013 - TradingEnvPro - INFO -    PnL: $9.69 (96.9 pips)
+2025-11-14 18:57:41,013 - TradingEnvPro - INFO -    Reason: TIMEOUT
+2025-11-14 18:57:41,013 - TradingEnvPro - INFO -    Balance: $25005.50
+2025-11-14 18:57:41,013 - TradingEnvPro - INFO - 🔔 TRADE OPENED: SHORT GBPUSD @ 1.20656
+2025-11-14 18:57:41,013 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.21156, TP: 1.19656
+2025-11-14 18:57:41,013 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:41,013 - TradingEnvPro - INFO -    Balance: $25005.20
+2025-11-14 18:57:41,013 - TradingEnvPro - INFO - 🔔 TRADE OPENED: SHORT GBPUSD @ 1.20662
+2025-11-14 18:57:41,013 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.21162, TP: 1.19662
+2025-11-14 18:57:41,013 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:41,013 - TradingEnvPro - INFO -    Balance: $25004.90
+2025-11-14 18:57:41,037 - UltimateBot_V8 - INFO -   Step 600: Reward=3.3142, Balance=$25004.90, Equity=$25003.55, Open Positions=3, Total Trades=30
+2025-11-14 18:57:41,058 - TradingEnvPro - INFO -    ⏱️  Timeout: LONG GBPUSD @ 1.20874, PnL: $2.95 (29.5 pips)
+2025-11-14 18:57:41,058 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG GBPUSD
+2025-11-14 18:57:41,058 - TradingEnvPro - INFO -    Entry: 1.20579 → Exit: 1.20874
+2025-11-14 18:57:41,058 - TradingEnvPro - INFO -    PnL: $2.95 (29.5 pips)
+2025-11-14 18:57:41,058 - TradingEnvPro - INFO -    Reason: TIMEOUT
+2025-11-14 18:57:41,058 - TradingEnvPro - INFO -    Balance: $25007.85
+2025-11-14 18:57:41,058 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG GBPUSD @ 1.20874
+2025-11-14 18:57:41,058 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.20374, TP: 1.21874
+2025-11-14 18:57:41,058 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:41,058 - TradingEnvPro - INFO -    Balance: $25007.55
+2025-11-14 18:57:41,059 - TradingEnvPro - INFO -    ⏱️  Timeout: SHORT GBPUSD @ 1.20874, PnL: $-2.18 (-21.8 pips)
+2025-11-14 18:57:41,059 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: SHORT GBPUSD
+2025-11-14 18:57:41,060 - TradingEnvPro - INFO -    Entry: 1.20656 → Exit: 1.20874
+2025-11-14 18:57:41,060 - TradingEnvPro - INFO -    PnL: $-2.18 (-21.8 pips)
+2025-11-14 18:57:41,060 - TradingEnvPro - INFO -    Reason: TIMEOUT
+2025-11-14 18:57:41,060 - TradingEnvPro - INFO -    Balance: $25005.37
+2025-11-14 18:57:41,060 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG EURUSD @ 1.06413
+2025-11-14 18:57:41,060 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.05913, TP: 1.07413
+2025-11-14 18:57:41,060 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:41,060 - TradingEnvPro - INFO -    Balance: $25005.07
+2025-11-14 18:57:41,060 - TradingEnvPro - INFO -    ⏱️  Timeout: SHORT GBPUSD @ 1.20874, PnL: $-2.12 (-21.2 pips)
+2025-11-14 18:57:41,060 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: SHORT GBPUSD
+2025-11-14 18:57:41,060 - TradingEnvPro - INFO -    Entry: 1.20662 → Exit: 1.20874
+2025-11-14 18:57:41,060 - TradingEnvPro - INFO -    PnL: $-2.12 (-21.2 pips)
+2025-11-14 18:57:41,060 - TradingEnvPro - INFO -    Reason: TIMEOUT
+2025-11-14 18:57:41,060 - TradingEnvPro - INFO -    Balance: $25002.95
+2025-11-14 18:57:41,060 - TradingEnvPro - INFO - 🔔 TRADE OPENED: SHORT GBPUSD @ 1.20874
+2025-11-14 18:57:41,060 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.21374, TP: 1.19874
+2025-11-14 18:57:41,060 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:41,060 - TradingEnvPro - INFO -    Balance: $25002.65
+2025-11-14 18:57:41,088 - UltimateBot_V8 - INFO -   Step 700: Reward=3.6106, Balance=$25002.65, Equity=$25002.65, Open Positions=3, Total Trades=33
+2025-11-14 18:57:41,110 - TradingEnvPro - INFO -    ⏱️  Timeout: LONG GBPUSD @ 1.20874, PnL: $0.00 (0.0 pips)
+2025-11-14 18:57:41,110 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG GBPUSD
+2025-11-14 18:57:41,110 - TradingEnvPro - INFO -    Entry: 1.20874 → Exit: 1.20874
+2025-11-14 18:57:41,110 - TradingEnvPro - INFO -    PnL: $0.00 (0.0 pips)
+2025-11-14 18:57:41,110 - TradingEnvPro - INFO -    Reason: TIMEOUT
+2025-11-14 18:57:41,111 - TradingEnvPro - INFO -    Balance: $25002.65
+2025-11-14 18:57:41,111 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG EURUSD @ 1.06413
+2025-11-14 18:57:41,111 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.05913, TP: 1.07413
+2025-11-14 18:57:41,111 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:41,111 - TradingEnvPro - INFO -    Balance: $25002.35
+2025-11-14 18:57:41,112 - TradingEnvPro - INFO -    ⏱️  Timeout: LONG EURUSD @ 1.06413, PnL: $0.00 (0.0 pips)
+2025-11-14 18:57:41,112 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG EURUSD
+2025-11-14 18:57:41,112 - TradingEnvPro - INFO -    Entry: 1.06413 → Exit: 1.06413
+2025-11-14 18:57:41,112 - TradingEnvPro - INFO -    PnL: $0.00 (0.0 pips)
+2025-11-14 18:57:41,112 - TradingEnvPro - INFO -    Reason: TIMEOUT
+2025-11-14 18:57:41,112 - TradingEnvPro - INFO -    Balance: $25002.35
+2025-11-14 18:57:41,112 - TradingEnvPro - INFO - 🔔 TRADE OPENED: SHORT USDJPY @ 132.03000
+2025-11-14 18:57:41,112 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 132.53000, TP: 131.03000
+2025-11-14 18:57:41,112 - TradingEnvPro - INFO -    Costs: $0.23 (Comm: $0.15, Spread: $0.08)
+2025-11-14 18:57:41,112 - TradingEnvPro - INFO -    Balance: $25002.13
+2025-11-14 18:57:41,113 - TradingEnvPro - INFO -    ⏱️  Timeout: SHORT GBPUSD @ 1.20874, PnL: $0.00 (0.0 pips)
+2025-11-14 18:57:41,113 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: SHORT GBPUSD
+2025-11-14 18:57:41,113 - TradingEnvPro - INFO -    Entry: 1.20874 → Exit: 1.20874
+2025-11-14 18:57:41,113 - TradingEnvPro - INFO -    PnL: $0.00 (0.0 pips)
+2025-11-14 18:57:41,113 - TradingEnvPro - INFO -    Reason: TIMEOUT
+2025-11-14 18:57:41,113 - TradingEnvPro - INFO -    Balance: $25002.13
+2025-11-14 18:57:41,113 - TradingEnvPro - INFO - 🔔 TRADE OPENED: SHORT USDJPY @ 132.03000
+2025-11-14 18:57:41,113 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 132.53000, TP: 131.03000
+2025-11-14 18:57:41,113 - TradingEnvPro - INFO -    Costs: $0.23 (Comm: $0.15, Spread: $0.08)
+2025-11-14 18:57:41,113 - TradingEnvPro - INFO -    Balance: $25001.90
+2025-11-14 18:57:41,143 - UltimateBot_V8 - INFO -   Step 800: Reward=3.9207, Balance=$25001.90, Equity=$25005.17, Open Positions=3, Total Trades=36
+2025-11-14 18:57:41,148 - TradingEnvPro - INFO -    🎯 SL Hit: SHORT USDJPY @ 132.59900, PnL: $-4.29 (-56.9 pips)
+2025-11-14 18:57:41,148 - TradingEnvPro - INFO -    🎯 SL Hit: SHORT USDJPY @ 132.59900, PnL: $-4.29 (-56.9 pips)
+2025-11-14 18:57:41,148 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: SHORT USDJPY
+2025-11-14 18:57:41,148 - TradingEnvPro - INFO -    Entry: 132.03000 → Exit: 132.59900
+2025-11-14 18:57:41,148 - TradingEnvPro - INFO -    PnL: $-4.29 (-56.9 pips)
+2025-11-14 18:57:41,148 - TradingEnvPro - INFO -    Reason: SL
+2025-11-14 18:57:41,148 - TradingEnvPro - INFO -    Balance: $24997.61
+2025-11-14 18:57:41,148 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: SHORT USDJPY
+2025-11-14 18:57:41,148 - TradingEnvPro - INFO -    Entry: 132.03000 → Exit: 132.59900
+2025-11-14 18:57:41,148 - TradingEnvPro - INFO -    PnL: $-4.29 (-56.9 pips)
+2025-11-14 18:57:41,148 - TradingEnvPro - INFO -    Reason: SL
+2025-11-14 18:57:41,148 - TradingEnvPro - INFO -    Balance: $24993.32
+2025-11-14 18:57:41,148 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG GBPUSD @ 1.21136
+2025-11-14 18:57:41,148 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.20636, TP: 1.22136
+2025-11-14 18:57:41,148 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:41,148 - TradingEnvPro - INFO -    Balance: $24993.02
+2025-11-14 18:57:41,149 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG GBPUSD @ 1.21308
+2025-11-14 18:57:41,149 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.20808, TP: 1.22308
+2025-11-14 18:57:41,149 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:41,149 - TradingEnvPro - INFO -    Balance: $24992.72
+2025-11-14 18:57:41,157 - TradingEnvPro - INFO -    🎯 TP Hit: LONG EURUSD @ 1.07450, PnL: $10.37 (103.7 pips)
+2025-11-14 18:57:41,157 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG EURUSD
+2025-11-14 18:57:41,157 - TradingEnvPro - INFO -    Entry: 1.06413 → Exit: 1.07450
+2025-11-14 18:57:41,157 - TradingEnvPro - INFO -    PnL: $10.37 (103.7 pips)
+2025-11-14 18:57:41,157 - TradingEnvPro - INFO -    Reason: TP
+2025-11-14 18:57:41,157 - TradingEnvPro - INFO -    Balance: $25003.09
+2025-11-14 18:57:41,157 - TradingEnvPro - INFO - 🔔 TRADE OPENED: SHORT GBPUSD @ 1.21897
+2025-11-14 18:57:41,157 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.22397, TP: 1.20897
+2025-11-14 18:57:41,157 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:41,157 - TradingEnvPro - INFO -    Balance: $25002.79
+2025-11-14 18:57:41,191 - UltimateBot_V8 - INFO -   Step 900: Reward=4.2540, Balance=$25002.79, Equity=$25013.49, Open Positions=3, Total Trades=39
+2025-11-14 18:57:41,195 - TradingEnvPro - INFO -    ⏱️  Timeout: LONG GBPUSD @ 1.21714, PnL: $5.78 (57.8 pips)
+2025-11-14 18:57:41,195 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG GBPUSD
+2025-11-14 18:57:41,195 - TradingEnvPro - INFO -    Entry: 1.21136 → Exit: 1.21714
+2025-11-14 18:57:41,195 - TradingEnvPro - INFO -    PnL: $5.78 (57.8 pips)
+2025-11-14 18:57:41,195 - TradingEnvPro - INFO -    Reason: TIMEOUT
+2025-11-14 18:57:41,195 - TradingEnvPro - INFO -    Balance: $25008.57
+2025-11-14 18:57:41,195 - TradingEnvPro - INFO - 🔔 TRADE OPENED: SHORT GBPUSD @ 1.21714
+2025-11-14 18:57:41,195 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.22214, TP: 1.20714
+2025-11-14 18:57:41,195 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:41,196 - TradingEnvPro - INFO -    Balance: $25008.27
+2025-11-14 18:57:41,196 - TradingEnvPro - INFO -    ⏱️  Timeout: LONG GBPUSD @ 1.21614, PnL: $3.06 (30.6 pips)
+2025-11-14 18:57:41,196 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: LONG GBPUSD
+2025-11-14 18:57:41,196 - TradingEnvPro - INFO -    Entry: 1.21308 → Exit: 1.21614
+2025-11-14 18:57:41,196 - TradingEnvPro - INFO -    PnL: $3.06 (30.6 pips)
+2025-11-14 18:57:41,196 - TradingEnvPro - INFO -    Reason: TIMEOUT
+2025-11-14 18:57:41,196 - TradingEnvPro - INFO -    Balance: $25011.33
+2025-11-14 18:57:41,196 - TradingEnvPro - INFO - 🔔 TRADE OPENED: SHORT EURUSD @ 1.07330
+2025-11-14 18:57:41,196 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.07830, TP: 1.06330
+2025-11-14 18:57:41,196 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:41,196 - TradingEnvPro - INFO -    Balance: $25011.03
+2025-11-14 18:57:41,207 - TradingEnvPro - INFO -    ⏱️  Timeout: SHORT GBPUSD @ 1.21505, PnL: $3.92 (39.2 pips)
+2025-11-14 18:57:41,208 - TradingEnvPro - INFO - 🔔 TRADE CLOSED: SHORT GBPUSD
+2025-11-14 18:57:41,208 - TradingEnvPro - INFO -    Entry: 1.21897 → Exit: 1.21505
+2025-11-14 18:57:41,208 - TradingEnvPro - INFO -    PnL: $3.92 (39.2 pips)
+2025-11-14 18:57:41,208 - TradingEnvPro - INFO -    Reason: TIMEOUT
+2025-11-14 18:57:41,208 - TradingEnvPro - INFO -    Balance: $25014.95
+2025-11-14 18:57:41,208 - TradingEnvPro - INFO - 🔔 TRADE OPENED: LONG EURUSD @ 1.07330
+2025-11-14 18:57:41,208 - TradingEnvPro - INFO -    Size: 0.01 lots, SL: 1.06830, TP: 1.08330
+2025-11-14 18:57:41,208 - TradingEnvPro - INFO -    Costs: $0.30 (Comm: $0.20, Spread: $0.10)
+2025-11-14 18:57:41,208 - TradingEnvPro - INFO -    Balance: $25014.65
+2025-11-14 18:57:41,246 - UltimateBot_V8 - INFO -   Step 1000: Reward=4.5740, Balance=$25014.65, Equity=$25018.50, Open Positions=3, Total Trades=42
+2025-11-14 18:57:41,246 - UltimateBot_V8 - INFO - 
+✅ Episode 1 complete:
+2025-11-14 18:57:41,246 - UltimateBot_V8 - INFO -    Total Reward: 4.5740
+2025-11-14 18:57:41,246 - UltimateBot_V8 - INFO -    Final Balance: $25014.65
+2025-11-14 18:57:41,246 - UltimateBot_V8 - INFO -    Final Equity: $25018.50
+2025-11-14 18:57:41,246 - UltimateBot_V8 - INFO -    Total Trades: 42
+2025-11-14 18:57:41,246 - UltimateBot_V8 - INFO -    Win Rate: 38.1%
+2025-11-14 18:57:41,246 - UltimateBot_V8 - INFO - 
+╔══════════════════════════════════════════════════════════════╗
+║              TRADING PERFORMANCE SUMMARY                      ║
+╠══════════════════════════════════════════════════════════════╣
+║  Balance:         $   25,014.65                 ║
+║  Equity:          $   25,018.50                  ║
+║  Total PnL:       $       27.29               ║
+║  Return:                 0.07%  ║
+╠══════════════════════════════════════════════════════════════╣
+║  Total Trades:       42                               ║
+║  Winning Trades:     16  ( 38.1%)                  ║
+║  Losing Trades:      26  ( 61.9%)                  ║
+║  Avg Win:         $        7.67                 ║
+║  Avg Loss:        $       -3.67                ║
+║  Profit Factor:           2.09                  ║
+╠══════════════════════════════════════════════════════════════╣
+║  Peak Equity:     $   25,024.78             ║
+║  Max Drawdown:           0.03%              ║
+║  Open Positions:      3                               ║
+╚══════════════════════════════════════════════════════════════╝
+
+2025-11-14 18:57:41,246 - UltimateBot_V8 - INFO - 
+📊 Backtest Summary:
+2025-11-14 18:57:41,246 - UltimateBot_V8 - INFO -    Episodes: 1
+2025-11-14 18:57:41,246 - UltimateBot_V8 - INFO -    Avg Reward: 4.5740
+2025-11-14 18:57:41,246 - UltimateBot_V8 - INFO -    Std Reward: 0.0000
+2025-11-14 18:57:41,246 - UltimateBot_V8 - INFO - 
+======================================================================
+2025-11-14 18:57:41,246 - UltimateBot_V8 - INFO - ✅ V8 SYSTEM COMPLETED
+2025-11-14 18:57:41,246 - UltimateBot_V8 - INFO - ======================================================================

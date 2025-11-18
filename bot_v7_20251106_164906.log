@@ -1,0 +1,19 @@
+2025-11-06 16:49:07,585 - UltimateBot_V8 - INFO - 🚀 UltimateTradingSystemV8 initialized (PPO: True)
+2025-11-06 16:49:07,585 - UltimateBot_V8 - INFO - 📂 Loading data: 2020-2024
+2025-11-06 16:49:07,585 - UltimateBot_V8 - ERROR - ❌ Data loading failed: 'DataManager' object has no attribute 'load_symbol_data'
+2025-11-06 16:49:07,585 - UltimateBot_V8 - INFO - ⚠️  Creating mock data...
+2025-11-06 16:49:07,588 - UltimateBot_V8 - INFO - ✅ Mock data created
+2025-11-06 16:49:07,588 - UltimateBot_V8 - INFO - 🎓 Training mode with walk-forward...
+2025-11-06 16:49:07,588 - UltimateBot_V8 - INFO - 🔄 Walk-Forward Training: 20 Optuna trials per period
+2025-11-06 16:49:07,675 - UltimateBot_V8 - INFO - 
+✅ Walk-Forward Complete!
+2025-11-06 16:49:07,675 - UltimateBot_V8 - INFO -    Best Parameters:
+2025-11-06 16:49:07,675 - UltimateBot_V8 - INFO -       lr: 0.000300
+2025-11-06 16:49:07,675 - UltimateBot_V8 - INFO -       clip_range: 0.200000
+2025-11-06 16:49:07,675 - UltimateBot_V8 - INFO -       ent_coef: 0.010000
+2025-11-06 16:49:07,675 - UltimateBot_V8 - INFO -       decay_rate: 0.995000
+2025-11-06 16:49:07,679 - UltimateBot_V8 - INFO -    Results saved: /Users/serkanozturk/Desktop/JTTWS/outputs/walk_forward_results_v8.csv
+2025-11-06 16:49:07,679 - UltimateBot_V8 - INFO - 
+======================================================================
+2025-11-06 16:49:07,679 - UltimateBot_V8 - INFO - ✅ V8 SYSTEM COMPLETED
+2025-11-06 16:49:07,679 - UltimateBot_V8 - INFO - ======================================================================

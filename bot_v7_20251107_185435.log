@@ -1,0 +1,55 @@
+2025-11-07 18:54:36,771 - UltimateBot_V8 - INFO - 🚀 UltimateTradingSystemV8 initialized (PPO: True)
+2025-11-07 18:54:36,771 - UltimateBot_V8 - INFO - 📂 Loading data: 2020-2024
+2025-11-07 18:54:36,771 - DataManagerV8 - INFO - 📂 DataManagerV8 initialized with data_dir: /Users/serkanozturk/Desktop/JTTWS/data
+2025-11-07 18:54:36,771 - DataManagerV8 - INFO - 📥 Loading EURUSD data (2020-01-01 to 2024-12-31)...
+2025-11-07 18:54:36,771 - DataManagerV8 - INFO - 📂 Found 8 CSV files for EURUSD
+2025-11-07 18:54:37,343 - DataManagerV8 - INFO - ✅ Loaded 165489 rows for EURUSD from /Users/serkanozturk/Desktop/JTTWS/data/EURUSD2003-2024
+2025-11-07 18:54:37,344 - UltimateBot_V8 - INFO -   ✓ EURUSD: 165489 bars
+2025-11-07 18:54:37,344 - DataManagerV8 - INFO - 📥 Loading GBPUSD data (2020-01-01 to 2024-12-31)...
+2025-11-07 18:54:37,345 - DataManagerV8 - INFO - 📂 Found 8 CSV files for GBPUSD
+2025-11-07 18:54:37,872 - DataManagerV8 - INFO - ✅ Loaded 164529 rows for GBPUSD from /Users/serkanozturk/Desktop/JTTWS/data/GBPUSD2003-2024
+2025-11-07 18:54:37,872 - UltimateBot_V8 - INFO -   ✓ GBPUSD: 164529 bars
+2025-11-07 18:54:37,872 - DataManagerV8 - INFO - 📥 Loading USDJPY data (2020-01-01 to 2024-12-31)...
+2025-11-07 18:54:37,872 - DataManagerV8 - INFO - 📂 Found 8 CSV files for USDJPY
+2025-11-07 18:54:38,430 - DataManagerV8 - INFO - ✅ Loaded 175297 rows for USDJPY from /Users/serkanozturk/Desktop/JTTWS/data/USDJPY2003-2024
+2025-11-07 18:54:38,430 - UltimateBot_V8 - INFO -   ✓ USDJPY: 175297 bars
+2025-11-07 18:54:38,430 - UltimateBot_V8 - INFO - ✅ Data loaded: 3 symbols
+2025-11-07 18:54:38,431 - UltimateBot_V8 - INFO - 🎓 Training mode with walk-forward...
+2025-11-07 18:54:38,431 - UltimateBot_V8 - INFO - 🔄 Walk-Forward Training: 10 Optuna trials per period
+2025-11-07 18:54:38,431 - UltimateBot_V8 - INFO - 📊 Using REAL DATA from 3 symbols
+2025-11-07 18:54:38,431 - DataAggregatorV8 - INFO - 📊 DataAggregatorV8 initialized
+2025-11-07 18:54:38,431 - UltimateBot_V8 - INFO -    Processing EURUSD...
+2025-11-07 18:54:38,431 - DataAggregatorV8 - INFO - 🔄 Aggregating EURUSD from 15M to Daily...
+2025-11-07 18:54:38,431 - DataAggregatorV8 - INFO -    Input: 165489 rows (15M bars)
+2025-11-07 18:54:38,459 - DataAggregatorV8 - INFO -    Output: 1802 days
+2025-11-07 18:54:38,460 - DataAggregatorV8 - INFO -    Date range: 2020-01-01 00:00:00 → 2024-12-31 00:00:00
+2025-11-07 18:54:38,460 - DataAggregatorV8 - INFO -    Avg Sharpe: -0.158
+2025-11-07 18:54:38,460 - UltimateBot_V8 - INFO -    Processing GBPUSD...
+2025-11-07 18:54:38,460 - DataAggregatorV8 - INFO - 🔄 Aggregating GBPUSD from 15M to Daily...
+2025-11-07 18:54:38,460 - DataAggregatorV8 - INFO -    Input: 164529 rows (15M bars)
+2025-11-07 18:54:38,479 - DataAggregatorV8 - INFO -    Output: 1800 days
+2025-11-07 18:54:38,479 - DataAggregatorV8 - INFO -    Date range: 2020-01-01 00:00:00 → 2024-12-31 00:00:00
+2025-11-07 18:54:38,479 - DataAggregatorV8 - INFO -    Avg Sharpe: 0.114
+2025-11-07 18:54:38,479 - UltimateBot_V8 - INFO -    Processing USDJPY...
+2025-11-07 18:54:38,479 - DataAggregatorV8 - INFO - 🔄 Aggregating USDJPY from 15M to Daily...
+2025-11-07 18:54:38,479 - DataAggregatorV8 - INFO -    Input: 175297 rows (15M bars)
+2025-11-07 18:54:38,499 - DataAggregatorV8 - INFO -    Output: 1827 days
+2025-11-07 18:54:38,499 - DataAggregatorV8 - INFO -    Date range: 2020-01-01 00:00:00 → 2024-12-31 00:00:00
+2025-11-07 18:54:38,500 - DataAggregatorV8 - INFO -    Avg Sharpe: 1.085
+2025-11-07 18:54:38,500 - DataAggregatorV8 - INFO - 🔀 Preparing walk-forward data from multiple symbols...
+2025-11-07 18:54:38,502 - DataAggregatorV8 - INFO - ✅ Walk-forward data prepared: 1827 days
+2025-11-07 18:54:38,502 - DataAggregatorV8 - INFO -    Date range: 2020-01-01 00:00:00 → 2024-12-31 00:00:00
+2025-11-07 18:54:38,502 - DataAggregatorV8 - INFO -    Avg Sharpe: 0.353
+2025-11-07 18:54:38,502 - DataAggregatorV8 - INFO -    Avg Reward: 0.005409
+2025-11-07 18:54:38,639 - UltimateBot_V8 - INFO - 
+✅ Walk-Forward Complete!
+2025-11-07 18:54:38,639 - UltimateBot_V8 - INFO -    Best Parameters:
+2025-11-07 18:54:38,639 - UltimateBot_V8 - INFO -       lr: 0.000300
+2025-11-07 18:54:38,639 - UltimateBot_V8 - INFO -       clip_range: 0.200000
+2025-11-07 18:54:38,639 - UltimateBot_V8 - INFO -       ent_coef: 0.010000
+2025-11-07 18:54:38,639 - UltimateBot_V8 - INFO -       decay_rate: 0.995000
+2025-11-07 18:54:38,642 - UltimateBot_V8 - INFO -    Results saved: /Users/serkanozturk/Desktop/JTTWS/outputs/walk_forward_results_v8.csv
+2025-11-07 18:54:38,642 - UltimateBot_V8 - INFO - 
+======================================================================
+2025-11-07 18:54:38,642 - UltimateBot_V8 - INFO - ✅ V8 SYSTEM COMPLETED
+2025-11-07 18:54:38,642 - UltimateBot_V8 - INFO - ======================================================================
