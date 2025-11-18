@@ -1,0 +1,117 @@
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                    ⚡ JTTWS v5 - 60 SANİYE HIZLI BAŞLANGIÇ                   │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+📥 1. DOSYALARI İNDİR VE KLASÖRE KOY (10 saniye)
+──────────────────────────────────────────────────────────────────────────────
+   trading_bot/
+   ├── JTTWS_v5_COMPLETE_FIXED.py
+   └── diagnose_margin.py
+
+
+💻 2. TERMİNAL AÇ VE KLASÖRE GİT (5 saniye)
+──────────────────────────────────────────────────────────────────────────────
+   cd trading_bot
+
+
+📦 3. KÜTÜPHANELER YÜKLÜ MÜ KONTROL ET (10 saniye)
+──────────────────────────────────────────────────────────────────────────────
+   pip install pandas numpy requests
+
+   ✅ Zaten yüklüyse "Requirement already satisfied" yazacak.
+
+
+🧪 4. TEST ÇALIŞTIR (15 saniye)
+──────────────────────────────────────────────────────────────────────────────
+   python diagnose_margin.py
+
+   ✅ Görmek istediğin:
+      ════════════════════════════════════════════════
+      ✓✓✓ ALL TESTS PASSED ✓✓✓
+      ════════════════════════════════════════════════
+
+
+🚀 5. BACKTEST ÇALIŞTIR (20 saniye)
+──────────────────────────────────────────────────────────────────────────────
+   python JTTWS_v5_COMPLETE_FIXED.py
+
+   ✅ Görmek istediğin:
+      ════════════════════════════════════════════════
+      BACKTEST RESULTS
+      ════════════════════════════════════════════════
+      Total Trades:     245
+      Win Rate:         52%
+      Total PnL:        +$1,250
+      Final Balance:    $26,250
+      ════════════════════════════════════════════════
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                           ✅ HAZIR! ÇALIŞIYOR!                               │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                           🎯 SONRAKİ ADIMLAR
+═══════════════════════════════════════════════════════════════════════════════
+
+📊 GERÇEK VERİ EKLE (Opsiyonel)
+──────────────────────────────────────────────────────────────────────────────
+1. mkdir data
+2. CSV'leri koy: EURUSD_H1.csv, GBPUSD_H1.csv, vb.
+3. Tekrar çalıştır: python JTTWS_v5_COMPLETE_FIXED.py
+
+
+⚙️  AYARLARI DEĞİŞTİR (Opsiyonel)
+──────────────────────────────────────────────────────────────────────────────
+JTTWS_v5_COMPLETE_FIXED.py dosyasını aç:
+
+   class Config:
+       INITIAL_BALANCE = 25_000.0     ← Başlangıç bakiyesi
+       LEVERAGE = 100                 ← Kaldıraç
+       BACKTEST_START = '2024-01-01'  ← Başlangıç tarihi
+       BACKTEST_END = '2024-12-31'    ← Bitiş tarihi
+
+
+🔔 TELEGRAM EKLE (Opsiyonel)
+──────────────────────────────────────────────────────────────────────────────
+Windows:
+   set TELEGRAM_TOKEN=123456:ABC...
+   set TELEGRAM_CHAT_ID=987654
+
+Mac/Linux:
+   export TELEGRAM_TOKEN="123456:ABC..."
+   export TELEGRAM_CHAT_ID="987654"
+
+
+═══════════════════════════════════════════════════════════════════════════════
+                         ❓ SORUN YAŞIYORSAN
+═══════════════════════════════════════════════════════════════════════════════
+
+"ModuleNotFoundError: No module named 'pandas'"
+→ pip install pandas
+
+"Python is not recognized"
+→ Python'u PATH'e ekle veya python3 dene: python3 diagnose_margin.py
+
+"No trades executed"
+→ Normal! Dummy data ile çalışıyor. Gerçek veri ekle.
+
+"All tests failed"
+→ HATA MESAJINI PAYLAŞ, yardımcı olalım.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+💡 İPUCU: İlk kez çalıştırıyorsan dummy data ile otomatik test yapar.
+         Gerçek veri olmadan da mükemmel çalışır!
+
+📖 Detaylı kılavuz: NASIL_CALISTIRILIR.txt dosyasına bak (kapsamlı)
+
+═══════════════════════════════════════════════════════════════════════════════
+
+🚀 Hadi başla! İlk komutu çalıştır:
+
+   python diagnose_margin.py
+
+═══════════════════════════════════════════════════════════════════════════════

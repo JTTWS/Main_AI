@@ -1,0 +1,7 @@
+gym==0.26.2
+gym-notices==0.1.0
+gymnasium==1.2.2
+optuna==4.5.0
+torch==2.9.0
+torchvision==0.24.0
+vectorbt==0.28.1

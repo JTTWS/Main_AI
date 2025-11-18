@@ -1,0 +1,22 @@
+# V8 Core Dependencies
+stable-baselines3==2.1.0
+optuna==3.3.0
+gym==0.26.2
+shimmy==1.3.0
+torch>=2.0.0
+vectorbt==0.25.4
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Plotting
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Other
+python-dateutil>=2.8.0
+pytz>=2023.3
+tqdm>=4.65.0
+pyyaml>=6.0
