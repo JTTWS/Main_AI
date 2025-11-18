@@ -1,0 +1,1893 @@
+Id,Start,Name,Impact,Currency
+b8a6622a-d2a2-43dd-9e04-57767ed1d318,01/11/2007 09:00:00,BoE Interest Rate Decision,NONE,GBP
+81001f4a-cd12-4c4e-b89a-c79f97d022bb,02/12/2007 09:30:00,Producer Price Index - Input (MoM) n.s.a,MEDIUM,GBP
+35c44d52-95d7-4cb6-ac1a-74b7a28c2e15,02/12/2007 09:30:00,Producer Price Index - Input (YoY) n.s.a,NONE,GBP
+e5b5c787-79f1-43c9-bcab-4e457da5b6d2,02/12/2007 09:30:00,Producer Price Index - Output (MoM) n.s.a,MEDIUM,GBP
+01db62e2-5a0f-4eca-b876-2fd19905a18f,02/12/2007 09:30:00,Producer Price Index - Output (YoY) n.s.a,NONE,GBP
+84a3ab49-b648-4d6c-a27a-3a31ff1cc379,02/13/2007 05:00:00,Consumer Confidence Index,LOW,JPY
+f4db84f7-76f8-47ef-88de-9a78c9ac8f3a,02/13/2007 07:00:00,Gross Domestic Product (QoQ),LOW,EUR
+a3acc086-953f-483c-90a1-77931531b0b1,02/13/2007 07:00:00,Gross Domestic Product (YoY),LOW,EUR
+738193ba-f9a5-473c-9093-88b305d1140c,02/13/2007 09:30:00,Consumer Price Index (MoM),MEDIUM,GBP
+ba5aea86-6204-4fcd-b341-50e37ea18a15,02/13/2007 09:30:00,Consumer Price Index (YoY),MEDIUM,GBP
+5da440df-0e86-4142-92ff-dffa32a4e58a,02/13/2007 09:30:00,Retail Price Index (MoM),MEDIUM,GBP
+73a309a6-7f0a-4821-a25b-946e6725ef65,02/13/2007 09:30:00,Retail Price Index (YoY),MEDIUM,GBP
+513f912f-7c94-40bd-8b93-4dd9f44e8f83,02/13/2007 10:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR
+4837f69f-b346-42d4-9351-d05d85d5a4d0,02/13/2007 10:00:00,Gross Domestic Product s.a. (QoQ),LOW,EUR
+6a88ecb5-d111-44a0-88b9-54d69162dc90,02/13/2007 10:00:00,Gross Domestic Product s.a. (YoY),LOW,EUR
+54864b62-5760-408c-9133-1e4ff5165185,02/13/2007 10:00:00,Industrial Production s.a. (MoM),LOW,EUR
+772346e6-16ba-438d-bd66-c82ae5773ce7,02/13/2007 10:00:00,Industrial Production w.d.a. (YoY),NONE,EUR
+e6a19283-8ced-4f5c-a3b3-33f653301ecb,02/13/2007 13:30:00,Goods and Services Trade Balance,MEDIUM,USD
+4849093b-07cc-4aa0-83e9-9079ae02ec96,02/14/2007 04:30:00,Capacity Utilization,LOW,JPY
+67137b0a-3e9c-4b29-931c-8c4031623485,02/14/2007 04:30:00,Industrial Production (MoM),LOW,JPY
+1f346b8d-f591-4aa8-9f73-e8b47499470b,02/14/2007 04:30:00,Industrial Production (YoY),NONE,JPY
+c1917e3a-1eb2-4fc3-952d-f202f0b0b14b,02/14/2007 09:30:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
+17b4ce2b-ef60-4526-90ce-aed62403dc85,02/14/2007 09:30:00,Average Earnings Including Bonus (3Mo/Yr),MEDIUM,GBP
+7e385d0d-d4e5-4dc3-b141-021b2dd8568e,02/14/2007 09:30:00,ILO Unemployment Rate (3M),NONE,GBP
+0667f9d4-c0bc-4f6b-8df3-9cdb758aa410,02/14/2007 10:30:00,BoE Monetary Policy Report,MEDIUM,GBP
+6201408b-3328-4b42-87c1-3fdee351afde,02/14/2007 13:30:00,Retail Sales (MoM),HIGH,USD
+f4c5c37d-a271-4633-ad9d-0411c03577d4,02/14/2007 13:30:00,Retail Sales ex Autos (MoM),NONE,USD
+d1f14496-67fc-439c-97c2-122f2ee3c61a,02/14/2007 15:00:00,Business Inventories,LOW,USD
+67514010-514b-4f11-bf2f-da9bd236e0c2,02/14/2007 23:50:00,Gross Domestic Product (QoQ),LOW,JPY
+b88d5cde-0506-4f07-9883-8708a0c360fd,02/14/2007 23:50:00,Gross Domestic Product Annualized,NONE,JPY
+e3ad5da1-d721-4c52-bb26-5c300b725025,02/14/2007 23:50:00,Gross Domestic Product Deflator (YoY),LOW,JPY
+6bbce899-198f-4904-a08b-dd5b318d187f,02/15/2007 09:30:00,Retail Sales (MoM),MEDIUM,GBP
+ff196823-f7f5-41ca-8048-5de7b271c9be,02/15/2007 09:30:00,Retail Sales (YoY),MEDIUM,GBP
+a53e4e1e-e454-4d7d-a3b9-b6dc80d28517,02/15/2007 13:30:00,Import Price Index (MoM),MEDIUM,USD
+907f4169-5bff-41c4-abe5-dd76e0e83964,02/15/2007 13:30:00,Import Price Index (YoY),MEDIUM,USD
+92546a02-e2eb-441a-8e7a-ee46366e8e88,02/15/2007 14:00:00,Net Long-Term TIC Flows,MEDIUM,USD
+838932ae-2f52-4056-a6c3-d88d357d2a69,02/15/2007 14:15:00,Capacity Utilization,MEDIUM,USD
+54c7a977-36b9-40f2-948e-3c4096102edf,02/15/2007 14:15:00,Industrial Production (MoM),MEDIUM,USD
+45e6cfc4-4ddb-4a8e-a9b3-0b605bdd911e,02/15/2007 17:00:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD
+222a7f5b-0266-4f28-bc9a-9c2d0ed4cfac,02/16/2007 07:00:00,Consumer Price Index (MoM),LOW,EUR
+12a5c089-e79b-4726-bbdd-4dad1c5fac6f,02/16/2007 07:00:00,Consumer Price Index (YoY),LOW,EUR
+236ca51f-0783-4624-b183-487dbccb622a,02/16/2007 10:00:21,Trade Balance n.s.a.,NONE,EUR
+08a934df-a3d8-4c41-9ce4-1503626cc288,02/16/2007 10:00:34,Trade Balance s.a.,NONE,EUR
+d29e7940-4468-4276-974e-884375e9acbc,02/16/2007 13:30:00,Housing Starts (MoM),MEDIUM,USD
+18cb1d1b-8332-41c1-862f-50f1cbc14f09,02/16/2007 13:30:00,Producer Price Index (MoM),MEDIUM,USD
+a5ed41c7-17ac-40d3-ad6a-433df56772b5,02/16/2007 13:30:00,Producer Price Index (YoY),MEDIUM,USD
+f8519c2d-0c48-400d-931d-927ccd3a8dc6,02/16/2007 13:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
+dbcefb97-38a7-49de-bda6-38e728e678f6,02/16/2007 13:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD
+84a81408-47b4-400b-a2d0-c89241f6c3cd,02/20/2007 07:00:00,Producer Price Index (MoM),LOW,EUR
+134a4ffc-afbc-4286-9254-e6640bbcd48c,02/20/2007 07:00:00,Producer Price Index (YoY),NONE,EUR
+45052416-7e98-4ebe-a43f-06fc9be91d8d,02/20/2007 09:30:00,M4 Money Supply (MoM),LOW,GBP
+ff14c23b-30d6-4798-a5e7-e5313e542144,02/20/2007 09:30:00,M4 Money Supply (YoY),NONE,GBP
+bcf6736d-12f4-4e68-850d-e871bc4e0be6,02/20/2007 09:30:00,Public Sector Net Borrowing,NONE,GBP
+817a953f-ef7e-42f5-9c7d-0ec4512a10de,02/21/2007 04:00:00,BoJ Interest Rate Decision,HIGH,JPY
+ac6ee61c-8393-483a-a484-ea9e5c211821,02/21/2007 06:00:00,BoJ Monthly Economic Survey,HIGH,JPY
+f144e13e-fda5-42b5-a82c-ff1b1d49f7bf,02/21/2007 09:30:00,BoE Minutes,MEDIUM,GBP
+e34fe34d-a389-48a3-839b-9a54b7537152,02/21/2007 11:00:00,CBI Industrial Trends Survey – Orders (MoM),LOW,GBP
+3b6255df-8f35-4292-b395-4a4c27986287,02/21/2007 13:30:00,Consumer Price Index (MoM),HIGH,USD
+a1e84ff2-d034-4eb4-8c2f-fdacbb926cb6,02/21/2007 13:30:00,Consumer Price Index (YoY),NONE,USD
+fd547ab7-5275-4d5d-900f-43387dfd00b7,02/21/2007 13:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+54f7a3c3-dcbb-456f-a24e-fe23a341b716,02/21/2007 13:30:00,Consumer Price Index ex Food & Energy (YoY),NONE,USD
+ade92ffd-da97-485b-957c-cf4e0e6e27fd,02/21/2007 19:00:00,FOMC Minutes,MEDIUM,USD
+6746cca7-6032-42d3-96c5-c9af8d3eb680,02/22/2007 07:00:00,Gross Domestic Product (QoQ),MEDIUM,EUR
+eeb76a6b-c194-4f43-8afa-9777c700d160,02/22/2007 09:30:00,Total Business Investment (QoQ),MEDIUM,GBP
+4d69f009-8ae1-447d-8d84-f8fa93dc9cea,02/22/2007 10:00:00,Industrial New Orders (YoY),NONE,EUR
+d8d094f0-3cd6-4b43-acec-c28125076c97,02/22/2007 10:00:00,Industrial New Orders s.a. (MoM),LOW,EUR
+58cba931-4533-4812-b536-c1d6daa9b1fb,02/22/2007 13:30:00,Initial Jobless Claims,NONE,USD
+7f0955da-1b29-458e-b63e-098ad5f58416,02/22/2007 23:50:00,All Industry Activity Index (MoM),MEDIUM,JPY
+16b80c19-8779-4b5d-b3e7-36f056e3cd94,02/23/2007 09:00:00,IFO – Business Climate,MEDIUM,EUR
+4a6040ca-b2d6-415b-97ce-64ffeeb6c7ff,02/23/2007 09:00:00,IFO – Expectations,NONE,EUR
+54fb9aaa-3dd2-44d6-ac88-6e50bedc76c9,02/23/2007 09:30:00,Gross Domestic Product (QoQ),MEDIUM,GBP
+33a4325c-0c15-4abf-8e72-dc30fd8b95a0,02/26/2007 05:00:00,BoJ Minutes,MEDIUM,JPY
+cdabbf44-4ab1-4fd4-9448-37811bf7e8ec,02/27/2007 09:00:00,M3 Money Supply (YoY),MEDIUM,EUR
+48fb63fc-48ff-42ec-8245-dcf5b4b14dd0,02/27/2007 13:30:00,Durable Goods Orders,MEDIUM,USD
+77c5a6dd-b5a2-42db-a8ef-a8f04e3033ee,02/27/2007 15:00:00,Consumer Confidence,MEDIUM,USD
+f1151e9b-ad7c-468a-9739-26e548713820,02/27/2007 15:00:00,Existing Home Sales (MoM),LOW,USD
+cb08826b-6fa1-4d45-b394-407812ccfc6e,02/27/2007 17:00:00,Consumer Price Index (MoM),LOW,EUR
+daf0d756-34ab-440c-bb75-97b82cdec84f,02/27/2007 17:00:00,Consumer Price Index (YoY),NONE,EUR
+44f1ea8f-c25f-4f84-87f8-dd6fd07baa4c,02/27/2007 23:50:00,Industrial Production (MoM),LOW,JPY
+dcebe6fd-13bc-4203-9e02-d30daf89f395,02/27/2007 23:50:00,Industrial Production (YoY),NONE,JPY
+0492d88d-4b79-417c-b7c9-3bfb34b72e06,02/28/2007 07:00:00,Nationwide Housing Prices n.s.a (YoY),NONE,GBP
+58f7e284-93e8-448f-821d-c3d675e8aee0,02/28/2007 07:00:00,Nationwide Housing Prices s.a (MoM),MEDIUM,GBP
+33673d15-942e-4e2f-9f81-b89cdee6b1a8,02/28/2007 08:55:00,Unemployment Change,LOW,EUR
+bb6b9009-e2af-44c0-9595-a3c6da8511b1,02/28/2007 08:55:00,Unemployment Rate s.a.,LOW,EUR
+f596ca6d-2b0c-4e67-9bd3-a2c0d3813856,02/28/2007 10:00:00,Economic Sentiment Indicator,MEDIUM,EUR
+5613d76d-b041-402d-a16d-833fd24de352,02/28/2007 10:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
+c5a4ffba-4d23-4679-b2e7-c30c3ae01336,02/28/2007 10:00:00,Harmonized Index of Consumer Prices (YoY),NONE,EUR
+7644ead6-551a-4fd5-ac4a-35f8aa46c8fc,02/28/2007 10:00:00,Industrial Confidence,MEDIUM,EUR
+9828322f-7f01-4feb-872f-cc5a93c669be,02/28/2007 10:00:00,Unemployment Rate,MEDIUM,EUR
+599ed719-6d98-4ed0-a323-870336eea741,02/28/2007 13:30:00,Gross Domestic Product Annualized,HIGH,USD
+ed1f630c-1236-4b88-b6b6-77e3706e5ea6,02/28/2007 14:45:00,Chicago PMI,MEDIUM,USD
+4fb883c8-2fd2-4dc1-a25a-95d142218a44,02/28/2007 15:00:00,Former Fed's Chair Bernanke speech,LOW,USD
+f61670d8-9f45-41b7-a229-1048d8abd8b3,02/28/2007 15:00:00,New Home Sales (MoM),LOW,USD
+9bb751f3-2246-494c-8c09-f8a87f79be30,03/01/2007 08:55:00,HCOB Manufacturing PMI,LOW,EUR
+6f66b58e-4246-44e0-8a56-09757b544a10,03/01/2007 09:00:00,HCOB Manufacturing PMI,LOW,EUR
+9831926a-5df6-4bc6-8038-17164422533d,03/01/2007 09:30:00,S&P Global Manufacturing PMI,MEDIUM,GBP
+e42cdfa5-809c-43a0-8ae4-c20b10cc5ae0,03/01/2007 13:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+778c47ea-a1bd-4e12-8cef-e7f2dca50db2,03/01/2007 13:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+422d0b5f-173f-4698-ac50-ef186ff4a637,03/01/2007 13:30:00,Personal Income (MoM),HIGH,USD
+621b39d6-bcb8-4465-887c-7d8713dbfddf,03/01/2007 15:00:00,ISM Manufacturing PMI,MEDIUM,USD
+7a74f710-0af6-4635-a9e3-35a772828dd9,03/01/2007 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
+6a1ced17-ef09-4f67-9a94-2ca0504b5f10,03/01/2007 23:30:00,Tokyo Consumer Price Index (YoY),MEDIUM,JPY
+27fc6b06-033c-4047-a2ef-5d295cf4bdd0,03/02/2007 07:00:00,Retail Sales (MoM),LOW,EUR
+95eed18f-6b3a-4b4c-9e6c-10fc89d46c80,03/02/2007 07:00:00,Retail Sales (YoY),LOW,EUR
+231c7733-f245-4159-b8bc-67f6e4765ad8,03/02/2007 09:30:00,S&P Global Construction PMI,LOW,GBP
+177d1f85-fa62-42b5-8bfe-8430ba1d92a8,03/02/2007 10:00:00,Producer Price Index (MoM),LOW,EUR
+91a73044-9ba1-4e50-98bd-21080a7db0b4,03/02/2007 10:00:00,Producer Price Index (YoY),LOW,EUR
+63a98870-8444-4ba5-9254-408d832bc656,03/05/2007 08:55:00,HCOB Services PMI,LOW,EUR
+18be5f29-302f-417a-a230-64ba0398b926,03/05/2007 09:30:00,S&P Global Services PMI,MEDIUM,GBP
+b87dea01-a042-4ad3-878c-4727b54edac8,03/05/2007 15:00:00,ISM Services PMI,NONE,USD
+a64932f3-7ee3-4f68-819d-07f53d66c6b8,03/06/2007 10:00:00,Gross Domestic Product s.a. (QoQ),MEDIUM,EUR
+6c14de9f-1589-4674-9819-c07158b2c8fc,03/06/2007 10:00:00,Gross Domestic Product s.a. (YoY),MEDIUM,EUR
+98aaa800-0d60-4991-bc3a-70d7b1b52248,03/06/2007 10:00:00,Retail Sales (MoM),MEDIUM,EUR
+7902805a-0f93-4d1f-a825-5a883dfe85b0,03/06/2007 10:00:00,Retail Sales (YoY),MEDIUM,EUR
+ba682b1e-e73e-4e6f-a771-866100ac5c4c,03/06/2007 13:30:00,Nonfarm Productivity,MEDIUM,USD
+e01ef379-6ae3-4b03-9ffd-4447826f8b38,03/06/2007 15:00:00,Factory Orders (MoM),LOW,USD
+cee7d346-e509-471d-9c79-4d45d10d9a01,03/07/2007 05:00:00,Leading Economic Index,LOW,JPY
+ecc4ca5b-413d-447f-9663-17e4d93ef664,03/07/2007 11:00:00,Factory Orders n.s.a. (YoY),LOW,EUR
+79ba223a-4271-4b63-bc05-c3e561b86c0a,03/07/2007 11:00:00,Factory Orders s.a. (MoM),LOW,EUR
+df00540f-0913-427e-913a-8b646ba6d508,03/07/2007 13:15:00,ADP Employment Change,LOW,USD
+15c8cf57-8338-44e4-a384-2faf18871421,03/07/2007 19:00:00,Fed's Beige Book,MEDIUM,USD
+492aea6e-efe2-4e03-99b9-bd665e98275d,03/08/2007 11:00:00,Industrial Production n.s.a. w.d.a. (YoY),LOW,EUR
+8d30f33a-eff6-4f4d-ad2c-24d9c0d449cc,03/08/2007 11:00:00,Industrial Production s.a. (MoM),LOW,EUR
+2f1682e5-f382-4523-803e-7e45a0f08c4f,03/08/2007 11:45:00,ECB Main Refinancing Operations Rate,HIGH,EUR
+b62a0de3-f50a-4692-81f1-841d2b20fdd0,03/08/2007 13:30:00,Initial Jobless Claims,NONE,USD
+4b740a45-c7e4-4e35-80cc-5895e5707539,03/09/2007 07:00:00,Trade Balance s.a.,NONE,EUR
+20c4e3ef-d39c-482b-989b-4af73d9b54b3,03/09/2007 09:30:00,Industrial Production (MoM),MEDIUM,GBP
+269dbac4-331e-490c-a36d-987b243e31b1,03/09/2007 09:30:00,Industrial Production (YoY),MEDIUM,GBP
+e1f3dec9-7280-4872-b9f7-c78d13dad4f0,03/09/2007 09:30:00,Manufacturing Production (MoM),NONE,GBP
+105d0187-41f2-4ea2-96a7-58e1f45b0276,03/09/2007 09:30:00,Manufacturing Production (YoY),NONE,GBP
+753665f5-945d-4bae-926d-0dd3a2e7148b,03/09/2007 13:30:00,Average Hourly Earnings (MoM),HIGH,USD
+df5002d4-17a7-477c-a4fc-823556f12f42,03/09/2007 13:30:00,Goods and Services Trade Balance,MEDIUM,USD
+ae7ca7de-b232-427e-a124-f6fa88ab883e,03/09/2007 13:30:00,Nonfarm Payrolls,HIGH,USD
+46fbf53a-b190-433e-aa40-7b41a1b82345,03/09/2007 13:30:00,Unemployment Rate,HIGH,USD
+7be6dafb-4520-4277-95c5-5d2b8d9947e3,03/11/2007 23:50:00,Gross Domestic Product (QoQ),MEDIUM,JPY
+0c730f6a-1728-48a6-9cd6-8d18223eadcd,03/11/2007 23:50:00,Gross Domestic Product Annualized,MEDIUM,JPY
+83ac6b2f-e47f-4284-9d42-b4ad4eb79f98,03/12/2007 05:00:00,Consumer Confidence Index,LOW,JPY
+9c7185ce-3dea-4dd4-8074-3b03e5e05673,03/12/2007 09:30:00,Producer Price Index - Input (MoM) n.s.a,MEDIUM,GBP
+40707917-35a8-4611-9318-814cdfcd02f5,03/12/2007 09:30:00,Producer Price Index - Input (YoY) n.s.a,MEDIUM,GBP
+1c45eda8-2408-4df7-9ad5-b142eba39f23,03/12/2007 09:30:00,Producer Price Index - Output (MoM) n.s.a,MEDIUM,GBP
+5f5d4f4f-65df-4024-8720-4ec5876b340b,03/12/2007 09:30:00,Producer Price Index - Output (YoY) n.s.a,MEDIUM,GBP
+d108d2dd-70b4-4f26-a41c-71f1c2dccfe8,03/13/2007 00:01:00,RICS Housing Price Balance,MEDIUM,GBP
+5aacf40a-4c3e-4c2b-b6ad-b653c66749ca,03/13/2007 09:30:00,Goods Trade Balance,HIGH,GBP
+37099b38-bc2e-4ce4-a6ea-9f9db296bb00,03/13/2007 09:30:00,Trade Balance; non-EU,MEDIUM,GBP
+8b0002aa-8e51-404f-a156-5dea932c48dd,03/13/2007 10:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR
+6d22657a-842d-45ab-ac83-8e62a9f3fe1f,03/13/2007 12:30:00,Retail Sales ex Autos (MoM),NONE,USD
+e117df0c-202f-46a7-a129-e0a7e12fcd02,03/13/2007 14:00:00,Business Inventories,MEDIUM,USD
+782ff639-8f52-447e-9dde-d38b1936466e,03/14/2007 04:30:00,Industrial Production (MoM),NONE,JPY
+aaa7606d-73eb-4747-9681-cd441ebbfd74,03/14/2007 10:00:00,Employment Change (QoQ),NONE,EUR
+6f860875-c1ca-4630-beb3-fd3cf9a794b1,03/14/2007 10:00:00,Employment Change (YoY),LOW,EUR
+54935070-b1e9-4391-b4a2-9ebfb58ca286,03/14/2007 10:00:00,Industrial Production s.a. (MoM),LOW,EUR
+841e1ebc-9c4f-4675-90b2-85d100ef8bd6,03/14/2007 10:00:00,Industrial Production w.d.a. (YoY),LOW,EUR
+60879acb-8746-4c79-866b-b8e7cb57c633,03/14/2007 12:30:00,Current Account,LOW,USD
+e6efa889-689a-42d0-8df2-12e717a42874,03/15/2007 10:00:00,Core Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
+2cf45a5e-d0df-4d85-a413-84b074ecd125,03/15/2007 10:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
+8fd768d0-4ab9-4d7d-b1c4-276fee5f5deb,03/15/2007 10:00:00,Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
+724d51f3-a7f1-42cb-9039-1bedee85ab5a,03/15/2007 12:30:00,Initial Jobless Claims,NONE,USD
+8dd5965e-4c4c-4598-b057-a54545d8a5df,03/15/2007 12:30:00,Producer Price Index (MoM),MEDIUM,USD
+a978227a-7034-4077-8ae3-c206595f436f,03/15/2007 12:30:00,Producer Price Index (YoY),MEDIUM,USD
+897b80c4-eff2-46a2-bb79-1b44da9ce845,03/15/2007 12:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
+a9b4a4af-53ac-4458-9b4f-18234bc60452,03/15/2007 12:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD
+218250b9-e0fa-4e67-a74a-df0320c6a749,03/15/2007 13:00:00,Net Long-Term TIC Flows,MEDIUM,USD
+4d902852-1299-418d-900f-bb4c1cddc8d6,03/15/2007 13:00:00,Total Net TIC Flows,NONE,USD
+1ebc14ef-ffc2-48e8-a2c5-e885be5d81c0,03/15/2007 16:00:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD
+007ab37c-822d-429a-b3c4-f7277f78c899,03/15/2007 23:50:00,Tertiary Industry Index (MoM),MEDIUM,JPY
+d91079ed-4a6a-425d-a8a2-e80e9f9a5fff,03/16/2007 05:00:00,Leading Economic Index,LOW,JPY
+07ba8346-8673-49ef-ba85-902952834198,03/16/2007 12:30:00,Consumer Price Index (MoM),HIGH,USD
+63735a3f-3217-433c-af77-8d747dae70b8,03/16/2007 12:30:00,Consumer Price Index (YoY),HIGH,USD
+afe1a006-782a-43db-a6b5-5d1dbf0d5407,03/16/2007 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+08b16849-7fce-44a6-8e52-ff73010c2ae1,03/16/2007 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+1917786e-3a0b-4594-abe4-623d2b2a0398,03/16/2007 13:15:00,Capacity Utilization,MEDIUM,USD
+0327eb1b-2ff8-4bb1-a5cb-1ca48c1bf959,03/16/2007 13:15:00,Industrial Production (MoM),NONE,USD
+d07ba911-9bad-4c5f-a2f7-661fe3092645,03/19/2007 00:01:00,Rightmove House Price Index (MoM),LOW,GBP
+1bdf28a7-bb8e-4f3f-939a-67bd1e749c3a,03/19/2007 00:01:00,Rightmove House Price Index (YoY),LOW,GBP
+81c625ba-f198-4afc-9744-25ac8332aed8,03/20/2007 07:00:00,Producer Price Index (MoM),LOW,EUR
+b21de269-361b-48d8-8eeb-7bb8bf761c88,03/20/2007 07:00:00,Producer Price Index (YoY),LOW,EUR
+3f554fda-35ae-4577-8e01-8f48c63a7e33,03/20/2007 09:30:00,Consumer Price Index (MoM),MEDIUM,GBP
+d230f0fd-5472-4aae-a8ab-84c797000fff,03/20/2007 09:30:00,Consumer Price Index (YoY),NONE,GBP
+15cd2021-31d9-4648-8bee-8d8a17d5b04f,03/20/2007 09:30:00,Core Consumer Price Index (YoY),MEDIUM,GBP
+4554fade-74ea-479b-89dc-915765fe2801,03/20/2007 09:30:00,M4 Money Supply (MoM),LOW,GBP
+b7108994-a59b-4c4e-a97c-44050627cf34,03/20/2007 09:30:00,M4 Money Supply (YoY),LOW,GBP
+b239d880-4bf1-4055-bca6-d4859f18b195,03/20/2007 09:30:00,Retail Price Index (MoM),MEDIUM,GBP
+50a14734-e926-46f7-8b79-31fc6a392957,03/20/2007 09:30:00,Retail Price Index (YoY),MEDIUM,GBP
+0fcdd1f1-5ba1-4ec6-901a-aa04d8a54777,03/20/2007 12:30:00,Building Permits (MoM),NONE,USD
+49fa2a9e-6c08-4782-af87-65add218b606,03/20/2007 12:30:00,Housing Starts (MoM),NONE,USD
+cf6d5061-2efc-4b37-bf2b-f00a837f0986,03/21/2007 09:30:00,BoE Minutes,MEDIUM,GBP
+b3b3937c-3389-4e44-bef2-d4d06de4ac21,03/21/2007 23:50:00,BSI Large Manufacturing Conditions Index (QoQ),LOW,JPY
+4cd45494-48a6-41b8-b367-015348ce4f96,03/21/2007 23:50:00,Merchandise Trade Balance Total,LOW,JPY
+83cbf259-7abd-4d58-bc54-1f74cc0d4647,03/22/2007 09:30:00,Retail Sales (MoM),MEDIUM,GBP
+fddfd75f-dcd8-438a-874a-9ccdf024da20,03/22/2007 09:30:00,Retail Sales (YoY),MEDIUM,GBP
+e4312dd2-d0c8-44f1-b8e3-cac131fea7be,03/22/2007 10:00:00,Industrial New Orders (YoY),LOW,EUR
+b8b82be8-d5af-49f8-8218-2383e846f52b,03/22/2007 10:00:00,Industrial New Orders s.a. (MoM),LOW,EUR
+acca2ccb-b37e-42f7-b77e-f3d0547f919e,03/22/2007 10:00:00,Trade Balance n.s.a.,LOW,EUR
+ad3ccc1d-ee57-4dd0-80fe-d515e239dd69,03/22/2007 11:00:00,CBI Industrial Trends Survey – Orders (MoM),LOW,GBP
+9d2130b7-bd6e-4f98-855c-97d0b9ee620f,03/22/2007 12:30:00,Initial Jobless Claims,NONE,USD
+8d23cdf2-d371-4925-aa71-d38b66f74eb9,03/23/2007 09:00:00,Current Account n.s.a,NONE,EUR
+622dc7ab-313e-4e80-b63f-01e88198a9f9,03/23/2007 14:00:00,Existing Home Sales (MoM),LOW,USD
+b973d8e3-88a1-433b-ac23-16787060d623,03/23/2007 14:00:32,Existing Home Sales Change (MoM),LOW,USD
+048d4b73-7103-4347-8b9b-da249ef85f61,03/26/2007 04:00:00,BoJ Minutes,NONE,JPY
+5f4ee93f-8c51-40ae-85c8-d51e79ae0476,03/26/2007 08:30:00,CML Gross Mortgage Lending s.a.,NONE,GBP
+ed90c2dd-17bf-4a5c-8bce-7fce5339a9f4,03/26/2007 08:30:00,M4 Sterling Lending,NONE,GBP
+e3f94a21-b792-476d-a958-f72df69924a5,03/26/2007 14:00:00,New Home Sales (MoM),LOW,USD
+71919972-544f-4f43-98e4-2b678d0b2baf,03/27/2007 08:00:00,IFO – Business Climate,HIGH,EUR
+82292cab-c20f-4c00-b46d-21bff32c8a6c,03/27/2007 14:00:00,Consumer Confidence,MEDIUM,USD
+c165f441-36b2-4bfd-a5ea-a8d57ec77655,03/28/2007 06:00:00,Consumer Price Index (MoM),MEDIUM,EUR
+ce0ed24a-00bd-4d73-a845-43cef8700c97,03/28/2007 06:00:00,Consumer Price Index (YoY),MEDIUM,EUR
+cc411ccf-ff32-47aa-abfd-55171aa8b611,03/28/2007 06:00:00,Nationwide Housing Prices n.s.a (YoY),MEDIUM,GBP
+67131834-948b-48d9-bab3-194dd7dab896,03/28/2007 06:00:00,Nationwide Housing Prices s.a (MoM),MEDIUM,GBP
+6a7c9757-b759-4b56-912a-b058a9119437,03/28/2007 06:10:00,GfK Consumer Confidence Survey,MEDIUM,EUR
+007d516d-07be-4c08-a3d9-0c30fc5bf343,03/28/2007 08:00:00,M3 Money Supply (YoY),LOW,EUR
+045bc23f-efe6-4f22-af4e-7ef9e0d94ea7,03/28/2007 08:30:00,Gross Domestic Product (QoQ),MEDIUM,GBP
+cee1352a-b359-4404-b93e-3b8c479ce5c8,03/28/2007 08:30:00,Gross Domestic Product (YoY),MEDIUM,GBP
+0972f17a-72ab-4067-9f6d-4df8247eb90b,03/28/2007 12:30:00,Durable Goods Orders,MEDIUM,USD
+d59923bb-df1b-4880-85f1-17a3030e7bd1,03/28/2007 14:30:00,EIA Crude Oil Stocks Change,NONE,USD
+6e0c4fab-9d07-43ec-8175-fd4d1547fb43,03/28/2007 23:50:00,Retail Trade (YoY),LOW,JPY
+9747447d-15f7-4400-880b-47d4ad9882c6,03/29/2007 07:55:00,Unemployment Change,LOW,EUR
+61826401-1ba8-4080-a539-fe5d548f4765,03/29/2007 07:55:00,Unemployment Rate s.a.,LOW,EUR
+b869fb33-99f9-4c03-ab90-df696dd53351,03/29/2007 08:30:00,Consumer Credit,LOW,GBP
+80a07a34-b6d5-4ad4-94d8-0ab4dd82448f,03/29/2007 08:30:02,M4 Money Supply (YoY),NONE,GBP
+d9effebf-1dd8-4ba3-98c4-5ff89e722ded,03/29/2007 08:30:49,Mortgage Approvals,LOW,GBP
+74a54133-b64a-4d7e-9819-2ca53c1b2ffb,03/29/2007 10:00:00,CBI Distributive Trades Survey – Realized (MoM),LOW,GBP
+23625ac7-4f1d-45d1-89fc-97073c3f7d0d,03/29/2007 12:30:00,Core Personal Consumption Expenditures (QoQ),HIGH,USD
+ec756b8e-b0b3-473b-95dd-0bc52c54c4a4,03/29/2007 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+14036b2e-df78-4688-93d0-949dc9e6ae4a,03/29/2007 12:30:00,Gross Domestic Product Price Index,HIGH,USD
+c63a2f95-4f4e-49ce-8eb0-3d69108c4959,03/29/2007 12:30:00,Initial Jobless Claims,NONE,USD
+1418ea48-b72f-4afe-b6a2-8dc778dca1a6,03/29/2007 23:30:00,National Consumer Price Index (YoY),LOW,JPY
+0547f45d-2e8b-4825-a441-0bc5ed55f6ca,03/29/2007 23:30:00,Unemployment Rate,MEDIUM,JPY
+7a298e81-1a64-442f-9194-2994a53ce333,03/29/2007 23:50:00,Industrial Production (MoM),LOW,JPY
+1a52d716-7505-4958-8512-a384a177ec3f,03/29/2007 23:50:00,Industrial Production (YoY),LOW,JPY
+dbddfda5-48ef-40ed-9520-8797f166d404,03/30/2007 05:00:00,Housing Starts (YoY),LOW,JPY
+6fe22ddc-e27f-4b29-8679-f70d82c7b74f,03/30/2007 06:00:00,Retail Sales (MoM),LOW,EUR
+5c643748-47dd-40ae-9f34-92e265b16c7f,03/30/2007 06:00:00,Retail Sales (YoY),LOW,EUR
+ab895af6-312f-4745-8161-7a53b40e7e7c,03/30/2007 09:00:00,Consumer Confidence,MEDIUM,EUR
+1189aa7c-e35d-434c-a308-ae84ac86fd70,03/30/2007 09:00:00,Economic Sentiment Indicator,MEDIUM,EUR
+5e92304e-d7ff-4e4e-bfe8-1a3389aad737,03/30/2007 09:00:00,Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
+86eb6633-fa80-4afe-9b35-2eb6e66b9cf2,03/30/2007 09:00:00,Unemployment Rate,MEDIUM,EUR
+87a2c04b-9b43-4a7a-b53f-a876ee5e7d2d,03/30/2007 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+0c6fa7a2-039d-4984-a032-714e0a2010c2,03/30/2007 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+74e4c8bc-f75a-4d7b-85a8-cbc6438b4c69,03/30/2007 12:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+ab5d896c-38a9-4a11-92dc-36f76e04f3aa,03/30/2007 12:30:00,Personal Income (MoM),HIGH,USD
+abe8d015-7d08-40f8-94a3-c4c6734ca9ca,03/30/2007 13:45:00,Chicago PMI,MEDIUM,USD
+0b20fa12-8c69-407f-b5f8-30a13a1b4445,03/30/2007 14:00:00,Construction Spending (MoM),LOW,USD
+1c79b786-6613-4444-94a9-9d8b2de2b3ed,04/01/2007 23:50:00,Tankan Large All Industry Capex,MEDIUM,JPY
+3318b92a-871c-419d-b1c8-39f95702ea07,04/01/2007 23:50:00,Tankan Large Manufacturing Index,MEDIUM,JPY
+80402908-f549-4979-8457-3010ac1f14e9,04/01/2007 23:50:00,Tankan Large Manufacturing Outlook,MEDIUM,JPY
+9bde3f9f-99f8-40a4-8326-bf427e6b1e86,04/01/2007 23:50:00,Tankan Non - Manufacturing Index,MEDIUM,JPY
+ab63b27b-79eb-4ba9-bc9c-43710f579fdd,04/01/2007 23:50:00,Tankan Non - Manufacturing Outlook,MEDIUM,JPY
+01dfac0c-57dc-4dd7-87c3-f9eee4d43ea8,04/02/2007 07:55:00,HCOB Manufacturing PMI,LOW,EUR
+1296d183-3b28-49c9-b651-f4a81c0ba018,04/02/2007 08:00:00,HCOB Manufacturing PMI,LOW,EUR
+eae83713-3f74-4f73-88c3-e4fab81ea5e9,04/02/2007 08:30:00,S&P Global Manufacturing PMI,MEDIUM,GBP
+c27a1409-5ffb-485c-b51c-c9c711d9645e,04/02/2007 14:00:00,ISM Manufacturing PMI,HIGH,USD
+52b5b1c5-2994-4212-b1cf-61c283afb235,04/03/2007 08:30:00,S&P Global Construction PMI,NONE,GBP
+58109794-ead0-4122-b4df-1fdb07902348,04/03/2007 09:00:00,Producer Price Index (MoM),LOW,EUR
+81e3213e-10e4-4265-9e46-cc6448efb465,04/03/2007 09:00:00,Producer Price Index (YoY),LOW,EUR
+48f41e72-b89e-4898-82b1-ae85231091e0,04/03/2007 23:01:00,Nationwide Consumer Confidence,MEDIUM,GBP
+c5066899-056c-4599-b20d-1312c6bcea18,04/04/2007 07:55:00,HCOB Services PMI,LOW,EUR
+01e8389a-5010-43c1-bb54-3bfcffd7fd74,04/04/2007 08:30:00,S&P Global Services PMI,MEDIUM,GBP
+beba218a-844c-4058-ab62-8ca104c122d0,04/04/2007 09:00:00,Retail Sales (MoM),LOW,EUR
+bb7eefba-3fe1-4e03-96a4-67b017108106,04/04/2007 09:00:00,Retail Sales (YoY),LOW,EUR
+4e03ac54-715d-44e5-8aff-0693aa7f931b,04/04/2007 10:00:00,Factory Orders n.s.a. (YoY),LOW,EUR
+4721c383-b2d6-4e13-bbbe-e48cc6861327,04/04/2007 10:00:00,Factory Orders s.a. (MoM),LOW,EUR
+e333c817-bcfc-4806-b749-2d2ce23fd9d2,04/04/2007 12:15:00,ADP Employment Change,LOW,USD
+b6916c70-cbf7-4488-97fd-29c7e4604432,04/04/2007 14:00:00,Factory Orders (MoM),MEDIUM,USD
+b436e8af-5470-455d-8434-390946406f73,04/04/2007 14:00:00,ISM Services PMI,MEDIUM,USD
+0cf5959d-a566-43c3-89c3-5b1ae7e8b20c,04/05/2007 08:30:00,Industrial Production (MoM),MEDIUM,GBP
+7770e28a-b49b-4fab-be62-09f01e1a4c2a,04/05/2007 08:30:00,Industrial Production (YoY),MEDIUM,GBP
+a79c2319-3d14-443d-b2a8-673496b0867b,04/05/2007 10:00:00,Industrial Production s.a. (MoM),LOW,EUR
+7a9bf214-4c3e-46e6-a0f3-ae94c943f2be,04/05/2007 12:30:06,Initial Jobless Claims,NONE,USD
+2e997a4a-1ac0-4e4a-9206-c46133e117a0,04/06/2007 05:00:00,Leading Economic Index,LOW,JPY
+b565d9e4-79b1-4eeb-afae-37e657bfa1a3,04/06/2007 12:30:00,Nonfarm Payrolls,HIGH,USD
+677daa04-4503-4b2f-b69b-c1efcfb3abe9,04/06/2007 12:30:00,Unemployment Rate,HIGH,USD
+6278038f-e92e-4069-a831-a82787f8313e,04/06/2007 14:00:00,Wholesale Inventories,NONE,USD
+bbf42e18-c012-490f-b543-1d91cf18ab92,04/06/2007 19:00:00,Consumer Credit Change,NONE,USD
+bbf707d7-5b7b-4023-a3ae-5ac1588cbf63,04/09/2007 09:30:00,BRC Shop Price Index (YoY),LOW,GBP
+28a9c980-5409-4371-af67-af1909af2c25,04/10/2007 06:00:00,BoJ's Governor Fukui speech,MEDIUM,JPY
+de53ad87-8167-4b3e-81b0-f510d68cc12d,04/10/2007 06:00:11,Trade Balance s.a.,NONE,EUR
+7176b4da-4bba-4738-8a5c-d8f17c384042,04/10/2007 23:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP
+9a5b2d8d-850b-45bc-be1e-3c7963cc3924,04/11/2007 14:30:00,EIA Crude Oil Stocks Change,NONE,USD
+410ded38-32d8-4e0f-885e-040b599aeb53,04/11/2007 18:00:00,FOMC Minutes,MEDIUM,USD
+200fdc84-88d2-4bf6-a233-189c15c2d4b1,04/11/2007 23:01:00,RICS Housing Price Balance,MEDIUM,GBP
+3dbdd155-e215-4058-ba54-ef60a7670213,04/11/2007 23:50:00,Producer Price Index (MoM),MEDIUM,JPY
+3b7c1589-9b97-4145-826f-7693694693fb,04/12/2007 08:30:00,Goods Trade Balance,HIGH,GBP
+66c2f655-5d52-41aa-88e7-c6a5d15a9420,04/12/2007 09:00:00,Gross Domestic Product s.a. (QoQ),LOW,EUR
+42e908be-9c09-4187-8995-7f59564e9eae,04/12/2007 09:00:00,Gross Domestic Product s.a. (YoY),LOW,EUR
+36f09d3f-6cb8-42aa-8e14-879fa4489995,04/12/2007 12:30:00,Import Price Index (MoM),MEDIUM,USD
+915cb274-efd4-40de-bc08-4345d8e873c3,04/12/2007 12:30:00,Import Price Index (YoY),MEDIUM,USD
+a916fbba-5acd-4ab8-86ca-e036311296bd,04/12/2007 12:30:00,Initial Jobless Claims,NONE,USD
+a66c4f42-e4d6-4820-b7be-a225d46e7b91,04/13/2007 09:00:20,Industrial Production s.a. (MoM),LOW,EUR
+6987474c-0ea4-40b4-b6d0-eaf2da5ad94e,04/13/2007 12:30:00,Goods and Services Trade Balance,MEDIUM,USD
+075c3264-c49d-4a7d-89b4-d7b818328ca9,04/13/2007 12:30:00,Producer Price Index (MoM),MEDIUM,USD
+038d8c1e-b7a0-4057-9b6b-f5c229f2033c,04/13/2007 12:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
+ad13244f-2a6d-466c-baee-b31aab7dc138,04/16/2007 04:30:00,Capacity Utilization,LOW,JPY
+72c31162-89a8-4fb9-b55a-0f33a07060a0,04/16/2007 04:30:00,Industrial Production (MoM),LOW,JPY
+415b38cf-d99b-40ff-a0d7-b0880393fcd3,04/16/2007 04:30:00,Industrial Production (YoY),LOW,JPY
+6acbd6d5-a5f7-4b1e-9e5a-0cc83a190281,04/16/2007 06:00:00,Consumer Price Index (MoM),LOW,EUR
+3282d9bd-4e59-43a1-a29c-705515c33501,04/16/2007 06:00:00,Consumer Price Index (YoY),LOW,EUR
+8d4287fa-1cef-498e-9d20-64979f770545,04/16/2007 08:30:00,Producer Price Index - Input (MoM) n.s.a,MEDIUM,GBP
+ccd82421-1678-4b7c-95e4-b060a42a2f65,04/16/2007 08:30:00,Producer Price Index - Input (YoY) n.s.a,MEDIUM,GBP
+641b9176-8d10-49ea-8078-2d858bcaa903,04/16/2007 08:30:00,Producer Price Index - Output (MoM) n.s.a,MEDIUM,GBP
+ba4a2b04-60c1-4633-af90-18244ed68817,04/16/2007 08:30:00,Producer Price Index - Output (YoY) n.s.a,MEDIUM,GBP
+dcb74037-dc9b-46b9-8f9e-dbc95a703f2a,04/16/2007 09:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
+94a2d2b2-ac2c-48c7-9c1a-5463482af27f,04/16/2007 09:00:00,Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
+027220b5-02a8-4908-be79-3fcedc7f038a,04/16/2007 12:30:00,NY Empire State Manufacturing Index,LOW,USD
+febe0809-da2e-49b7-987b-8fa98e64e875,04/16/2007 12:30:00,Retail Sales (MoM),NONE,USD
+50c24b0e-562d-43dd-8ae9-a34cc2fdfa76,04/16/2007 12:30:00,Retail Sales ex Autos (MoM),HIGH,USD
+9387c7ef-1804-4e10-be0b-2cfa1df4ed36,04/16/2007 13:00:00,Net Long-Term TIC Flows,MEDIUM,USD
+e3652662-c0ee-4b48-95d0-11eddd3e609e,04/16/2007 14:00:00,Business Inventories,LOW,USD
+324d7337-cfba-4208-b320-737f7e7feb1b,04/17/2007 05:00:00,Consumer Confidence Index,LOW,JPY
+98354bbf-2df8-4772-b669-7269f96691a0,04/17/2007 08:30:00,Consumer Price Index (MoM),MEDIUM,GBP
+13d2c463-2390-49b2-b77f-769dc2c24b03,04/17/2007 08:30:00,Consumer Price Index (YoY),MEDIUM,GBP
+5606db52-47c3-411b-b603-baaa6ae8cb5f,04/17/2007 08:30:00,Core Consumer Price Index (YoY),MEDIUM,GBP
+3fea441a-527c-48b6-9674-a58efebebf21,04/17/2007 08:30:00,Retail Price Index (MoM),MEDIUM,GBP
+8c9d1b9a-88e0-4477-a845-d86019a9fdb7,04/17/2007 08:30:00,Retail Price Index (YoY),MEDIUM,GBP
+6269043b-b61e-43c3-839c-9ee9abc7ca5d,04/17/2007 09:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
+4523cf25-3245-4c62-b5cb-072957e0ed87,04/17/2007 09:00:00,Trade Balance n.s.a.,MEDIUM,EUR
+1818d0f4-9fd2-4e0a-963d-f9b4e6f66361,04/17/2007 12:30:00,Building Permits (MoM),NONE,USD
+c64ee51b-bb97-40b7-acde-f406b6ca7fed,04/17/2007 12:30:00,Consumer Price Index (MoM),HIGH,USD
+3898b90b-f0dd-441c-92f0-35223a451ad2,04/17/2007 12:30:00,Consumer Price Index (YoY),HIGH,USD
+8a65bcfb-9ab5-4e72-b5fe-0e8283d7094e,04/17/2007 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+aad58a31-d0c1-442c-907f-d2b9ea758450,04/17/2007 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+697f7207-705f-41cb-bbb3-6915a50d35e0,04/17/2007 12:30:00,Housing Starts (MoM),HIGH,USD
+53a5affe-5a30-4313-9ec1-41af3d56a83e,04/17/2007 13:15:00,Capacity Utilization,MEDIUM,USD
+898ae883-6d14-4dbb-ae22-f196c14ce416,04/17/2007 13:15:00,Industrial Production (MoM),MEDIUM,USD
+2300cb92-709e-4fe7-b42d-426cd62e8385,04/18/2007 08:30:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
+4ae05c2b-f3d8-44b2-80bc-44db7990386e,04/18/2007 08:30:00,Average Earnings Including Bonus (3Mo/Yr),MEDIUM,GBP
+98276ffa-86b8-4f44-9cbd-7f7e01f12aff,04/18/2007 08:30:00,BoE Minutes,MEDIUM,GBP
+d022c71e-287c-4751-940a-ebe70beca68d,04/19/2007 06:00:00,Producer Price Index (MoM),LOW,EUR
+e3d94f80-9e00-43e7-a765-874427293e05,04/19/2007 06:00:00,Producer Price Index (YoY),LOW,EUR
+d5e711d3-b9ea-4b99-b9e6-d94d5f0d3176,04/19/2007 08:00:00,ECB Monthly Report,LOW,EUR
+fe07e691-10ec-4462-ab9f-8c9dfd4a03e5,04/19/2007 12:30:00,Initial Jobless Claims,NONE,USD
+8bd4c9a1-ebee-4989-8df6-4c64f2145e5d,04/19/2007 16:00:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD
+0ce9f8e1-75fe-4cd4-92a8-83996d6a745b,04/19/2007 23:50:00,All Industry Activity Index (MoM),LOW,JPY
+0897adb6-f245-4aa9-bda3-ba9601547669,04/20/2007 08:30:30,Retail Sales (MoM),MEDIUM,GBP
+33f6a8c9-8108-4dcc-9682-7e1fd72636a6,04/20/2007 08:30:30,Retail Sales (YoY),MEDIUM,GBP
+99266e41-c5ab-4c7f-a623-10b45c5cbb78,04/23/2007 08:30:00,M4 Money Supply (MoM),NONE,GBP
+9f2aecd2-a829-4dba-bf15-17dda3b401e6,04/23/2007 08:30:00,Public Sector Net Borrowing,NONE,GBP
+c894fa1b-5ae9-42eb-9cbe-bc71cf0dabe4,04/23/2007 08:30:22,CML Gross Mortgage Lending s.a.,NONE,GBP
+b8ed18d9-209e-42cd-a7cd-a65aa9ba19bc,04/23/2007 08:30:58,M4 Sterling Lending,NONE,GBP
+72305f42-db8b-430a-af17-2b2c7edab786,04/23/2007 08:32:41,Rightmove House Price Index (MoM),NONE,GBP
+d6eb37a8-f5a9-4162-a6e8-3b5079307a51,04/24/2007 09:00:00,Industrial New Orders (YoY),LOW,EUR
+d15043f3-8d71-46e1-9cd1-7df760044629,04/24/2007 09:00:00,Industrial New Orders s.a. (MoM),LOW,EUR
+bff1bb3b-c2b8-4dcb-85f4-f78945a6278d,04/24/2007 13:15:00,CBI Industrial Trends Survey – Orders (MoM),MEDIUM,GBP
+5109b375-1f8c-42da-887a-050a3b2a3090,04/24/2007 14:00:00,Consumer Confidence,MEDIUM,USD
+31301879-3d37-482d-92a8-dfef803555c4,04/24/2007 14:00:00,Existing Home Sales (MoM),LOW,USD
+bd12e651-6d7b-4910-81a6-f31287e2e907,04/24/2007 14:00:00,Richmond Fed Manufacturing Index,LOW,USD
+354afb1c-34d0-4a53-a3f7-90b2165f7e4a,04/25/2007 08:00:00,IFO – Business Climate,HIGH,EUR
+2ba1f15f-62ab-4fcc-84c5-2e5d88db8eb6,04/25/2007 08:30:00,Gross Domestic Product (QoQ),MEDIUM,GBP
+0c56841d-9c7d-4cf5-beaa-2b7bd54c465a,04/25/2007 08:30:00,Gross Domestic Product (YoY),MEDIUM,GBP
+3d313944-fbf1-478e-87c2-aadc0f872df6,04/25/2007 12:30:00,Durable Goods Orders,MEDIUM,USD
+2179ae77-fc5e-481e-8f52-7d0124bb4dc9,04/25/2007 14:00:00,New Home Sales (MoM),LOW,USD
+3b3ee961-ebdf-4a6e-85d7-537a86edc09e,04/25/2007 14:30:00,EIA Crude Oil Stocks Change,NONE,USD
+8690bfc4-880a-4179-b266-acdc2f9af981,04/25/2007 18:00:00,Fed's Beige Book,MEDIUM,USD
+c5e737c2-631b-44c5-a8b6-8c68dd86c22f,04/26/2007 06:00:00,Nationwide Housing Prices n.s.a (YoY),MEDIUM,GBP
+173f097c-fe30-4cc9-821e-555bf18fd105,04/26/2007 06:00:00,Nationwide Housing Prices s.a (MoM),MEDIUM,GBP
+55daf937-f498-48e0-8fc6-bfe5310f6763,04/26/2007 06:10:00,GfK Consumer Confidence Survey,LOW,EUR
+56e145f6-ec62-4bec-94d4-57e8146274a7,04/26/2007 12:30:00,Initial Jobless Claims,NONE,USD
+3f739716-122c-4eb6-bb9f-61846ab8c08f,04/26/2007 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
+92cec6b6-e5d7-44fd-a0ac-8c4ec07af7e3,04/26/2007 23:30:00,Tokyo Consumer Price Index (YoY),MEDIUM,JPY
+34bad952-5380-4274-8040-b77a38549277,04/26/2007 23:30:00,Unemployment Rate,MEDIUM,JPY
+f35cca2e-d386-4c3f-95a4-bf8ba4e87515,04/26/2007 23:50:00,Industrial Production (MoM),MEDIUM,JPY
+514e3509-9395-4a4e-bdf7-3f19408693a5,04/26/2007 23:50:00,Industrial Production (YoY),MEDIUM,JPY
+e43d2e17-4c44-43ef-b4be-f03339aeceed,04/26/2007 23:50:00,Large Retailer Sales,LOW,JPY
+a4b20028-6952-46c3-88c8-a0868bb816a7,04/26/2007 23:50:00,Retail Trade s.a (MoM),LOW,JPY
+aa764a6c-22e3-4ea4-aea9-b524b28d2311,04/27/2007 12:30:00,Gross Domestic Product Annualized,MEDIUM,USD
+19a48e65-9c47-42a7-8de5-4bbeb262c8ad,04/27/2007 12:30:00,Gross Domestic Product Price Index,MEDIUM,USD
+5dc916cd-66dc-48bc-b5e4-8bd75bad29dd,04/27/2007 14:30:00,Consumer Price Index (MoM),NONE,EUR
+fd0c0e7e-0608-4e3f-a9c2-528ad663189a,04/27/2007 14:30:00,Consumer Price Index (YoY),NONE,EUR
+43ed0be1-380f-4d9c-a54a-6929b6bd2209,04/30/2007 06:00:47,Retail Sales (YoY),NONE,EUR
+f2e31d89-5119-41fc-9c3c-cfda8a595342,04/30/2007 08:00:00,M3 Money Supply (YoY),NONE,EUR
+e8295e10-2b59-4c83-9c31-92bc412a53a0,04/30/2007 09:00:00,Consumer Confidence,MEDIUM,EUR
+b9f66658-0036-4d42-9e5e-ed3d8871696e,04/30/2007 09:00:00,Economic Sentiment Indicator,MEDIUM,EUR
+b7db0116-9776-4d29-8125-6a082216dd6e,04/30/2007 09:00:00,Industrial Confidence,MEDIUM,EUR
+d492547c-1198-4ec1-9472-7f3bffeb1345,04/30/2007 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+61450449-932c-472e-a255-82932dd2e5f4,04/30/2007 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+a0da3fcb-4f07-47c6-8625-3ee7f83eda03,04/30/2007 12:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+084a2a95-cdf7-4455-88d1-350b72d6ddc8,04/30/2007 12:30:00,Personal Income (MoM),HIGH,USD
+057c9597-d0f7-4f33-b343-12cb58124b31,04/30/2007 13:45:00,Chicago PMI,MEDIUM,USD
+a9594ba7-faaa-403b-9077-fb9166abd816,04/30/2007 14:00:00,Construction Spending (MoM),LOW,USD
+b4f70159-48ae-4c65-a49c-230b57d73d20,04/30/2007 23:50:00,Retail Trade (YoY),NONE,JPY
+53a3eade-a615-42e3-b162-36f40bfa0b54,05/01/2007 08:30:00,S&P Global Manufacturing PMI,MEDIUM,GBP
+1f752d9d-ef51-48d7-9f46-56b7dd92fe9b,05/01/2007 10:00:00,CBI Distributive Trades Survey – Realized (MoM),LOW,GBP
+d7e1d89f-0847-453d-9125-4903b34bfe9f,05/01/2007 14:00:00,ISM Manufacturing PMI,MEDIUM,USD
+d4128a6c-bb60-436f-9275-74cfd4c405ee,05/02/2007 07:55:00,HCOB Services PMI,LOW,EUR
+a293b65e-b393-4223-997f-d6ef86767bf3,05/02/2007 07:55:00,Unemployment Change,LOW,EUR
+9cbad0c5-360a-4b08-8d9d-9eb58b207418,05/02/2007 08:00:00,HCOB Manufacturing PMI,LOW,EUR
+17355988-cfcf-4117-822c-a0af20f9d410,05/02/2007 08:30:00,Consumer Credit,MEDIUM,GBP
+6aaf863f-a1dd-440e-afdb-ffc50b3cd7f0,05/02/2007 08:30:00,M4 Money Supply (MoM),MEDIUM,GBP
+f88807b3-9ffa-40ed-833c-2c8184d7d7fe,05/02/2007 08:30:00,M4 Money Supply (YoY),NONE,GBP
+72976405-ab10-4f48-822b-68648c5cf7ba,05/02/2007 08:30:00,Mortgage Approvals,NONE,GBP
+9fed947a-2d41-41b3-bca8-6de6161e8fc3,05/02/2007 08:30:00,S&P Global Construction PMI,NONE,GBP
+d0729d04-9dac-4dc2-b51b-449b5f511f68,05/02/2007 09:00:00,Unemployment Rate,LOW,EUR
+a6bac7da-8689-42f0-8ccb-c72921d8460e,05/02/2007 12:15:00,ADP Employment Change,LOW,USD
+53e1bfc9-5b15-4e16-b86a-ef02e3a9ac6a,05/02/2007 14:00:00,Factory Orders (MoM),LOW,USD
+b30c47bf-17a5-4cdc-a755-5240771a036d,05/02/2007 14:30:00,EIA Crude Oil Stocks Change,NONE,USD
+1710030c-f0be-4d61-a4a6-c0492871aeba,05/03/2007 08:30:00,S&P Global Services PMI,MEDIUM,GBP
+8f807801-af10-4954-b133-2a2e3465fac6,05/03/2007 09:00:00,Producer Price Index (MoM),LOW,EUR
+3ce268b2-ae6d-4f61-9944-0051d81fc0b8,05/03/2007 12:30:00,Initial Jobless Claims,NONE,USD
+5b43b8cd-2cf7-4cf5-94fd-be6ee799751b,05/03/2007 12:30:00,Nonfarm Productivity,MEDIUM,USD
+a6523fa1-dceb-4ea8-bf3f-d2cd95ea1430,05/03/2007 14:00:00,ISM Services PMI,MEDIUM,USD
+8ed208f0-f483-49f0-b0c7-bc9b693e21e6,05/04/2007 07:55:00,HCOB Services PMI,LOW,EUR
+9d53acc6-29a3-4584-8988-3402b6de57e9,05/04/2007 09:00:00,Retail Sales (MoM),LOW,EUR
+24e73b37-20ee-4559-aa38-e0fe0ef475e0,05/04/2007 09:00:00,Retail Sales (YoY),LOW,EUR
+18d89161-7fa7-4b46-aac0-a0be51549c91,05/04/2007 12:30:00,Average Weekly Hours,HIGH,USD
+8a7bce2c-2661-48ca-9a43-7e6d601f990d,05/04/2007 12:30:00,Nonfarm Payrolls,HIGH,USD
+0a2e7226-d421-4739-bdff-cf1b3aa09629,05/04/2007 12:30:00,Unemployment Rate,HIGH,USD
+9b9311a6-ad3e-4181-b5a6-a83aec3c434c,05/07/2007 05:00:00,BoJ Minutes,LOW,JPY
+4be16a42-2a9e-4531-a53d-8a9d19482f19,05/07/2007 10:00:00,Factory Orders n.s.a. (YoY),LOW,EUR
+e68857f6-bb64-4c63-a52b-947c121de2b6,05/07/2007 10:00:00,Factory Orders s.a. (MoM),LOW,EUR
+47344c02-5f26-4497-be70-d8ce3ae0c831,05/07/2007 19:00:00,Consumer Credit Change,NONE,USD
+570c9c35-bdd0-4c8a-bb68-078f8017df0e,05/08/2007 10:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
+3ad0a897-508e-40dc-b4e8-d66aa8204cee,05/08/2007 14:00:00,Wholesale Inventories,LOW,USD
+674f6396-a86b-41fa-8972-3e9c12875e24,05/08/2007 23:01:00,BRC Like-For-Like Retail Sales (YoY),LOW,GBP
+00b4b07c-69e6-40c2-bb8d-c15e687cdb54,05/08/2007 23:01:00,GfK Consumer Confidence,NONE,GBP
+90fed3f3-0f8e-4e03-9d8b-a94f2fb08e6a,05/09/2007 05:00:00,Leading Economic Index,LOW,JPY
+acd92ea3-6fdf-4680-bd14-e6a0fac07196,05/09/2007 06:00:25,Trade Balance s.a.,NONE,EUR
+15ec6e1c-ef3a-4d01-828a-49729514c681,05/09/2007 09:30:00,BRC Shop Price Index (YoY),LOW,GBP
+d631ff83-caf1-424b-b432-881259668ecc,05/09/2007 18:15:00,Fed Interest Rate Decision,HIGH,USD
+83cf5e6a-05eb-4b6c-a951-9096f6d453b2,05/09/2007 23:01:00,Nationwide Consumer Confidence,MEDIUM,GBP
+bf61f1ca-1752-4d2b-8f27-b291053e35f0,05/09/2007 23:50:00,Money Supply M2+CD (YoY),LOW,JPY
+1cc7ec3d-73ed-42bb-8043-250ecf56a509,05/10/2007 08:30:00,Goods Trade Balance,MEDIUM,GBP
+7c2f886c-03ed-49f1-b257-1dc48c636b26,05/10/2007 08:30:00,Industrial Production (MoM),MEDIUM,GBP
+b44797f4-399a-41e7-95c6-c960ad437127,05/10/2007 08:30:00,Industrial Production (YoY),MEDIUM,GBP
+c3c9d5e2-fa99-4126-b021-92a7d3a17569,05/10/2007 11:00:00,BoE Interest Rate Decision,HIGH,GBP
+ccabf9c1-8d68-437b-9a6a-26d8f8f3cc68,05/10/2007 11:45:00,ECB Main Refinancing Operations Rate,HIGH,EUR
+b9f1ea2e-785a-4a0b-aaad-756c847a552e,05/10/2007 12:30:00,Goods and Services Trade Balance,MEDIUM,USD
+aad9fd2c-156a-4b0a-a0c9-3df67328fce2,05/10/2007 12:30:00,Initial Jobless Claims,NONE,USD
+c9a430d1-7821-419c-94a3-270a575b9786,05/11/2007 12:30:00,Producer Price Index (MoM),HIGH,USD
+2585d006-cb19-4040-8f8a-d4bc07d65665,05/11/2007 12:30:00,Producer Price Index (YoY),HIGH,USD
+d0883041-b775-4275-98ec-028f9ed4dab9,05/11/2007 12:30:00,Producer Price Index ex Food & Energy (MoM),HIGH,USD
+edf3cc4b-3aaf-4ce9-ba24-1f706ca764c4,05/11/2007 12:30:00,Producer Price Index ex Food & Energy (YoY),HIGH,USD
+996aea5d-1919-42da-9a84-52fa37c51579,05/11/2007 12:30:00,Retail Sales (MoM),HIGH,USD
+29c23230-69c0-48df-8202-9f727acb0ffa,05/11/2007 14:00:00,Business Inventories,LOW,USD
+522ad270-b15f-4324-b23d-1f3cc99f8296,05/13/2007 23:50:00,Current Account n.s.a.,NONE,JPY
+6ce0a23c-3fc0-4779-b2df-7985c5c0250d,05/14/2007 08:30:00,Producer Price Index - Input (MoM) n.s.a,MEDIUM,GBP
+b5b43994-e1f5-44cc-b980-5af892377448,05/14/2007 08:30:00,Producer Price Index - Input (YoY) n.s.a,MEDIUM,GBP
+f94f2f1b-f375-44b8-9d4e-db53c0f13c49,05/14/2007 08:30:00,Producer Price Index - Output (MoM) n.s.a,MEDIUM,GBP
+3c19a067-b8b7-451c-bd68-e972d6f0eeef,05/14/2007 08:30:00,Producer Price Index - Output (YoY) n.s.a,MEDIUM,GBP
+4fe94be7-7040-4fa0-bcd7-0c54b1ad7609,05/14/2007 09:00:00,Industrial Production s.a. (MoM),LOW,EUR
+e2b0f72c-8b57-4d7e-ab95-e5b84ee010de,05/14/2007 09:00:00,Industrial Production w.d.a. (YoY),LOW,EUR
+36b69d88-68ef-40aa-9850-17379dc53fe7,05/15/2007 06:00:00,Gross Domestic Product (QoQ),LOW,EUR
+dfc7ad5a-a810-4657-b5ad-ad38a93097c0,05/15/2007 06:00:00,Gross Domestic Product (YoY),LOW,EUR
+1b3546e6-bab9-4d9a-8a1e-ddc2f0c04814,05/15/2007 08:30:00,Consumer Price Index (MoM),HIGH,GBP
+f35e7933-e0f2-4994-94b7-4f032101d531,05/15/2007 08:30:00,Consumer Price Index (YoY),HIGH,GBP
+79e16704-2a08-477f-bdb6-fdf4f339bdd3,05/15/2007 08:30:00,Retail Price Index (MoM),HIGH,GBP
+7c9acbc4-1159-47fe-8c4e-acb27b15df24,05/15/2007 08:30:00,Retail Price Index (YoY),HIGH,GBP
+d1e58ea7-da29-4860-8145-147cc78b048f,05/15/2007 09:00:00,Gross Domestic Product s.a. (QoQ),LOW,EUR
+86c7b5f0-0edb-4105-a5ec-e105de4e0035,05/15/2007 09:00:00,Gross Domestic Product s.a. (YoY),LOW,EUR
+5763293f-cb8d-45e6-bd28-88bd4ad2da15,05/15/2007 12:30:00,Consumer Price Index (MoM),HIGH,USD
+a6046aae-e2d2-46e8-9f27-2895343f9f92,05/15/2007 12:30:00,Consumer Price Index (YoY),HIGH,USD
+2f4a876c-a1e1-48bd-a622-97fbe2fb5784,05/15/2007 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+54de36b7-d88a-487e-af8b-1a1837abb0f9,05/15/2007 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+520e1a31-e1e8-41e5-981c-fcf94281b7cf,05/15/2007 13:00:00,Net Long-Term TIC Flows,MEDIUM,USD
+fba2409c-fe10-4429-a68f-71bd690886f7,05/15/2007 17:00:00,NAHB Housing Market Index,MEDIUM,USD
+84137bb3-5369-4f35-8385-ca3880c6f005,05/16/2007 04:30:00,Capacity Utilization,LOW,JPY
+6fad1e1d-6347-46e1-9b80-e986894aab0d,05/16/2007 04:30:00,Industrial Production (MoM),LOW,JPY
+893d3d60-9bc6-465b-ba07-0546c0672bcb,05/16/2007 04:30:00,Industrial Production (YoY),NONE,JPY
+e2cbb70c-efcd-4568-aeb0-58b5a8f347d9,05/16/2007 05:00:00,Consumer Confidence Index,LOW,JPY
+dc973c2f-3546-4046-8aca-4a239630517f,05/16/2007 06:00:00,Consumer Price Index (MoM),LOW,EUR
+164c2264-70f6-4e0c-8598-efdcc0a327a0,05/16/2007 06:00:00,Consumer Price Index (YoY),LOW,EUR
+a4959943-11c2-4cb8-b0c7-47c634a44483,05/16/2007 08:30:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
+755befad-eec0-4897-ad78-11204f2d8f9b,05/16/2007 08:30:00,Average Earnings Including Bonus (3Mo/Yr),MEDIUM,GBP
+9c5c07f9-921c-4ccf-a0ed-470b1da3b634,05/16/2007 09:00:00,Harmonized Index of Consumer Prices (MoM),LOW,EUR
+7f024355-77a2-4163-96c8-5c2cae3979bf,05/16/2007 09:00:00,Harmonized Index of Consumer Prices (YoY),LOW,EUR
+bafde31b-a391-41d9-b878-b013805ed380,05/16/2007 09:30:00,BoE Monetary Policy Report,MEDIUM,GBP
+4c2e2758-b852-49f9-9ba2-a8589b0ad8e8,05/16/2007 12:30:00,Housing Starts (MoM),MEDIUM,USD
+82eccee5-4003-40a6-8bd9-af897a92d75e,05/16/2007 13:15:00,Capacity Utilization,MEDIUM,USD
+4bcaae7f-b43c-467d-93ea-9f89765ae588,05/16/2007 13:15:00,Industrial Production (MoM),MEDIUM,USD
+141fe6dc-6179-415d-a19a-205e9bd08172,05/16/2007 23:50:00,Gross Domestic Product Annualized,LOW,JPY
+ee6a47d9-5f4b-4d21-91e0-dd7a29657b05,05/17/2007 04:00:00,BoJ Interest Rate Decision,HIGH,JPY
+2b5ffbb7-c2c4-4135-980a-0cdd503f70ef,05/17/2007 06:30:00,BoJ's Governor Fukui speech,MEDIUM,JPY
+1dbcd239-547f-4bd5-8c02-e72553ad36d6,05/17/2007 08:00:00,ECB Monthly Report,NONE,EUR
+a99b1933-6721-4eea-94b2-f62072708d37,05/17/2007 12:30:00,Initial Jobless Claims,NONE,USD
+ace1544d-fb97-4444-9f9d-1d74b0c38ae2,05/17/2007 16:00:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD
+4001b1eb-f841-4742-a91b-695525fef62f,05/18/2007 05:00:00,G8 Meeting,NONE,EUR
+195a13a2-f08e-4b10-9f29-b0f2cf7b0dc7,05/18/2007 05:00:00,Leading Economic Index,LOW,JPY
+f42b611c-1c9a-422d-898d-3fca1c6c3856,05/18/2007 06:00:00,Producer Price Index (MoM),NONE,EUR
+3f65add8-d7e5-4d38-834a-3d0ccd4f4f83,05/18/2007 06:00:00,Producer Price Index (YoY),NONE,EUR
+d51d72a0-07be-4cfd-b219-78bc39aa7e00,05/18/2007 08:30:00,Retail Sales (MoM),HIGH,GBP
+8154a38d-efac-4ffe-bb90-296bbe14c9c8,05/18/2007 08:30:00,Retail Sales (YoY),HIGH,GBP
+c7815a79-84ed-413e-802e-1116773b3ebc,05/18/2007 14:00:00,Michigan Consumer Sentiment Index,LOW,USD
+d72d6c63-5826-4c33-858e-fb12ade24f9d,05/20/2007 23:01:00,Rightmove House Price Index (MoM),NONE,GBP
+785b3878-b4b4-48a7-8dab-ec2f90eb41ba,05/21/2007 08:30:00,M4 Money Supply (YoY),LOW,GBP
+44d8e586-817b-42ba-90c2-f4957222b73b,05/21/2007 08:30:00,M4 Sterling Lending,LOW,GBP
+20c5ceef-8633-4b5d-be7e-e3e1c731623c,05/21/2007 08:30:00,Public Sector Net Borrowing,LOW,GBP
+5f90ad02-106c-4f4a-a9c1-15767177a9a0,05/22/2007 05:00:00,BoJ Minutes,LOW,JPY
+66450933-f3be-4f32-8b0a-5070a0a9cea3,05/22/2007 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR
+aa6b2cf2-444c-49a9-9134-3f131b208c60,05/22/2007 09:00:00,Trade Balance s.a.,LOW,EUR
+9082a709-5299-4ab3-8c6f-6d435cc711cf,05/22/2007 13:15:00,Treasury Secretary Paulson speech,MEDIUM,USD
+f663261c-7dd7-4f6e-b9ab-25d01afd8624,05/22/2007 23:50:00,All Industry Activity Index (MoM),LOW,JPY
+579b5e51-db4f-4102-8bb5-d1c1498c8173,05/23/2007 08:30:00,BoE Minutes,MEDIUM,GBP
+30bfe68d-8355-4c69-8959-1693ac0a0965,05/23/2007 09:00:00,Industrial New Orders (YoY),LOW,EUR
+8bb59934-f8ab-446f-8e2c-91cc4da7542a,05/23/2007 09:00:00,Industrial New Orders s.a. (MoM),LOW,EUR
+2710e2ed-8ea3-4018-922a-c9253f89d78d,05/23/2007 14:30:00,EIA Crude Oil Stocks Change,NONE,USD
+5d1b85e7-73a6-4cd0-8e13-361daf3e6152,05/23/2007 15:45:00,Treasury Secretary Paulson speech,MEDIUM,USD
+fc7d5bd1-9192-4c35-a022-a18589f2ce80,05/23/2007 23:50:00,Merchandise Trade Balance Total,LOW,JPY
+f7ce0c85-bdaa-4096-94c6-267dc6ba08ea,05/24/2007 06:00:00,Gross Domestic Product (QoQ),LOW,EUR
+b5de9c45-fb47-426d-969b-14bc64e56751,05/24/2007 06:00:00,Gross Domestic Product w.d.a (YoY),LOW,EUR
+80d5b5b3-20c7-4f08-9539-7814b9c6d22c,05/24/2007 08:00:00,IFO – Business Climate,HIGH,EUR
+74e27f33-3ce1-4da4-87dc-581dac904e1f,05/24/2007 10:00:00,CBI Industrial Trends Survey – Orders (MoM),MEDIUM,GBP
+737d32a9-a49e-4890-9165-781d4b0722a5,05/24/2007 12:30:00,Durable Goods Orders,MEDIUM,USD
+026bfb10-04d5-40d0-ab2e-f0e3f3a8eda8,05/24/2007 12:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
+a5783698-adac-419c-a5ce-8c027d958f03,05/24/2007 12:30:00,Initial Jobless Claims,LOW,USD
+f0105c73-0557-444d-bb86-1b50ed683d67,05/24/2007 14:00:00,New Home Sales (MoM),MEDIUM,USD
+baedf89d-bd37-4635-af1d-10f81df2a53f,05/24/2007 14:00:00,New Home Sales Change (MoM),MEDIUM,USD
+02a0ab30-5622-4bce-bdcd-ac2bfb828bca,05/24/2007 23:30:00,National Consumer Price Index (YoY),LOW,JPY
+7946119a-d7f7-49eb-b76e-2283c3ad7526,05/24/2007 23:30:00,Tokyo Consumer Price Index (YoY),LOW,JPY
+66f3a836-84ff-49b0-ab6e-cf4d71786074,05/25/2007 06:10:00,GfK Consumer Confidence Survey,MEDIUM,EUR
+839ec894-1f85-48bb-b017-debcb705932c,05/25/2007 08:30:00,Gross Domestic Product (QoQ),LOW,GBP
+ee11984c-0c99-4f4a-a7c7-c153eea3646c,05/25/2007 08:30:00,Gross Domestic Product (YoY),LOW,GBP
+febb8fdf-4ea0-406d-b532-dbf0802a6177,05/25/2007 14:00:00,Consumer Confidence,LOW,USD
+af4c990f-8f37-4b80-90ed-20045ba627fa,05/25/2007 14:00:00,Existing Home Sales (MoM),MEDIUM,USD
+b6cb60f0-ee3a-4d66-8eae-f6155fd15a12,05/25/2007 14:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
+b5298b19-a126-4a90-9e94-afa690072e27,05/25/2007 23:50:00,Large Retailer Sales,NONE,JPY
+7bf1f8d8-939c-4db6-a2d7-d8a16275c8f5,05/28/2007 23:30:00,Unemployment Rate,LOW,JPY
+c6a6a98c-9f2a-49c8-a6ac-cbe05f600fd8,05/28/2007 23:50:00,Retail Trade (YoY),NONE,JPY
+81712f2f-af69-4ba6-9d76-a474b677f861,05/29/2007 08:00:00,Current Account n.s.a,LOW,EUR
+f4083044-56d6-4593-b51e-77d3d0dd685a,05/29/2007 10:45:41,Net Lending to Individuals (MoM),LOW,GBP
+9a73d512-f379-4896-b75c-068fbd5a20c2,05/29/2007 15:45:00,Consumer Price Index (MoM),LOW,EUR
+81a233c0-880b-40bb-80f4-4457d9f56c17,05/29/2007 15:45:00,Consumer Price Index (YoY),LOW,EUR
+130dacad-d4f4-4f08-a654-6dbb8e791e9a,05/29/2007 23:50:00,Industrial Production (MoM),LOW,JPY
+f4190b0c-96fb-461b-9035-a452d8927a10,05/29/2007 23:50:00,Industrial Production (YoY),LOW,JPY
+86f1daa7-5826-4787-83f5-18c4aee7beda,05/30/2007 08:00:00,M3 Money Supply (YoY),LOW,EUR
+9b33881a-7301-4da6-a0c2-7e2b5ea18014,05/30/2007 10:00:00,CBI Distributive Trades Survey – Realized (MoM),NONE,GBP
+4313ee12-fe9d-449c-9e46-ff38476ee679,05/30/2007 12:15:00,ADP Employment Change,LOW,USD
+0e1d5e9a-a1ca-4cd6-9bb5-8e07b5a5b4f1,05/30/2007 18:00:00,FOMC Minutes,MEDIUM,USD
+ce4f1326-2a57-4565-b98a-0851e3721643,05/30/2007 23:30:00,Jibun Bank Manufacturing PMI,MEDIUM,JPY
+cfc142f4-eb30-4855-b75e-dfdcfb6de667,05/31/2007 06:00:00,Nationwide Housing Prices n.s.a (YoY),MEDIUM,GBP
+56fe512b-840d-433b-8237-799f9ada9423,05/31/2007 06:00:00,Nationwide Housing Prices s.a (MoM),MEDIUM,GBP
+b3eea4e2-57f1-4933-8a2a-081bf38c075f,05/31/2007 07:55:00,Unemployment Change,LOW,EUR
+e0946568-9be2-4969-b6e2-e3bc05581f13,05/31/2007 07:55:00,Unemployment Rate s.a.,LOW,EUR
+f9abea98-e136-4eb6-a357-6e6b01b28e78,05/31/2007 08:30:00,Consumer Credit,HIGH,GBP
+9c6d1999-1acf-420e-817e-5128bed387bb,05/31/2007 08:30:00,M4 Money Supply (MoM),HIGH,GBP
+a95c6ae6-8e74-4343-848d-4df19d5bb04e,05/31/2007 08:30:00,M4 Money Supply (YoY),HIGH,GBP
+8284c499-26d2-46db-9154-05a5d631e6c5,05/31/2007 08:30:00,M4 Sterling Lending,HIGH,GBP
+9c52bb35-e737-4954-a9fd-2c079724f045,05/31/2007 09:00:00,Economic Sentiment Indicator,MEDIUM,EUR
+865b93af-7123-4317-b158-697f1d294ed6,05/31/2007 09:00:00,Industrial Confidence,MEDIUM,EUR
+7a5241e1-c5e1-4469-99de-21e5c3fa9f19,05/31/2007 11:43:00,Consumer Confidence,NONE,EUR
+225cfd8b-9733-4502-9f8b-739927fa704a,05/31/2007 12:30:00,Gross Domestic Product Annualized,MEDIUM,USD
+8e72de74-c66c-435a-9b48-982f96fb2038,05/31/2007 12:30:00,Initial Jobless Claims,LOW,USD
+a0b941f2-28a8-41a4-9760-99a55dfee769,05/31/2007 13:45:00,Chicago PMI,MEDIUM,USD
+cf175d3a-0c97-4b41-932d-38be3f709700,05/31/2007 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+abecd27b-9c82-41cf-8c85-7269b70db5a1,06/01/2007 06:00:00,Retail Sales (MoM),LOW,EUR
+49a01cff-f343-468d-b369-4afb089df6f8,06/01/2007 06:00:00,Retail Sales (YoY),LOW,EUR
+4c3db998-9bac-441b-bb40-976da8a71343,06/01/2007 07:55:00,HCOB Manufacturing PMI,LOW,EUR
+5340665e-2837-4831-aa37-b4499453bb32,06/01/2007 08:30:00,S&P Global Manufacturing PMI,MEDIUM,GBP
+307d3179-213f-4686-b48d-d45b67c31a66,06/01/2007 09:00:00,Gross Domestic Product s.a. (QoQ),MEDIUM,EUR
+356ea1d6-5821-49fb-8266-38d94e752bf4,06/01/2007 09:00:00,Unemployment Rate,MEDIUM,EUR
+05deb0b8-c993-4ff8-b1c7-446af60ee6ab,06/01/2007 12:30:00,Average Hourly Earnings (MoM),HIGH,USD
+308ffa47-75af-4628-ab96-fc896996b528,06/01/2007 12:30:00,Average Hourly Earnings (YoY),HIGH,USD
+81389f49-b15c-4891-b13c-ed76d6d359d4,06/01/2007 12:30:00,Average Weekly Hours,HIGH,USD
+11a8e8aa-3c71-45e2-8558-f80b53dbd711,06/01/2007 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+ff535cbc-0b35-4953-a52c-02e89b8b9953,06/01/2007 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+7441245d-ecd4-4908-a380-0c4c3f8bcce5,06/01/2007 12:30:00,Nonfarm Payrolls,HIGH,USD
+db4623a6-5ec4-43d1-a43c-e9a0e20de8b3,06/01/2007 12:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+c25fc38e-2f7b-44a8-82bc-2a2432f1c02a,06/01/2007 12:30:00,Personal Income (MoM),HIGH,USD
+35e23d07-2c91-4a6b-b8de-135149b07479,06/01/2007 12:30:00,Unemployment Rate,HIGH,USD
+194c8e9f-45a0-48d0-9e32-034c6e5ad90f,06/01/2007 14:00:00,ISM Manufacturing PMI,MEDIUM,USD
+38f689f7-625b-43ce-8a2d-62b8c5ad7d52,06/01/2007 14:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD
+94c90e63-e6db-452d-8095-4be630a57862,06/04/2007 08:30:00,S&P Global Construction PMI,NONE,GBP
+a2cb68ed-4660-45e6-b883-ab913ead301f,06/04/2007 09:00:00,Producer Price Index (MoM),LOW,EUR
+83d254a1-0f9d-4e04-ae4a-b24fe97c509d,06/04/2007 09:00:00,Producer Price Index (YoY),LOW,EUR
+0e8ff04a-f9af-4579-822f-d20f4a716dd3,06/04/2007 14:00:00,Factory Orders (MoM),LOW,USD
+9cce595d-c4e6-47c0-bb09-18003affce6a,06/04/2007 14:00:00,Pending Home Sales (MoM),NONE,USD
+80c751c8-7e72-4926-be6d-1973ee951dac,06/05/2007 07:55:00,HCOB Services PMI,LOW,EUR
+3c8c70d0-f13b-445a-b14e-ed206f1bd919,06/05/2007 08:00:00,HCOB Services PMI,LOW,EUR
+8374c0c2-a05c-4eef-aace-a11f8991e34e,06/05/2007 08:30:00,S&P Global Services PMI,MEDIUM,GBP
+c5cd646c-253d-4bc8-a97c-fc603bfa3c0d,06/05/2007 09:00:00,Retail Sales (MoM),NONE,EUR
+c5fef3d8-50fc-498d-bb07-58b3d4b3b193,06/05/2007 09:00:00,Retail Sales (YoY),MEDIUM,EUR
+aa1e9dff-525f-4754-83ea-c5aa18099778,06/05/2007 14:00:00,ISM Services PMI,MEDIUM,USD
+5138d3f8-1f9b-4b98-a2f2-c75095cba437,06/05/2007 23:01:00,Nationwide Consumer Confidence,MEDIUM,GBP
+021666fe-3eed-4236-b60b-9917b7175884,06/06/2007 05:00:00,Leading Economic Index,LOW,JPY
+fc2e018d-0948-4f17-bf48-61b1e2f6b4a7,06/06/2007 11:45:00,ECB Main Refinancing Operations Rate,HIGH,EUR
+903e464b-4dc6-47f9-a547-63be00e36f6b,06/06/2007 12:30:00,Nonfarm Productivity,MEDIUM,USD
+7612b8de-021e-489d-8943-b0bd7cd516c7,06/06/2007 12:30:00,Unit Labor Costs,LOW,USD
+f115dd19-8288-4276-9de2-d4bd38a33723,06/07/2007 11:00:00,BoE Interest Rate Decision,HIGH,GBP
+25d903ef-db5c-4702-85f8-688ed61b5564,06/07/2007 11:14:57,Gross Domestic Product s.a. (YoY),NONE,EUR
+a9ed9a37-da8f-4eef-9636-100027684cc7,06/07/2007 12:30:00,Initial Jobless Claims,LOW,USD
+d07d6dfa-1b7c-4b68-b337-7e0447b036da,06/07/2007 14:00:00,Wholesale Inventories,NONE,USD
+1cdcd7a7-574c-46ec-9609-ce7c3a870fd4,06/08/2007 06:00:00,Trade Balance s.a.,LOW,EUR
+dbffd758-526a-4df7-9325-51f9f48c9aee,06/08/2007 08:30:00,Industrial Production (MoM),MEDIUM,GBP
+5ee2fa38-d331-4295-9950-31aafcaa6bc5,06/08/2007 08:30:00,Industrial Production (YoY),MEDIUM,GBP
+4601b235-56fe-4811-b69c-c5b9868fc365,06/08/2007 10:00:00,Industrial Production s.a. (MoM),LOW,EUR
+7792e581-c67f-40b6-b00e-f114abf07b9e,06/08/2007 12:30:00,Goods and Services Trade Balance,HIGH,USD
+c1627281-6427-435e-b8de-1a988bb8b6fe,06/10/2007 23:50:00,Gross Domestic Product (QoQ),MEDIUM,JPY
+e5ba153f-cfda-42ee-be89-e37629cf0246,06/10/2007 23:50:00,Gross Domestic Product Annualized,MEDIUM,JPY
+8c2ad3a1-9fcf-42f5-843e-e3885a434506,06/11/2007 08:30:00,Producer Price Index - Input (MoM) n.s.a,MEDIUM,GBP
+002c31c9-a2ae-427a-b3d7-4aaf9aa09b92,06/11/2007 08:30:00,Producer Price Index - Input (YoY) n.s.a,MEDIUM,GBP
+31dbe3f5-9c8f-4e55-b9f5-14d81f5ab803,06/11/2007 08:30:00,Producer Price Index - Output (MoM) n.s.a,MEDIUM,GBP
+cbcacd3c-14de-4d3e-9dc7-ced28ed6e0a7,06/11/2007 08:30:00,Producer Price Index - Output (YoY) n.s.a,MEDIUM,GBP
+79b0dbfb-16ce-437a-89fe-e4317649d3b9,06/11/2007 23:50:00,Producer Price Index (MoM),MEDIUM,JPY
+f6b22965-f9d6-40ac-b5f4-f69804051618,06/11/2007 23:50:00,Producer Price Index (YoY),MEDIUM,JPY
+a95619a1-bcb2-4c93-af3d-3f8e30c16d20,06/12/2007 05:00:00,Consumer Confidence Index,LOW,JPY
+1519ff94-ca26-4b13-b9f8-72b41e46fa29,06/12/2007 08:30:00,Consumer Price Index (MoM),MEDIUM,GBP
+47dcebee-dba8-497a-b984-873414f2aab1,06/12/2007 08:30:00,Consumer Price Index (YoY),MEDIUM,GBP
+eadd2631-4204-4a6e-9906-0adf0ca3fdfb,06/12/2007 08:30:00,Retail Price Index (MoM),MEDIUM,GBP
+6cd232ad-3049-4cc2-9d7c-1556b0d6cb0b,06/12/2007 08:30:00,Retail Price Index (YoY),MEDIUM,GBP
+89f0ecf7-b516-495b-8c49-362926eea8a1,06/12/2007 08:30:00,Trade Balance; non-EU,MEDIUM,GBP
+835ef84d-f574-4f9f-98ac-aad02ec920f0,06/12/2007 09:00:00,Industrial Production s.a. (MoM),LOW,EUR
+474c6f3d-f20b-4714-910e-074b396d9841,06/12/2007 09:00:00,Industrial Production w.d.a. (YoY),LOW,EUR
+5339f4d5-a22a-4c37-929b-e4ab45802eb7,06/12/2007 11:58:00,Goods Trade Balance,NONE,GBP
+1016a00a-53e4-4a77-b0b0-d1744364eba5,06/12/2007 23:01:00,RICS Housing Price Balance,NONE,GBP
+e1703b63-d4a7-4e90-93c1-c25e36fb9149,06/12/2007 23:50:00,Current Account n.s.a.,LOW,JPY
+48030714-0b30-41bf-81ef-059c71eff4c8,06/13/2007 04:30:00,Industrial Production (MoM),MEDIUM,JPY
+6a9aa82c-0844-460f-b12d-5f39e8811de8,06/13/2007 08:30:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
+83027ba5-0f08-4635-82b9-1980f57ed9b1,06/13/2007 08:30:00,Average Earnings Including Bonus (3Mo/Yr),MEDIUM,GBP
+7462700a-1ac3-4bdf-b1e0-bfe3fa1b1a53,06/13/2007 08:30:00,Claimant Count Rate,MEDIUM,GBP
+078cfb23-5801-4811-a8f8-2af7027d38a9,06/13/2007 11:00:00,ECB Rate On Deposit Facility,MEDIUM,EUR
+64261687-c013-416f-8d39-86f9607b7c5b,06/13/2007 12:30:00,Import Price Index (MoM),MEDIUM,USD
+a78a6b3a-cb9d-42d5-8f69-02369946cc13,06/13/2007 12:30:00,Import Price Index (YoY),MEDIUM,USD
+e513ba5b-c15f-4032-a253-c3ea12580e48,06/13/2007 12:30:00,Retail Sales (MoM),HIGH,USD
+cd3b180e-7d27-4581-bdae-1ac8ec26dd19,06/13/2007 14:00:00,Business Inventories,LOW,USD
+bac847c6-dbc5-4af8-990f-f435524b9501,06/13/2007 17:00:00,ECB's President Trichet speech,LOW,EUR
+dd26208a-9965-4c04-9e3b-6fa138642235,06/13/2007 18:00:00,Fed's Beige Book,MEDIUM,USD
+60dbc7cd-88f6-4cf0-a804-03eeedf280bc,06/14/2007 06:00:00,Consumer Price Index (MoM),MEDIUM,EUR
+c6d67b97-707f-414f-8526-22cbc10f56ba,06/14/2007 06:00:00,Consumer Price Index (YoY),MEDIUM,EUR
+75c32f93-f8ff-4272-ab82-a9e02f6bac9f,06/14/2007 08:00:00,ECB Monthly Report,LOW,EUR
+ba144d28-ed83-4389-af7e-eea0b39e80a4,06/14/2007 08:30:00,Retail Sales (MoM),MEDIUM,GBP
+ceda675c-49bf-4d7c-a1e3-240e1800946a,06/14/2007 08:30:00,Retail Sales (YoY),MEDIUM,GBP
+c4caaf0f-1423-42e0-be30-cde159bbb29d,06/14/2007 09:00:00,Core Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
+ffcf9f87-5dc1-41c9-bc2b-d8961a6b99a3,06/14/2007 09:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
+5920e724-a44c-463f-874e-730df2302b7f,06/14/2007 12:30:00,Initial Jobless Claims,LOW,USD
+f8149133-7b3e-4596-b41d-9af6bd858600,06/14/2007 12:30:00,Producer Price Index (MoM),MEDIUM,USD
+8d29ed58-c95b-4c06-a30d-6c787b84a23c,06/14/2007 12:30:00,Producer Price Index (YoY),MEDIUM,USD
+124f61b4-50a7-4244-ba98-53068f92eca3,06/14/2007 12:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
+f1f40c0d-cec4-4a37-a87b-0bffec1b5ae6,06/14/2007 12:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD
+22d30bc1-35be-4e53-9b6d-247a3bc95434,06/14/2007 23:50:00,Tertiary Industry Index (MoM),MEDIUM,JPY
+2470fc00-e8fa-4d6c-a61f-2875bc2e6df2,06/15/2007 03:15:00,BoJ Interest Rate Decision,HIGH,JPY
+f3ca3d4a-47f4-49aa-9448-8e5e75d071d7,06/15/2007 09:00:00,Trade Balance s.a.,LOW,EUR
+8c5e90ab-47f2-4aad-9a3e-7b51efde8acc,06/15/2007 12:30:00,Consumer Price Index (MoM),HIGH,USD
+5bdbc262-3d2d-42f3-8796-797e0655bca9,06/15/2007 12:30:00,Consumer Price Index (YoY),HIGH,USD
+41fcf424-b66b-4d1d-9793-b9021fc0aa72,06/15/2007 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+e2deb640-67ec-4482-895d-4fc3a65c3c84,06/15/2007 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+f7178e43-cebc-4200-9474-6ac42fd50337,06/15/2007 12:30:00,NY Empire State Manufacturing Index,LOW,USD
+cf8aa0e1-ce0a-4d7e-8bf6-ba09a023a343,06/15/2007 13:00:00,Net Long-Term TIC Flows,MEDIUM,USD
+e3fbc4a9-8fad-4d02-8101-a356ea1a9564,06/15/2007 13:15:00,Capacity Utilization,MEDIUM,USD
+77222c0e-ec0b-4e82-941e-ed516bb7a6cc,06/15/2007 13:15:00,Industrial Production (MoM),MEDIUM,USD
+9367265c-57f7-4018-81d7-00408ba1f687,06/15/2007 14:00:00,Michigan Consumer Sentiment Index,LOW,USD
+0cfc75c3-558c-4684-9a43-b52dd7fe6361,06/18/2007 17:00:00,NAHB Housing Market Index,MEDIUM,USD
+9d92c99b-e788-4ce1-8527-35cad30451e6,06/19/2007 06:00:00,Producer Price Index (MoM),NONE,EUR
+e41843e5-d206-4a13-93e4-56d6f84cee82,06/19/2007 06:00:00,Producer Price Index (YoY),NONE,EUR
+6a93b5be-0fc8-4b1d-870a-60d190ca379b,06/19/2007 08:30:00,M4 Sterling Lending,NONE,GBP
+9c31b06d-d482-495a-a254-0ec7e5595ee8,06/19/2007 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR
+69dbbe83-f855-4742-81ba-c30336065b0f,06/19/2007 12:30:00,Building Permits (MoM),MEDIUM,USD
+4178e8e6-e6ea-4ac6-8d17-7d41392f0825,06/19/2007 12:30:00,Housing Starts (MoM),MEDIUM,USD
+b10f0463-db38-4623-984b-e71f439f9c8b,06/19/2007 23:50:00,All Industry Activity Index (MoM),LOW,JPY
+480a4d1d-d60a-4291-9a5d-afafd8f89e06,06/19/2007 23:50:00,BoJ Minutes,LOW,JPY
+2ea89e9f-80ad-486f-b4bc-3693ce7fa624,06/20/2007 08:30:00,BoE Minutes,MEDIUM,GBP
+35f176ce-4829-44e1-b116-3eb4a6bdf591,06/20/2007 08:30:00,M4 Money Supply (MoM),MEDIUM,GBP
+eccac582-7bd7-4666-8d37-b4235857552b,06/20/2007 08:30:00,M4 Money Supply (YoY),MEDIUM,GBP
+77d14e1d-75f2-4f10-a636-c7d2fc9be0db,06/20/2007 08:30:00,Public Sector Net Borrowing,MEDIUM,GBP
+a4e19385-d98a-47c2-9396-1c5f7c1bc489,06/20/2007 17:53:12,EIA Crude Oil Stocks Change,NONE,USD
+baf30757-b4bb-45c4-95c7-6e8223ec2a0b,06/20/2007 23:50:00,BSI Large Manufacturing Conditions Index (QoQ),MEDIUM,JPY
+3f31a998-f4be-4550-b3c1-ea3ac48cdfab,06/20/2007 23:50:00,Merchandise Trade Balance Total,LOW,JPY
+2db4fb5c-dacf-40ef-b2d2-d24082fcd4ba,06/21/2007 08:00:00,HCOB Manufacturing PMI,LOW,EUR
+ea77828b-038d-44ab-9016-270d21ea5061,06/21/2007 08:00:00,HCOB Services PMI,LOW,EUR
+8da31bac-5063-4977-8af7-8c7946ac4aaf,06/21/2007 10:00:00,CBI Industrial Trends Survey – Orders (MoM),MEDIUM,GBP
+d706abb8-d6ad-4464-b0ef-26a3752f5ac9,06/21/2007 12:30:00,Initial Jobless Claims,NONE,USD
+50c2ba8e-734d-4b76-bfd4-cb9e9d33c31c,06/21/2007 16:00:00,Philadelphia Fed Manufacturing Survey,NONE,USD
+b475926a-8370-417c-b3fa-75488f925591,06/22/2007 08:00:00,IFO – Business Climate,HIGH,EUR
+008d1817-8649-424a-a4c4-c3c14baec483,06/22/2007 09:00:00,Industrial New Orders (YoY),MEDIUM,EUR
+6418b450-a1ec-4eba-b867-e9fb596a0f4e,06/22/2007 09:00:00,Industrial New Orders s.a. (MoM),MEDIUM,EUR
+08726d90-3143-4a18-beba-54b8a6ce980c,06/25/2007 06:10:00,GfK Consumer Confidence Survey,LOW,EUR
+907802cb-373e-42da-a532-17458b02345a,06/25/2007 14:00:00,Existing Home Sales (MoM),NONE,USD
+4dba33c0-d3c7-4355-a596-791b99e9a429,06/26/2007 08:00:00,Current Account n.s.a,NONE,EUR
+b5da5d42-ad81-42ea-bfe6-fd5074727623,06/26/2007 14:00:00,Consumer Confidence,NONE,USD
+51df0e54-d771-4337-a3f5-19c35f4c694c,06/26/2007 14:00:00,New Home Sales (MoM),NONE,USD
+88f52877-e001-4dd6-9f76-6db7aba5e88d,06/26/2007 23:50:00,Large Retailer Sales,LOW,JPY
+be0f097d-aac1-4b95-9fee-cf66cc7b12d1,06/26/2007 23:50:00,Retail Trade (YoY),NONE,JPY
+b96f8bd4-30bc-4e93-aa22-60f79fce89af,06/27/2007 10:00:00,CBI Distributive Trades Survey – Realized (MoM),NONE,GBP
+fba39190-0263-44a5-8291-68e1929d6f46,06/27/2007 12:30:00,Durable Goods Orders,MEDIUM,USD
+c6491aad-3f75-403b-821f-fdba3d5964e6,06/27/2007 12:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
+832a3eb0-928a-4e71-85ed-69488eb4fe7d,06/27/2007 23:50:00,Industrial Production (MoM),MEDIUM,JPY
+fe7ad776-a4cb-49b3-84ae-740aa61e980b,06/27/2007 23:50:00,Industrial Production (YoY),MEDIUM,JPY
+d6d21ea0-2a59-481a-98f2-f30b1cc8755e,06/28/2007 06:00:00,Nationwide Housing Prices n.s.a (YoY),MEDIUM,GBP
+4fd30092-5810-474b-a388-662a80aafb0a,06/28/2007 06:00:00,Nationwide Housing Prices s.a (MoM),MEDIUM,GBP
+9a1468b9-4396-4b98-90ef-044e946b5b54,06/28/2007 07:55:00,Unemployment Change,LOW,EUR
+441de7f8-b64e-4d37-9504-e041e29e29f3,06/28/2007 07:55:00,Unemployment Rate s.a.,LOW,EUR
+951616d7-9395-4148-8c97-e17e1b143be0,06/28/2007 12:30:00,Gross Domestic Product Annualized,MEDIUM,USD
+9973bd76-4832-422d-a290-2074509e5e08,06/28/2007 12:30:00,Initial Jobless Claims,LOW,USD
+157b3e90-5204-401e-9692-db02600be295,06/28/2007 16:00:00,Consumer Price Index (MoM),NONE,EUR
+a2be5663-4a91-48e2-b358-a7811ed186aa,06/28/2007 16:00:00,Consumer Price Index (YoY),NONE,EUR
+0075b49d-017b-4f6d-8149-3a54f4d7e864,06/28/2007 18:15:00,Fed Interest Rate Decision,HIGH,USD
+a2277e0c-22c5-4c9c-a7d0-d784c88fd1b5,06/28/2007 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
+bb5db5c6-c6b4-41cd-bda0-3f601182b7f8,06/28/2007 23:30:00,Tokyo Consumer Price Index (YoY),MEDIUM,JPY
+3c29bbc2-c105-4280-a03a-1a568caaad36,06/28/2007 23:30:00,Unemployment Rate,MEDIUM,JPY
+cb55926c-e373-45e6-be50-5c2fb3a43f91,06/29/2007 08:30:00,Current Account,LOW,GBP
+59ebc697-bd38-408e-b53c-309039b6571c,06/29/2007 08:30:00,Gross Domestic Product (QoQ),MEDIUM,GBP
+bdf393d8-5a74-4ddd-a91a-8088f550d9e6,06/29/2007 08:30:00,Gross Domestic Product (YoY),MEDIUM,GBP
+dd5882f2-0b36-46e7-a6fd-f3c0f557b3fc,06/29/2007 08:30:00,Net Lending to Individuals (MoM),LOW,GBP
+77430a55-7631-4db8-bd2b-e8402d5c8d92,06/29/2007 09:00:00,Consumer Confidence,MEDIUM,EUR
+aba87544-b925-4526-8632-b3adae9862fe,06/29/2007 09:00:00,Economic Sentiment Indicator,MEDIUM,EUR
+6e31cb1d-4c1a-4908-a385-09a2807948ec,06/29/2007 09:00:00,Industrial Confidence,MEDIUM,EUR
+be5d287f-1188-48e1-a4b9-91da038e816f,06/29/2007 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+7a705397-5e0c-4e41-bd5d-90ff554c80e9,06/29/2007 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+33fda7e8-5be4-4c7f-a459-517bab5247d2,06/29/2007 12:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+a86b9422-a37e-4ff8-b2a4-ef07971bdc3b,06/29/2007 12:30:00,Personal Income (MoM),HIGH,USD
+3a9fa35a-ac62-4fdf-a91c-454f1b078af1,06/29/2007 13:45:00,Chicago PMI,NONE,USD
+7e89de96-9133-4aac-bcde-362cc1fc4642,06/29/2007 14:00:00,Michigan Consumer Sentiment Index,LOW,USD
+f3b08af2-7856-4581-8bdb-7b9c7087a1cc,07/01/2007 23:50:00,Tankan Large All Industry Capex,MEDIUM,JPY
+143e4e44-5f31-410e-aab3-0ea7787e3bc3,07/01/2007 23:50:00,Tankan Large Manufacturing Index,MEDIUM,JPY
+9862e266-38aa-4964-8079-f981308c3c42,07/01/2007 23:50:00,Tankan Large Manufacturing Outlook,MEDIUM,JPY
+d868b37b-3ac3-4964-965c-4d98e0895cc1,07/01/2007 23:50:00,Tankan Non - Manufacturing Index,MEDIUM,JPY
+4d5e09a0-b4ba-4360-bcea-3e8a99559546,07/01/2007 23:50:00,Tankan Non - Manufacturing Outlook,MEDIUM,JPY
+10549d80-e47b-4392-8366-5b039451c1df,07/02/2007 07:55:00,HCOB Manufacturing PMI,LOW,EUR
+1fbdd46b-78af-4d1d-8883-73b67c940b30,07/02/2007 08:00:00,HCOB Manufacturing PMI,LOW,EUR
+410aa772-8dc4-4509-b682-3ba5019b1740,07/02/2007 08:30:00,S&P Global Manufacturing PMI,MEDIUM,GBP
+d4cddada-06cb-4ecd-8ed4-657eeafda8f1,07/02/2007 14:00:00,ISM Manufacturing PMI,MEDIUM,USD
+3e3ecf89-0c67-40c8-bcc7-e7a3f527f2e4,07/03/2007 08:30:00,S&P Global Construction PMI,NONE,GBP
+bc8570a3-4ec4-4fbb-97a7-5ab5fc6d4bf8,07/03/2007 09:00:00,Producer Price Index (MoM),LOW,EUR
+ca93c8cc-4648-4d0f-babb-1daab817497d,07/03/2007 09:00:00,Producer Price Index (YoY),LOW,EUR
+d7b862c9-e52b-4af7-aad0-36d2b149a7e0,07/03/2007 09:00:00,Unemployment Rate,LOW,EUR
+9a9e5bb7-0fdc-440f-b827-ebcd4fb48966,07/03/2007 14:00:00,Factory Orders (MoM),MEDIUM,USD
+6829ec80-de72-4a25-804a-8f2aaa54526d,07/03/2007 14:00:00,Pending Home Sales (MoM),MEDIUM,USD
+4262d9bd-f0c1-45d8-8721-245e4626e437,07/03/2007 23:01:00,Nationwide Consumer Confidence,MEDIUM,GBP
+6a747d00-68ae-49be-a637-fd91a912f85f,07/04/2007 07:55:00,HCOB Services PMI,LOW,EUR
+8faa8e5d-a30e-40db-87e1-0a60b3ef27a6,07/04/2007 08:00:00,HCOB Services PMI,LOW,EUR
+c078ee6a-347e-4295-a2a8-1b789a55711c,07/04/2007 08:30:00,S&P Global Services PMI,MEDIUM,GBP
+75135ae1-75bc-4884-a387-00b19127a6c0,07/04/2007 09:00:00,Retail Sales (MoM),LOW,EUR
+993b61f6-434e-4104-9b0a-05f7936d6df2,07/04/2007 09:00:00,Retail Sales (YoY),NONE,EUR
+787a69eb-4597-4835-8257-09b4b741d849,07/05/2007 05:00:00,Leading Economic Index,MEDIUM,JPY
+93f1b328-9cc0-426c-b2c7-1523f7966419,07/05/2007 11:00:29,BoE Interest Rate Decision,HIGH,GBP
+1c07daae-7499-4a12-add0-d6333ccd7424,07/05/2007 11:45:00,ECB Main Refinancing Operations Rate,HIGH,EUR
+f9a7b9f6-d419-4366-9aa1-2ba71b4f773d,07/05/2007 12:15:00,ADP Employment Change,LOW,USD
+913ca107-9100-4a6a-89f9-cf4b41718df9,07/05/2007 12:30:00,Initial Jobless Claims,LOW,USD
+7844a8a6-e6f0-474c-9cec-c450c74577f3,07/05/2007 14:00:00,ISM Services PMI,MEDIUM,USD
+dd059fba-0147-4f6c-9724-0493c9cfcd38,07/06/2007 08:30:00,Industrial Production (MoM),MEDIUM,GBP
+91d9c8d5-e48f-4350-aeff-d91c5f228cec,07/06/2007 08:30:00,Industrial Production (YoY),MEDIUM,GBP
+1253f80c-97de-4046-8b7e-9f597df066e8,07/06/2007 12:30:00,Average Hourly Earnings (MoM),HIGH,USD
+c6999414-5ab0-47be-85c5-a5d7dd9b66d5,07/06/2007 12:30:00,Average Weekly Hours,HIGH,USD
+904f8a2c-2050-4581-aa5d-7ff3d84cafa4,07/06/2007 12:30:00,Nonfarm Payrolls,HIGH,USD
+36de35a8-a551-4222-a316-7753dd8a4774,07/06/2007 12:30:00,Unemployment Rate,HIGH,USD
+1e515158-9303-4686-940c-8ceda7e411d6,07/09/2007 06:00:00,Trade Balance s.a.,LOW,EUR
+2d7fed54-c2e1-4586-bf7a-03f9c5e56b6a,07/09/2007 08:30:00,Producer Price Index - Input (MoM) n.s.a,MEDIUM,GBP
+25c4e169-8665-4eab-b825-7b86b8770bbf,07/09/2007 08:30:00,Producer Price Index - Input (YoY) n.s.a,MEDIUM,GBP
+3484aae1-9faa-49b9-9133-682696fe9845,07/09/2007 08:30:00,Producer Price Index - Output (MoM) n.s.a,MEDIUM,GBP
+10a7e116-729e-43ea-85a8-e881778bdc52,07/09/2007 08:30:00,Producer Price Index - Output (YoY) n.s.a,MEDIUM,GBP
+c2e51a99-3603-492b-8eed-fad0f7e61526,07/09/2007 10:00:00,Industrial Production s.a. (MoM),LOW,EUR
+5c00e4a9-a788-4c98-af82-fba4ae740221,07/09/2007 23:01:00,BRC Like-For-Like Retail Sales (YoY),MEDIUM,GBP
+feb9e575-6d3d-4225-a5aa-6be6f5092030,07/10/2007 08:30:00,Goods Trade Balance,HIGH,GBP
+271d37d7-d1db-43a0-ae6b-0d39a684ab3b,07/10/2007 14:00:00,Wholesale Inventories,NONE,USD
+951eb55b-cbb4-4945-ae64-94febc02b9ad,07/10/2007 17:00:00,Former Fed's Chair Bernanke speech,MEDIUM,USD
+731a629a-6ea7-47e9-8831-4ba6c988cd8c,07/10/2007 23:50:00,Producer Price Index (MoM),LOW,JPY
+4a58b773-bd86-42a3-bde1-3f72be24adf9,07/10/2007 23:50:00,Producer Price Index (YoY),MEDIUM,JPY
+3d88ec66-eecb-4d18-9e0f-5d220efdc06d,07/10/2007 23:50:00,Trade Balance - BOP Basis,LOW,JPY
+eb84fadf-3404-4569-ae44-3da4201291a8,07/11/2007 05:00:00,Consumer Confidence Index,MEDIUM,JPY
+4693d7ce-5fdb-4866-95c5-89c0567f2088,07/11/2007 13:00:00,ECB's President Trichet speech,NONE,EUR
+0d3b926e-1667-4db1-ad3e-8bd5e4c31b74,07/11/2007 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+b454661a-4875-4f74-8df7-a0dc1f5128df,07/11/2007 23:01:00,RICS Housing Price Balance,MEDIUM,GBP
+852471e6-e3e8-4317-8b1b-f1203ac275a5,07/12/2007 03:00:00,BoJ Interest Rate Decision,NONE,JPY
+a34366ef-81ff-4558-b00a-fcaaca2f447f,07/12/2007 04:30:00,Industrial Production (MoM),LOW,JPY
+f178e8cc-f584-4ab1-a1ea-1063fcfea5e6,07/12/2007 04:30:00,Industrial Production (YoY),LOW,JPY
+69c6f447-3631-408e-be18-8acd26f0ea31,07/12/2007 06:30:00,BoJ's Governor Fukui speech,MEDIUM,JPY
+75e605c1-17f6-4632-86e8-c45c4450df4b,07/12/2007 09:00:00,Gross Domestic Product s.a. (QoQ),MEDIUM,EUR
+5cc3086e-25c9-45fe-adf0-180c98aef719,07/12/2007 09:00:00,Gross Domestic Product s.a. (YoY),MEDIUM,EUR
+12087135-296b-4091-a45a-585ddd91bcc4,07/12/2007 09:00:00,Industrial Production s.a. (MoM),LOW,EUR
+5464b5bc-c323-4d39-8889-260662160c2a,07/12/2007 09:00:00,Industrial Production w.d.a. (YoY),LOW,EUR
+28063875-e285-4569-9b92-f993f1e532c4,07/12/2007 12:30:00,Goods and Services Trade Balance,HIGH,USD
+347cc81e-f1a5-4219-adee-9cdad4d8bcf8,07/13/2007 12:30:00,Import Price Index (MoM),MEDIUM,USD
+097d705a-e213-4418-bb86-94259056fcde,07/13/2007 12:30:00,Import Price Index (YoY),MEDIUM,USD
+8cb23356-9259-4347-af80-5ba710526465,07/13/2007 12:30:00,Retail Sales (MoM),HIGH,USD
+398179eb-e172-4b7d-a83a-7d4a4de5cde4,07/13/2007 12:30:00,Retail Sales ex Autos (MoM),HIGH,USD
+3297488c-8fe4-4f7f-add3-7f22558f9a09,07/13/2007 14:00:00,Business Inventories,LOW,USD
+62626777-a7a1-41bb-86ea-079992dab796,07/13/2007 14:00:00,Michigan Consumer Sentiment Index,LOW,USD
+21358667-7915-41cf-9e9f-425df6e2600c,07/16/2007 06:00:00,Consumer Price Index (MoM),LOW,EUR
+c76295ae-9333-4af4-bda5-58e6d2788b98,07/16/2007 06:00:00,Consumer Price Index (YoY),LOW,EUR
+d079e11e-1a2f-4575-bb1c-5f463fe6bc84,07/16/2007 09:00:00,Harmonized Index of Consumer Prices (MoM),LOW,EUR
+a3345598-acfe-4f90-a84e-f5341edb7a57,07/16/2007 09:00:00,Harmonized Index of Consumer Prices (YoY),LOW,EUR
+4ed8e562-27e0-4fe8-b6f2-82ffaa1f12a4,07/16/2007 12:30:00,NY Empire State Manufacturing Index,LOW,USD
+4cd40991-9195-40a1-bb22-3f00051bade4,07/16/2007 23:50:00,Tertiary Industry Index (MoM),MEDIUM,JPY
+ab7869c8-991c-47f7-9dda-1131b4e46d75,07/17/2007 08:30:00,Consumer Price Index (MoM),MEDIUM,GBP
+48a8e779-ab21-4cbf-9fe9-40ec62792324,07/17/2007 08:30:00,Consumer Price Index (YoY),MEDIUM,GBP
+453ce4c6-bd09-4120-bc06-55b055f33acf,07/17/2007 08:30:00,Retail Price Index (MoM),MEDIUM,GBP
+49b019c7-561b-42ff-9846-ef142f95aaec,07/17/2007 08:30:00,Retail Price Index (YoY),MEDIUM,GBP
+8afec3a6-17c1-45d5-8a53-a5667d0e3e33,07/17/2007 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR
+c3aa2e2a-8da0-4f7c-b416-8e259bc3fb68,07/17/2007 12:30:00,Producer Price Index (MoM),MEDIUM,USD
+ce54c798-b7a6-4683-8c74-1a2b7aca8179,07/17/2007 12:30:00,Producer Price Index (YoY),MEDIUM,USD
+556d99a9-3015-4471-b7bd-f4d54da7b94f,07/17/2007 12:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
+0b9ad28a-d147-4699-a447-db9c00c24668,07/17/2007 12:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD
+2a91a122-9c92-4781-8005-3f02d7397bc9,07/17/2007 13:00:00,Net Long-Term TIC Flows,NONE,USD
+efafa8a6-2fa5-4709-ba3b-ab33ef37d85d,07/17/2007 13:15:00,Capacity Utilization,MEDIUM,USD
+3d4155c7-86d3-4669-ad0f-d744cf5710c1,07/17/2007 13:15:00,Industrial Production (MoM),MEDIUM,USD
+3b175fe8-19d3-4f87-991a-2d4db67d6180,07/17/2007 17:00:00,NAHB Housing Market Index,MEDIUM,USD
+4870f1f5-dbc8-442e-9038-f3907387fd7d,07/17/2007 23:50:00,BoJ Minutes,MEDIUM,JPY
+ec3fddd8-19d3-48aa-87d6-db536d03b63b,07/18/2007 08:30:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
+8447ac14-5e96-4bef-95e4-b351c0d314ef,07/18/2007 08:30:00,Average Earnings Including Bonus (3Mo/Yr),MEDIUM,GBP
+2e99090f-3282-4fc5-9df6-699482c22258,07/18/2007 08:30:00,BoE Minutes,MEDIUM,GBP
+463d04e9-95fa-4852-9c1f-36b86c3763d9,07/18/2007 08:30:00,Claimant Count Rate,NONE,GBP
+c777e2b0-ad71-4567-bacf-0116cea86d1d,07/18/2007 09:00:00,Trade Balance s.a.,LOW,EUR
+eecfa020-5417-44d1-af1f-3b87633c3cd6,07/18/2007 12:30:00,Building Permits (MoM),MEDIUM,USD
+0de917c9-edaf-4f28-9af5-b33ab2afe656,07/18/2007 12:30:00,Consumer Price Index (MoM),HIGH,USD
+984e99a3-7839-41fc-b713-5eaca5f96a53,07/18/2007 12:30:00,Consumer Price Index (YoY),HIGH,USD
+ae4fb87c-ca7f-4d8f-816c-87e0d6bf5e89,07/18/2007 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+f6bd1a9e-9a65-483c-8b03-daa5e674e413,07/18/2007 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+814754fd-a360-4148-948d-33068ec391a3,07/18/2007 12:30:00,Housing Starts (MoM),MEDIUM,USD
+0c472869-9f27-47d5-b828-32e50ee48a2d,07/18/2007 14:00:00,Former Fed's Chair Bernanke speech,MEDIUM,USD
+7dd70207-4a49-41c0-93cb-676bf26cc211,07/19/2007 06:00:00,Producer Price Index (MoM),LOW,EUR
+c2269cdb-bc26-455a-ba78-8977806f2b45,07/19/2007 06:00:00,Producer Price Index (YoY),LOW,EUR
+c7f03c5e-f147-4546-b6e2-f0a6cdaabf67,07/19/2007 08:30:00,M4 Money Supply (MoM),MEDIUM,GBP
+f30719d9-d8f6-460f-b3ec-ddf9a99478c2,07/19/2007 08:30:00,M4 Money Supply (YoY),NONE,GBP
+7ca2d0cb-ae4a-472c-8945-ac6c3b3b95bb,07/19/2007 08:30:00,Public Sector Net Borrowing,LOW,GBP
+65786d1a-dd27-46bd-8800-bd26b4733300,07/19/2007 08:30:00,Retail Sales (MoM),MEDIUM,GBP
+acd03f50-1d74-4591-85bc-c12841006633,07/19/2007 08:30:00,Retail Sales (YoY),MEDIUM,GBP
+39f84136-a64c-476c-a94c-1e610b29a83e,07/19/2007 13:30:00,Former Fed's Chair Bernanke speech,LOW,USD
+6221302e-812f-4bea-98f9-b44c96cadf7b,07/19/2007 16:00:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD
+80022d56-a70d-423b-9ff6-9e5514440786,07/19/2007 18:00:00,FOMC Minutes,MEDIUM,USD
+8103914a-d42d-48d2-ba09-2c2e86a51bc8,07/20/2007 08:30:00,Gross Domestic Product (QoQ),HIGH,GBP
+40e927c0-15c1-4c7f-b927-ea8e47e716e5,07/20/2007 08:30:00,Gross Domestic Product (YoY),HIGH,GBP
+1c965df2-6df2-4a0d-bee8-fc2789da7195,07/23/2007 09:56:48,Total Business Investment (QoQ),NONE,GBP
+f0eb6c4a-6266-4f6e-800c-189af9b469e8,07/24/2007 07:30:00,BoJ's Governor Fukui speech,LOW,JPY
+fd0fd813-435e-4068-b86b-e00b8618b845,07/24/2007 08:00:00,HCOB Manufacturing PMI,LOW,EUR
+4168f0c2-8983-477c-a308-fe3f0998e3a2,07/24/2007 08:00:00,HCOB Services PMI,LOW,EUR
+d971d385-05d0-4b7e-a08e-4d5f9f757d40,07/24/2007 08:31:03,All Industry Activity Index (MoM),NONE,JPY
+dffa989d-00d6-4a09-963b-ae2f2c1b4bff,07/24/2007 09:00:00,Industrial New Orders (YoY),LOW,EUR
+b4c038bc-0f01-4890-b457-9f94a6e46890,07/24/2007 09:00:00,Industrial New Orders s.a. (MoM),LOW,EUR
+6e471dc0-3fc5-416b-9c6f-d010b541c7ee,07/24/2007 10:00:00,CBI Industrial Trends Survey – Orders (MoM),MEDIUM,GBP
+a4bb9c58-001a-422c-b7b4-31ce86a72c5c,07/24/2007 14:00:00,Richmond Fed Manufacturing Index,LOW,USD
+37c9dd2a-8116-4e3e-a7ce-241fd18f4f5b,07/24/2007 23:50:00,Adjusted Merchandise Trade Balance,LOW,JPY
+ef5b0343-5084-492a-8c80-0f08ace7d8d9,07/24/2007 23:50:00,Merchandise Trade Balance Total,LOW,JPY
+6b9285ec-a997-443d-9fc6-1495673a33ca,07/25/2007 14:00:00,Existing Home Sales (MoM),MEDIUM,USD
+6f371810-4ab0-490a-bd89-912077f6935e,07/25/2007 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+fbd63991-0228-42e6-9bed-e006b42011d9,07/25/2007 18:00:00,Fed's Beige Book,MEDIUM,USD
+3f1cf72d-40ca-41d2-9432-168ba30a8f45,07/26/2007 06:00:00,Nationwide Housing Prices n.s.a (YoY),MEDIUM,GBP
+8e9be928-e971-434a-b3fb-ae7265ac9902,07/26/2007 06:00:00,Nationwide Housing Prices s.a (MoM),MEDIUM,GBP
+6ee9eac9-6c0a-44ae-816e-c5feba9cb9e2,07/26/2007 08:00:10,M3 Money Supply (YoY),LOW,EUR
+620f92d0-d828-4015-9710-4de06c692632,07/26/2007 08:00:30,IFO – Business Climate,HIGH,EUR
+887bef7e-8ef2-479b-8bf6-fd1bb073c97c,07/26/2007 12:30:00,Durable Goods Orders,MEDIUM,USD
+5fa9f238-ba45-4a17-a837-9716550cfb2a,07/26/2007 12:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
+b487f8c6-e2c2-4462-a2fd-2c93c55da4e4,07/26/2007 14:00:00,New Home Sales (MoM),MEDIUM,USD
+4dfceaae-251f-488f-8d06-24b0e2d7d867,07/26/2007 14:00:00,New Home Sales Change (MoM),MEDIUM,USD
+8bc88c08-020b-4592-b1bd-f2ed987248f7,07/26/2007 23:30:00,National Consumer Price Index (YoY),LOW,JPY
+2a84b01f-56de-4438-9e64-89dfcf83f1e8,07/26/2007 23:30:00,National CPI ex Fresh Food (YoY),LOW,JPY
+1d2a07da-1ffa-4132-9b56-88a18ac8ba45,07/26/2007 23:30:00,Tokyo Consumer Price Index (YoY),LOW,JPY
+02e2e958-1894-4716-ad6a-ab8ebef919b0,07/26/2007 23:30:00,Tokyo CPI ex Fresh Food (YoY),LOW,JPY
+96d317d7-b50e-4cd3-b8ed-d8b606a4319a,07/26/2007 23:50:00,Large Retailer Sales,LOW,JPY
+4494003c-b4f3-4366-8491-8a803010b8cb,07/26/2007 23:50:00,Retail Trade (YoY),NONE,JPY
+6d6a1aa6-62c4-4a08-9f8f-08c04e78c010,07/26/2007 23:50:00,Retail Trade s.a (MoM),LOW,JPY
+c393b89a-2563-46cc-b59b-607daa1e9d83,07/27/2007 06:10:00,GfK Consumer Confidence Survey,MEDIUM,EUR
+01209aa6-6bf3-4d2c-83cc-c34b6cc2ffea,07/27/2007 12:30:00,Core Personal Consumption Expenditures (QoQ),MEDIUM,USD
+69dc04da-4034-44ef-89e3-b3e72384acdc,07/27/2007 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+cbb585d6-7a48-471f-b7ca-762c1448fabf,07/27/2007 13:30:00,Consumer Price Index (MoM),LOW,EUR
+a08c458c-b339-4984-ab63-90564b46be67,07/27/2007 13:30:00,Consumer Price Index (YoY),LOW,EUR
+827f62b2-0a83-4fb8-bb88-41a26ba5c3aa,07/27/2007 14:00:00,Michigan Consumer Sentiment Index,LOW,USD
+60ed35c3-e0dc-4378-88e0-52704b664270,07/29/2007 23:50:00,Industrial Production (MoM),MEDIUM,JPY
+90ae1130-e1a2-49c4-9ca0-c2e71b30098a,07/29/2007 23:50:00,Industrial Production (YoY),MEDIUM,JPY
+5d339295-71f8-4c70-bdf7-ac916eaa7920,07/30/2007 08:30:00,Consumer Credit,MEDIUM,GBP
+3138cef8-1753-4a35-867a-e107831e5849,07/30/2007 08:30:00,M4 Money Supply (MoM),MEDIUM,GBP
+64a95bdf-b956-485a-88fa-f64b287363ce,07/30/2007 08:30:00,M4 Money Supply (YoY),MEDIUM,GBP
+f239617e-d291-41f4-bd1a-9d19340e4ff8,07/30/2007 08:30:00,M4 Sterling Lending,MEDIUM,GBP
+1a3f2b90-7be8-4b86-a55b-86f5209a3863,07/30/2007 08:30:00,Net Lending to Individuals (MoM),LOW,GBP
+62294879-4a81-459f-b86e-23c057bab49b,07/30/2007 23:30:00,Jibun Bank Manufacturing PMI,MEDIUM,JPY
+9ec7e182-6dde-48d7-8d05-3d81903fada7,07/30/2007 23:30:00,Overall Household Spending (YoY),MEDIUM,JPY
+880b66cd-d917-4dc0-8066-2f3356b25a27,07/30/2007 23:30:00,Unemployment Rate,MEDIUM,JPY
+497d1b3b-fe04-40c4-92d5-5827d97fe68a,07/31/2007 06:00:00,Retail Sales (MoM),LOW,EUR
+16230240-f5a4-4719-928c-5aa49dc2016e,07/31/2007 06:00:00,Retail Sales (YoY),LOW,EUR
+c8b727d3-3f9c-4558-8f89-2d91e5046554,07/31/2007 07:55:00,Unemployment Change,MEDIUM,EUR
+a108744a-eb32-46f2-bcf3-7998b70112cb,07/31/2007 07:55:00,Unemployment Rate s.a.,MEDIUM,EUR
+351aadee-26d4-4b84-8d77-c8973ee1f2f2,07/31/2007 09:00:00,Consumer Confidence,LOW,EUR
+c8d95ae9-66f4-463a-ad9f-cdb695488575,07/31/2007 09:00:00,Economic Sentiment Indicator,MEDIUM,EUR
+8bce9aed-cc2a-4809-80c3-ff943df70720,07/31/2007 09:00:00,Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
+0a106249-4451-4216-907a-f994bd06ba56,07/31/2007 09:00:00,Unemployment Rate,MEDIUM,EUR
+79e5d64f-f1cc-42f7-b53d-793d224dc585,07/31/2007 09:30:00,GfK Consumer Confidence,HIGH,GBP
+39995ad8-86c3-459e-abb0-6a0184950e79,07/31/2007 10:00:00,CBI Distributive Trades Survey – Realized (MoM),HIGH,GBP
+bf5b7a7e-0b2f-41c6-83e1-55294c7299bb,07/31/2007 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+b789fd0c-b9b9-4dde-9284-5f97c02a71fe,07/31/2007 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+4cbfa7a8-37c6-4d60-b9b1-d1d025a7c677,07/31/2007 12:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+65d742ed-92ad-4f08-b216-e7ae9a186302,07/31/2007 12:30:00,Personal Income (MoM),MEDIUM,USD
+6f32e56c-51c1-4486-adda-e56838d6c3bb,07/31/2007 13:45:00,Chicago PMI,MEDIUM,USD
+ab5923d7-4873-4f12-a348-87dde7c0f7bd,07/31/2007 14:00:00,Consumer Confidence,MEDIUM,USD
+42935dab-4b30-4cc5-af24-c4e077911df4,07/31/2007 23:01:00,Nationwide Consumer Confidence,MEDIUM,GBP
+6959c208-69fc-42a8-899d-de00f8c21175,08/01/2007 07:55:00,HCOB Manufacturing PMI,LOW,EUR
+b28d0417-ebf1-401a-8a28-96edde7cf9e1,08/01/2007 08:00:00,HCOB Manufacturing PMI,LOW,EUR
+f3a6c9e9-21a1-4f8f-a895-b4d5d162cb6d,08/01/2007 08:30:00,S&P Global Manufacturing PMI,MEDIUM,GBP
+8b3932d7-9b29-442f-abd7-a9cb298f5ed3,08/01/2007 14:00:00,ISM Manufacturing PMI,MEDIUM,USD
+59fe0f2f-b476-4ea7-8f80-89cae6db564c,08/01/2007 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+0f596623-2a50-43eb-a7da-edf53b291c36,08/01/2007 15:00:59,Pending Home Sales (MoM),MEDIUM,USD
+25dc8d55-e88d-4c21-b3a2-7e46a0095e98,08/02/2007 08:30:00,S&P Global Construction PMI,NONE,GBP
+6d88f658-a2b2-4d86-b25a-9883a4d2bb46,08/02/2007 09:00:00,Producer Price Index (MoM),MEDIUM,EUR
+8e950086-fcdc-41d7-9c94-5296827c45a7,08/02/2007 09:00:00,Producer Price Index (YoY),MEDIUM,EUR
+1bb5b562-b6b4-4a08-a3e7-98281fbf5a7a,08/02/2007 11:00:00,BoE Interest Rate Decision,HIGH,GBP
+c6fd92fa-77b8-4fcc-9cc5-806679160630,08/02/2007 11:45:00,ECB Main Refinancing Operations Rate,HIGH,EUR
+cb471d74-49e1-464f-a477-1b818d9d4ac4,08/02/2007 14:00:00,Factory Orders (MoM),MEDIUM,USD
+69a8bb28-a189-4645-9171-cb4ab9162f71,08/03/2007 07:55:00,HCOB Services PMI,LOW,EUR
+b6734d37-7b77-47e2-9d2b-1a3d0cefd68e,08/03/2007 08:00:00,HCOB Services PMI,LOW,EUR
+d9515280-1d9a-4d14-a66f-6f5988cd298c,08/03/2007 08:30:00,S&P Global Services PMI,MEDIUM,GBP
+5fc27730-208b-4315-8786-1b8bc6f08a47,08/03/2007 09:00:00,Retail Sales (MoM),LOW,EUR
+3a43db30-d497-4548-9cc4-61d45fc56795,08/03/2007 09:00:00,Retail Sales (YoY),LOW,EUR
+ce77f4ee-9b24-459e-bbd1-33b6f56074fa,08/03/2007 12:30:00,Average Hourly Earnings (MoM),HIGH,USD
+6c07b072-e612-48a8-9952-dce1b5c8e8ad,08/03/2007 12:30:00,Average Hourly Earnings (YoY),HIGH,USD
+19794c90-c6a6-46c0-a300-94ffd6dce51a,08/03/2007 12:30:00,Average Weekly Hours,HIGH,USD
+b161d7e6-7327-49b3-86d8-5fc6ea7b20c5,08/03/2007 12:30:00,Nonfarm Payrolls,HIGH,USD
+c2945472-6d8b-48a6-b59b-ed81a67df810,08/03/2007 12:30:00,Unemployment Rate,HIGH,USD
+5353e68a-4768-424d-b7c0-08a2785c2f64,08/03/2007 14:00:00,ISM Services PMI,MEDIUM,USD
+d347e0e0-63bf-41f9-81d2-40a68b2dd682,08/04/2007 16:00:00,Construction Spending (MoM),LOW,USD
+e738ea5f-3e7e-41f5-a4f7-39974565a4f5,08/06/2007 05:00:00,Leading Economic Index,MEDIUM,JPY
+bb40ac85-766e-4982-becc-3bfbd4d186e6,08/06/2007 08:30:00,Industrial Production (MoM),MEDIUM,GBP
+11551bc5-7491-44bf-824f-120f918178a0,08/06/2007 08:30:00,Industrial Production (YoY),MEDIUM,GBP
+9a615b82-d559-4b5f-a9ce-7ad3c192c66b,08/06/2007 23:01:00,NIESR GDP Estimate (3M),MEDIUM,GBP
+31e626a9-36a3-4660-9ea7-54b5f0aaccde,08/07/2007 10:00:00,Industrial Production n.s.a. w.d.a. (YoY),MEDIUM,EUR
+0a30249e-d0fb-409c-acb1-dce466c2f6b5,08/07/2007 10:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
+af8ce131-134b-4a7f-a659-002f3b3377dc,08/07/2007 12:30:00,Nonfarm Productivity,MEDIUM,USD
+e72c5a81-2947-4514-a2b4-4ee6755d3aa5,08/07/2007 12:30:00,Unit Labor Costs,LOW,USD
+f6627a3f-c198-4164-a56b-ac51ee4f950f,08/07/2007 18:15:00,Fed Interest Rate Decision,HIGH,USD
+b4e3d318-d52e-43b7-b24a-39acf765878c,08/07/2007 19:00:00,Consumer Credit Change,NONE,USD
+fea10cdb-76b7-4e70-a50d-20a15250c259,08/08/2007 06:00:00,Trade Balance s.a.,LOW,EUR
+e2f31051-6fe6-46ee-9913-f946005d5b7b,08/08/2007 09:30:00,BoE Monetary Policy Report,MEDIUM,GBP
+80a2bf7e-f330-4689-bfa7-db640780ce55,08/08/2007 12:15:00,ADP Employment Change,LOW,USD
+77813a56-64bb-4d89-9900-c28ddb60d29a,08/08/2007 14:00:00,Wholesale Inventories,NONE,USD
+e3d321dd-0c32-4ca8-9e65-5328832a4c6b,08/08/2007 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+367e4b4d-1ef1-4bd3-8d5b-085064da81e3,08/09/2007 08:00:00,ECB Monthly Report,MEDIUM,EUR
+525f11c5-8314-4021-ac27-968822327d85,08/09/2007 08:30:00,Trade Balance; non-EU,MEDIUM,GBP
+e10fdb21-62b9-4bf4-b65f-30afae8c6505,08/09/2007 23:50:00,Producer Price Index (MoM),LOW,JPY
+0d57a89d-94f8-44b5-bc63-b8181a3339c4,08/09/2007 23:50:00,Producer Price Index (YoY),LOW,JPY
+871b4462-6ee2-4ef3-91f2-dd671dd621dd,08/10/2007 04:30:00,Industrial Production (MoM),LOW,JPY
+164781a0-1eb6-4d37-9a44-a980c4e65c47,08/10/2007 04:30:00,Industrial Production (YoY),LOW,JPY
+e0b31b2d-eab0-4d9e-8a6f-239802c3c097,08/10/2007 10:01:45,Industrial Production w.d.a. (YoY),NONE,EUR
+8058a195-76a4-4288-9018-0391bd7f77a6,08/10/2007 12:30:00,Import Price Index (MoM),MEDIUM,USD
+7b1bf338-7025-4496-b8de-f75669938c58,08/10/2007 12:30:00,Import Price Index (YoY),MEDIUM,USD
+795541e3-baf6-4c6e-b0df-98832accc3a8,08/12/2007 23:50:00,Gross Domestic Product (QoQ),LOW,JPY
+6d37ae32-7d6a-41ed-b5a3-5decdd828530,08/13/2007 08:30:00,Producer Price Index - Input (MoM) n.s.a,MEDIUM,GBP
+98029405-6e4f-4001-970c-96e278ed521c,08/13/2007 08:30:00,Producer Price Index - Input (YoY) n.s.a,MEDIUM,GBP
+d5036be4-f185-49fe-ab63-517ae6c57c32,08/13/2007 08:30:00,Producer Price Index - Output (MoM) n.s.a,MEDIUM,GBP
+5f904944-8908-49c0-ad17-a4053e85f4d0,08/13/2007 08:30:00,Producer Price Index - Output (YoY) n.s.a,MEDIUM,GBP
+ad7dccfe-7de4-4f54-b3c2-86b33cddb72b,08/13/2007 11:09:29,Employment Change (YoY),LOW,EUR
+cc4a56a9-5afb-486a-8ce1-9caa282d4556,08/13/2007 11:10:06,Employment Change (QoQ),NONE,EUR
+a80a6898-b450-4b0b-bcd1-41b6b5c02be1,08/13/2007 12:30:00,Retail Sales (MoM),HIGH,USD
+7bdf6521-3609-49fe-a8f5-ec00d32bd2f6,08/13/2007 12:30:00,Retail Sales ex Autos (MoM),HIGH,USD
+baddbc0b-0ae6-4b9e-81e1-6c5cbfc25ec3,08/13/2007 14:00:00,Business Inventories,MEDIUM,USD
+0f5e9d1a-a9b2-467d-87f8-fa36cafed707,08/13/2007 23:50:00,Tertiary Industry Index (MoM),MEDIUM,JPY
+bb009b0d-3fc1-4fee-bc76-3026d2f5232d,08/14/2007 06:00:00,Gross Domestic Product (QoQ),LOW,EUR
+8e63d700-d87d-4684-bdbc-533943f8fa96,08/14/2007 06:00:00,Gross Domestic Product w.d.a (YoY),LOW,EUR
+3a6e77b4-8023-40f7-8c6f-786c8d0e2a89,08/14/2007 08:30:00,Consumer Price Index (MoM),MEDIUM,GBP
+a8c50a8c-4120-4ac3-a66a-c724570266f3,08/14/2007 08:30:00,Consumer Price Index (YoY),MEDIUM,GBP
+8fb93714-dc2b-4b68-b400-70926ff55c8e,08/14/2007 08:30:00,Core Consumer Price Index (YoY),MEDIUM,GBP
+887066e7-1e26-4440-ad7a-cf6e74fdd0d9,08/14/2007 08:30:00,Retail Price Index (MoM),MEDIUM,GBP
+677b890f-28f5-437f-b339-b62c059819d6,08/14/2007 08:30:00,Retail Price Index (YoY),MEDIUM,GBP
+d9619ea6-0a9a-43b4-b5ac-5f7ddde44140,08/14/2007 09:00:00,Gross Domestic Product s.a. (QoQ),LOW,EUR
+810dd376-5902-4169-86e3-6070bbc387eb,08/14/2007 09:00:00,Gross Domestic Product s.a. (YoY),MEDIUM,EUR
+c29f81e9-4978-41b0-945b-94d6de4e6748,08/14/2007 09:00:00,Industrial Production s.a. (MoM),LOW,EUR
+ac359a7b-0c76-410e-bea5-095fcc908c2f,08/14/2007 12:30:00,Goods and Services Trade Balance,HIGH,USD
+91ed82aa-627a-40cb-ad09-d5b05808f30e,08/14/2007 12:30:00,Producer Price Index (MoM),MEDIUM,USD
+5342b7bb-2f26-4816-b40a-c126fdefb067,08/14/2007 12:30:00,Producer Price Index (YoY),MEDIUM,USD
+f42e3621-5194-431c-9a46-4d4fe2624511,08/14/2007 12:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
+31189dc9-3015-4192-be91-d5756d96735b,08/14/2007 12:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD
+e8b45573-2973-4a22-8511-76fd8b9222b4,08/15/2007 08:30:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
+9fc835f5-a847-4398-91c5-dc8baa78e11d,08/15/2007 08:30:00,Average Earnings Including Bonus (3Mo/Yr),MEDIUM,GBP
+492ebad4-7ebe-4be3-969f-b1ff854c4f1c,08/15/2007 08:30:00,BoE Minutes,MEDIUM,GBP
+23c8074d-89cf-4046-82c8-46ccf12b4f24,08/15/2007 08:30:00,Claimant Count Change,LOW,GBP
+2a25c29a-9b3c-48f4-849c-34527f0225fe,08/15/2007 08:30:00,Claimant Count Rate,LOW,GBP
+2b11c022-9852-4553-8f5c-66f0025d9c01,08/15/2007 12:30:00,Consumer Price Index (MoM),HIGH,USD
+4a54e84e-a97c-4e7a-8b3f-32629770c72f,08/15/2007 12:30:00,Consumer Price Index (YoY),HIGH,USD
+9e36b8a3-0b2a-48b0-b827-76dd75f01d84,08/15/2007 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+881d13f7-cbdd-49c1-870c-7e7e4560bfe3,08/15/2007 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+099929f5-8ed3-4f44-a3ee-38ce998a9b51,08/15/2007 12:30:00,NY Empire State Manufacturing Index,MEDIUM,USD
+05b572ea-e28c-4df6-85e0-51daca89f7ae,08/15/2007 13:00:00,Net Long-Term TIC Flows,MEDIUM,USD
+e8c20cce-6a19-4979-8c38-9ace5fb36a8c,08/15/2007 13:15:00,Capacity Utilization,MEDIUM,USD
+024c2e5c-d38c-443d-82f0-ae200b01caa7,08/15/2007 13:15:00,Industrial Production (MoM),MEDIUM,USD
+e023f174-d28a-4ea1-aa59-b97a44575187,08/15/2007 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+abd8157c-c51c-44a8-ad34-203d9ceb5f1f,08/15/2007 17:00:00,NAHB Housing Market Index,LOW,USD
+56d9610b-5451-41f3-870b-ee86faf1c4d4,08/16/2007 06:00:00,Consumer Price Index (MoM),MEDIUM,EUR
+80b7c15e-c246-4bb9-9186-7f3ec848902e,08/16/2007 06:00:00,Consumer Price Index (YoY),MEDIUM,EUR
+dcb336d0-681c-4c68-a201-014024a8b09c,08/16/2007 08:30:00,Retail Sales (MoM),MEDIUM,GBP
+4791f566-bde7-4433-89e9-3feb638d01ef,08/16/2007 08:30:00,Retail Sales (YoY),MEDIUM,GBP
+10923571-3b6d-4fc4-88a8-04a73373782d,08/16/2007 09:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
+ca347e51-fbf2-4bd3-b004-c7745142ea5a,08/16/2007 09:00:00,Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
+5fb962c4-2f17-49f4-a002-2faf46f1eee4,08/16/2007 12:30:00,Building Permits (MoM),MEDIUM,USD
+635289ed-4554-485a-8917-8c9c4f7d390d,08/16/2007 12:30:00,Housing Starts (MoM),MEDIUM,USD
+a467cf0a-b4b3-4663-a4f0-6fa031a53ead,08/16/2007 16:00:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD
+c4c32e5c-c6c7-472b-a771-f3a4dc5ca482,08/17/2007 05:00:00,Leading Economic Index,MEDIUM,JPY
+1cc78bf4-56eb-4548-8032-bd3896c1a4b9,08/17/2007 06:00:00,Producer Price Index (MoM),LOW,EUR
+1f29f49e-fd31-4899-907d-05df6279a1d4,08/17/2007 06:00:00,Producer Price Index (YoY),LOW,EUR
+bff08c78-2817-4235-bfb2-98456ee0f8f6,08/17/2007 14:00:00,Michigan Consumer Sentiment Index,LOW,USD
+b6ffb98a-e6fd-442f-b3f0-132a6a9d3e51,08/20/2007 08:30:00,M4 Money Supply (MoM),MEDIUM,GBP
+fa429978-8216-43ad-ad9e-fc28c269e9e6,08/20/2007 08:30:00,Public Sector Net Borrowing,LOW,GBP
+33bcc868-ffe1-4957-9b25-08eea1a63c28,08/20/2007 11:14:26,Trade Balance n.s.a.,NONE,EUR
+3617ef59-b9c3-4ea7-9842-1b1063d564a2,08/20/2007 23:50:00,All Industry Activity Index (MoM),LOW,JPY
+9f17e529-0e6e-4095-85da-4a6f6d3ecf30,08/21/2007 08:00:00,Current Account n.s.a,NONE,EUR
+b7d10241-51a9-4f47-a7e7-552564235600,08/21/2007 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR
+b4e677bb-3320-4449-8618-78b82a4a3280,08/21/2007 09:00:00,Trade Balance s.a.,LOW,EUR
+70c8b036-cfc1-4d30-b211-df3417f799cc,08/21/2007 23:50:00,Adjusted Merchandise Trade Balance,LOW,JPY
+fbf0f6b5-0ced-4ec8-9cc6-018f760da42c,08/21/2007 23:50:00,Merchandise Trade Balance Total,LOW,JPY
+7a9b3533-e845-4fdd-b862-96ae210f4090,08/22/2007 09:00:00,Industrial New Orders (YoY),LOW,EUR
+2b67c074-3e79-4f2f-9a3d-7c5974480f2a,08/22/2007 09:00:00,Industrial New Orders s.a. (MoM),LOW,EUR
+cae53339-e508-4c27-bcd3-a2e05f7b6f92,08/22/2007 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+356fc04e-bc7e-4bc4-9b43-f241a4dd6904,08/23/2007 03:00:00,BoJ Interest Rate Decision,HIGH,JPY
+a0d27f89-bc15-492c-ab63-68cf5cbcfb14,08/23/2007 06:00:32,Gross Domestic Product (QoQ),LOW,EUR
+90d87c6a-0ce8-4250-9201-ab0aeca8a22d,08/23/2007 06:30:00,BoJ's Governor Fukui speech,LOW,JPY
+2f377117-7d33-4041-8400-dec48797793d,08/23/2007 08:30:00,Total Business Investment (QoQ),MEDIUM,GBP
+c7b0da8c-cc0f-4797-a5d4-a62f931c6bf4,08/23/2007 12:30:00,Initial Jobless Claims,NONE,USD
+16c5914b-f2ea-474f-b994-a5cc25092945,08/24/2007 08:00:00,HCOB Manufacturing PMI,LOW,EUR
+8123e0b3-98a2-4767-a316-bc7fd4af5866,08/24/2007 08:00:54,HCOB Services PMI,LOW,EUR
+a86f17db-b1b0-469a-98d8-9da8bb3c27b5,08/24/2007 08:30:00,Gross Domestic Product (QoQ),HIGH,GBP
+a7aa3e6d-2d6a-40d6-a728-870027ba2adc,08/24/2007 08:30:00,Gross Domestic Product (YoY),HIGH,GBP
+602a1b20-532a-4a16-b302-56e1fdd086ba,08/24/2007 12:30:04,Durable Goods Orders,MEDIUM,USD
+31a8a708-6809-4363-b8ff-72eaf4ea5f7f,08/24/2007 12:30:41,Durable Goods Orders ex Transportation,MEDIUM,USD
+097a29f0-11c8-4763-8fbc-5fb6fdd15973,08/24/2007 14:00:00,New Home Sales (MoM),MEDIUM,USD
+40fa9947-1945-4f11-bb34-c7e382bf1262,08/24/2007 14:00:00,New Home Sales Change (MoM),MEDIUM,USD
+50bdf39d-c92c-4992-b2ef-dde60cfb44e6,08/27/2007 08:00:00,M3 Money Supply (YoY),NONE,EUR
+16ef3652-179d-428a-9924-d9f5cf8df071,08/27/2007 13:00:00,ECB's President Trichet speech,HIGH,EUR
+1c2d28ba-fc52-413a-af9a-cdcbfa0ae4d7,08/27/2007 14:00:00,Existing Home Sales (MoM),MEDIUM,USD
+316846d7-3527-4a1e-88ac-cb4dc8af1dda,08/27/2007 23:50:00,BoJ Minutes,MEDIUM,JPY
+c026f7a8-f494-4d4d-b3f6-211433b4fbf6,08/28/2007 08:00:00,IFO – Business Climate,HIGH,EUR
+ba475272-a56e-4f8e-b373-c8dfd1ed2fe7,08/28/2007 14:00:00,Consumer Confidence,MEDIUM,USD
+9803c769-e6d2-45a0-9093-2b6ad0f741c2,08/28/2007 14:00:00,Richmond Fed Manufacturing Index,LOW,USD
+34c3236d-fbc0-4e97-801e-01d6c5e538c3,08/28/2007 16:00:00,Consumer Price Index (MoM),LOW,EUR
+3d481b6b-6396-4f7a-b6e6-56126ce54857,08/28/2007 16:00:00,Consumer Price Index (YoY),LOW,EUR
+cec9e65a-6fd7-4716-bbe4-71aa6a4fa6a6,08/28/2007 18:00:00,FOMC Minutes,MEDIUM,USD
+193ce4d5-6948-4ca2-8ac7-7676671a6ae3,08/29/2007 06:10:00,GfK Consumer Confidence Survey,MEDIUM,EUR
+474565a9-5b23-46ac-98f7-7f4c71a3ccaf,08/29/2007 08:30:00,Current Account,LOW,GBP
+d740bf87-12ce-4154-93f3-85399a47cf01,08/29/2007 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+50b50568-872d-41d6-a277-87e7f01776f5,08/29/2007 23:50:00,Large Retailer Sales,LOW,JPY
+abbbde21-f975-4985-81dc-bec36927482f,08/29/2007 23:50:00,Retail Trade (YoY),NONE,JPY
+56ad2952-0193-4f35-9dac-721bc0f692da,08/29/2007 23:50:00,Retail Trade s.a (MoM),NONE,JPY
+0a0ecd36-b9f7-4380-9933-b0ae0e8ae9a2,08/30/2007 06:00:00,Nationwide Housing Prices n.s.a (YoY),MEDIUM,GBP
+134c4100-2be7-42e5-84b7-1c3fd534f96d,08/30/2007 06:00:00,Nationwide Housing Prices s.a (MoM),MEDIUM,GBP
+fa92802f-d27a-458e-be10-3d4c4c301231,08/30/2007 07:55:00,Unemployment Change,MEDIUM,EUR
+e4e76b3c-88cd-4322-b627-8b02acedda0f,08/30/2007 07:55:00,Unemployment Rate s.a.,MEDIUM,EUR
+5c84480c-cf8a-4a70-9cf8-3f52ff3d1910,08/30/2007 08:30:00,M4 Money Supply (MoM),MEDIUM,GBP
+88b080f0-5e13-4b08-b84c-04f363cd393e,08/30/2007 08:30:00,M4 Money Supply (YoY),MEDIUM,GBP
+85fe0841-bdfa-42f7-8097-6ec8b39fba08,08/30/2007 08:30:00,M4 Sterling Lending,MEDIUM,GBP
+6ab6b5e4-0200-4c6d-8c2d-9548bdb7cb8a,08/30/2007 08:30:00,Net Lending to Individuals (MoM),LOW,GBP
+feb9f298-3a7f-429f-af7a-aa33515cd4ca,08/30/2007 10:00:00,CBI Distributive Trades Survey – Realized (MoM),HIGH,GBP
+0b6c78a9-5502-4995-a656-9653ee137f59,08/30/2007 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+9aecf37a-cb68-4324-bfe9-893b2921fbf9,08/30/2007 12:30:00,Initial Jobless Claims,NONE,USD
+cbb02720-af82-493d-9d23-2b7ada191509,08/30/2007 23:30:00,National Consumer Price Index (YoY),LOW,JPY
+c549f543-8661-4a62-adf0-d072f2910885,08/30/2007 23:30:00,National CPI ex Fresh Food (YoY),LOW,JPY
+0d91df4a-9a1c-48d3-a725-fc9f6e34fdb9,08/30/2007 23:30:00,Overall Household Spending (YoY),MEDIUM,JPY
+30f9f4fa-38c8-404d-8a56-3205aaac8507,08/30/2007 23:30:00,Tokyo Consumer Price Index (YoY),LOW,JPY
+681fa816-3b96-41de-b32d-4d56cf84b440,08/30/2007 23:30:00,Tokyo CPI ex Fresh Food (YoY),LOW,JPY
+81d597a9-8fa9-4374-a4b3-1db85413e1ad,08/30/2007 23:30:00,Unemployment Rate,MEDIUM,JPY
+4cbea5ed-26f5-4207-8f92-2e8205143978,08/30/2007 23:50:00,Industrial Production (MoM),LOW,JPY
+ead3b810-3e9d-48fd-8e7e-c3f43e3b03ac,08/30/2007 23:50:00,Industrial Production (YoY),LOW,JPY
+76745f7f-e411-45d4-b343-5108774fad10,08/31/2007 06:00:00,Retail Sales (MoM),LOW,EUR
+180937ea-31bb-4b6b-b9ad-02a1a4855e5d,08/31/2007 06:00:00,Retail Sales (YoY),LOW,EUR
+056eff3e-03d2-4a4d-acaf-8cfb6a590217,08/31/2007 09:00:00,Consumer Confidence,MEDIUM,EUR
+5d2030c3-5ea9-487a-978c-8bd9d0f9e92c,08/31/2007 09:00:00,Unemployment Rate,LOW,EUR
+22fe5ae7-1ada-48aa-bae0-3c307a0a9c66,08/31/2007 09:30:00,GfK Consumer Confidence,HIGH,GBP
+a1a872c1-19f8-4c15-8727-fcdf54215a05,08/31/2007 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+16665d83-c878-435d-9df8-0e700fe92868,08/31/2007 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+3532ad43-d38b-4a8b-8b71-c7778f0901a4,08/31/2007 12:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+98d66a6b-9baa-4431-97e0-3a754ed7e0d2,08/31/2007 12:30:00,Personal Income (MoM),MEDIUM,USD
+03dfbfaa-94e4-41c2-b973-46386c9510ce,08/31/2007 13:45:00,Chicago PMI,MEDIUM,USD
+c3d77c6d-7bf9-441d-8c43-f521f8f858cb,08/31/2007 14:00:00,Factory Orders (MoM),MEDIUM,USD
+e1eb9553-d288-47ce-90c2-58859a47a6db,08/31/2007 14:00:00,Former Fed's Chair Bernanke speech,NONE,USD
+4aa5624c-6053-45fb-bf38-9b5eb562976f,08/31/2007 14:00:00,Michigan Consumer Sentiment Index,LOW,USD
+be5555ef-5adf-4453-a913-2c249dd5b60d,09/03/2007 07:55:00,HCOB Manufacturing PMI,LOW,EUR
+2b2fa383-1eb7-4708-85e4-36dc5f30b96f,09/03/2007 08:00:00,HCOB Manufacturing PMI,LOW,EUR
+411319f5-b72e-4f80-a2bb-5aceba6af11c,09/03/2007 08:30:00,Consumer Credit,MEDIUM,GBP
+03f0859e-6563-4295-9a2f-457f6b880b88,09/03/2007 08:30:00,S&P Global Manufacturing PMI,MEDIUM,GBP
+09111629-4202-4fa9-9b46-1ad302d17f00,09/04/2007 08:30:00,S&P Global Construction PMI,NONE,GBP
+7fcc585e-d832-4214-aef0-8cb5418b6a20,09/04/2007 09:00:00,Gross Domestic Product s.a. (QoQ),MEDIUM,EUR
+d021ef94-0076-4477-9ced-2c15efb9acca,09/04/2007 09:00:00,Gross Domestic Product s.a. (YoY),MEDIUM,EUR
+38a916dc-ba36-46af-92d2-2c12074e422f,09/04/2007 09:00:00,Producer Price Index (MoM),MEDIUM,EUR
+42f204d7-ed6d-495e-acde-b11b88a526e0,09/04/2007 09:00:00,Producer Price Index (YoY),MEDIUM,EUR
+5a31c207-1fbe-4aff-bceb-e6a882db42d6,09/04/2007 14:00:00,Construction Spending (MoM),LOW,USD
+533abebb-df77-4938-9a11-57dc97db0345,09/04/2007 14:00:00,ISM Manufacturing PMI,MEDIUM,USD
+1448d7ce-a09d-4d6c-9dad-10559501444d,09/04/2007 23:01:00,Nationwide Consumer Confidence,MEDIUM,GBP
+932bfb5d-9116-4e61-a611-ec1e7e972b2f,09/05/2007 07:55:00,HCOB Services PMI,LOW,EUR
+3fe297b9-c454-4065-8646-9d231a2adbc6,09/05/2007 08:00:00,HCOB Services PMI,LOW,EUR
+343d9bb1-7b7d-42ce-b72c-f62e8eddecd8,09/05/2007 08:30:00,S&P Global Services PMI,MEDIUM,GBP
+201cdb43-6b5b-4b7b-898f-c604f80a7600,09/05/2007 09:00:00,Retail Sales (MoM),LOW,EUR
+f4d0dabb-1cf6-40c2-a5b0-bc52f9a0045c,09/05/2007 09:00:00,Retail Sales (YoY),LOW,EUR
+f4229bb2-137f-4946-ba93-fb63caf1b4fc,09/05/2007 12:15:00,ADP Employment Change,LOW,USD
+28fb6dc6-8043-4608-a6e3-a385ee64ca5c,09/05/2007 14:00:00,Pending Home Sales (MoM),MEDIUM,USD
+5fe0b650-c6be-4e11-a10e-c8b8991aeef2,09/05/2007 18:00:00,Fed's Beige Book,MEDIUM,USD
+fe98d787-fcd7-466f-be81-95d23a7facdc,09/06/2007 08:30:00,Industrial Production (MoM),MEDIUM,GBP
+335eea32-8f7a-42b2-8c33-db3a57869c74,09/06/2007 08:30:00,Industrial Production (YoY),MEDIUM,GBP
+01a6c43a-d36a-4cb7-925a-53f93395c274,09/06/2007 11:00:00,BoE Interest Rate Decision,HIGH,GBP
+34e684da-c94a-4e64-bd50-e211477247a3,09/06/2007 11:45:00,ECB Main Refinancing Operations Rate,HIGH,EUR
+b94f7a3f-6cb5-4400-be4b-f3916b376653,09/06/2007 12:30:00,ECB's President Trichet speech,MEDIUM,EUR
+0c8f1abd-92db-408d-808c-ea41c5599249,09/06/2007 12:30:00,Initial Jobless Claims,NONE,USD
+423badfc-82dc-4454-8353-2f5f27b472e8,09/06/2007 12:30:00,Nonfarm Productivity,MEDIUM,USD
+2c870b6e-e1f2-46e9-93ac-dad497886cff,09/06/2007 12:30:00,Unit Labor Costs,LOW,USD
+17a3acc5-e9c0-4583-8f77-1656ba6bc360,09/06/2007 14:00:00,ISM Services PMI,MEDIUM,USD
+7c2bf946-deb1-49da-a36b-1bc749ffa04c,09/06/2007 23:01:00,NIESR GDP Estimate (3M),MEDIUM,GBP
+f6229f3d-2500-4178-bed4-de1be9b04a81,09/07/2007 05:00:00,Leading Economic Index,MEDIUM,JPY
+476ba2d0-9ce5-4ca7-b35b-8acaf074b5cc,09/07/2007 06:00:00,Trade Balance s.a.,LOW,EUR
+482a14a6-9ebe-41b2-b248-1209008e4f6b,09/07/2007 10:00:00,Industrial Production n.s.a. w.d.a. (YoY),MEDIUM,EUR
+bade55c9-116f-4fcf-aca8-5f82d8773769,09/07/2007 10:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
+2c58660f-f159-4048-a625-06774353a51e,09/07/2007 12:30:00,Average Hourly Earnings (MoM),HIGH,USD
+e88b3e25-2ef9-4d94-ac2d-3bf2ed8140aa,09/07/2007 12:30:00,Average Hourly Earnings (YoY),HIGH,USD
+d065f661-1e73-4442-81b7-5f84f04680f1,09/07/2007 12:30:00,Average Weekly Hours,HIGH,USD
+940db355-ae7b-4c08-80c3-0064c7076a79,09/07/2007 12:30:00,Nonfarm Payrolls,HIGH,USD
+f2654d4f-b9a0-4ab5-85bc-29d90e345b81,09/07/2007 12:30:00,Unemployment Rate,HIGH,USD
+27ba2797-277f-4333-a54e-7fbeee8d93ee,09/07/2007 14:00:00,Wholesale Inventories,NONE,USD
+38349be4-1f49-4a07-9a42-73d40db8662e,09/07/2007 23:50:00,Machine Tool Orders (YoY),MEDIUM,JPY
+973ab180-0a5a-4fde-b198-15487a0ee481,09/09/2007 23:50:00,Gross Domestic Product (QoQ),LOW,JPY
+313065dc-6866-4eee-893e-eeb3e60331e3,09/10/2007 08:30:00,Producer Price Index - Input (MoM) n.s.a,MEDIUM,GBP
+64016df4-94cd-4e81-b91f-1b221da38b06,09/10/2007 08:30:00,Producer Price Index - Input (YoY) n.s.a,MEDIUM,GBP
+07aa9fff-7213-4745-ad53-be988c38d8cd,09/10/2007 08:30:00,Producer Price Index - Output (MoM) n.s.a,MEDIUM,GBP
+0b320512-154c-4a74-83ed-9d7be0fbd96a,09/10/2007 08:30:00,Producer Price Index - Output (YoY) n.s.a,MEDIUM,GBP
+3c807ea9-b241-4e2f-aec5-e748e27fd7a3,09/10/2007 19:00:00,Consumer Credit Change,NONE,USD
+a1da45ca-4281-4fed-868f-ac0255f1c006,09/10/2007 23:01:00,RICS Housing Price Balance,NONE,GBP
+59e3388a-65a0-4d61-89c0-a42826ba936c,09/11/2007 08:30:00,Trade Balance; non-EU,MEDIUM,GBP
+78406394-0ab7-4083-b5d7-95574d5e487a,09/11/2007 10:13:32,Producer Price Index (MoM),LOW,JPY
+cedbf330-7c82-4d5f-b126-c76a8d72e986,09/11/2007 12:30:00,ECB's President Trichet speech,MEDIUM,EUR
+8e496b36-53d3-4b8d-a4a0-4b44ea3fefba,09/11/2007 12:30:00,Goods and Services Trade Balance,HIGH,USD
+4e93c716-b53b-4092-8bce-ffe72e976b34,09/11/2007 15:00:00,Former Fed's Chair Bernanke speech,NONE,USD
+400814e9-475d-4ac1-959e-67de8534d0d1,09/11/2007 23:50:00,Current Account n.s.a.,LOW,JPY
+806b3762-7519-4704-88d8-a91755d26f53,09/11/2007 23:50:00,Producer Price Index (YoY),LOW,JPY
+2c4d3bfc-fa5e-4a56-ad94-2a7f35f0d90d,09/12/2007 08:30:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
+c6ebd5ff-858a-4f65-908e-aa2a3ff21b1b,09/12/2007 08:30:00,Average Earnings Including Bonus (3Mo/Yr),MEDIUM,GBP
+c73f5701-3184-4cbc-a0a8-8a52db208435,09/12/2007 08:30:00,Claimant Count Change,LOW,GBP
+32469b65-3dbf-41bd-810d-81e85f6b0995,09/12/2007 08:30:00,Claimant Count Rate,LOW,GBP
+33964973-c601-4d0a-a749-18bd065e32c8,09/12/2007 09:00:00,Industrial Production s.a. (MoM),LOW,EUR
+35b1eb04-ca7b-4909-afc5-9ebef9d018aa,09/12/2007 09:00:00,Industrial Production w.d.a. (YoY),LOW,EUR
+7e85dc29-8d92-48d0-9a6c-41e195ab4426,09/12/2007 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+532c0519-b979-4728-bd95-14f768eaa780,09/13/2007 05:00:00,Consumer Confidence Index,MEDIUM,JPY
+42e3392a-09c5-4584-bed0-6b5c528f40d0,09/13/2007 08:00:00,ECB Monthly Report,MEDIUM,EUR
+af514805-29b6-4f25-b72f-fd5b74014508,09/13/2007 09:00:00,Employment Change (QoQ),LOW,EUR
+059c2957-d1f7-43ba-933f-094008f8c70b,09/13/2007 09:00:00,Employment Change (YoY),LOW,EUR
+0ca95eda-b1de-49ed-be2e-14b2db0134c8,09/13/2007 12:30:00,Initial Jobless Claims,NONE,USD
+8594e638-0fb4-4a33-9011-9c23983a498d,09/14/2007 04:30:00,Industrial Production (MoM),LOW,JPY
+b40cd8d8-f626-439e-9f6a-4c863c55b0c9,09/14/2007 06:00:00,Consumer Price Index (MoM),LOW,EUR
+6b899dd5-db6d-4679-9be3-e9b4305f4125,09/14/2007 06:00:00,Consumer Price Index (YoY),LOW,EUR
+8e8bf0e1-d2d3-4466-8b45-697b8b1725c1,09/14/2007 09:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
+67ecb9dd-c6ee-4f83-b6eb-71b2e11819e5,09/14/2007 09:00:00,Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
+35f609c6-d735-47de-bee0-8c7ee269e5ea,09/14/2007 12:30:00,Import Price Index (MoM),MEDIUM,USD
+27007aee-8038-4366-9722-2292de8a0b0a,09/14/2007 12:30:00,Import Price Index (YoY),MEDIUM,USD
+2546b682-b66a-4706-8c2a-eb6db35f00ff,09/14/2007 12:30:00,Retail Sales (MoM),HIGH,USD
+cf8dddf1-ebdb-4035-bba9-94d9098c5b29,09/14/2007 12:30:00,Retail Sales ex Autos (MoM),HIGH,USD
+2ff1930c-3d9e-41e5-b15c-d8e4139182d6,09/14/2007 13:15:00,Capacity Utilization,MEDIUM,USD
+8e0cdfbd-3cc6-4237-9e1f-ced181fe48b7,09/14/2007 13:15:00,Industrial Production (MoM),MEDIUM,USD
+4f777973-cf9f-472f-aff4-0b08834f8056,09/14/2007 14:00:00,Business Inventories,MEDIUM,USD
+a35787db-741a-4268-83f2-a6c258616469,09/14/2007 14:00:00,Michigan Consumer Sentiment Index,LOW,USD
+db5cc84f-6537-4314-b76c-f20723b5dc1d,09/17/2007 09:00:00,Core Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
+7d92175b-317f-43de-b3d3-1566ac12a45d,09/17/2007 09:00:00,Trade Balance n.s.a.,MEDIUM,EUR
+e7659f69-2b14-4a3e-a339-1cc83898739d,09/17/2007 09:00:00,Trade Balance s.a.,LOW,EUR
+fa291f5b-4264-4772-bc31-f2da4ee51bd1,09/17/2007 10:06:33,ZEW Survey – Economic Sentiment,MEDIUM,EUR
+d8736c7d-d6a7-499a-9fd9-1080008616f3,09/17/2007 12:30:00,NY Empire State Manufacturing Index,MEDIUM,USD
+d949f346-f6a9-46ec-b553-3d7e8ca16363,09/17/2007 23:50:00,Tertiary Industry Index (MoM),MEDIUM,JPY
+fbd973ab-4a3e-477e-921c-1fb9b747e1c6,09/18/2007 08:30:00,Consumer Price Index (MoM),MEDIUM,GBP
+2ce4aa3f-7b9b-4931-80f2-c319a7d855c9,09/18/2007 08:30:00,Consumer Price Index (YoY),MEDIUM,GBP
+5fb03848-06c1-427c-b867-c6afb821f069,09/18/2007 08:30:00,Core Consumer Price Index (YoY),MEDIUM,GBP
+d2335091-9855-4172-9fcd-d20970eef33d,09/18/2007 08:30:00,Retail Price Index (MoM),MEDIUM,GBP
+2ba476ab-3bb3-45eb-823a-c5130d0587f4,09/18/2007 08:30:00,Retail Price Index (YoY),MEDIUM,GBP
+300338c8-f0ea-4667-8db5-f8dc19bff521,09/18/2007 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR
+721f4122-c69d-42e8-8027-84005cec1b6a,09/18/2007 12:30:00,Producer Price Index (MoM),MEDIUM,USD
+871499b3-870c-4d99-8792-e8ff6dad66df,09/18/2007 12:30:00,Producer Price Index (YoY),MEDIUM,USD
+fd76e5cb-05ce-499a-bb4f-c54d11ba3ee7,09/18/2007 12:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
+fb8fc182-0e7a-47cc-afcf-efa4f18ee5a1,09/18/2007 12:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD
+f9a7d1ac-2190-44d9-8860-495de2417df5,09/18/2007 13:00:00,Net Long-Term TIC Flows,MEDIUM,USD
+9e5462e8-02b5-49ec-b6e2-d4e709777dc3,09/18/2007 17:00:00,NAHB Housing Market Index,LOW,USD
+cab7348b-24c8-4940-904b-7bb4e2f4bfe0,09/18/2007 18:15:00,Fed Interest Rate Decision,HIGH,USD
+155a865d-59e1-4bec-8bae-f7aa219432ed,09/19/2007 03:00:00,BoJ Interest Rate Decision,HIGH,JPY
+0cc796de-5874-4c10-bdb0-e15e1b6ea511,09/19/2007 05:00:00,Leading Economic Index,MEDIUM,JPY
+63c04d1d-d20e-4678-9dfa-acbfc9a28363,09/19/2007 06:00:00,Producer Price Index (MoM),LOW,EUR
+6b6765ae-aea9-46ea-9164-fdca5ac18ff2,09/19/2007 06:00:00,Producer Price Index (YoY),LOW,EUR
+66868297-1bd1-45fa-ad6f-ec5ed104a3ad,09/19/2007 06:30:00,BoJ's Governor Fukui speech,LOW,JPY
+0057d9fc-8075-487c-8e49-7bd8fd61b4e0,09/19/2007 08:30:00,BoE Minutes,MEDIUM,GBP
+309b50c1-4fbe-46be-8a8d-820ab2ee262a,09/19/2007 12:30:00,Building Permits (MoM),MEDIUM,USD
+65bdc109-375a-494d-8b76-c13d2efbb470,09/19/2007 12:30:00,Consumer Price Index (MoM),HIGH,USD
+f53b6d4e-6fa8-44bc-aa85-90c9a5d86021,09/19/2007 12:30:00,Consumer Price Index (YoY),HIGH,USD
+a73bc962-0ad4-4946-8cc3-331f61195e5d,09/19/2007 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+93bcd3d5-2e30-4dc4-b3e2-087eb52e4234,09/19/2007 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+22b3b4d8-c22b-48b3-8ef0-ada301e3f002,09/19/2007 12:30:00,Housing Starts (MoM),MEDIUM,USD
+9b186f47-08a8-48f1-b0e5-b7f556b76f77,09/19/2007 23:50:00,BSI Large Manufacturing Conditions Index (QoQ),MEDIUM,JPY
+18205640-210b-48f6-80a8-dd4a22645e9f,09/20/2007 07:15:00,BoJ's Governor Fukui speech,LOW,JPY
+5ca088d3-c446-4909-9c06-c4472ed6fd9a,09/20/2007 08:30:00,M4 Money Supply (MoM),MEDIUM,GBP
+3909a5f2-3a48-400b-b44b-670c5aa4b6bc,09/20/2007 08:30:00,M4 Money Supply (YoY),MEDIUM,GBP
+abc45ac7-33d1-4b45-a9d2-536de68bac13,09/20/2007 08:30:00,M4 Sterling Lending,MEDIUM,GBP
+98338945-023e-479b-aa7a-d1703cee1ac1,09/20/2007 08:30:00,Retail Sales (MoM),MEDIUM,GBP
+856e8beb-7cfa-4379-8cf8-9c1a53b7a3e7,09/20/2007 08:30:00,Retail Sales (YoY),MEDIUM,GBP
+d9f101ea-6fd9-4b49-86ed-262c3f9ebd8d,09/20/2007 10:00:00,CBI Industrial Trends Survey – Orders (MoM),MEDIUM,GBP
+83806675-e90a-431c-a17b-64420526126e,09/20/2007 12:30:00,ECB's President Trichet speech,MEDIUM,EUR
+02565eb6-8cc0-4e85-aba3-3839c86cf831,09/20/2007 12:30:00,Initial Jobless Claims,NONE,USD
+ef980071-4ec2-496e-85aa-a7b465078a14,09/20/2007 14:00:00,Former Fed's Chair Bernanke speech,LOW,USD
+f778a020-cf73-4b88-acb9-7270e358d69f,09/20/2007 16:00:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD
+41927438-fe66-4bed-95c2-e4da79c76d6f,09/20/2007 23:50:00,All Industry Activity Index (MoM),LOW,JPY
+42e5c05f-1de3-41a4-8c44-33ca60d15f21,09/21/2007 08:00:00,Current Account n.s.a,MEDIUM,EUR
+5630146b-8be9-4a2b-8eb7-89d1be3d5f30,09/21/2007 08:00:00,HCOB Manufacturing PMI,LOW,EUR
+c1517db6-17c4-48a5-9876-720e3dae6d07,09/21/2007 08:00:00,HCOB Services PMI,LOW,EUR
+689c30ee-479d-4a69-8ff8-d1775a2e7a71,09/24/2007 08:30:00,Public Sector Net Borrowing,LOW,GBP
+b051f050-0027-4f35-b263-c5b4f3fdf006,09/24/2007 09:00:00,Industrial New Orders s.a. (MoM),LOW,EUR
+09466807-ca8a-4f49-8f1c-d1d59d8109cc,09/24/2007 09:00:29,Industrial New Orders (YoY),LOW,EUR
+554ccd73-2457-48b5-af94-c3c44f03dcb7,09/24/2007 14:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
+d4fe48ce-8e3a-4cc8-b769-9a853884f7dd,09/24/2007 23:50:00,BoJ Minutes,MEDIUM,JPY
+401ef935-ad36-46e3-ac86-4a1de1d97e7d,09/25/2007 08:00:00,IFO – Business Climate,HIGH,EUR
+6a43bdf5-da85-44be-9fd1-00348f008fbc,09/25/2007 14:00:00,Consumer Confidence,MEDIUM,USD
+de4d998d-e423-4840-a57b-e3897e13690e,09/25/2007 14:00:00,Existing Home Sales (MoM),MEDIUM,USD
+7eddc11f-e715-4e17-af31-ae547083c8b4,09/25/2007 14:00:00,Richmond Fed Manufacturing Index,LOW,USD
+3cdeca71-ba3c-4441-b80f-97251dceb4e5,09/25/2007 23:50:00,Adjusted Merchandise Trade Balance,LOW,JPY
+81f662c9-4402-4d2c-8755-31d3343b06df,09/25/2007 23:50:00,Merchandise Trade Balance Total,LOW,JPY
+3308ffe9-ee70-404f-bc19-2151758b46d0,09/26/2007 06:10:00,GfK Consumer Confidence Survey,MEDIUM,EUR
+7febb14d-6720-4099-94c5-3ca55d139e69,09/26/2007 08:30:00,Current Account,MEDIUM,GBP
+fca9e76b-3fe1-44ce-80ce-391c5aac8220,09/26/2007 08:30:00,Gross Domestic Product (QoQ),HIGH,GBP
+34b04979-c531-4527-83ad-ef26a8f7869d,09/26/2007 08:30:00,Gross Domestic Product (YoY),NONE,GBP
+1e4da73c-ae83-4497-af96-a3064e57f2e8,09/26/2007 12:30:00,Durable Goods Orders,MEDIUM,USD
+abc70505-5312-4d59-99d9-dd8a46d5ce14,09/26/2007 12:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
+8e57eaf1-571c-4bcf-921e-f308be05de33,09/27/2007 06:00:00,Consumer Price Index (YoY),LOW,EUR
+b5c14a79-3523-4b31-a3d6-8ad8dc8cedba,09/27/2007 06:00:00,Nationwide Housing Prices n.s.a (YoY),MEDIUM,GBP
+11252c6a-f2f8-4da6-a6ba-fae11ec9264b,09/27/2007 06:00:00,Nationwide Housing Prices s.a (MoM),MEDIUM,GBP
+7612c2fc-7a9c-4664-9316-52fb8b74736c,09/27/2007 07:55:00,Unemployment Rate s.a.,MEDIUM,EUR
+b41da1c3-1e16-44ac-b488-fd2f9ee0cd19,09/27/2007 08:00:00,M3 Money Supply (YoY),LOW,EUR
+e2a46bc1-a4f1-48c4-a14a-15cb08dd8006,09/27/2007 08:30:00,Index of Services (3M/3M),LOW,GBP
+6b49f8fb-e6a2-4d46-bab3-ab7a643d97c8,09/27/2007 10:00:00,CBI Distributive Trades Survey – Realized (MoM),HIGH,GBP
+bba29ebd-e10a-496c-bb17-6eae47e16cdd,09/27/2007 12:30:00,Core Personal Consumption Expenditures (QoQ),HIGH,USD
+af43b443-e3ed-403b-b570-82cab78d7212,09/27/2007 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+76509a84-8c39-449e-bf81-bafbd77076a6,09/27/2007 12:30:00,Gross Domestic Product Price Index,HIGH,USD
+a7d78804-cc77-4d82-b874-d5194a1b482d,09/27/2007 12:30:00,Initial Jobless Claims,NONE,USD
+70abfdfb-c4e9-4584-93e3-1a1405c9b056,09/27/2007 14:00:00,New Home Sales (MoM),MEDIUM,USD
+a99232cc-1742-44b5-8495-a9788252ec7e,09/27/2007 14:00:00,New Home Sales Change (MoM),MEDIUM,USD
+eef5a8ac-5d54-4225-aa26-d4681eee681a,09/27/2007 16:00:00,Consumer Price Index (MoM),LOW,EUR
+221cb633-862f-49f5-b5e5-51a104ede340,09/27/2007 23:30:00,National Consumer Price Index (YoY),LOW,JPY
+81d63605-1283-47f5-aff4-d20fb9f4da8a,09/27/2007 23:30:00,National CPI ex Fresh Food (YoY),LOW,JPY
+30228a42-3324-426a-b0fd-14c6e2a64fd4,09/27/2007 23:30:00,Overall Household Spending (YoY),LOW,JPY
+cd32f620-5227-4660-896c-7c057bc1205a,09/27/2007 23:30:00,Tokyo Consumer Price Index (YoY),LOW,JPY
+a4cf96c8-d491-43fd-a9e8-3bff993f7c22,09/27/2007 23:30:00,Tokyo CPI ex Fresh Food (YoY),LOW,JPY
+ac1dccb6-a7ea-4852-8dce-b5bcc65f340e,09/27/2007 23:50:00,Industrial Production (YoY),MEDIUM,JPY
+08155a15-f676-4728-8f3f-df86590cdd68,09/27/2007 23:50:00,Retail Trade (YoY),LOW,JPY
+de4f9bda-7ea7-4a18-9e8d-ff2350d63c95,09/27/2007 23:50:00,Retail Trade s.a (MoM),LOW,JPY
+051ae5ac-0d72-48a4-9dc5-784e2a2bc9d8,09/28/2007 05:00:00,Housing Starts (YoY),LOW,JPY
+1f64891b-8ba6-4b73-94b6-7ca7ae87eb75,09/28/2007 06:00:00,Retail Sales (MoM),LOW,EUR
+3c14c250-5ca2-40b0-bc7d-fc4ac3c69472,09/28/2007 06:00:00,Retail Sales (YoY),LOW,EUR
+f957a5a1-8817-4f3c-aa67-2eaf89c79bf4,09/28/2007 07:55:00,Unemployment Change,MEDIUM,EUR
+04527f39-f070-42ff-a8ff-23cb64a1b2a2,09/28/2007 08:30:00,Mortgage Approvals,LOW,GBP
+47685ebc-8f8d-4640-87b2-1d52a2af20ba,09/28/2007 09:00:00,Consumer Confidence,MEDIUM,EUR
+7d41ca11-e931-4d28-bef8-1b4f3194d0ae,09/28/2007 09:00:00,Economic Sentiment Indicator,MEDIUM,EUR
+c1899df8-29a4-4bec-82e2-6085fc3fbacc,09/28/2007 09:30:00,GfK Consumer Confidence,HIGH,GBP
+ef84d93c-b835-4180-b658-70dc5064c930,09/28/2007 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+d1fd036d-4e7d-4e4d-83a1-6228a785164f,09/28/2007 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+e0ca455a-970d-457d-9291-bc8146dc3deb,09/28/2007 12:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+98086d4f-620b-4655-a033-658fa0ec91b3,09/28/2007 12:30:00,Personal Income (MoM),HIGH,USD
+d8a0285d-10fc-435a-9045-ddac992b75e0,09/28/2007 13:45:00,Chicago PMI,MEDIUM,USD
+93d8a906-fc76-46ed-82e1-1315815f35d0,09/28/2007 14:00:00,Michigan Consumer Sentiment Index,LOW,USD
+2d96f35e-2a89-416b-b291-075ee4f38a3d,09/28/2007 23:15:00,Jibun Bank Manufacturing PMI,MEDIUM,JPY
+95c1c551-1f6f-40a6-9477-f43e988564c8,09/28/2007 23:30:00,Unemployment Rate,MEDIUM,JPY
+5dc20765-200d-4f8f-8244-aa796b1cfb70,09/30/2007 23:50:00,Tankan Large All Industry Capex,LOW,JPY
+781fb1d9-7681-4171-895c-18317c0a1178,09/30/2007 23:50:00,Tankan Large Manufacturing Index,MEDIUM,JPY
+058f706b-33cf-4101-a170-d7075bf7b743,09/30/2007 23:50:00,Tankan Large Manufacturing Outlook,LOW,JPY
+581374e3-2407-4838-9333-73d6a6b432c4,09/30/2007 23:50:00,Tankan Non - Manufacturing Index,MEDIUM,JPY
+7c37205f-0f37-4dad-85b9-ffd4263e8267,09/30/2007 23:50:00,Tankan Non - Manufacturing Outlook,NONE,JPY
+acfa7887-0928-4201-8010-1c6136a8901e,10/01/2007 07:55:00,HCOB Manufacturing PMI,LOW,EUR
+bc0dcac9-c09f-46d7-b55b-fcb986d91e78,10/01/2007 08:00:00,HCOB Manufacturing PMI,LOW,EUR
+6b05986c-4b10-446b-9b08-2a9687a806ed,10/01/2007 08:30:00,Consumer Credit,MEDIUM,GBP
+9a687a8e-0f33-46d2-9a2c-c3d3e3954b08,10/01/2007 08:30:00,M4 Money Supply (MoM),MEDIUM,GBP
+0e32e882-fb9a-40ab-b1f7-dee06cc033c5,10/01/2007 08:30:00,M4 Money Supply (YoY),MEDIUM,GBP
+1fd22dfb-1506-4188-9267-91e0f9d29601,10/01/2007 08:30:00,Net Lending to Individuals (MoM),LOW,GBP
+2f1bfdce-7681-4f09-8f9f-be3b6691a3bd,10/01/2007 08:30:00,S&P Global Manufacturing PMI,MEDIUM,GBP
+615910d8-fdf8-49fe-8492-8cda39ac476c,10/01/2007 14:00:00,ISM Manufacturing PMI,MEDIUM,USD
+963a4546-d8a0-4daa-b3d5-5ff75c39601e,10/01/2007 23:50:00,Monetary Base (YoY),LOW,JPY
+2d4b1952-197d-49cb-b8dc-1dec9c8783ae,10/02/2007 08:30:00,S&P Global Construction PMI,NONE,GBP
+ed201707-e165-4e01-992b-2dce257b0d38,10/02/2007 09:00:00,Producer Price Index (MoM),MEDIUM,EUR
+3d2d3edf-a1fb-4cfb-b319-3a99fb6a06c2,10/02/2007 09:00:00,Producer Price Index (YoY),MEDIUM,EUR
+667469bf-9929-4d9c-821e-92583237c2d3,10/02/2007 09:00:00,Unemployment Rate,LOW,EUR
+9710f593-1c23-4e47-8d3f-5c682a761e00,10/02/2007 14:00:00,Pending Home Sales (MoM),MEDIUM,USD
+e1adff5d-b600-4bb8-a567-4f5503f7a105,10/02/2007 23:01:00,Nationwide Consumer Confidence,MEDIUM,GBP
+8e0b5634-ca5b-430e-b3ab-3f102445cce0,10/03/2007 07:55:00,HCOB Services PMI,LOW,EUR
+954e6067-1a8e-4f4f-921a-3092adcf2889,10/03/2007 08:00:00,HCOB Services PMI,LOW,EUR
+08625396-a0b2-424c-af12-ce6689ec469b,10/03/2007 08:30:00,S&P Global Services PMI,MEDIUM,GBP
+f73581ca-0581-4c49-bffc-b0a9f3fbf7a5,10/03/2007 09:00:00,Retail Sales (MoM),LOW,EUR
+18170da5-ed76-4a52-9dac-a33a01022b6e,10/03/2007 09:00:00,Retail Sales (YoY),LOW,EUR
+887de391-4848-4b52-948f-acc6075fee7a,10/03/2007 12:15:00,ADP Employment Change,LOW,USD
+993f215c-234c-47d6-9394-bb4d9ffda5bd,10/03/2007 14:00:00,ISM Services PMI,MEDIUM,USD
+644b35c5-817e-444e-aaaa-b0c833db0342,10/03/2007 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+43f00b37-824a-47a9-a622-0bdf260afe20,10/04/2007 11:00:00,BoE Interest Rate Decision,HIGH,GBP
+c43d492c-2895-4f5e-8793-51d4a7789edc,10/04/2007 11:45:00,ECB Main Refinancing Operations Rate,HIGH,EUR
+1513e635-d518-42c8-a208-e6dc87fee394,10/04/2007 12:30:00,ECB's President Trichet speech,HIGH,EUR
+22b77428-1782-459e-bf4a-19122a094578,10/04/2007 12:30:00,Initial Jobless Claims,NONE,USD
+6f75f2fd-8b91-4797-8cc9-89bcf35953cc,10/04/2007 14:00:00,Construction Spending (MoM),LOW,USD
+7b7db396-f45c-49c6-9890-4b8036b5f0b8,10/04/2007 14:00:00,Factory Orders (MoM),MEDIUM,USD
+f103e961-d36e-45fa-8f57-677c61183599,10/05/2007 05:00:00,Coincident Index,MEDIUM,JPY
+e4160136-a514-449f-b4f8-3f0bef42096b,10/05/2007 05:00:00,Leading Economic Index,MEDIUM,JPY
+5c607ed7-1a82-4114-929b-5aef0fb2e076,10/05/2007 08:30:00,Manufacturing Production (YoY),MEDIUM,GBP
+b3ccb1b7-133b-4752-b54b-7ed8a11effd7,10/05/2007 10:00:00,Factory Orders n.s.a. (YoY),LOW,EUR
+4a661aff-b421-426d-ab18-a1375e19c5f9,10/05/2007 11:00:00,Factory Orders s.a. (MoM),LOW,EUR
+eb70af33-2b2d-4f0a-a0b6-aefc0d292378,10/05/2007 12:30:00,Average Hourly Earnings (MoM),HIGH,USD
+f7002187-2aec-4a59-80ab-15e2f8fc7a24,10/05/2007 12:30:00,Average Hourly Earnings (YoY),HIGH,USD
+abd8e5e0-fef7-431e-8de9-4a36b863cd82,10/05/2007 12:30:00,Average Weekly Hours,HIGH,USD
+f8873344-d641-4f9d-8835-26bfdfeb8cb5,10/05/2007 12:30:00,Nonfarm Payrolls,HIGH,USD
+581c8d7d-940a-4964-b666-3da43bec6da7,10/05/2007 12:30:00,Unemployment Rate,HIGH,USD
+713b8f27-0423-45b3-a380-9c04bf841701,10/05/2007 19:00:00,Consumer Credit Change,NONE,USD
+7cf27679-967b-42da-8289-2795aede1c16,10/08/2007 04:30:00,Capacity Utilization,LOW,JPY
+12d4ccee-905f-4b78-b39e-f1599f2e48bb,10/08/2007 06:00:00,Machine Tool Orders (YoY),LOW,JPY
+69506384-2a19-4942-8af5-0bafa7f51027,10/08/2007 08:30:00,Industrial Production (MoM),MEDIUM,GBP
+904ba936-4677-4ecd-bd9e-a7bf030a8442,10/08/2007 08:30:00,Industrial Production (YoY),MEDIUM,GBP
+ecb5507c-5441-417d-bcc9-e0141d022001,10/08/2007 08:30:00,Manufacturing Production (MoM),MEDIUM,GBP
+7057bd15-1939-4eeb-a205-bc40767fe964,10/08/2007 08:30:00,Producer Price Index - Input (MoM) n.s.a,MEDIUM,GBP
+3e3a7486-8c85-4e8a-aba1-6f11241db958,10/08/2007 08:30:00,Producer Price Index - Input (YoY) n.s.a,MEDIUM,GBP
+8682957d-eb1c-4c8b-bea4-156fa28da914,10/08/2007 08:30:00,Producer Price Index - Output (MoM) n.s.a,MEDIUM,GBP
+4a6b14ba-908f-4c59-abef-d620ed2672b1,10/08/2007 08:30:00,Producer Price Index - Output (YoY) n.s.a,MEDIUM,GBP
+a9cf3f4d-9114-435c-a072-d34e8b81203f,10/08/2007 10:29:16,BRC Shop Price Index (YoY),MEDIUM,GBP
+ff5298c2-71e9-4d46-96eb-e914f81e3714,10/08/2007 23:01:00,BRC Like-For-Like Retail Sales (YoY),LOW,GBP
+fd8d854f-8051-4e11-9393-81f48fae32f0,10/08/2007 23:01:00,NIESR GDP Estimate (3M),LOW,GBP
+9758c10a-d476-4add-a3b9-9feae0fcca8e,10/09/2007 06:00:00,Gross Domestic Product (YoY),MEDIUM,EUR
+aa6e0eea-7d50-441e-a7ec-27e118629913,10/09/2007 06:00:00,Trade Balance s.a.,LOW,EUR
+c955c36a-1bcf-4a6a-ad2f-69d99295442a,10/09/2007 08:30:00,ECB's President Trichet speech,MEDIUM,EUR
+26ddbf76-f645-4674-bea8-6e0ecf4dd46e,10/09/2007 08:30:00,Trade Balance; non-EU,MEDIUM,GBP
+23daa877-2780-4917-b3af-4f00b44dbe1c,10/09/2007 10:00:00,Industrial Production n.s.a. w.d.a. (YoY),MEDIUM,EUR
+438cff12-3755-41d3-9356-10bba1c20770,10/09/2007 10:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
+0c0857c7-4e11-4134-8a93-4054f353dd7e,10/09/2007 18:00:00,FOMC Minutes,MEDIUM,USD
+d40a03e5-2b3f-41d3-8d8a-6318c7f007e8,10/09/2007 23:50:00,Gross Domestic Product (QoQ),LOW,JPY
+478eb1a8-3964-4ccd-87d9-413b4f0b3bfe,10/10/2007 14:00:00,Wholesale Inventories,NONE,USD
+9c1309eb-a429-41c8-9eb0-894e2379229c,10/10/2007 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+fdb4344b-ec7c-4ada-9b09-0003424f1d7f,10/10/2007 23:01:00,RICS Housing Price Balance,MEDIUM,GBP
+b3a79a42-2e63-4539-8a60-b9346967c2d9,10/10/2007 23:50:00,Current Account n.s.a.,LOW,JPY
+b0ab3e9a-7961-46bb-8635-7b51c37b3984,10/10/2007 23:50:00,Machinery Orders (MoM),MEDIUM,JPY
+fafe192d-3822-42c9-a2dc-fbbc1c3cbdca,10/10/2007 23:50:00,Money Supply M2+CD (YoY),LOW,JPY
+6f164ba5-4adb-46a1-99f6-1d196dc6c5c6,10/11/2007 04:30:00,BoJ Interest Rate Decision,HIGH,JPY
+e399d305-00d1-4841-9199-d40801d1d533,10/11/2007 06:30:00,BoJ's Governor Fukui speech,LOW,JPY
+c91ae8e0-b275-45fe-861f-9991771e07cc,10/11/2007 08:00:00,ECB Monthly Report,MEDIUM,EUR
+9dc3a438-1587-4b43-9b5a-edee22b39d94,10/11/2007 09:00:00,Gross Domestic Product s.a. (QoQ),MEDIUM,EUR
+d76ebf1d-fa96-4265-9945-0524140e9b3a,10/11/2007 09:00:00,Gross Domestic Product s.a. (YoY),MEDIUM,EUR
+702b4da4-e300-46a6-8580-a48a53c92ccb,10/11/2007 12:30:00,Goods and Services Trade Balance,HIGH,USD
+6e77249d-cb12-4975-9788-7dd4adba4857,10/11/2007 12:30:00,Import Price Index (MoM),MEDIUM,USD
+0fa4193f-3274-437d-a432-851289bea011,10/11/2007 12:30:00,Import Price Index (YoY),MEDIUM,USD
+2b5ce6cf-7355-4cbb-8b34-c0bb6194c06f,10/11/2007 12:30:00,Initial Jobless Claims,NONE,USD
+d87e91fd-2f8b-4ec6-9257-f5cb3231b505,10/11/2007 23:50:00,Producer Price Index (MoM),LOW,JPY
+409c71e4-e2ea-4ee5-a967-416f5019b798,10/11/2007 23:50:00,Producer Price Index (YoY),LOW,JPY
+d7001180-1b8b-4cbc-88b0-3ba230079513,10/12/2007 05:00:00,Consumer Confidence Index,MEDIUM,JPY
+56c04612-6589-41d9-a915-bf7c9895f58c,10/12/2007 09:00:00,Industrial Production s.a. (MoM),LOW,EUR
+c9af5415-a9ed-48d6-8324-aee2aeb8ab3c,10/12/2007 09:00:00,Industrial Production w.d.a. (YoY),LOW,EUR
+a63ee5a0-6ab9-40b1-9557-0b31cefc8a56,10/12/2007 12:30:00,Producer Price Index (MoM),MEDIUM,USD
+3ef524dc-4fc4-4036-bcb4-6b4381207350,10/12/2007 12:30:00,Producer Price Index (YoY),MEDIUM,USD
+7b5ab213-ed4f-40cd-bcc3-4456de625044,10/12/2007 12:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
+f0516660-9496-4b2f-9389-a58ed6d5adc7,10/12/2007 12:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD
+26533f62-796f-43b5-babb-db748531aac9,10/12/2007 12:30:00,Retail Sales (MoM),HIGH,USD
+002a9c59-44ed-4324-a5ae-b5515a9b250f,10/12/2007 12:30:00,Retail Sales ex Autos (MoM),HIGH,USD
+6e1bf2fe-8e81-4346-8da0-0f7e30657573,10/12/2007 14:00:00,Business Inventories,MEDIUM,USD
+baf806ce-ddb9-4a61-903a-ed6361697f3b,10/12/2007 14:00:00,Michigan Consumer Sentiment Index,LOW,USD
+79c66a45-1a1f-4bea-a193-902fa57585ef,10/12/2007 23:50:00,Gross Domestic Product Deflator (YoY),MEDIUM,JPY
+e8020b2e-bb31-4030-bf24-3cc59f5cff3c,10/14/2007 04:00:00,Tokyo Condominium Sales (YoY),LOW,JPY
+18550561-e674-448e-9a29-847a0f8cfddd,10/14/2007 06:00:00,Gross Domestic Product w.d.a (YoY),LOW,EUR
+b0df8ea7-e8cf-4694-a2ed-81fd48ce12af,10/14/2007 23:01:00,Rightmove House Price Index (MoM),MEDIUM,GBP
+3e3564fb-35aa-410c-9e80-c0cdf560272f,10/14/2007 23:01:00,Rightmove House Price Index (YoY),LOW,GBP
+49b15538-5d35-4166-9b4c-1bf6489783a2,10/15/2007 04:30:00,Industrial Production (MoM),LOW,JPY
+ac9b81bf-965a-4be8-b1a3-1387e93c9c6b,10/15/2007 04:30:00,Industrial Production (YoY),LOW,JPY
+057018b3-0b11-4ec3-9b3c-8dd0bfe0edd6,10/15/2007 09:00:00,Trade Balance n.s.a.,MEDIUM,EUR
+1e0cfbb6-4d06-4ec2-a811-3a8378a03b08,10/15/2007 09:30:00,ILO Unemployment Rate (3M),MEDIUM,GBP
+91910fd5-8ef5-4ec4-a21e-bc8be88b24be,10/15/2007 12:00:00,MBA Mortgage Applications,LOW,USD
+64a47ff4-2ddb-4da1-8d46-5c2f9f4f7a00,10/15/2007 12:30:00,NY Empire State Manufacturing Index,MEDIUM,USD
+20c62a6f-b7d1-4dac-9588-04c143ccc14a,10/15/2007 19:00:00,Monthly Budget Statement,LOW,USD
+f3c4ac25-ce92-4ccf-ab42-eb36e1d9ed46,10/16/2007 06:00:00,Consumer Price Index (MoM),LOW,EUR
+e03d8da3-bbac-4140-9fd0-edc2c0de1289,10/16/2007 06:00:00,Consumer Price Index (YoY),LOW,EUR
+e252b5a6-43ad-4c13-9514-eb4d06d2063c,10/16/2007 08:30:00,Consumer Price Index (MoM),MEDIUM,GBP
+84db9af5-f8dd-4853-8245-88ba6a81eb9f,10/16/2007 08:30:00,Consumer Price Index (YoY),MEDIUM,GBP
+9fd7e987-9fef-421b-b22a-60e86567c343,10/16/2007 08:30:00,Core Consumer Price Index (YoY),MEDIUM,GBP
+25e71116-864f-4065-b503-39d8e88dee10,10/16/2007 08:30:00,Retail Price Index (MoM),MEDIUM,GBP
+105254d8-1699-4b8f-bdb2-6048791278b0,10/16/2007 08:30:00,Retail Price Index (YoY),MEDIUM,GBP
+0ae0a788-0354-44be-853c-60962c90c877,10/16/2007 09:00:00,ZEW Survey – Economic Sentiment,HIGH,EUR
+9dd3779f-f918-4492-8164-da7d451cce4b,10/16/2007 09:00:00,Core Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
+3579500a-268d-43d7-8ee8-7f38b70170a2,10/16/2007 09:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
+2ccfdbf1-1829-49ad-847a-6b06a9889993,10/16/2007 09:00:00,Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
+91fbe878-e428-42af-84e6-e11995b34a09,10/16/2007 09:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
+4642ee92-ce4d-4e20-9f4b-872255a8bdb1,10/16/2007 13:00:00,Net Long-Term TIC Flows,MEDIUM,USD
+fceb4ce5-248a-4d4b-8767-609645966ba7,10/16/2007 13:15:00,Capacity Utilization,MEDIUM,USD
+272ddf2f-8cfb-474d-9f09-97b30733a1cf,10/16/2007 13:15:00,Industrial Production (MoM),MEDIUM,USD
+85063a89-de14-4639-b90c-980e003579b6,10/16/2007 17:00:00,NAHB Housing Market Index,LOW,USD
+a80d77cb-1c22-4718-9c8c-4bfb0defa256,10/16/2007 23:50:00,Gross Domestic Product Annualized,MEDIUM,JPY
+1f724bc1-d627-4025-a89a-cb5afb7afdaf,10/16/2007 23:50:00,Tertiary Industry Index (MoM),MEDIUM,JPY
+35142944-4306-46c2-85e5-4730b76da582,10/17/2007 05:00:00,Leading Economic Index,MEDIUM,JPY
+f723f85e-772c-4a09-af93-204379008cc0,10/17/2007 08:30:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
+81ca00db-c4e7-49f0-bd75-53de03cd24c4,10/17/2007 08:30:00,Average Earnings Including Bonus (3Mo/Yr),MEDIUM,GBP
+bb26bec8-1f17-456c-bf2e-7bfbdca56922,10/17/2007 08:30:00,BoE Minutes,MEDIUM,GBP
+331be3e5-3951-406f-961b-3f7be3a394bc,10/17/2007 08:30:00,Claimant Count Change,LOW,GBP
+69328c9e-097e-4080-88e6-150e9bc327c6,10/17/2007 08:30:00,Claimant Count Rate,LOW,GBP
+c4a8a69e-dd58-4639-b5b3-42efab51bea9,10/17/2007 12:30:00,Building Permits (MoM),MEDIUM,USD
+de4b7a81-9c41-43a8-a920-a980cfb1d282,10/17/2007 12:30:00,Consumer Price Index (MoM),HIGH,USD
+a01f4b69-6f61-4e1d-9abb-1ca62637f66e,10/17/2007 12:30:00,Consumer Price Index (YoY),HIGH,USD
+26c4f423-1bcd-4909-888e-40f6b4472575,10/17/2007 12:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+0b184339-e59f-4af1-be7c-0198cc1e3f65,10/17/2007 12:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+179fc130-369d-4d17-b4df-9883bdaf5804,10/17/2007 12:30:00,Housing Starts (MoM),MEDIUM,USD
+4c9d1add-f794-4a43-bac0-d05da242b7f4,10/17/2007 14:30:00,EIA Crude Oil Stocks Change,LOW,USD
+9788ccfd-48f3-4661-97fe-ed84094d2cae,10/17/2007 18:00:00,Fed's Beige Book,MEDIUM,USD
+5e23138c-fe36-4aae-8a18-7346c0b0a8d6,10/18/2007 08:30:00,M4 Money Supply (MoM),MEDIUM,GBP
+6860f29d-a7a8-41b0-9eef-4ce20a58faaa,10/18/2007 08:30:00,M4 Money Supply (YoY),MEDIUM,GBP
+81b4fc44-5201-4843-9a39-a7866b8358bb,10/18/2007 08:30:00,Public Sector Net Borrowing,LOW,GBP
+9a75454a-7a08-42dd-9aad-09a75f3da04f,10/18/2007 08:30:00,Retail Sales (MoM),MEDIUM,GBP
+38b427f6-885d-415a-848e-a72e0aae21ad,10/18/2007 08:30:00,Retail Sales (YoY),MEDIUM,GBP
+e27a1d38-722c-4a93-9a57-55e06ccf147c,10/18/2007 09:00:00,Trade Balance s.a.,LOW,EUR
+b80e391e-0a6d-4cd9-a16f-306b31386b87,10/18/2007 12:30:00,Initial Jobless Claims,NONE,USD
+2663ff98-4895-4c87-a9c5-9c3d8f862fe8,10/18/2007 16:00:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD
+db69e61a-ee0d-4fdd-b399-c8c5a5be628d,10/18/2007 23:50:00,All Industry Activity Index (MoM),LOW,JPY
+024da4c6-5f52-4f69-87c5-b29737087d92,10/19/2007 06:00:00,Producer Price Index (MoM),LOW,EUR
+f93d83cc-c322-4cec-b12e-f249dcc6de9a,10/19/2007 06:00:00,Producer Price Index (YoY),LOW,EUR
+99f35e17-74b1-476c-b103-6b5bc3eb3dc4,10/19/2007 08:30:00,Gross Domestic Product (QoQ),HIGH,GBP
+2e70a7a6-6473-4906-8e23-340c3253faed,10/19/2007 08:30:00,Gross Domestic Product (YoY),HIGH,GBP
+46039188-42f4-4ded-aaef-6d0ea8d512e2,10/19/2007 14:00:00,Former Fed's Chair Bernanke speech,LOW,USD
+7ba77eb8-43c4-4cd9-bfd1-36dcb6efacc9,10/22/2007 18:45:00,ECB's President Trichet speech,LOW,EUR
+608cf3fe-9c79-4bed-93f0-dcd454adc8ab,10/23/2007 09:00:00,Industrial New Orders (YoY),LOW,EUR
+15c83778-57c0-4e51-8f67-341c6c4f3691,10/23/2007 09:00:00,Industrial New Orders s.a. (MoM),LOW,EUR
+c644bfe8-c6df-474f-bbe3-ca38fb154845,10/23/2007 09:30:00,Total Business Investment (QoQ),NONE,GBP
+c753fa6e-eabb-4c70-87f1-d982b8527e17,10/23/2007 14:00:00,Richmond Fed Manufacturing Index,LOW,USD
+ff5a1da0-a34a-428d-8667-eafde3bc8471,10/23/2007 23:50:00,Adjusted Merchandise Trade Balance,LOW,JPY
+2396349b-f2f4-4aa3-964e-6a0df88d5405,10/23/2007 23:50:00,Merchandise Trade Balance Total,LOW,JPY
+57fff0f9-61ff-415c-a7e3-3839fb621716,10/24/2007 08:00:00,Current Account n.s.a,MEDIUM,EUR
+9bbf252d-af09-4b84-b5bc-076b0e66cf60,10/24/2007 08:00:00,HCOB Manufacturing PMI,LOW,EUR
+09a0df74-a4ed-46c3-b2fb-30a4fd2e09bf,10/24/2007 08:00:00,HCOB Services PMI,LOW,EUR
+6d12a306-a561-4ab4-a42e-1f451869554f,10/24/2007 08:30:00,Index of Services (3M/3M),NONE,GBP
+879b3969-8233-4666-abcb-7b1dcfc75dcb,10/24/2007 14:00:00,Existing Home Sales (MoM),MEDIUM,USD
+1c1a1372-c4d1-4f37-b196-6e4b4342762c,10/24/2007 14:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
+4336f7c8-34e2-4654-a0fd-745626641ba9,10/24/2007 23:50:00,Corporate Service Price Index (YoY),LOW,JPY
+59801894-06b4-4c2f-bc4a-3f48d56b5ab6,10/25/2007 08:00:00,IFO – Business Climate,HIGH,EUR
+8f6364a9-ef1d-4655-b547-075d72d45197,10/25/2007 08:00:00,IFO – Expectations,MEDIUM,EUR
+3e262abc-ba47-4ccd-b710-66935fb79dbe,10/25/2007 12:30:00,Durable Goods Orders,MEDIUM,USD
+4e237b54-460e-4103-9456-4d4990b14807,10/25/2007 12:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
+473ef654-26ea-476b-b962-dc2e183d40d1,10/25/2007 12:30:00,Initial Jobless Claims,NONE,USD
+834b78af-75c7-4719-a5ff-86dd0a002aa1,10/25/2007 14:00:00,New Home Sales (MoM),MEDIUM,USD
+70c041e8-caf5-4949-ac9c-6f76fa75c6d3,10/25/2007 14:00:00,New Home Sales Change (MoM),MEDIUM,USD
+69a80ccf-3c72-49ad-8871-954d3a137064,10/25/2007 23:30:00,National Consumer Price Index (YoY),LOW,JPY
+80015aaa-4ee0-42f1-a540-43b35bc43b1a,10/25/2007 23:30:00,National CPI ex Fresh Food (YoY),LOW,JPY
+45b8e158-3d0d-4208-8b8e-92d23d17e3b8,10/25/2007 23:30:00,Tokyo Consumer Price Index (YoY),LOW,JPY
+4e602901-97d1-4458-8ab8-953406bc7c6d,10/25/2007 23:30:00,Tokyo CPI ex Fresh Food (YoY),LOW,JPY
+776a02d1-d969-4b9f-bf1c-a943ff43165c,10/25/2007 23:50:00,Industrial Production (MoM),LOW,JPY
+7fbead84-55fc-4be5-bd4b-5ffa9a9a2996,10/25/2007 23:50:00,Industrial Production (YoY),LOW,JPY
+90dfcbd9-7fc5-4f25-ad27-3abcab57c95e,10/26/2007 06:00:00,GfK Consumer Confidence Survey,MEDIUM,EUR
+fa28a835-63cf-402b-ad8a-a887a8d1183b,10/26/2007 08:00:00,M3 Money Supply (YoY),LOW,EUR
+c5106624-befe-4850-869a-f69123efaddd,10/26/2007 14:00:00,Michigan Consumer Sentiment Index,LOW,USD
+97e84f86-ef07-4872-830c-3dca86e70bff,10/28/2007 23:50:00,Large Retailer Sales,LOW,JPY
+be247185-9c6b-4e9a-a90d-fc5eca19156c,10/28/2007 23:50:00,Retail Trade (YoY),MEDIUM,JPY
+2ad9d67f-c263-45f6-9801-e25536b75891,10/28/2007 23:50:00,Retail Trade s.a (MoM),LOW,JPY
+b0c1ce96-9544-48c9-b1ed-b554c49289c2,10/29/2007 09:30:00,M4 Money Supply (MoM),MEDIUM,GBP
+300138a4-a190-40bd-a609-1f72ea92e8f6,10/29/2007 09:30:00,M4 Money Supply (YoY),MEDIUM,GBP
+87a274a3-5f14-4b25-ac60-d18977936ba8,10/29/2007 09:30:00,M4 Sterling Lending,MEDIUM,GBP
+212a4fa0-2140-4ba7-9aa8-cc0f5f81e227,10/29/2007 09:30:00,Mortgage Approvals,LOW,GBP
+c6518c89-2f1a-4de2-8107-2ff1a0a27501,10/29/2007 09:30:00,Net Lending to Individuals (MoM),LOW,GBP
+890edd30-5dd8-4579-bfa8-efd851ff4e26,10/29/2007 15:40:00,Consumer Price Index (MoM),LOW,EUR
+e853a7ed-19c8-4b90-a362-81212de4c2c3,10/29/2007 15:40:00,Consumer Price Index (YoY),LOW,EUR
+1b4baed0-2eda-4ec2-9721-a077aec8ec9b,10/29/2007 23:30:00,Overall Household Spending (YoY),LOW,JPY
+1ca0cbdd-62f2-43f0-8294-04f9c6db6ae7,10/29/2007 23:30:00,Unemployment Rate,MEDIUM,JPY
+8dc21d2d-89b9-47eb-9781-7d36b5f88651,10/30/2007 08:55:00,Unemployment Change,MEDIUM,EUR
+d770bec1-c6af-478c-ab67-f8d28ce5c424,10/30/2007 08:55:00,Unemployment Rate s.a.,MEDIUM,EUR
+fdc8a1fa-0186-4cfc-b9a4-3a75e22a1d93,10/30/2007 14:00:00,Consumer Confidence,MEDIUM,USD
+c7b3afc8-2106-4f16-bdc7-8e4a98dbf5ff,10/30/2007 23:15:00,Jibun Bank Manufacturing PMI,MEDIUM,JPY
+98c781c4-1e76-4b21-8c59-0d5107ba5057,10/31/2007 01:30:00,Labor Cash Earnings (YoY),LOW,JPY
+62c833e7-33fc-4f03-8d5d-e6021b372e2f,10/31/2007 02:00:00,Vehicle Production (YoY),LOW,JPY
+c62f931b-9524-47fd-9bbd-516b3f922857,10/31/2007 03:00:00,BoJ Interest Rate Decision,HIGH,JPY
+8044f630-fb14-4521-bc5d-d42a9a6df4c7,10/31/2007 05:00:00,Housing Starts (YoY),LOW,JPY
+007572cb-2e01-4d0a-8b3e-1df20b29db8b,10/31/2007 06:00:00,Retail Sales (MoM),LOW,EUR
+49937591-b393-4d34-b5c3-2ecdf43f0168,10/31/2007 06:00:00,Retail Sales (YoY),LOW,EUR
+49d16889-8946-43a5-ae91-bc9c59eb12b6,10/31/2007 07:00:00,Nationwide Housing Prices n.s.a (YoY),MEDIUM,GBP
+e003bb3d-cfe2-4e75-9aba-a99517e4c616,10/31/2007 07:00:00,Nationwide Housing Prices s.a (MoM),MEDIUM,GBP
+590696a8-bdf9-44f5-ac54-d2f5d1cd3070,10/31/2007 10:00:00,Consumer Confidence,MEDIUM,EUR
+39aa099d-4624-4037-aba6-6ddff1db1340,10/31/2007 10:00:00,Economic Sentiment Indicator,MEDIUM,EUR
+903b728f-ffea-4f8d-be67-0a9efe99bf85,10/31/2007 10:00:00,Unemployment Rate,LOW,EUR
+54323b6a-7df7-4e6f-a9a8-a832e1dfe312,10/31/2007 10:30:00,GfK Consumer Confidence,HIGH,GBP
+6fd00bf8-78a9-4642-889e-97d46e1982e4,10/31/2007 12:15:00,ADP Employment Change,LOW,USD
+320dbbf5-de3b-4e30-932c-5854ada28dd4,10/31/2007 12:30:00,Core Personal Consumption Expenditures (QoQ),HIGH,USD
+ea9ede05-30b0-4448-9959-fbc2e70a5a34,10/31/2007 12:30:00,Gross Domestic Product Annualized,HIGH,USD
+c5be206e-d474-494d-8373-79a799cfa88d,10/31/2007 13:45:00,Chicago PMI,MEDIUM,USD
+a00568ef-2b0c-4a0f-8ae6-0e3be594f098,10/31/2007 14:00:00,Construction Spending (MoM),LOW,USD
+fb1c9fa9-6da6-4180-9157-8f73931c8b9e,10/31/2007 18:15:00,Fed Interest Rate Decision,HIGH,USD
+54b498f8-fce5-4209-9b88-6f77a256de52,11/01/2007 09:30:00,S&P Global Manufacturing PMI,LOW,GBP
+d2d92a12-d07b-4ffb-a314-f2bff0794a5b,11/01/2007 11:00:00,CBI Distributive Trades Survey – Realized (MoM),HIGH,GBP
+1488da0a-1692-46ee-bfba-66d6e1898970,11/01/2007 12:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+a333125f-a46a-48c5-ac51-331139f509d5,11/01/2007 12:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+543dfa0d-10de-4f51-958a-78c3ad165127,11/01/2007 12:30:00,Initial Jobless Claims,MEDIUM,USD
+3907da17-c8ee-441b-a634-76c6f2955ed0,11/01/2007 12:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+4a5145c7-825c-4960-a232-e389e08fb70d,11/01/2007 12:30:00,Personal Income (MoM),HIGH,USD
+f9d00212-b102-4695-82c7-0211b8b5efd9,11/01/2007 14:00:00,ISM Manufacturing PMI,MEDIUM,USD
+b5440e91-f20c-46b7-a1dd-c0184fef5ff9,11/02/2007 08:55:00,HCOB Manufacturing PMI,LOW,EUR
+3de9e1f9-0c6c-459c-bf2c-57517ef4bad7,11/02/2007 09:00:00,HCOB Manufacturing PMI,LOW,EUR
+e1b90f29-72dd-42d8-9fc7-90fbfe5045d4,11/02/2007 12:30:00,Average Hourly Earnings (MoM),HIGH,USD
+003db2de-c69b-4352-95b8-22541e9b36fb,11/02/2007 12:30:00,Average Hourly Earnings (YoY),HIGH,USD
+319fa620-753d-4def-a61e-81c548474f65,11/02/2007 12:30:00,Average Weekly Hours,HIGH,USD
+df8aeed5-17d1-431e-abfa-9c34303e8da0,11/02/2007 12:30:00,Nonfarm Payrolls,HIGH,USD
+cc71d9cd-3ab7-4b67-85be-821a995ae42b,11/02/2007 12:30:00,Unemployment Rate,HIGH,USD
+76d264ed-c19d-463c-8f33-9009c5099a40,11/02/2007 14:00:00,Factory Orders (MoM),MEDIUM,USD
+7cb88ec7-ece1-49fb-8e35-8f53ce2cb739,11/05/2007 09:30:00,Industrial Production (MoM),MEDIUM,GBP
+751607b2-1709-463d-8c5e-97e9de449498,11/05/2007 09:30:00,Industrial Production (YoY),MEDIUM,GBP
+1e4ee487-6b20-46fb-b644-eb6498faf22b,11/05/2007 09:30:00,Manufacturing Production (MoM),MEDIUM,GBP
+e743bdcb-7abb-4d97-b9dd-9a868ace93ba,11/05/2007 09:30:00,Manufacturing Production (YoY),MEDIUM,GBP
+f643c8e5-fe93-4336-80cf-e637589541fd,11/05/2007 09:30:00,S&P Global Services PMI,MEDIUM,GBP
+8dbdca4e-aeb4-495a-9111-96b60a551877,11/05/2007 14:00:00,Fed's Mishkin speech,LOW,USD
+9d536852-cc4c-4e8d-b6ce-236e14ca06fb,11/05/2007 15:00:00,ISM Services PMI,MEDIUM,USD
+dd90c422-5521-4e03-8810-9298de700b97,11/06/2007 00:01:00,BRC Like-For-Like Retail Sales (YoY),LOW,GBP
+9115c684-953d-4f85-96ed-0c871178c038,11/06/2007 00:01:00,NIESR GDP Estimate (3M),MEDIUM,GBP
+f091da53-2853-4c2f-bfde-a91121fee105,11/06/2007 05:00:00,Coincident Index,MEDIUM,JPY
+73a8462c-6abf-4d1a-8eb5-2f3a3877c2d9,11/06/2007 05:00:00,Leading Economic Index,MEDIUM,JPY
+4d0d0ed9-09e5-43d4-a279-8151c163625d,11/06/2007 08:55:00,HCOB Services PMI,LOW,EUR
+2383d72f-7f4b-47ff-adc4-3f30f7d91199,11/06/2007 09:00:00,HCOB Services PMI,LOW,EUR
+9d93a4e6-652b-4889-b034-26d3df9f23fc,11/06/2007 10:00:00,Producer Price Index (MoM),MEDIUM,EUR
+db3fd64d-218c-49d3-bdc5-50922e67e436,11/06/2007 10:00:00,Producer Price Index (YoY),MEDIUM,EUR
+b2de2ff7-871d-434b-bfaf-1347fcef085a,11/06/2007 10:00:00,Retail Sales (MoM),LOW,EUR
+a60eb285-7365-47a2-817c-3ec74631280c,11/06/2007 10:00:00,Retail Sales (YoY),LOW,EUR
+ec5a32e3-d784-4375-99d7-af3ee2386d8b,11/06/2007 11:00:00,Factory Orders n.s.a. (YoY),LOW,EUR
+7ed150ce-a41e-4538-b987-65314640d40a,11/06/2007 11:00:00,Factory Orders s.a. (MoM),LOW,EUR
+4fb9f3e9-ad9a-41d1-8135-999b162d8bd3,11/07/2007 00:00:01,Nationwide Consumer Confidence,MEDIUM,GBP
+69498885-3039-4194-a081-a8d9af9c7af7,11/07/2007 08:00:00,Halifax House Prices (MoM),LOW,GBP
+c1ef8c46-2585-4d25-8a08-5e25d210015d,11/07/2007 08:00:00,Halifax House Prices (YoY/3m),LOW,GBP
+905fa502-a208-4a4f-93b1-640c9e631229,11/07/2007 10:30:00,BRC Shop Price Index (YoY),MEDIUM,GBP
+30e0e057-b266-44af-bf7a-a213f1d92bea,11/07/2007 11:00:00,Industrial Production n.s.a. w.d.a. (YoY),MEDIUM,EUR
+30ed94b2-a8d5-4e05-8d9c-17c772cae788,11/07/2007 11:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
+4f106067-2dcf-41c0-b755-f8975d794e42,11/07/2007 13:30:00,Nonfarm Productivity,MEDIUM,USD
+87233f6e-e485-40dd-b2be-da85f86687fe,11/07/2007 13:30:00,Unit Labor Costs,LOW,USD
+e4e255a6-2129-4113-8c19-f1f0877011cf,11/07/2007 13:45:00,Fed's Lacker speech,LOW,USD
+1ac6bfe8-7d45-46b5-a34d-0054c75f0fe4,11/07/2007 15:00:00,Wholesale Inventories,NONE,USD
+fb6893e3-208c-4da8-9e3e-cfd68bab5149,11/07/2007 20:00:00,Consumer Credit Change,NONE,USD
+f0668a68-0020-4755-919b-ea0723869fd0,11/07/2007 23:50:00,Machinery Orders (MoM),MEDIUM,JPY
+c4bef6cb-bc3a-4af4-8c13-8cc37ab7a475,11/07/2007 23:50:00,Money Supply M2+CD (YoY),LOW,JPY
+6a1897d2-3409-4dbd-b6b6-3aa246215f25,11/08/2007 06:00:00,Machine Tool Orders (YoY),LOW,JPY
+e14d6215-6fe7-4da9-8a96-e3ee164812a8,11/08/2007 07:00:00,Trade Balance s.a.,LOW,EUR
+687786b4-34c1-4513-a35e-a5d6532fcb44,11/08/2007 12:00:00,BoE Interest Rate Decision,HIGH,GBP
+32fed4b4-7961-40e0-8428-a0c87436fff6,11/08/2007 12:45:00,ECB Main Refinancing Operations Rate,HIGH,EUR
+f9c76b3a-d549-4dce-96c4-53deab0cce43,11/08/2007 13:30:00,ECB's President Trichet speech,HIGH,EUR
+efa8c9f1-eecd-4488-949d-cc77151bba9b,11/08/2007 13:30:00,Continuing Jobless Claims,LOW,USD
+9426f2bf-04bd-464b-b135-90f70351db90,11/08/2007 13:30:00,Initial Jobless Claims,MEDIUM,USD
+a58afa10-ca84-454b-b8b0-4edd5267b773,11/08/2007 15:00:00,Fed's Chair Bernanke testifies,LOW,USD
+71849063-f34d-4b5c-a514-fac70e05e5a2,11/09/2007 04:30:00,Capacity Utilization,LOW,JPY
+c51767af-d3a6-4431-b8d0-4f898b7d5a2a,11/09/2007 04:30:00,Industrial Production (MoM),LOW,JPY
+7986cc09-36ca-4b70-9fc8-13d6f11d7286,11/09/2007 04:30:00,Industrial Production (YoY),LOW,JPY
+80388c28-4191-47af-a226-0136a4a85e72,11/09/2007 09:30:00,Trade Balance; non-EU,MEDIUM,GBP
+ddefbb43-ae94-4be3-b937-8ac27f8704b1,11/09/2007 13:30:00,Goods and Services Trade Balance,HIGH,USD
+1a98c622-e7f0-476c-8e3d-62901e0cee7b,11/09/2007 13:30:00,Import Price Index (MoM),MEDIUM,USD
+0a570c5d-5441-4fb3-bf0e-f4ca1315a981,11/09/2007 13:30:00,Import Price Index (YoY),MEDIUM,USD
+a2181cc9-43a3-423a-bea9-b316a2cb1875,11/09/2007 15:00:00,Michigan Consumer Sentiment Index,LOW,USD
+4b1783cf-2efc-4995-b2ae-8ddd5457ae43,11/11/2007 09:30:00,S&P Global Construction PMI,LOW,GBP
+23380683-b822-47b8-8305-bf8f81c03ed6,11/11/2007 23:50:00,Current Account n.s.a.,LOW,JPY
+0692ecd5-a2ac-4c4c-b732-b226974b3be2,11/11/2007 23:50:00,Producer Price Index (YoY),MEDIUM,JPY
+0cc232c1-5b6f-40e4-a812-5f7174dcd590,11/12/2007 09:30:00,Producer Price Index - Input (MoM) n.s.a,MEDIUM,GBP
+c5e8974f-7a3c-4166-88b9-63f3c8169817,11/12/2007 09:30:00,Producer Price Index - Input (YoY) n.s.a,MEDIUM,GBP
+6580cb4f-0743-40d6-b75f-8a2ee3ece1fe,11/12/2007 09:30:00,Producer Price Index - Output (MoM) n.s.a,MEDIUM,GBP
+aa415e65-d5b0-40a4-bd73-95b930a26e8e,11/12/2007 09:30:00,Producer Price Index - Output (YoY) n.s.a,MEDIUM,GBP
+5d64c87a-204a-4a4d-ac6f-4a4142000d53,11/12/2007 23:50:00,Gross Domestic Product (QoQ),NONE,JPY
+e77c9285-d06e-488e-8f8d-a4c8dc56f6c0,11/12/2007 23:50:00,Gross Domestic Product Annualized,MEDIUM,JPY
+ca7fea07-f611-41bf-adea-4b79ac5ff8ec,11/12/2007 23:50:00,Gross Domestic Product Deflator (YoY),MEDIUM,JPY
+a6392dcf-39ac-4465-bfe8-2866ac817d79,11/13/2007 00:01:00,RICS Housing Price Balance,MEDIUM,GBP
+0f2f6a05-ca35-465e-8e3b-72836a714b8a,11/13/2007 05:00:00,BoJ Interest Rate Decision,HIGH,JPY
+1af249c8-fe70-4271-9f63-1e8ad1628abb,11/13/2007 06:30:00,BoJ's Governor Fukui speech,LOW,JPY
+0d68756f-4687-4ec5-9404-e337b247280c,11/13/2007 09:30:00,Consumer Price Index (MoM),MEDIUM,GBP
+80fdf5a1-c756-4864-8b2b-989a48883fb1,11/13/2007 09:30:00,Consumer Price Index (YoY),MEDIUM,GBP
+1c6c5f83-c7a4-4fae-a578-e713d515aeb1,11/13/2007 09:30:00,Core Consumer Price Index (YoY),MEDIUM,GBP
+2728d24c-8908-46df-ae72-bbf86b283da8,11/13/2007 09:30:00,Retail Price Index (MoM),MEDIUM,GBP
+daad1061-c50e-405f-89b8-d0526b38f9ad,11/13/2007 09:30:00,Retail Price Index (YoY),MEDIUM,GBP
+d64b4ed8-448a-49ca-87c8-c29613087aa3,11/13/2007 10:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
+11398861-8e91-4ed7-80b1-94b1ea1ca33b,11/13/2007 10:00:00,Industrial Production s.a. (MoM),LOW,EUR
+b59307e9-b5e7-4e1f-a38d-481f48ce3144,11/13/2007 10:00:00,Industrial Production w.d.a. (YoY),LOW,EUR
+e49a415d-630e-4f1c-9a76-e0acb442657f,11/13/2007 10:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
+7318930b-eeac-49be-8c9d-28b92e0ba058,11/13/2007 19:00:00,Monthly Budget Statement,LOW,USD
+6e42b0c8-1428-44c0-bdad-48bd3ce25a58,11/13/2007 20:00:00,Pending Home Sales (MoM),MEDIUM,USD
+ec61d9cb-8760-4ec0-9fe4-3da821e6a262,11/14/2007 07:00:00,Gross Domestic Product (QoQ),LOW,EUR
+db13eb21-0253-45cd-8633-de4d9623f6f1,11/14/2007 07:00:00,Gross Domestic Product w.d.a (YoY),LOW,EUR
+faff160f-fb76-4c91-becc-fb3268d1dcdb,11/14/2007 09:00:00,Fed's Richard Fisher speech,LOW,USD
+0b72ba7c-ee99-43fa-985a-d47faa216d5d,11/14/2007 09:30:00,Average Earnings Excluding Bonus (3Mo/Yr),MEDIUM,GBP
+1bfc2a77-f967-417f-a45b-0bbe0c89a636,11/14/2007 09:30:00,Average Earnings Including Bonus (3Mo/Yr),MEDIUM,GBP
+6c886e8d-cdab-48e0-9736-e6ad2f393b75,11/14/2007 09:30:00,Claimant Count Change,LOW,GBP
+c85ed9f9-134a-4748-b083-d05e01a15fd0,11/14/2007 09:30:00,Claimant Count Rate,LOW,GBP
+64304260-5332-467f-9925-14d69fd89670,11/14/2007 09:30:00,ILO Unemployment Rate (3M),MEDIUM,GBP
+5530b354-9785-4225-ae61-132f4e2c78c1,11/14/2007 10:00:00,Gross Domestic Product s.a. (QoQ),MEDIUM,EUR
+393812e6-61a9-4f61-87aa-d4aba2012a71,11/14/2007 10:00:00,Gross Domestic Product s.a. (YoY),MEDIUM,EUR
+4fbf0070-b685-4819-bd6c-fbc9327f7d38,11/14/2007 10:30:00,BoE Monetary Policy Report,MEDIUM,GBP
+3c03df2a-c235-4641-8884-593d87105606,11/14/2007 12:00:00,MBA Mortgage Applications,LOW,USD
+653c857e-eedb-4e01-9ffb-79ebeaa5a33f,11/14/2007 13:30:00,Producer Price Index (MoM),MEDIUM,USD
+700b76ce-4a62-4404-bf5d-2fa0890f68ae,11/14/2007 13:30:00,Producer Price Index (YoY),MEDIUM,USD
+41e515c5-d394-4891-b3cb-125c5bf6593a,11/14/2007 13:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
+a3398274-a7f3-4b13-9522-7ba0ace26732,11/14/2007 13:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD
+c7496148-8c80-48df-97e7-41cf099c4f47,11/14/2007 13:30:00,Retail Sales (MoM),HIGH,USD
+b43a3c15-2ac7-42ce-b470-1aa8c26b6e13,11/14/2007 13:30:00,Retail Sales ex Autos (MoM),HIGH,USD
+4c08a732-3d02-4c2f-99e9-462a19d6d790,11/14/2007 15:00:00,Business Inventories,MEDIUM,USD
+0e55e526-46b3-4cc8-8b10-5047ba2e24b0,11/14/2007 23:50:00,Tertiary Industry Index (MoM),MEDIUM,JPY
+e0340753-90bd-49a3-843e-eac7a5170c72,11/15/2007 04:00:00,Tokyo Condominium Sales (YoY),LOW,JPY
+673ef215-b044-40d7-815c-1d09ddb0e67e,11/15/2007 05:00:00,ECB's Stark speech,LOW,EUR
+086ef989-58ad-437d-b986-97c82a642060,11/15/2007 07:00:00,Consumer Price Index (MoM),MEDIUM,EUR
+d736b889-eef2-4053-adf3-b6339c766710,11/15/2007 07:00:00,Consumer Price Index (YoY),MEDIUM,EUR
+1199ad7b-2fe3-4d3c-84c1-023f88ace219,11/15/2007 09:00:00,ECB Monthly Report,LOW,EUR
+047a4b80-7016-418f-bbd9-a7de117c0260,11/15/2007 09:30:00,Retail Sales (MoM),MEDIUM,GBP
+ef7eea45-5c07-4737-a137-550b84a3e4a6,11/15/2007 09:30:00,Retail Sales (YoY),MEDIUM,GBP
+10aa8868-43d2-4cf6-b732-65261b5d7412,11/15/2007 10:00:00,Core Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
+b9a723f0-2b46-4dce-94b3-37e8ff8f82b3,11/15/2007 10:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
+f2e682ba-a69d-485e-8d84-4aada519e9f6,11/15/2007 10:00:00,Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
+20abfe9b-60d9-4453-96b1-36b3c06f5d89,11/15/2007 13:30:00,Consumer Price Index (MoM),HIGH,USD
+a9480ed5-5528-4c89-9a63-ba42754cfb9c,11/15/2007 13:30:00,Consumer Price Index (YoY),HIGH,USD
+e8e82f10-d394-41c0-a596-5e52e417672b,11/15/2007 13:30:00,Consumer Price Index ex Food & Energy (MoM),HIGH,USD
+a5cc8ae2-29f1-4c52-8ab4-092699223f78,11/15/2007 13:30:00,Consumer Price Index ex Food & Energy (YoY),HIGH,USD
+a947fb63-aa15-429f-9769-93bdc3d9c52a,11/15/2007 13:30:00,Continuing Jobless Claims,LOW,USD
+04f3b83e-7d4e-44de-b0cf-cfac3ccaaf51,11/15/2007 13:30:00,Initial Jobless Claims,LOW,USD
+f0d82df5-5981-47dc-ad2a-a4017300fb4e,11/15/2007 13:30:00,NY Empire State Manufacturing Index,MEDIUM,USD
+caf64b88-9836-4f10-9395-91fbd658e5b5,11/15/2007 17:00:00,Philadelphia Fed Manufacturing Survey,MEDIUM,USD
+e0a8918e-2db5-4fbb-9250-cf1fb1650b9a,11/15/2007 23:50:00,BoJ Minutes,MEDIUM,JPY
+030e50e1-3835-430e-ab43-f2e94548fa41,11/16/2007 05:00:00,Coincident Index,MEDIUM,JPY
+71cbae2e-d62d-465b-895e-695dded039fc,11/16/2007 05:00:00,Leading Economic Index,MEDIUM,JPY
+c298f8df-9059-4712-b8ce-c0a71fffebbc,11/16/2007 10:00:00,Trade Balance s.a.,LOW,EUR
+0cba1b5d-b15e-4179-bc03-67ffac121574,11/16/2007 14:00:00,Net Long-Term TIC Flows,MEDIUM,USD
+36344ad7-b682-4d34-a23a-92eee83e2acb,11/16/2007 14:15:00,Capacity Utilization,MEDIUM,USD
+09ad18df-d5a2-4677-a36a-3367a41fd310,11/16/2007 14:15:00,Industrial Production (MoM),MEDIUM,USD
+2192df4b-5a53-49a1-8db7-5ecf80ff3c4d,11/16/2007 14:30:00,EIA Crude Oil Stocks Change,NONE,USD
+c10327e9-3090-4f06-bc5b-22bec213197b,11/17/2007 13:30:00,Current Account,MEDIUM,USD
+3f9aaa43-ed3e-4e2f-a10a-c53ccb620d0f,11/17/2007 14:00:00,Total Net TIC Flows,LOW,USD
+f2dc7d6e-0eb0-4463-bb53-b4c2158fb9c5,11/19/2007 00:01:00,Rightmove House Price Index (MoM),LOW,GBP
+534f40b8-c65a-4e38-827c-a4fdb3e4f677,11/19/2007 00:01:00,Rightmove House Price Index (YoY),LOW,GBP
+fd0b61d3-75cf-4e7c-9750-6e9419670f07,11/19/2007 10:00:00,Construction Output  s.a (MoM),NONE,EUR
+53190203-f09b-4ecf-805c-a008e52eade4,11/19/2007 10:00:00,Construction Output w.d.a (YoY),LOW,EUR
+1bc4f386-b159-4538-8c2c-9dd6eb3bc8c1,11/19/2007 18:00:00,NAHB Housing Market Index,LOW,USD
+c8e58c92-4f1b-46f7-a5d7-58d47d61d568,11/20/2007 07:00:00,Producer Price Index (MoM),LOW,EUR
+f19a3b20-cf49-42b6-833e-0e8c14a7f5db,11/20/2007 07:00:00,Producer Price Index (YoY),LOW,EUR
+37b9c548-7a2c-4d7b-b5aa-e6bd9712e462,11/20/2007 09:30:00,M4 Money Supply (MoM),MEDIUM,GBP
+734c5436-6c80-49a0-982f-a467ecd52411,11/20/2007 09:30:00,M4 Money Supply (YoY),MEDIUM,GBP
+ae5a970a-6a32-46f2-838d-2f4686cee558,11/20/2007 09:30:00,M4 Sterling Lending,MEDIUM,GBP
+00ea60c8-431a-4022-a130-8b7f61390e6a,11/20/2007 09:30:00,Public Sector Net Borrowing,LOW,GBP
+eef4e56c-f437-4f0b-8137-026b6d2ff319,11/20/2007 11:00:00,CBI Industrial Trends Survey – Orders (MoM),MEDIUM,GBP
+ead650b6-14fe-4220-8950-7d4a916c4c94,11/20/2007 13:30:00,Building Permits (MoM),MEDIUM,USD
+d8d5962d-f281-45ad-b234-d24222379e70,11/20/2007 13:30:00,Housing Starts (MoM),MEDIUM,USD
+7cafa4a2-c5fa-4659-b700-083761c666cf,11/20/2007 19:00:00,FOMC Minutes,MEDIUM,USD
+81b23357-cb82-45b0-993d-205b3d7c657b,11/20/2007 23:50:00,Adjusted Merchandise Trade Balance,LOW,JPY
+404786f8-571e-4ea7-a9af-bd9fddd99a45,11/20/2007 23:50:00,All Industry Activity Index (MoM),LOW,JPY
+7e995025-6067-4751-bfc5-c764d769b7b0,11/20/2007 23:50:00,Merchandise Trade Balance Total,LOW,JPY
+8adf77e6-8ab0-4359-a4a7-50f612fec0c2,11/21/2007 09:30:00,BoE Minutes,MEDIUM,GBP
+62b30439-04bf-49c9-981e-9b3ebd3644cf,11/21/2007 10:00:00,Index of Services (3M/3M),NONE,GBP
+f448ff87-e86f-496d-96db-535a603df34d,11/21/2007 12:00:00,MBA Mortgage Applications,LOW,USD
+494b2e7c-76ff-4fd9-a847-5c216657e871,11/21/2007 13:30:00,Continuing Jobless Claims,LOW,USD
+4df44073-4624-434f-96c2-f100ece48692,11/21/2007 13:30:00,Initial Jobless Claims,LOW,USD
+8b3f3ffe-bee4-447d-bd4d-62f0757c8a0a,11/21/2007 15:00:00,Michigan Consumer Sentiment Index,LOW,USD
+75b38137-a4f1-47f6-b7b4-2a3af8fd67fa,11/22/2007 07:00:00,Gross Domestic Product (QoQ),LOW,EUR
+fb78233c-e0df-4a4b-a4ee-ffdb0d111ffc,11/22/2007 09:00:00,Current Account n.s.a,MEDIUM,EUR
+b2acbe32-a02b-4499-920f-60eaeda5a67d,11/22/2007 09:00:00,Current Account s.a,NONE,EUR
+2e9b06e6-146d-40d4-8d40-1f9c71ad1a7f,11/22/2007 09:30:00,Total Business Investment (QoQ),NONE,GBP
+71f45b32-687c-4241-a7a0-a82a47fb26a5,11/22/2007 09:30:00,Total Business Investment (YoY),LOW,GBP
+42cebc54-9390-456e-976c-0707cf5b4c6d,11/22/2007 10:00:00,Industrial New Orders (YoY),LOW,EUR
+b0ce209c-aaaf-4178-b1a2-a531d8f8128d,11/22/2007 10:00:00,Industrial New Orders s.a. (MoM),LOW,EUR
+55f00f6f-d642-4e5a-94c1-459c0022250d,11/23/2007 00:00:01,Hometrack Housing Prices s.a (MoM),NONE,GBP
+281414c8-4eaa-457c-a827-fbfb2a8fa822,11/23/2007 09:00:00,HCOB Manufacturing PMI,LOW,EUR
+eb97aab2-3f0f-45a5-8e5c-7c7fc00d0cdc,11/23/2007 09:00:00,HCOB Services PMI,LOW,EUR
+7682d46a-993c-4c2e-b18f-9ac3d9db5fb6,11/23/2007 09:30:00,Gross Domestic Product (QoQ),HIGH,GBP
+b9533d1d-f004-4855-a4a5-3a8231f9d39a,11/23/2007 09:30:00,Gross Domestic Product (YoY),HIGH,GBP
+cdd4c679-ed72-49fe-92bf-f11a037dae14,11/26/2007 11:00:00,ECB's President Trichet speech,LOW,EUR
+aa5b710b-ced6-4c1b-90eb-3fb539792126,11/26/2007 11:00:00,ECB's Tumpel-Gugerell speech,NONE,EUR
+a3f3d881-6cd4-4d6d-9830-640fa2d27342,11/26/2007 23:50:00,Corporate Service Price Index (YoY),LOW,JPY
+ea868e62-1571-4be3-ad5f-fe61b8c461ff,11/27/2007 09:00:00,IFO – Business Climate,MEDIUM,EUR
+87374448-93f0-41d2-99d7-a993c94c00f8,11/27/2007 09:00:00,IFO – Expectations,MEDIUM,EUR
+71b9a8a9-f292-4671-bdb6-1bd33bb3a943,11/27/2007 15:00:00,Consumer Confidence,MEDIUM,USD
+b785e007-b603-4625-af37-544c07669c7a,11/27/2007 15:00:00,Richmond Fed Manufacturing Index,LOW,USD
+e700b384-ab93-41f4-97c8-e02c343e3a82,11/27/2007 15:30:00,Consumer Price Index (MoM),LOW,EUR
+c8299fdd-df20-4b27-8dde-88de07d9498c,11/27/2007 15:30:00,Consumer Price Index (YoY),LOW,EUR
+0dc49531-74e6-451d-b9c1-dbb76dc7d716,11/27/2007 23:50:00,BoJ's Governor Fukui speech,LOW,JPY
+bc5136b8-2a91-4642-b3a9-4eb55d2b5759,11/27/2007 23:50:00,Large Retailer Sales,LOW,JPY
+17514c7a-a1f1-4f63-ad7c-48c9e853313b,11/27/2007 23:50:00,Retail Trade (YoY),LOW,JPY
+0ec6fac6-cbd1-4d06-a4d3-1a232b6bfaf0,11/27/2007 23:50:00,Retail Trade s.a (MoM),LOW,JPY
+5f0b6a76-9059-4484-b56e-d4d0cf7d5061,11/28/2007 07:00:00,GfK Consumer Confidence Survey,MEDIUM,EUR
+ca045a63-bfdf-488d-80d4-4ded10a26c45,11/28/2007 09:00:00,M3 Money Supply (YoY),LOW,EUR
+d3ff6567-23f4-48a9-92e6-8390e2d5a010,11/28/2007 12:00:00,MBA Mortgage Applications,LOW,USD
+874b38fa-75fb-4de9-91e5-dee1779d2031,11/28/2007 13:30:00,Durable Goods Orders,MEDIUM,USD
+953cffeb-8567-4d15-8ff1-7358359972e6,11/28/2007 13:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
+e7e29ca7-61eb-47a3-b853-ef3d4529ff71,11/28/2007 15:00:00,Existing Home Sales (MoM),MEDIUM,USD
+3736433f-395e-4924-9ee2-e32ae7ba7800,11/28/2007 15:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
+de22c224-6751-415c-8bfd-8403dd639635,11/28/2007 19:00:00,Fed's Beige Book,MEDIUM,USD
+d80f5b89-5fba-486d-8328-882889ba5112,11/28/2007 23:50:00,Industrial Production (MoM),LOW,JPY
+3b2e2008-d34d-42fc-8179-1ca893dbd7e6,11/28/2007 23:50:00,Industrial Production (YoY),LOW,JPY
+c1b306d9-a320-438a-8904-f9110a1721fb,11/29/2007 04:00:00,Vehicle Production (YoY),LOW,JPY
+99847dd4-2567-4156-b657-ed47890bdd62,11/29/2007 07:00:00,Nationwide Housing Prices n.s.a (YoY),MEDIUM,GBP
+32771bbe-b3ba-43c1-b5be-670d9caa533c,11/29/2007 07:00:00,Nationwide Housing Prices s.a (MoM),MEDIUM,GBP
+41b8de4d-a3cf-424b-8268-1280a31d81b6,11/29/2007 08:55:00,Unemployment Rate s.a.,MEDIUM,EUR
+c25d0bba-2dd7-47d9-bdb0-80f2e39eda2f,11/29/2007 09:30:00,M4 Money Supply (MoM),MEDIUM,GBP
+70fb79a8-3583-4a64-bcc0-748e1651d865,11/29/2007 09:30:00,M4 Money Supply (YoY),MEDIUM,GBP
+ddaab1cb-ad7c-42b8-9866-56e51bdafb89,11/29/2007 09:30:00,M4 Sterling Lending,MEDIUM,GBP
+2d56f942-80da-4756-b62a-b32ec88b98c3,11/29/2007 09:30:00,Mortgage Approvals,LOW,GBP
+6435e2f0-1fa2-424a-a7bc-cea4c2fa56b8,11/29/2007 09:30:00,Net Lending to Individuals (MoM),LOW,GBP
+7d777df1-780b-4ba1-acd3-653d02c10062,11/29/2007 11:00:00,CBI Distributive Trades Survey – Realized (MoM),HIGH,GBP
+b488b230-59de-4a83-bbf2-ce623bc412bf,11/29/2007 13:30:00,Continuing Jobless Claims,LOW,USD
+0b373259-4109-4c27-b806-10a48d262859,11/29/2007 13:30:00,Core Personal Consumption Expenditures (QoQ),HIGH,USD
+31f7f929-5487-455c-a3bb-12ba5a9b179b,11/29/2007 13:30:00,Gross Domestic Product Annualized,MEDIUM,USD
+5326c0fe-eff0-4a48-b560-17a01b737bfb,11/29/2007 13:30:00,Initial Jobless Claims,NONE,USD
+39d4533a-238f-4379-9529-7a0543a8b4d7,11/29/2007 15:00:00,Housing Price Index (MoM),LOW,USD
+877e37b6-34b8-45ec-b707-2be0f3496211,11/29/2007 15:00:00,New Home Sales (MoM),MEDIUM,USD
+45e06d14-e622-4525-9536-fc258f82b10c,11/29/2007 15:00:00,New Home Sales Change (MoM),MEDIUM,USD
+22bbbbf9-84dc-41bb-9b01-f105d05925ae,11/29/2007 19:00:00,Former Fed's Chair Bernanke speech,LOW,USD
+d44e15b0-9b3f-4b43-afef-dc0579b5fde6,11/29/2007 23:15:00,Jibun Bank Manufacturing PMI,MEDIUM,JPY
+d6c381a6-b013-4249-aa23-0ca1ed5496ae,11/29/2007 23:30:00,National Consumer Price Index (YoY),LOW,JPY
+b2923a25-3390-4157-bb62-3d189f9a1a15,11/29/2007 23:30:00,National CPI ex Fresh Food (YoY),LOW,JPY
+ef3e0c48-92e3-451d-816e-dc24081acd02,11/29/2007 23:30:00,Overall Household Spending (YoY),LOW,JPY
+1c590bf8-0ab2-4cbf-baaa-63ae6791e986,11/29/2007 23:30:00,Tokyo Consumer Price Index (YoY),LOW,JPY
+69897927-68f3-418f-8d89-b4f00b7df9a4,11/29/2007 23:30:00,Tokyo CPI ex Fresh Food (YoY),LOW,JPY
+217bda77-c806-43c1-bdff-bb4ed3f74e37,11/29/2007 23:30:00,Unemployment Rate,MEDIUM,JPY
+f0dd8e7c-cb15-4020-b706-ab69130f7c32,11/30/2007 05:00:00,Housing Starts (YoY),LOW,JPY
+5e2b4d29-5fcb-4075-a37f-4363bf8aad61,11/30/2007 07:00:00,Retail Sales (MoM),LOW,EUR
+ce34ad70-4b1f-497f-a485-754d76e3ee29,11/30/2007 07:00:00,Retail Sales (YoY),LOW,EUR
+2a12fb29-4d43-4342-8da0-19ec12f000d1,11/30/2007 10:00:00,Consumer Confidence,MEDIUM,EUR
+16906aa8-57ba-45d8-b5b6-63ccedb65806,11/30/2007 10:00:00,Gross Domestic Product s.a. (QoQ),MEDIUM,EUR
+f7bffc0f-f407-4f7e-a0a8-0f0fea76ec49,11/30/2007 10:00:00,Gross Domestic Product s.a. (YoY),MEDIUM,EUR
+d7045929-f2e5-4a58-ab17-3f1a8579f859,11/30/2007 10:30:00,GfK Consumer Confidence,HIGH,GBP
+ad27ea56-3f52-4d0c-8af9-383fa9768c9e,11/30/2007 13:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+0701df6e-72a1-4c0c-b049-010a1337dff4,11/30/2007 13:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+139a52fe-f9f0-48d1-bec6-c5097d5e1534,11/30/2007 13:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+59b78be9-8da0-48c8-889c-e75eb16d0f77,11/30/2007 13:30:00,Personal Income (MoM),HIGH,USD
+e23823aa-09b7-40c0-aeac-c676baecc942,11/30/2007 14:45:00,Chicago PMI,MEDIUM,USD
+065e219d-8253-4a60-9641-2b88e7c66f88,11/30/2007 15:00:00,Construction Spending (MoM),LOW,USD
+32fc0aa0-a757-4dec-819c-f27b1bbacfef,12/03/2007 01:30:00,Labor Cash Earnings (YoY),LOW,JPY
+39af4ea4-90e6-4b2f-bf18-4de5be0f7e8d,12/03/2007 08:30:00,Consumer Credit,LOW,GBP
+282140d0-2df2-475f-9742-8cc80c9272b0,12/03/2007 08:55:00,HCOB Manufacturing PMI,LOW,EUR
+57cbe937-b89a-4bc3-9ee4-9d1cebfc7926,12/03/2007 09:00:00,HCOB Manufacturing PMI,LOW,EUR
+e06b712e-c5dd-44cc-a7fc-84190b1609ab,12/03/2007 09:30:00,S&P Global Manufacturing PMI,MEDIUM,GBP
+a30178b7-91a7-4310-9f50-dc4a263063df,12/03/2007 10:00:00,Unemployment Rate,LOW,EUR
+645fbffb-c1f9-4789-b6e9-1e35990f020f,12/03/2007 15:00:00,ISM Manufacturing PMI,MEDIUM,USD
+3d6039a0-c413-482d-8ef7-49528d309275,12/04/2007 00:00:01,BRC Like-For-Like Retail Sales (YoY),LOW,GBP
+4f115780-9a03-47e9-89a8-86d644c3f24c,12/04/2007 09:30:00,S&P Global Construction PMI,LOW,GBP
+d132ce99-0bf3-434b-8f1b-7d38e5d67318,12/04/2007 10:00:00,Producer Price Index (MoM),MEDIUM,EUR
+b8e29440-8070-4880-acdd-c03cc0df2027,12/04/2007 10:00:00,Producer Price Index (YoY),MEDIUM,EUR
+b0c3821c-fbd2-44f8-837c-5b9e827a1b3b,12/05/2007 00:01:00,Nationwide Consumer Confidence,MEDIUM,GBP
+957631a6-2c94-4599-bf37-4b677039fbcd,12/05/2007 08:00:00,Halifax House Prices (MoM),NONE,GBP
+66e073bb-8227-404e-92cf-dd9a401c975d,12/05/2007 08:00:00,Halifax House Prices (YoY/3m),LOW,GBP
+58f29184-9365-4e83-b4ca-5e38e959fd7c,12/05/2007 08:30:00,ECB's President Trichet speech,MEDIUM,EUR
+2413a2ca-0508-4bc1-b06e-ff3df6ca2228,12/05/2007 08:55:00,HCOB Services PMI,NONE,EUR
+6f0d8603-1860-4260-872a-48fd25523263,12/05/2007 09:00:00,HCOB Services PMI,LOW,EUR
+d68097d8-e163-4d3e-b6c3-f7697473c9c9,12/05/2007 09:30:00,S&P Global Services PMI,MEDIUM,GBP
+9484b8cc-f371-4888-986e-bbb07248991f,12/05/2007 10:00:00,Retail Sales (MoM),LOW,EUR
+122b5c07-20e7-4b83-adef-aff82815f46f,12/05/2007 10:00:00,Retail Sales (YoY),LOW,EUR
+7bc004bd-3c30-4b53-b4ea-2b3621709a63,12/05/2007 10:30:00,BRC Shop Price Index (YoY),MEDIUM,GBP
+9528bd82-19e4-4866-908e-311c59eef6d3,12/05/2007 12:00:00,MBA Mortgage Applications,LOW,USD
+a94876b3-ecb5-46ce-bd2f-50acb1ab6273,12/05/2007 13:15:00,ADP Employment Change,LOW,USD
+a3f38b5a-49fa-46e3-b3b2-3b9009ec2932,12/05/2007 13:30:00,Nonfarm Productivity,MEDIUM,USD
+97c2716a-2f6c-4a51-80c0-1d3d97290e21,12/05/2007 13:30:00,Unit Labor Costs,LOW,USD
+f7df646c-305d-4202-afd2-b47506087f04,12/05/2007 15:00:00,Factory Orders (MoM),MEDIUM,USD
+5d1c23be-85c4-4756-bd53-6d3d61febe22,12/05/2007 15:00:00,ISM Services PMI,MEDIUM,USD
+9814db13-a4d9-4429-9e3f-ef06815ebe80,12/06/2007 05:00:00,Coincident Index,MEDIUM,JPY
+94fabf6c-4f84-4c0f-a21f-b55f21668aed,12/06/2007 05:00:00,Leading Economic Index,MEDIUM,JPY
+aeb93b46-80c8-4c6d-b603-1b38391c8494,12/06/2007 06:00:00,Machine Tool Orders (YoY),LOW,JPY
+c4b44da6-5bc9-4c3d-aa5f-28db7f09f8b3,12/06/2007 09:30:00,Industrial Production (MoM),MEDIUM,GBP
+c4cd08b9-9d17-4b89-b6f5-05c30cc602c5,12/06/2007 09:30:00,Industrial Production (YoY),MEDIUM,GBP
+28b4bbaa-bdd2-44fc-9160-fd787097c38c,12/06/2007 09:30:00,Manufacturing Production (MoM),MEDIUM,GBP
+2e1f39d7-74ba-4b73-9997-c8059255b5b4,12/06/2007 09:30:00,Manufacturing Production (YoY),MEDIUM,GBP
+f232f46e-1a22-42bb-8226-0c3921c20217,12/06/2007 11:00:00,Factory Orders n.s.a. (YoY),LOW,EUR
+307026e1-fd11-44ae-aeb8-30b0856b27d9,12/06/2007 11:00:00,Factory Orders s.a. (MoM),LOW,EUR
+699e30da-8b9d-47e9-8b96-9f7338aac4ef,12/06/2007 12:00:00,BoE Interest Rate Decision,HIGH,GBP
+72f99c79-9e14-41f3-96de-2e0b288d1585,12/06/2007 12:45:00,ECB Main Refinancing Operations Rate,HIGH,EUR
+52ac9cd5-b95a-4c4f-8439-80fb5692a057,12/06/2007 13:30:00,ECB's President Trichet speech,MEDIUM,EUR
+4b582c3f-81cb-464d-b95d-b37fe9c120d8,12/06/2007 13:30:00,Continuing Jobless Claims,NONE,USD
+f5ff9759-ae25-45de-8d40-30df55fa8928,12/06/2007 13:30:00,Initial Jobless Claims,NONE,USD
+d8a73f05-e3cf-4c0e-908e-41d6ba4f7990,12/06/2007 23:50:00,Gross Domestic Product (QoQ),LOW,JPY
+231f30ef-8801-43c4-b4ed-027a22560f2c,12/06/2007 23:50:00,Gross Domestic Product Annualized,MEDIUM,JPY
+2d66ce46-5c54-41e0-80b9-79971f1e5cb6,12/06/2007 23:50:00,Gross Domestic Product Deflator (YoY),MEDIUM,JPY
+9390356e-d00f-4144-b30b-c540215907ad,12/07/2007 00:01:00,NIESR GDP Estimate (3M),MEDIUM,GBP
+9ebec9c4-c9dd-4241-b29e-4069089bfd17,12/07/2007 11:00:00,Industrial Production n.s.a. w.d.a. (YoY),MEDIUM,EUR
+243a2275-ced1-4d86-9259-9e0f8b5ad795,12/07/2007 11:00:00,Industrial Production s.a. (MoM),MEDIUM,EUR
+fd95be1c-08ac-4359-8d67-1d905477e736,12/07/2007 13:30:00,Average Hourly Earnings (MoM),HIGH,USD
+abc9a08a-8acc-4646-8b6d-ea044133ab1d,12/07/2007 13:30:00,Average Hourly Earnings (YoY),HIGH,USD
+59a9c8e3-c7cd-463f-9e0f-520adfdc41bc,12/07/2007 13:30:00,Average Weekly Hours,HIGH,USD
+ae80fd54-fbbe-44e9-a3b2-ac94c5bcb2cf,12/07/2007 13:30:00,Nonfarm Payrolls,HIGH,USD
+dd6e1f3a-cbc2-42c4-b184-422b0cffddae,12/07/2007 13:30:00,Unemployment Rate,HIGH,USD
+0658e5c5-5d00-46cc-80ae-97ca4ad39639,12/07/2007 15:00:00,Michigan Consumer Sentiment Index,LOW,USD
+592bf5f6-47a0-42d9-8b1e-5426465e9e2c,12/07/2007 17:00:00,ECB's President Trichet speech,LOW,EUR
+b114a965-c6f1-47db-b8d0-95aefaa0542f,12/07/2007 20:00:00,Consumer Credit Change,NONE,USD
+bb7c6f2f-5ff4-4bcd-8f92-202b7b7fa762,12/09/2007 23:50:00,Machinery Orders (MoM),LOW,JPY
+606d18c6-769e-41fb-9f6b-330afb4e093d,12/09/2007 23:50:00,Money Supply M2+CD (YoY),LOW,JPY
+574d8a1b-52ce-4676-a50e-c6d8cf6a8001,12/10/2007 07:00:00,Trade Balance s.a.,LOW,EUR
+14892f9a-d370-45aa-97c8-802b0ad459c2,12/10/2007 09:30:00,Producer Price Index - Input (MoM) n.s.a,MEDIUM,GBP
+0d6f51d2-5f89-4c90-9e41-e1b61999e4e3,12/10/2007 09:30:00,Producer Price Index - Input (YoY) n.s.a,MEDIUM,GBP
+6c2cdd59-63dc-494d-a189-21e4cd248171,12/10/2007 09:30:00,Producer Price Index - Output (MoM) n.s.a,MEDIUM,GBP
+d2295d3a-fb59-4544-b941-9e37491766cd,12/10/2007 09:30:00,Producer Price Index - Output (YoY) n.s.a,MEDIUM,GBP
+551a0ebb-27e2-474b-b5f3-7c8fc14844bc,12/10/2007 15:00:00,Pending Home Sales (MoM),MEDIUM,USD
+8a95b331-ec26-4821-a817-82ea8c8347c0,12/11/2007 09:30:00,Trade Balance; non-EU,MEDIUM,GBP
+45d9406d-e7a7-435a-b795-fc64f0811fd3,12/11/2007 10:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
+d3924329-e2f9-4077-869f-2154aae411f5,12/11/2007 10:00:00,ZEW Survey – Economic Sentiment,MEDIUM,EUR
+0a47e0d5-3a6f-4437-a858-6525da5d36c4,12/11/2007 15:00:00,Wholesale Inventories,NONE,USD
+84d2b36a-55ac-4d7c-91ab-3fb73a1d0e83,12/11/2007 19:15:00,Fed Interest Rate Decision,HIGH,USD
+70c94653-20e5-4bd4-bd8c-e81bdd867d1e,12/11/2007 23:50:00,Current Account n.s.a.,LOW,JPY
+e446d4c4-5da2-4d81-ba2c-4b8aba56ef3a,12/11/2007 23:50:00,Producer Price Index (MoM),LOW,JPY
+e752df8a-710b-4219-ad72-c56281f76dfc,12/11/2007 23:50:00,Producer Price Index (YoY),LOW,JPY
+9209a08c-7871-4c19-bab2-d5ea35cf7e94,12/12/2007 06:00:00,Machine Tool Orders (YoY),LOW,JPY
+6db6b220-2bdf-42d5-8a81-68d53c4ddeee,12/12/2007 09:30:00,Average Earnings Excluding Bonus (3Mo/Yr),LOW,GBP
+c43edd54-53a2-4301-8616-e73d0cfcceaa,12/12/2007 09:30:00,Average Earnings Including Bonus (3Mo/Yr),LOW,GBP
+4d5f5eb0-b1d9-47f6-af2d-c012e14c0632,12/12/2007 09:30:00,Claimant Count Change,LOW,GBP
+b40f6fd0-af19-42f9-8715-c74c518faf26,12/12/2007 09:30:00,Claimant Count Rate,LOW,GBP
+9b4e4681-3c06-447f-8af7-006201a17554,12/12/2007 09:30:00,ILO Unemployment Rate (3M),LOW,GBP
+5b6251ce-4d9a-4492-b986-795aaa3acb4d,12/12/2007 10:00:00,Construction Output w.d.a (YoY),LOW,EUR
+fd85c875-b471-48eb-8cb7-090d88b168ff,12/12/2007 10:00:00,Employment Change (QoQ),LOW,EUR
+dcb3283f-d0d3-4c10-b358-c0f323ecbe25,12/12/2007 10:00:00,Employment Change (YoY),LOW,EUR
+5ae24f3b-8f81-4efe-be1c-d1ed7a127432,12/12/2007 10:00:00,Industrial Production s.a. (MoM),LOW,EUR
+3081e4ff-2566-4a38-b45b-2cbb62fcb10f,12/12/2007 10:00:00,Industrial Production w.d.a. (YoY),LOW,EUR
+e0d3b671-ce99-43ac-8207-9927827af145,12/12/2007 12:00:00,MBA Mortgage Applications,LOW,USD
+57a983be-48bf-495b-aad2-5b181e706af0,12/12/2007 13:30:00,Goods and Services Trade Balance,HIGH,USD
+8021608e-2730-4221-9639-02ffb419622a,12/12/2007 13:30:00,Import Price Index (MoM),MEDIUM,USD
+726738c7-6272-4461-a074-331ef9102744,12/12/2007 13:30:00,Import Price Index (YoY),MEDIUM,USD
+26c40968-1a2a-46b6-9f36-54744443714a,12/13/2007 00:01:00,RICS Housing Price Balance,MEDIUM,GBP
+acde54c7-0ed4-4e3d-b9c7-77d1236a0f57,12/13/2007 04:00:00,Tokyo Condominium Sales (YoY),LOW,JPY
+c6c753c5-2042-416b-8e8f-9b0d5989380c,12/13/2007 04:30:00,Capacity Utilization,LOW,JPY
+ae35bbb5-bbba-4593-9851-daeb05257218,12/13/2007 04:30:00,Industrial Production (MoM),LOW,JPY
+f3f1ef85-9c06-4095-ad66-b1805c268a3d,12/13/2007 04:30:00,Industrial Production (YoY),LOW,JPY
+f6f89788-e4a3-430c-b478-04a86ee25c08,12/13/2007 09:00:00,ECB Monthly Report,LOW,EUR
+9a85cd16-b5de-4325-b6ab-2ad2d4b02fbb,12/13/2007 11:00:00,CBI Industrial Trends Survey – Orders (MoM),MEDIUM,GBP
+eef796a4-33ca-417e-81ee-412f43f740f2,12/13/2007 13:30:00,Continuing Jobless Claims,NONE,USD
+a2d09e24-f8f4-4d87-8a07-2787f63dccdc,12/13/2007 13:30:00,Initial Jobless Claims,NONE,USD
+5796b300-a4d8-4602-9898-02776d4e0e6f,12/13/2007 13:30:00,Producer Price Index (MoM),MEDIUM,USD
+6fd2070c-47ef-4f58-8fdb-fb3228f5343a,12/13/2007 13:30:00,Producer Price Index (YoY),MEDIUM,USD
+e799138c-7cd2-4284-b11f-d2c22be11b13,12/13/2007 13:30:00,Producer Price Index ex Food & Energy (MoM),MEDIUM,USD
+3dfa970e-8d8b-4dad-af32-340830b763e0,12/13/2007 13:30:00,Producer Price Index ex Food & Energy (YoY),MEDIUM,USD
+5aa04757-3aef-43e4-ad5b-2e95ea7030a9,12/13/2007 13:30:00,Retail Sales (MoM),HIGH,USD
+f429d811-d276-408f-9f7c-ff8f1d730e25,12/13/2007 13:30:00,Retail Sales ex Autos (MoM),HIGH,USD
+ed11d78e-0f1e-4041-945d-0d4e205b6de1,12/13/2007 15:00:00,Business Inventories,MEDIUM,USD
+4167a18a-2643-4abf-9977-f161e30e7a93,12/13/2007 23:50:00,Tankan Large All Industry Capex,LOW,JPY
+48717e27-463c-4304-a7a0-360c029a37e4,12/13/2007 23:50:00,Tankan Large Manufacturing Index,LOW,JPY
+d9a9394c-f144-4590-a789-3686df527597,12/13/2007 23:50:00,Tankan Large Manufacturing Outlook,LOW,JPY
+12c61177-664a-43d3-8061-93f6b5ddd6ce,12/13/2007 23:50:00,Tankan Non - Manufacturing Index,LOW,JPY
+9078c4ed-affe-455e-8eb3-4bb372e0a673,12/13/2007 23:50:00,Tankan Non - Manufacturing Outlook,NONE,JPY
+2cb0f5bf-78a1-4f17-a11c-74685f564fba,12/14/2007 05:00:00,Consumer Confidence Index,LOW,JPY
+27159c51-ec1c-4241-84bc-46d073aa7278,12/14/2007 07:00:00,Consumer Price Index (MoM),LOW,EUR
+ce66bcb6-5125-42d8-ba3c-3704bb35db6e,12/14/2007 07:00:00,Consumer Price Index (YoY),LOW,EUR
+ca69ba09-9f92-405d-9fc0-fd742828008d,12/14/2007 10:00:00,Core Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
+6237fdc6-b20c-410c-85e7-883986077e84,12/14/2007 10:00:00,Harmonized Index of Consumer Prices (MoM),MEDIUM,EUR
+1483d472-7928-469f-a94c-da3635d7aa7d,12/14/2007 10:00:00,Harmonized Index of Consumer Prices (YoY),MEDIUM,EUR
+cf2e5bab-df0b-4669-aee5-1607d8b3b736,12/14/2007 13:30:00,Consumer Price Index (MoM),MEDIUM,USD
+e6d52ed5-49e5-4e07-9c70-89867686f73b,12/14/2007 13:30:00,Consumer Price Index (YoY),MEDIUM,USD
+f0bd6940-d175-44f2-a79a-2ebf0cc5293c,12/14/2007 13:30:00,Consumer Price Index ex Food & Energy (MoM),MEDIUM,USD
+2a3cd70e-18a3-41d9-8d2d-9b35c97cbb92,12/14/2007 13:30:00,Consumer Price Index ex Food & Energy (YoY),MEDIUM,USD
+f8b5a11f-c728-44c0-aaf0-bb74cdf68d71,12/14/2007 14:15:00,Capacity Utilization,MEDIUM,USD
+0e0c5376-a4d2-405d-974d-b56d88d3730a,12/14/2007 14:15:00,Industrial Production (MoM),MEDIUM,USD
+a8912b7b-6c97-41b5-b6cb-e17ac2fd38a3,12/16/2007 23:50:00,Tertiary Industry Index (MoM),LOW,JPY
+21b1be3a-86f9-4a16-ac13-2f8d07169b0c,12/17/2007 00:01:00,Rightmove House Price Index (MoM),LOW,GBP
+1ddfa9a5-0e39-4673-bcbc-2a8e6fe5b8bf,12/17/2007 00:01:00,Rightmove House Price Index (YoY),LOW,GBP
+7a3b96e5-8ee5-4428-8f9a-88ab30b87d05,12/17/2007 05:00:00,Leading Economic Index,LOW,JPY
+52c63a29-619d-44fb-8273-30e6decb8f5f,12/17/2007 09:00:00,HCOB Manufacturing PMI,LOW,EUR
+60ddcf6c-cc85-46ad-9004-de76d908fe85,12/17/2007 09:00:00,HCOB Services PMI,LOW,EUR
+6600fb96-4b6f-40a7-bc5a-8acedde51dee,12/17/2007 13:30:00,Current Account,LOW,USD
+7a05d09a-a32b-4d0f-8b1b-16231afc22f0,12/17/2007 13:30:00,NY Empire State Manufacturing Index,LOW,USD
+ba8eaf99-362b-4e66-b9b4-be4295cc46b7,12/17/2007 14:00:00,Net Long-Term TIC Flows,LOW,USD
+15032213-cbd4-4162-bb8a-75852f3a7f53,12/17/2007 14:00:00,Total Net TIC Flows,LOW,USD
+43e68171-d1db-4ded-ab51-6bdaf4854d43,12/17/2007 18:00:00,NAHB Housing Market Index,HIGH,USD
+5bfbe9bb-8c9c-4dad-8eba-9f24819432a5,12/18/2007 09:30:00,Consumer Price Index (MoM),MEDIUM,GBP
+be0213c7-84ec-423a-bc3c-354bfd4e2e09,12/18/2007 09:30:00,Consumer Price Index (YoY),MEDIUM,GBP
+8a183ad1-bd75-4edf-8a10-271f11731d3d,12/18/2007 09:30:00,Core Consumer Price Index (YoY),MEDIUM,GBP
+b68572fc-b873-4e58-bb22-6798a7a449df,12/18/2007 09:30:00,Retail Price Index (MoM),LOW,GBP
+c428467f-2958-425f-bdb4-d2c4234c495f,12/18/2007 09:30:00,Retail Price Index (YoY),LOW,GBP
+b7efb333-1936-44cf-836a-b78bdf124c8c,12/18/2007 10:00:00,Trade Balance n.s.a.,LOW,EUR
+9e0a8e1c-ae82-4840-9d4f-2c57855d854a,12/18/2007 10:00:00,Trade Balance s.a.,LOW,EUR
+5c801eaa-9fd3-452f-9756-83d94d50a1cc,12/18/2007 13:15:00,Total Business Investment (QoQ),NONE,GBP
+c30a00ea-6ecd-4523-b5d1-809f3c156afb,12/18/2007 13:15:00,Total Business Investment (YoY),LOW,GBP
+b0189327-eee3-49a0-b7a4-335eb45f9002,12/18/2007 13:30:00,Building Permits (MoM),MEDIUM,USD
+6e384c8d-85f3-4b9f-bb02-a5ef3f0eaf69,12/18/2007 13:30:00,Housing Starts (MoM),MEDIUM,USD
+a5d7b33e-8548-4ca6-ba6f-fe82195d09f2,12/18/2007 23:50:00,All Industry Activity Index (MoM),LOW,JPY
+d7ae9352-487a-4a4a-9d04-d0578a2ab9fe,12/19/2007 07:00:00,Producer Price Index (MoM),MEDIUM,EUR
+298b4843-c361-4d13-b433-2c3c042bc79d,12/19/2007 07:00:00,Producer Price Index (YoY),MEDIUM,EUR
+5453dada-80cf-4770-b3d7-842389cfd2bd,12/19/2007 09:00:00,IFO – Business Climate,HIGH,EUR
+42a64342-de7b-45aa-a383-f98d223a5cec,12/19/2007 09:00:00,IFO – Expectations,MEDIUM,EUR
+35f7eb47-eb3f-48c0-9830-21030677abdf,12/19/2007 09:30:00,BoE Minutes,HIGH,GBP
+f4eb5e5c-eb90-4b4d-8728-9a37077649c6,12/19/2007 10:00:00,ECB's President Trichet speech,MEDIUM,EUR
+d3ed7b13-07aa-4eb5-aab3-5bc78a1fedcf,12/19/2007 11:00:00,CBI Distributive Trades Survey – Realized (MoM),MEDIUM,GBP
+6b90dcef-664a-41e6-8fd2-edd7f0b64038,12/19/2007 12:00:00,MBA Mortgage Applications,LOW,USD
+7f75be66-c17f-4c04-890f-6b2bd2c5c42b,12/19/2007 23:50:00,Adjusted Merchandise Trade Balance,LOW,JPY
+fa47c477-5b76-458a-bf7c-359da8cb9c2d,12/19/2007 23:50:00,Merchandise Trade Balance Total,LOW,JPY
+128c4b58-18c0-4636-badd-4a4ec040d711,12/20/2007 05:00:00,BoJ Interest Rate Decision,HIGH,JPY
+cdd1eb35-ec6e-45ca-a36d-56fa68f923ff,12/20/2007 06:30:00,BoJ's Governor Fukui speech,MEDIUM,JPY
+e9b9e614-dc99-4e80-a134-ecc75be2d430,12/20/2007 07:00:00,GfK Consumer Confidence Survey,MEDIUM,EUR
+3e48739f-b605-46dd-99e2-cf411ec24aa3,12/20/2007 09:30:00,Current Account,LOW,GBP
+6fb687af-a6db-4655-acd3-db6e99c03b07,12/20/2007 09:30:00,Gross Domestic Product (QoQ),MEDIUM,GBP
+15970669-9c4c-42d5-a8e7-9b4a1fb3bc5b,12/20/2007 09:30:00,Gross Domestic Product (YoY),MEDIUM,GBP
+df35cfe6-6fa9-4272-9906-023446801f26,12/20/2007 09:30:00,M4 Money Supply (MoM),LOW,GBP
+2c292639-9d37-4fef-bf6f-77823773a58a,12/20/2007 09:30:00,M4 Money Supply (YoY),LOW,GBP
+f9c52171-7a2d-4192-a73a-6575622b7bc1,12/20/2007 09:30:00,M4 Sterling Lending,LOW,GBP
+9b20ac73-2895-40eb-8100-12396049ce35,12/20/2007 09:30:00,Public Sector Net Borrowing,LOW,GBP
+dd3dede2-4248-45e9-8cf7-b53d571eac0f,12/20/2007 13:30:00,Continuing Jobless Claims,LOW,USD
+10571f6b-de03-4984-957d-a2e5117b137a,12/20/2007 13:30:00,Gross Domestic Product Annualized,HIGH,USD
+2ba3964d-6083-4cfc-a6cb-27839723e83e,12/20/2007 13:30:00,Gross Domestic Product Price Index,HIGH,USD
+c579a92b-8696-4d89-ad06-5e96b392e3ee,12/20/2007 13:30:00,Initial Jobless Claims,LOW,USD
+59c2ce49-335f-40b2-b04a-b4f18c52d0f9,12/20/2007 17:00:00,Philadelphia Fed Manufacturing Survey,LOW,USD
+adffcc6a-99cd-4920-9536-a9c6e9d6a857,12/21/2007 09:00:00,Current Account n.s.a,LOW,EUR
+76a6653e-4d2b-454f-9d13-ce8b4a230592,12/21/2007 09:30:00,Retail Sales (MoM),HIGH,GBP
+38fd79d3-f44b-4742-b6a9-a974d0c14eb4,12/21/2007 09:30:00,Retail Sales (YoY),HIGH,GBP
+13a43a70-52e6-4f6f-8299-6b7862c98bdc,12/21/2007 10:00:00,Industrial New Orders (YoY),LOW,EUR
+f03f3fcb-193c-4879-ad43-ee22e6b983e6,12/21/2007 10:00:00,Industrial New Orders s.a. (MoM),LOW,EUR
+4427d0c9-1379-4c58-9f05-623de7718a13,12/21/2007 10:00:00,Index of Services (3M/3M),NONE,GBP
+a7480ffa-3728-4d1a-8f5d-fff3d9197399,12/21/2007 13:30:00,Core Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+b06cf842-6bcb-4c4a-90b7-beb3e24de39c,12/21/2007 13:30:00,Core Personal Consumption Expenditures - Price Index (YoY),HIGH,USD
+52ad3f89-c417-4a05-b95d-3e7c7ca80be0,12/21/2007 13:30:00,Personal Consumption Expenditures - Price Index (MoM),HIGH,USD
+3be28aee-5904-4c1c-b21b-ca6bb7ba0e4b,12/21/2007 13:30:00,Personal Income (MoM),HIGH,USD
+9cf9b920-228b-4f02-9c24-bff3a55e890b,12/21/2007 15:00:00,Michigan Consumer Sentiment Index,MEDIUM,USD
+58084346-14d8-4dcb-aed0-f4ab9039f116,12/24/2007 00:01:00,Hometrack Housing Prices s.a (MoM),NONE,GBP
+dde5c7c6-aefd-45a9-b676-16e6b2c9b28a,12/24/2007 23:50:00,BSI Large Manufacturing Conditions Index (QoQ),LOW,JPY
+f2e4d676-218b-47ae-bf19-ccd05ca374a8,12/24/2007 23:50:00,Corporate Service Price Index (YoY),LOW,JPY
+a0aa9f63-9de0-49f0-b177-a6412fe18e91,12/25/2007 23:50:00,BoJ Minutes,LOW,JPY
+7fa48f00-6016-4a6b-9695-20fbc24eb095,12/26/2007 15:00:00,Richmond Fed Manufacturing Index,LOW,USD
+17920af1-1f36-4355-8107-96ddcc44ede7,12/27/2007 05:00:00,Housing Starts (YoY),LOW,JPY
+392d9eda-b474-465f-b450-d3a6eb77a30b,12/27/2007 09:30:00,BBA Mortgage Approvals,LOW,GBP
+cbd7db2d-b52e-476a-874e-01e26f720f80,12/27/2007 12:00:00,MBA Mortgage Applications,LOW,USD
+79fcaebb-d03d-4be2-a96b-ca787dfcc08a,12/27/2007 13:30:00,Continuing Jobless Claims,LOW,USD
+16c8c249-9234-4683-b100-996255866004,12/27/2007 13:30:00,Core Personal Consumption Expenditures (QoQ),LOW,USD
+3a15351a-ede0-4a7c-8d24-466fb8f6d04e,12/27/2007 13:30:00,Durable Goods Orders,MEDIUM,USD
+b1ea7cab-1009-49c0-9737-51a6921a71fd,12/27/2007 13:30:00,Durable Goods Orders ex Transportation,MEDIUM,USD
+5203695e-7f24-4dca-89c0-1f2384ebe87f,12/27/2007 13:30:00,Initial Jobless Claims,LOW,USD
+68f9e12b-46a4-4816-9de5-5e2992dbda45,12/27/2007 15:00:00,Consumer Confidence,LOW,USD
+05df976c-5228-4a3b-9f1b-d66d515e68ab,12/27/2007 23:15:21,Jibun Bank Manufacturing PMI,LOW,JPY
+e952da4b-54c1-4b0f-a5d7-d34e61509f35,12/27/2007 23:30:00,National Consumer Price Index (YoY),MEDIUM,JPY
+07b21075-c00a-4a31-9b8a-3e86ec505691,12/27/2007 23:30:00,Tokyo Consumer Price Index (YoY),LOW,JPY
+222b9442-ac51-4efd-a4aa-4dbac52985fa,12/27/2007 23:30:00,Tokyo CPI ex Fresh Food (YoY),LOW,JPY
+93875335-c577-4a4d-ac90-ffe7b323c3db,12/27/2007 23:30:00,Unemployment Rate,MEDIUM,JPY
+b57dfd71-ea76-433b-b6ca-0903a0f271dd,12/27/2007 23:30:29,Overall Household Spending (YoY),LOW,JPY
+0b82bc91-723d-4457-b226-f2051c760143,12/27/2007 23:30:53,National CPI ex Fresh Food (YoY),MEDIUM,JPY
+b08a6d9a-b738-42a0-b31b-3a31dd267dde,12/27/2007 23:50:00,Industrial Production (MoM),LOW,JPY
+e21339fd-84bb-40f1-a6df-805101557457,12/27/2007 23:50:00,Industrial Production (YoY),LOW,JPY
+1a30e3c7-5be9-4641-8e7c-1157d9c52acc,12/27/2007 23:50:00,Large Retailer Sales,LOW,JPY
+c6994bb3-951d-4d47-9b7e-fd8e371f2d5c,12/27/2007 23:50:23,Retail Trade s.a (MoM),MEDIUM,JPY
+36b96073-6aa3-441d-b6d4-5edfcfd0bb63,12/27/2007 23:50:40,Retail Trade (YoY),MEDIUM,JPY
+b84afbae-2b46-4b1d-850f-9c3bb5a9e605,12/28/2007 01:30:00,Labor Cash Earnings (YoY),LOW,JPY
+f7c6ea2c-844a-41f2-9b33-80bd9fd5cb3f,12/28/2007 07:00:00,Nationwide Housing Prices s.a (MoM),MEDIUM,GBP
+4785a52b-2ecc-43ba-81fc-bb3aa94039df,12/28/2007 07:00:28,Nationwide Housing Prices n.s.a (YoY),MEDIUM,GBP
+f7705976-5dd2-49b4-b978-2b524af02808,12/28/2007 08:55:00,Unemployment Change,MEDIUM,EUR
+8531c3be-9dc9-424d-b62d-033142b4ba39,12/28/2007 10:30:00,GfK Consumer Confidence,LOW,GBP
+ec518326-45f3-4809-98da-776d867264e7,12/28/2007 14:45:00,Chicago PMI,MEDIUM,USD
+48e49102-c3b2-41dc-a4fe-fdb7ec74e40b,12/28/2007 15:00:00,New Home Sales (MoM),MEDIUM,USD
+729c2b30-958e-4221-84c3-85dcfee6e20b,12/28/2007 15:00:00,New Home Sales Change (MoM),MEDIUM,USD
+42e430c5-83d5-469d-8aad-d7bb7fc8b2eb,12/28/2007 15:15:00,Consumer Price Index (MoM),LOW,EUR
+1319adc6-9f7a-4196-ba48-02c798e2c07e,12/28/2007 15:15:00,Consumer Price Index (YoY),LOW,EUR
+86683a8d-6bcd-428e-b89f-5e53ba87c0bb,12/31/2007 08:15:00,Real GDP Growth,LOW,EUR
+24b4bbbe-2669-478a-9d06-8fd5310751df,12/31/2007 09:00:00,Economic Sentiment Indicator,MEDIUM,EUR
+6d5a28c6-c568-4b1f-b1b0-1dca97322006,12/31/2007 15:00:00,Existing Home Sales (MoM),MEDIUM,USD
+ce417559-1e1f-41c1-ae90-cec90bc3a6fd,12/31/2007 15:00:00,Existing Home Sales Change (MoM),MEDIUM,USD
