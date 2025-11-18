@@ -1,0 +1,336 @@
+[2.6K]  .
+├── [ 768]  __pycache__
+│   ├── [ 16K]  advanced_backtester.cpython-313.pyc
+│   ├── [4.5K]  bot_config.cpython-310.pyc
+│   ├── [9.8K]  data_aggregator_v8.cpython-313.pyc
+│   ├── [ 17K]  data_manager_v8.cpython-313.pyc
+│   ├── [3.3K]  email_notifier.cpython-310.pyc
+│   ├── [3.7K]  enhanced_trade_logger.cpython-310.pyc
+│   ├── [ 14K]  ensemble_manager.cpython-313.pyc
+│   ├── [ 23K]  feature_engineer_v9.cpython-313.pyc
+│   ├── [8.7K]  news_manager.cpython-310.pyc
+│   ├── [6.6K]  optuna_optimizer.cpython-310.pyc
+│   ├── [9.4K]  optuna_optimizer.cpython-313.pyc
+│   ├── [ 11K]  ppo_agent.cpython-310.pyc
+│   ├── [ 15K]  ppo_agent.cpython-313.pyc
+│   ├── [9.4K]  reward_shaper.cpython-310.pyc
+│   ├── [ 13K]  reward_shaper.cpython-313.pyc
+│   ├── [ 26K]  trading_environment_pro.cpython-313.pyc
+│   ├── [ 33K]  ultimate_bot_v7_professional.cpython-310.pyc
+│   ├── [ 58K]  ultimate_bot_v7_professional.cpython-313.pyc
+│   ├── [8.0K]  walk_forward_trainer.cpython-310.pyc
+│   ├── [ 13K]  walk_forward_trainer.cpython-313.pyc
+│   └── [ 13K]  weekly_reporter.cpython-310.pyc
+├── [ 128]  backup_old_files
+│   ├── [7.7K]  bot_config.py
+│   └── [ 63K]  ultimate_bot_v7_professional.py
+├── [2.6K]  data
+│   ├── [ 384]  EURUSD2003-2024
+│   │   ├── [  64]  backups
+│   │   ├── [6.1M]  EURUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv
+│   │   ├── [5.5M]  EURUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv
+│   │   ├── [6.1M]  EURUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv
+│   │   ├── [6.0M]  EURUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv
+│   │   ├── [6.1M]  EURUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv
+│   │   ├── [6.1M]  EURUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024.csv
+│   │   ├── [1.5M]  EURUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024.csv
+│   │   └── [5.5M]  EURUSD_Candlestick_15_M_BID_05.05.2003-01.01.2006.csv
+│   ├── [ 384]  GBPUSD2003-2024
+│   │   ├── [  64]  backups
+│   │   ├── [6.0M]  GBPUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv
+│   │   ├── [6.0M]  GBPUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv
+│   │   ├── [6.1M]  GBPUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv
+│   │   ├── [6.1M]  GBPUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv
+│   │   ├── [4.4M]  GBPUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv
+│   │   ├── [6.1M]  GBPUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024.csv
+│   │   ├── [2.0M]  GBPUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024.csv
+│   │   └── [5.3M]  GBPUSD_Candlestick_15_M_BID_05.05.2003-31.12.2005.csv
+│   ├── [ 352]  USDJPY2003-2024
+│   │   ├── [  64]  backups
+│   │   ├── [5.6M]  USDJPY_Candlestick_15_M_BID_01.01.2006-01.01.2009.csv
+│   │   ├── [5.3M]  USDJPY_Candlestick_15_M_BID_01.01.2009-01.01.2012.csv
+│   │   ├── [5.9M]  USDJPY_Candlestick_15_M_BID_01.01.2012-01.01.2015.csv
+│   │   ├── [6.1M]  USDJPY_Candlestick_15_M_BID_01.01.2015-01.01.2018.csv
+│   │   ├── [6.1M]  USDJPY_Candlestick_15_M_BID_01.01.2018-01.01.2021.csv
+│   │   ├── [4.1M]  USDJPY_Candlestick_15_M_BID_01.01.2021-01.01.2023.csv
+│   │   ├── [4.1M]  USDJPY_Candlestick_15_M_BID_01.01.2023-31.12.2024.csv
+│   │   └── [4.9M]  USDJPY_Candlestick_15_M_BID_05.05.2003-01.01.2006.csv
+│   ├── [  96]  __pycache__
+│   │   └── [ 77K]  JTTWS_v5_COMPLETE_FIXED.cpython-310.pyc
+│   ├── [  64]  data
+│   ├── [  64]  results
+│   ├── [ 992]  ta-lib
+│   │   ├── [ 224]  autom4te.cache
+│   │   ├── [ 352]  include
+│   │   ├── [ 352]  src
+│   │   ├── [ 965]  CHANGELOG.TXT
+│   │   ├── [3.8K]  HISTORY.TXT
+│   │   ├── [ 21K]  Makefile
+│   │   ├── [  83]  Makefile.am
+│   │   ├── [ 20K]  Makefile.in
+│   │   ├── [255K]  aclocal.m4
+│   │   ├── [ 213]  autogen.sh
+│   │   ├── [189K]  bin
+│   │   ├── [ 43K]  config.guess
+│   │   ├── [ 43K]  config.log
+│   │   ├── [ 34K]  config.status
+│   │   ├── [ 32K]  config.sub
+│   │   ├── [699K]  configure
+│   │   ├── [1.5K]  configure.in
+│   │   ├── [ 17K]  depcomp
+│   │   ├── [ 13K]  install-sh
+│   │   ├── [212K]  libtool
+│   │   ├── [192K]  ltmain.sh
+│   │   ├── [ 11K]  missing
+│   │   ├── [ 443]  ta-lib-config
+│   │   ├── [ 414]  ta-lib-config.in
+│   │   ├── [ 366]  ta-lib.dpkg
+│   │   ├── [ 370]  ta-lib.dpkg.in
+│   │   ├── [ 461]  ta-lib.spec
+│   │   └── [ 465]  ta-lib.spec.in
+│   ├── [ 736]  ta-lib 2
+│   │   ├── [ 224]  autom4te.cache
+│   │   ├── [ 288]  include
+│   │   ├── [ 256]  src
+│   │   ├── [ 965]  CHANGELOG.TXT
+│   │   ├── [3.8K]  HISTORY.TXT
+│   │   ├── [  83]  Makefile.am
+│   │   ├── [ 20K]  Makefile.in
+│   │   ├── [255K]  aclocal.m4
+│   │   ├── [ 213]  autogen.sh
+│   │   ├── [ 43K]  config.guess
+│   │   ├── [ 32K]  config.sub
+│   │   ├── [699K]  configure
+│   │   ├── [1.5K]  configure.in
+│   │   ├── [ 17K]  depcomp
+│   │   ├── [ 13K]  install-sh
+│   │   ├── [192K]  ltmain.sh
+│   │   ├── [ 11K]  missing
+│   │   ├── [ 414]  ta-lib-config.in
+│   │   ├── [ 370]  ta-lib.dpkg.in
+│   │   └── [ 465]  ta-lib.spec.in
+│   ├── [ 736]  ta-lib 3
+│   │   ├── [ 224]  autom4te.cache
+│   │   ├── [ 288]  include
+│   │   ├── [ 256]  src
+│   │   ├── [ 965]  CHANGELOG.TXT
+│   │   ├── [3.8K]  HISTORY.TXT
+│   │   ├── [  83]  Makefile.am
+│   │   ├── [ 20K]  Makefile.in
+│   │   ├── [255K]  aclocal.m4
+│   │   ├── [ 213]  autogen.sh
+│   │   ├── [ 43K]  config.guess
+│   │   ├── [ 32K]  config.sub
+│   │   ├── [699K]  configure
+│   │   ├── [1.5K]  configure.in
+│   │   ├── [ 17K]  depcomp
+│   │   ├── [ 13K]  install-sh
+│   │   ├── [192K]  ltmain.sh
+│   │   ├── [ 11K]  missing
+│   │   ├── [ 414]  ta-lib-config.in
+│   │   ├── [ 370]  ta-lib.dpkg.in
+│   │   └── [ 465]  ta-lib.spec.in
+│   ├── [ 288]  trading_env
+│   │   ├── [1.3K]  bin
+│   │   ├── [  96]  etc
+│   │   ├── [  64]  include
+│   │   ├── [ 128]  lib
+│   │   ├── [ 128]  share
+│   │   └── [  99]  pyvenv.cfg
+│   ├── [ 18K]  EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009_weekly_ranges.csv
+│   ├── [ 18K]  EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012_weekly_ranges.csv
+│   ├── [ 18K]  EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015_weekly_ranges.csv
+│   ├── [ 18K]  EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018_weekly_ranges.csv
+│   ├── [ 18K]  EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021_weekly_ranges.csv
+│   ├── [ 18K]  EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024_weekly_ranges.csv
+│   ├── [4.9K]  EURUSD_EURUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024_weekly_ranges.csv
+│   ├── [ 15K]  EURUSD_EURUSD_Candlestick_15_M_BID_05.05.2003-01.01.2006_weekly_ranges.csv
+│   ├── [138K]  EURUSD_weekly_ranges.csv
+│   ├── [ 11M]  Ekonomik Takvim - Investing.com.pdf
+│   ├── [ 17K]  GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2006-01.01.2009_weekly_ranges.csv
+│   ├── [ 18K]  GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2009-01.01.2012_weekly_ranges.csv
+│   ├── [ 18K]  GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2012-01.01.2015_weekly_ranges.csv
+│   ├── [ 18K]  GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2015-01.01.2018_weekly_ranges.csv
+│   ├── [ 18K]  GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2018-01.01.2021_weekly_ranges.csv
+│   ├── [ 18K]  GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2021-01.01.2024_weekly_ranges.csv
+│   ├── [4.9K]  GBPUSD_GBPUSD_Candlestick_15_M_BID_01.01.2024-31.12.2024_weekly_ranges.csv
+│   ├── [ 15K]  GBPUSD_GBPUSD_Candlestick_15_M_BID_05.05.2003-31.12.2005_weekly_ranges.csv
+│   ├── [138K]  GBPUSD_weekly_ranges.csv
+│   ├── [106K]  JTTWS_v5_COMPLETE_FIXED.py
+│   ├── [103K]  JTTWS_v5_final_ready.py
+│   ├── [475K]  Kaydedilen Terminal Çıkışı.txt
+│   ├── [ 19K]  NASIL_CALISTIRILIR.txt
+│   ├── [7.4K]  QUICKSTART.txt
+│   ├── [7.9K]  QUICK_REFERENCE.txt
+│   ├── [ 18K]  README_Patch.md
+│   ├── [ 18K]  TIMESTAMP_GUARD_VALIDATION.txt
+│   ├── [ 17K]  USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2006-01.01.2009_weekly_ranges.csv
+│   ├── [ 17K]  USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2009-01.01.2012_weekly_ranges.csv
+│   ├── [ 17K]  USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2012-01.01.2015_weekly_ranges.csv
+│   ├── [ 17K]  USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2015-01.01.2018_weekly_ranges.csv
+│   ├── [ 17K]  USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2018-01.01.2021_weekly_ranges.csv
+│   ├── [ 11K]  USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2021-01.01.2023_weekly_ranges.csv
+│   ├── [ 11K]  USDJPY_USDJPY_Candlestick_15_M_BID_01.01.2023-31.12.2024_weekly_ranges.csv
+│   ├── [ 15K]  USDJPY_USDJPY_Candlestick_15_M_BID_05.05.2003-01.01.2006_weekly_ranges.csv
+│   ├── [133K]  USDJPY_weekly_ranges.csv
+│   ├── [150K]  bot_training.py
+│   ├── [441K]  calendar-event-list-10.csv
+│   ├── [479K]  calendar-event-list-11.csv
+│   ├── [490K]  calendar-event-list-12.csv
+│   ├── [503K]  calendar-event-list-13.csv
+│   ├── [515K]  calendar-event-list-14.csv
+│   ├── [524K]  calendar-event-list-15.csv
+│   ├── [531K]  calendar-event-list-16.csv
+│   ├── [529K]  calendar-event-list-17.csv
+│   ├── [537K]  calendar-event-list-18.csv
+│   ├── [560K]  calendar-event-list-19.csv
+│   ├── [177K]  calendar-event-list-2.csv
+│   ├── [283K]  calendar-event-list-3.csv
+│   ├── [290K]  calendar-event-list-4.csv
+│   ├── [300K]  calendar-event-list-5.csv
+│   ├── [310K]  calendar-event-list-6.csv
+│   ├── [390K]  calendar-event-list-7.csv
+│   ├── [426K]  calendar-event-list-8.csv
+│   ├── [429K]  calendar-event-list-9.csv
+│   ├── [9.4M]  combined_economic_calendar.csv
+│   ├── [ 13K]  diagnose_backtest_ab.py
+│   ├── [8.4K]  diagnose_margin.py
+│   ├── [471K]  jttws_v5.log
+│   ├── [5.0K]  quick_test_v2.py
+│   ├── [ 860]  simple_test.py
+│   ├── [1.3M]  ta-lib-0.4.0-src.tar.gz
+│   ├── [4.6K]  test_execution_log.txt
+│   ├── [4.7K]  test_result.md
+│   ├── [ 708]  timestamp_guard.patch
+│   ├── [ 56K]  ultimate_trading_bot_v6_final.py
+│   └── [ 20K]  utils_advanced.py
+├── [ 608]  logs
+│   ├── [1.3M]  best_model.zip
+│   ├── [ 14K]  bot_v7_20251106_125206.log
+│   ├── [ 12K]  bot_v7_20251106_141833.log
+│   ├── [ 89K]  bot_v7_20251106_164558.log
+│   ├── [1.5K]  bot_v7_20251106_164906.log
+│   ├── [   0]  bot_v7_20251107_180406.log
+│   ├── [5.3K]  bot_v7_20251107_181728.log
+│   ├── [4.8K]  bot_v7_20251107_185435.log
+│   ├── [ 90K]  bot_v7_20251107_185821.log
+│   ├── [ 90K]  bot_v7_20251107_185840.log
+│   ├── [4.8K]  bot_v7_20251107_194541.log
+│   ├── [ 90K]  bot_v7_20251107_200242.log
+│   ├── [ 35K]  bot_v7_20251107_202643.log
+│   ├── [ 44K]  bot_v7_20251114_185736.log
+│   ├── [   0]  bot_v7_20251114_190451.log
+│   └── [ 946]  evaluations.npz
+├── [  64]  logs_v9
+├── [  64]  models
+├── [  64]  models_v9
+├── [  96]  outputs
+│   └── [5.6K]  walk_forward_results_v8.csv
+├── [ 256]  venv
+│   ├── [ 864]  bin
+│   │   ├── [8.8K]  Activate.ps1
+│   │   ├── [2.0K]  activate
+│   │   ├── [ 931]  activate.csh
+│   │   ├── [2.2K]  activate.fish
+│   │   ├── [ 221]  coloredlogs
+│   │   ├── [ 223]  f2py
+│   │   ├── [ 224]  fonttools
+│   │   ├── [ 211]  httpx
+│   │   ├── [ 223]  humanfriendly
+│   │   ├── [ 212]  isympy
+│   │   ├── [ 240]  normalizer
+│   │   ├── [ 223]  numpy-config
+│   │   ├── [ 255]  pip
+│   │   ├── [ 255]  pip3
+│   │   ├── [ 255]  pip3.10
+│   │   ├── [ 250]  plotly_get_chrome
+│   │   ├── [ 221]  pyftmerge
+│   │   ├── [ 222]  pyftsubset
+│   │   ├── [   7]  python -> python3
+│   │   ├── [  62]  python3 -> /Users/serkanozturk/Desktop/JTTWS/data/trading_env/bin/python3
+│   │   ├── [   7]  python3.10 -> python3
+│   │   ├── [ 236]  torchfrtrace
+│   │   ├── [ 227]  torchrun
+│   │   ├── [ 214]  tqdm
+│   │   └── [ 219]  ttx
+│   ├── [  64]  include
+│   ├── [ 128]  lib
+│   │   └── [ 128]  python3.10
+│   ├── [ 128]  share
+│   │   ├── [  96]  jupyter
+│   │   └── [  96]  man
+│   └── [ 117]  pyvenv.cfg
+├── [ 22K]  BOT_DEEP_ANALYSIS_REPORT.md
+├── [4.3K]  CHANGES_SUMMARY.md
+├── [5.1K]  DATA_UPLOAD_README.md
+├── [4.7K]  EMAIL_AYARLARI.md
+├── [7.0K]  ENTEGRASYON_OZETI.md
+├── [ 10K]  FINAL_COMPLETE_FIX.py
+├── [8.4K]  GUNCELLEME_OZETI.md
+├── [3.0K]  HIZLI_BASLANGIC.md
+├── [4.9K]  INDIRME_BILGISI.md
+├── [ 42K]  JTTWS_BOT_DETAYLI_RAPOR.md
+├── [122K]  JTTWS_ULTIMATE_BOT_V7_ALL_IN_ONE.py
+├── [3.8M]  JTTWS_V8_GUNCEL_PAKET.tar.gz
+├── [3.8M]  JTTWS_V8_PATH_FIXED.tar.gz
+├── [ 11K]  KULLANIM_KILAVUZU.md
+├── [4.9K]  LOCAL_SETUP_TR.md
+├── [  29]  README.md
+├── [ 12K]  README_V8.md
+├── [ 11K]  README_V9_ULTIMATE.md
+├── [3.2K]  UPDATE_PACKAGE_README.md
+├── [9.8K]  V7_VS_V8_COMPARISON_REPORT.md
+├── [3.6K]  V8_DOSYALARI.md
+├── [6.5K]  V8_GROK_UPDATES_SUMMARY.md
+├── [7.7K]  V8_PROFESSIONAL_UPGRADE.md
+├── [ 13K]  advanced_backtester.py
+├── [8.6K]  apply_final_fix.py
+├── [ 13K]  auto_update_bot.py
+├── [ 29K]  backend_test.py
+├── [8.5K]  bot_config.py
+├── [1.8K]  check_data_files.py
+├── [1.9K]  check_initialize_bot.py
+├── [1.7K]  check_telegram_code.py
+├── [6.3K]  combine_calendars.py
+├── [7.6K]  data_aggregator_v8.py
+├── [ 13K]  data_manager_v8.py
+├── [3.3K]  email_notifier.py
+├── [4.2K]  enhanced_trade_logger.py
+├── [ 11K]  ensemble_manager.py
+├── [ 18K]  feature_engineer_v9.py
+├── [1.4K]  find_chat_id_warning.py
+├── [ 992]  fix_action_final.py
+├── [8.3K]  fix_calendar_and_telegram.py
+├── [3.7K]  fix_datetime_error.py
+├── [4.9K]  fix_local_paths.py
+├── [1.0K]  fix_syntax_error.py
+├── [2.8K]  fix_telegram_chat_ids.py
+├── [2.0K]  fix_telegram_final.py
+├── [3.3K]  integrate_new_modules.py
+├── [309M]  jttws_data_complete.tar.gz
+├── [   0]  klasor_yapisi.txt
+├── [ 13K]  mega_upgrade_package.py
+├── [ 12K]  news_manager.py
+├── [8.5K]  optuna_optimizer.py
+├── [ 12K]  ppo_agent.py
+├── [ 503]  python_dosyalari.txt
+├── [1.2K]  quick_fix_action_error.py
+├── [ 112]  requirements.txt
+├── [ 295]  requirements_v8.txt
+├── [ 10K]  reward_shaper.py
+├── [ 11K]  sentiment_analyzer.py
+├── [2.1K]  simplify_trade_logging.py
+├── [ 20K]  test_result.md
+├── [2.1K]  test_weekly_ranges.py
+├── [ 22K]  trading_environment_pro.py
+├── [ 12K]  trading_results.db
+├── [ 32K]  trading_v5.db
+├── [ 15K]  train_bot_v9.py
+├── [ 42K]  ultimate_bot_v7_professional.py
+├── [ 21K]  ultimate_bot_v8_ppo.py
+├── [ 33K]  ultimate_trading_bot_v6_final.py
+├── [7.0K]  upload_data.py
+├── [ 11K]  walk_forward_trainer.py
+└── [ 16K]  weekly_reporter.py
+
+44 directories, 290 files
