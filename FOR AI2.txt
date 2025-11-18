@@ -1,0 +1,155 @@
+(trading_env) serkanozturk@192:~/Desktop/JTTWS% find ~/Desktop/JTTWS -maxdepth 2 -name "*.py" -type f | grep -v venv | grep -v backup | sort
+/Users/serkanozturk/Desktop/JTTWS/FINAL_COMPLETE_FIX.py
+/Users/serkanozturk/Desktop/JTTWS/JTTWS_ULTIMATE_BOT_V7_ALL_IN_ONE.py
+/Users/serkanozturk/Desktop/JTTWS/advanced_backtester.py
+/Users/serkanozturk/Desktop/JTTWS/apply_final_fix.py
+/Users/serkanozturk/Desktop/JTTWS/auto_update_bot.py
+/Users/serkanozturk/Desktop/JTTWS/backend_test.py
+/Users/serkanozturk/Desktop/JTTWS/bot_config.py
+/Users/serkanozturk/Desktop/JTTWS/check_data_files.py
+/Users/serkanozturk/Desktop/JTTWS/check_initialize_bot.py
+/Users/serkanozturk/Desktop/JTTWS/check_telegram_code.py
+/Users/serkanozturk/Desktop/JTTWS/combine_calendars.py
+/Users/serkanozturk/Desktop/JTTWS/data/bot_training.py
+/Users/serkanozturk/Desktop/JTTWS/data/utils_advanced.py
+/Users/serkanozturk/Desktop/JTTWS/data_aggregator_v8.py
+/Users/serkanozturk/Desktop/JTTWS/data_manager_v8.py
+/Users/serkanozturk/Desktop/JTTWS/email_notifier.py
+/Users/serkanozturk/Desktop/JTTWS/enhanced_trade_logger.py
+/Users/serkanozturk/Desktop/JTTWS/ensemble_manager.py
+/Users/serkanozturk/Desktop/JTTWS/feature_engineer_v9.py
+/Users/serkanozturk/Desktop/JTTWS/find_chat_id_warning.py
+/Users/serkanozturk/Desktop/JTTWS/fix_action_final.py
+/Users/serkanozturk/Desktop/JTTWS/fix_calendar_and_telegram.py
+/Users/serkanozturk/Desktop/JTTWS/fix_datetime_error.py
+/Users/serkanozturk/Desktop/JTTWS/fix_local_paths.py
+/Users/serkanozturk/Desktop/JTTWS/fix_syntax_error.py
+/Users/serkanozturk/Desktop/JTTWS/fix_telegram_chat_ids.py
+/Users/serkanozturk/Desktop/JTTWS/fix_telegram_final.py
+/Users/serkanozturk/Desktop/JTTWS/integrate_new_modules.py
+/Users/serkanozturk/Desktop/JTTWS/mega_upgrade_package.py
+/Users/serkanozturk/Desktop/JTTWS/news_manager.py
+/Users/serkanozturk/Desktop/JTTWS/optuna_optimizer.py
+/Users/serkanozturk/Desktop/JTTWS/ppo_agent.py
+/Users/serkanozturk/Desktop/JTTWS/quick_fix_action_error.py
+/Users/serkanozturk/Desktop/JTTWS/reward_shaper.py
+/Users/serkanozturk/Desktop/JTTWS/run_first_test.py
+/Users/serkanozturk/Desktop/JTTWS/sentiment_analyzer.py
+/Users/serkanozturk/Desktop/JTTWS/simplify_trade_logging.py
+/Users/serkanozturk/Desktop/JTTWS/test_my_bot.py
+/Users/serkanozturk/Desktop/JTTWS/test_weekly_ranges.py
+/Users/serkanozturk/Desktop/JTTWS/trading_environment_pro.py
+/Users/serkanozturk/Desktop/JTTWS/train_bot_v9.py
+/Users/serkanozturk/Desktop/JTTWS/ultimate_bot_v7_professional.py
+/Users/serkanozturk/Desktop/JTTWS/ultimate_bot_v8_ppo.py
+/Users/serkanozturk/Desktop/JTTWS/ultimate_trading_bot_v6_final.py
+/Users/serkanozturk/Desktop/JTTWS/upload_data.py
+/Users/serkanozturk/Desktop/JTTWS/walk_forward_trainer.py
+/Users/serkanozturk/Desktop/JTTWS/weekly_reporter.py
+(trading_env) serkanozturk@192:~/Desktop/JTTWS% ls -la ~/Desktop/JTTWS/*.py | grep -E "(v7|v9|ULTIMATE)"
+-rw-r--r--@ 1 serkanozturk  staff  124752 14 Kas 18:52 /Users/serkanozturk/Desktop/JTTWS/JTTWS_ULTIMATE_BOT_V7_ALL_IN_ONE.py
+-rw-r--r--@ 1 serkanozturk  staff   18357 14 Kas 18:50 /Users/serkanozturk/Desktop/JTTWS/feature_engineer_v9.py
+-rw-r--r--@ 1 serkanozturk  staff   15359 14 Kas 19:25 /Users/serkanozturk/Desktop/JTTWS/train_bot_v9.py
+-rw-r--r--@ 1 serkanozturk  staff   43438 14 Kas 18:53 /Users/serkanozturk/Desktop/JTTWS/ultimate_bot_v7_professional.py
+(trading_env) serkanozturk@192:~/Desktop/JTTWS% head -100 ~/Desktop/JTTWS/bot_config.py
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+ULTIMATE FTMO TRADING BOT V7.0 PROFESSIONAL - Configuration
+Tüm ayarlar bu dosyada merkezi olarak yönetilir
+"""
+
+import os
+from datetime import time
+from pathlib import Path
+
+class BotConfig:
+    """Bot için tüm yapılandırma ayarları"""
+    
+    # ==================== GENEL AYARLAR ====================
+    VERSION = "7.0-PROFESSIONAL"
+    
+    # Data klasörü - kullanıcının MacBook'undaki yol
+    BASE_DIR = Path.home() / "Desktop" / "JTTWS"
+    DATA_DIR = BASE_DIR / "data"
+    LOGS_DIR = BASE_DIR / "logs"
+    MODELS_DIR = BASE_DIR / "models"
+    OUTPUTS_DIR = BASE_DIR / "outputs"
+    
+    # ==================== TELEGRAM AYARLARI ====================
+    TELEGRAM_TOKEN = "8008545474:AAHansC5Xag1b9N96bMAGE0YLTfykXoOPyY"
+    TELEGRAM_CHAT_ID = 1590841427
+    TELEGRAM_ENABLED = True  # False yaparsanız telegram bildirimleri kapalı olur
+    
+    # ==================== CURRENCY PAIRS ====================
+    PAIRS = ["EURUSD", "GBPUSD", "USDJPY"]
+    
+    # Her pair için data klasörleri
+    PAIR_DATA_PATHS = {
+        "EURUSD": DATA_DIR / "EURUSD2003-2024",
+        "GBPUSD": DATA_DIR / "GBPUSD2003-2024",
+        "USDJPY": DATA_DIR / "USDJPY2003-2024"
+    }
+    
+    # Weekly range CSV dosyaları
+    WEEKLY_RANGE_FILES = {
+        "EURUSD": DATA_DIR / "EURUSD_weekly_ranges.csv",
+        "GBPUSD": DATA_DIR / "GBPUSD_weekly_ranges.csv",
+        "USDJPY": DATA_DIR / "USDJPY_weekly_ranges.csv"
+    }
+    
+    # ==================== TRADING HOURS (UTC+3) ====================
+    # Yeni pozisyon açma saatleri
+    TRADING_START_HOUR = 0  # 00:00
+    TRADING_END_HOUR = 22   # 22:30'dan sonra yeni giriş yok
+    TRADING_END_MINUTE = 30
+    
+    # Zorla kapatma saati
+    FORCE_CLOSE_HOUR = 23   # 23:00'da tüm pozisyonlar kapanır
+    FORCE_CLOSE_MINUTE = 0
+    
+    # ==================== RISK MANAGEMENT ====================
+    # Başlangıç sermayesi
+    INITIAL_CAPITAL = 100000.0  # $100,000
+    
+    # Günlük toplam risk limiti (sermayenin %'si)
+    DAILY_RISK_LIMIT = 0.05  # %5
+    
+    # Pair başına maksimum risk (günlük bütçenin %'si)
+    MAX_RISK_PER_PAIR = 0.33  # Her pair günlük bütçenin %33'ü
+    
+    # Position sizing
+    MIN_LOT_SIZE = 0.01
+    MAX_LOT_SIZE = 2.0
+    DEFAULT_LOT_SIZE = 0.1
+    
+    # Kelly Criterion için
+    KELLY_FRACTION = 0.25  # Kelly'nin 1/4'ünü kullan (güvenli)
+    
+    # Stop Loss / Take Profit (ATR multiplier)
+    SL_ATR_MULTIPLIER = 2.0
+    TP_ATR_MULTIPLIER = 3.0
+    
+    # VaR / CVaR
+    VAR_CONFIDENCE = 0.95  # %95 güven aralığı
+    CVAR_CONFIDENCE = 0.95
+    
+    # ==================== VOLATILITY GUARDS ====================
+    # RangeGuard: Haftalık range'in p95'inden büyük ise giriş yapma
+    RANGE_GUARD_PERCENTILE = 95  # p95
+    
+    # GapGuard: Açılış farkı ATR'nin kaç katı olursa giriş yapma
+    GAP_GUARD_ATR_MULTIPLIER = 1.5
+    
+    # ShallowHour: Saatlik bar ATR'nin kaç katından küçükse giriş yapma
+    SHALLOW_HOUR_ATR_MULTIPLIER = 0.5
+    
+    
+    # ==================== EMAIL NOTIFICATIONS ====================
+    EMAIL_ENABLED = True
+    EMAIL_ADDRESS = "journeytothewallstreet@gmail.com"
+    
+    # Gmail App Password (2-factor auth gerektirir)
+    # https://myaccount.google.com/apppasswords adresinden alın
+    EMAIL_APP_PASSWORD = ""  # Buraya Gmail App Password gireceksiniz
+(trading_env) serkanozturk@192:~/Desktop/JTTWS% 
