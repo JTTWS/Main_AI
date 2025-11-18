@@ -1,0 +1,1620 @@
+===== /Users/serkanozturk/Desktop/JTTWS/FINAL_COMPLETE_FIX.py =====
+#!/usr/bin/env python3
+"""
+ULTIMATE FİNAL FİX - TÜM SORUNLARI ÇÖZER
+- Telegram CHAT_ID ekle
+- Enhanced Logger aktif et
+- Haftalık rapor aktif et
+- Trade detaylarını logla
+- Her şeyi düzelt
+"""
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/JTTWS_ULTIMATE_BOT_V7_ALL_IN_ONE.py =====
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║            JTTWS ULTIMATE FTMO TRADING BOT V7.0 PROFESSIONAL                ║
+║                    "Clockwork Reliability, Maximum Transparency"             ║
+║                          *** ALL-IN-ONE VERSION ***                          ║
+║                                                                              ║
+║   🎯 12-Point Professional Strategy | 🛡️ Advanced Risk Management          ║
+
+===== /Users/serkanozturk/Desktop/JTTWS/advanced_backtester.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+ADVANCED BACKTESTER V9 - Monte Carlo & Walk-Forward
+================================================================================
+
+Provides:
+- Monte Carlo simulation for robustness testing
+- Walk-forward validation
+- Advanced metrics (Sharpe, Sortino, drawdown, profit factor)
+
+===== /Users/serkanozturk/Desktop/JTTWS/apply_final_fix.py =====
+#!/usr/bin/env python3
+"""
+Ultimate Bot V7 - FİNAL DÜZELTMELİ
+NewsBlackout ve TelegramReporter'ı tamamen yeniden yazıyor
+"""
+
+import os
+import re
+from pathlib import Path
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/auto_update_bot.py =====
+#!/usr/bin/env python3
+"""
+FTMO Trading Bot V7.0 - Otomatik Güncelleme Scripti
+Tüm dosyaları otomatik olarak günceller
+"""
+
+import os
+import sys
+import shutil
+from pathlib import Path
+
+===== /Users/serkanozturk/Desktop/JTTWS/backend_test.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+BACKEND TEST V9 - Comprehensive Testing for ULTIMATE FTMO TRADING BOT V9
+================================================================================
+
+Tests all V9 modules:
+1. FeatureEngineerV9 - 50+ technical indicators
+2. DataManagerV8 - Data loading with V9 integration
+3. SentimentAnalyzerV9 - Economic calendar & blackout periods
+
+===== /Users/serkanozturk/Desktop/JTTWS/bot_config.py =====
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+ULTIMATE FTMO TRADING BOT V7.0 PROFESSIONAL - Configuration
+Tüm ayarlar bu dosyada merkezi olarak yönetilir
+"""
+
+import os
+from datetime import time
+from pathlib import Path
+
+===== /Users/serkanozturk/Desktop/JTTWS/check_data_files.py =====
+#!/usr/bin/env python3
+import os
+from pathlib import Path
+
+print("=" * 70)
+print("DATA KLASÖRÜ ANALİZİ")
+print("=" * 70)
+
+base_dir = Path.home() / "Desktop" / "JTTWS" / "data"
+print(f"\nBase Directory: {base_dir}")
+
+===== /Users/serkanozturk/Desktop/JTTWS/check_initialize_bot.py =====
+#!/usr/bin/env python3
+"""
+TelegramReporter _initialize_bot metodunu kontrol et
+"""
+
+from pathlib import Path
+
+BASE_DIR = Path.home() / "Desktop" / "JTTWS"
+bot_file = BASE_DIR / "ultimate_bot_v7_professional.py"
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/check_telegram_code.py =====
+#!/usr/bin/env python3
+"""
+TelegramReporter kodunu kontrol et
+"""
+
+from pathlib import Path
+
+BASE_DIR = Path.home() / "Desktop" / "JTTWS"
+bot_file = BASE_DIR / "ultimate_bot_v7_professional.py"
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/combine_calendars.py =====
+#!/usr/bin/env python3
+"""
+Economic Calendar Combiner & Categorizer
+"""
+
+import pandas as pd
+import requests
+from datetime import datetime
+import logging
+import os
+
+===== /Users/serkanozturk/Desktop/JTTWS/data_aggregator_v8.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+DATA AGGREGATOR V8 - 15M to Daily Conversion
+================================================================================
+
+Converts 15-minute OHLCV data to daily aggregates for walk-forward training.
+
+Features:
+- OHLCV aggregation (open: first, high: max, low: min, close: last, volume: sum)
+
+===== /Users/serkanozturk/Desktop/JTTWS/data_manager_v8.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+DATA MANAGER V8 - Enhanced Data Loading for JTTWS Trading Bot
+================================================================================
+
+Handles:
+- Multiple CSV files per symbol (3-year chunks)
+- 15-minute OHLCV candlestick data
+- Weekly range files (ATR, volatility metrics)
+
+===== /Users/serkanozturk/Desktop/JTTWS/email_notifier.py =====
+#!/usr/bin/env python3
+"""
+Email Notification System
+"""
+
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+from datetime import datetime
+import logging
+
+===== /Users/serkanozturk/Desktop/JTTWS/enhanced_trade_logger.py =====
+#!/usr/bin/env python3
+"""
+Enhanced Trade Logger
+Her trade için detaylı bilgi kaydeder
+"""
+
+import logging
+from datetime import datetime, timedelta
+from typing import Dict, Optional
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/ensemble_manager.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+ENSEMBLE MANAGER V9 - Multi-Agent PPO Ensemble
+================================================================================
+
+Manages multiple PPO agents with different hyperparameters:
+- Agent selection based on performance
+- Voting mechanisms (majority, weighted)
+- Dynamic agent switching
+
+===== /Users/serkanozturk/Desktop/JTTWS/feature_engineer_v9.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+FEATURE ENGINEER V9 - ADVANCED TECHNICAL INDICATORS & MULTI-TIMEFRAME
+================================================================================
+
+Provides 50+ technical indicators using TA-Lib and custom calculations:
+- Trend Indicators: SMA, EMA, TEMA, WMA, ADX, PSAR, Supertrend
+- Momentum: RSI (multiple periods), Stochastic, Williams %R, ROC, MFI, CCI
+- Volatility: Bollinger Bands, ATR (multiple), Keltner, Donchian
+
+===== /Users/serkanozturk/Desktop/JTTWS/find_chat_id_warning.py =====
+#!/usr/bin/env python3
+"""
+"Telegram chat_id yok" uyarısını burada bulalım
+"""
+
+from pathlib import Path
+
+BASE_DIR = Path.home() / "Desktop" / "JTTWS"
+bot_file = BASE_DIR / "ultimate_bot_v7_professional.py"
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/fix_action_final.py =====
+#!/usr/bin/env python3
+"""
+Action referanslarını tamamen temizle
+"""
+
+from pathlib import Path
+
+print("🔧 Tüm action referansları temizleniyor...\n")
+
+BASE_DIR = Path.home() / "Desktop" / "JTTWS"
+
+===== /Users/serkanozturk/Desktop/JTTWS/fix_calendar_and_telegram.py =====
+#!/usr/bin/env python3
+"""
+Calendar ve Telegram sorunlarını düzelt
+"""
+
+import os
+from pathlib import Path
+
+print("🔧 Calendar ve Telegram düzeltiliyor...\n")
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/fix_datetime_error.py =====
+#!/usr/bin/env python3
+"""
+FTMO Bot - Datetime Hatası Düzeltme
+"""
+
+import os
+from pathlib import Path
+
+print("🔧 Datetime hatası düzeltiliyor...")
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/fix_local_paths.py =====
+#!/usr/bin/env python3
+"""
+Quick Fix Script for Local Execution
+=====================================
+Bu script lokal sistemde JTTWS V8 bot'unu çalıştırmadan önce
+path sorunlarını otomatik olarak düzeltir.
+
+Kullanım:
+    python fix_local_paths.py
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/fix_syntax_error.py =====
+#!/usr/bin/env python3
+"""
+Syntax hatası düzeltmesi
+\n karakterlerini temizle
+"""
+
+from pathlib import Path
+
+print("🔧 Syntax hatası düzeltiliyor...\n")
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/fix_telegram_chat_ids.py =====
+#!/usr/bin/env python3
+"""
+Telegram chat_ids listesine config'teki chat_id'yi ekle
+"""
+
+from pathlib import Path
+
+print("🔧 Telegram chat_ids sorunu düzeltiliyor...\n")
+
+BASE_DIR = Path.home() / "Desktop" / "JTTWS"
+
+===== /Users/serkanozturk/Desktop/JTTWS/fix_telegram_final.py =====
+#!/usr/bin/env python3
+"""
+Telegram Chat ID Sorunu - Son Düzeltme
+"""
+
+import os
+from pathlib import Path
+
+print("🔧 Telegram Chat ID sorunu düzeltiliyor...\n")
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/integrate_new_modules.py =====
+#!/usr/bin/env python3
+"""
+Yeni modülleri ana bot'a entegre et
+"""
+
+import os
+from pathlib import Path
+
+print("""
+╔══════════════════════════════════════════════════════════════════╗
+
+===== /Users/serkanozturk/Desktop/JTTWS/mega_upgrade_package.py =====
+#!/usr/bin/env python3
+"""
+FTMO Bot V7 - MEGA UPGRADE PACKAGE
+- Detaylı Trade Logging
+- Email Notifications
+- Haftalık Rapor Sistemi
+- Telegram Düzeltmesi
+"""
+
+import os
+
+===== /Users/serkanozturk/Desktop/JTTWS/news_manager.py =====
+#!/usr/bin/env python3
+"""
+News Manager Module - Enhanced News Blackout System
+Manages economic calendar events and trading restrictions
+"""
+
+import pandas as pd
+import numpy as np
+from datetime import datetime, timedelta
+import logging
+
+===== /Users/serkanozturk/Desktop/JTTWS/optuna_optimizer.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+OPTUNA OPTIMIZER - V8 Hyperparameter Tuning
+================================================================================
+OptunaOptimizer, PPO hyperparameter'larını (lr, clip_range, ent_coef, decay_rate)
+Optuna kullanarak optimize eder.
+
+Kullanım:
+    from optuna_optimizer import OptunaOptimizer
+
+===== /Users/serkanozturk/Desktop/JTTWS/ppo_agent.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+PPO AGENT - V8 PPO Enhancement with LSTM Hybrid
+================================================================================
+PPOAgent, Stable Baselines3 PPO ile RL trading agent'ı implement eder.
+LSTM feature extractor ile hibrit yaklaşım ve DQN fallback seçeneği sunar.
+
+Kullanım:
+    from ppo_agent import PPOAgent
+
+===== /Users/serkanozturk/Desktop/JTTWS/quick_fix_action_error.py =====
+#!/usr/bin/env python3
+"""
+Action error hızlı düzeltme
+"""
+
+from pathlib import Path
+
+print("🔧 Action hatası düzeltiliyor...\n")
+
+BASE_DIR = Path.home() / "Desktop" / "JTTWS"
+
+===== /Users/serkanozturk/Desktop/JTTWS/reward_shaper.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+REWARD SHAPER - V8 PPO Enhancement
+================================================================================
+RewardShaper, trading bot'un reward fonksiyonuna penalty'ler ekleyerek
+risk yönetimini güçlendirir. News blackout, volatility guards, correlation
+violations gibi durumları tespit eder ve cezalandırır.
+
+Kullanım:
+
+===== /Users/serkanozturk/Desktop/JTTWS/run_first_test.py =====
+#!/usr/bin/env python3
+"""
+Serkan Bey'in Botu için İlk Test Çalıştırması
+"""
+
+import warnings
+warnings.filterwarnings('ignore')
+
+print("=" * 60)
+print("🚀 JTTWS Trading Bot - İlk Test Çalıştırması")
+
+===== /Users/serkanozturk/Desktop/JTTWS/sentiment_analyzer.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+SENTIMENT ANALYZER V9 - Economic Calendar & News Blackout
+================================================================================
+
+Provides:
+- Economic calendar integration (investpy/pandas)
+- High-impact news detection
+- Trading blackout periods
+
+===== /Users/serkanozturk/Desktop/JTTWS/simplify_trade_logging.py =====
+#!/usr/bin/env python3
+"""
+Trade logging'i basitleştir - tüm karmaşık kodları kaldır
+"""
+
+from pathlib import Path
+import re
+
+print("🔧 Trade logging basitleştiriliyor...\n")
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/test_my_bot.py =====
+#!/usr/bin/env python3
+"""
+Serkan Bey'in Bot Sistemi için Özel Test Script
+"""
+
+import sys
+import os
+import warnings
+warnings.filterwarnings('ignore')
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/test_weekly_ranges.py =====
+#!/usr/bin/env python3
+"""Test Weekly Ranges - Haftalık Range Verilerini Test Et"""
+
+import pandas as pd
+import numpy as np
+from datetime import datetime
+import os
+
+data_path = os.path.expanduser("~/Desktop/JTTWS/data")
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/trading_environment_pro.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+PROFESSIONAL TRADING ENVIRONMENT V8
+================================================================================
+Profesyonel trading environment with:
+- Real balance tracking and updates
+- Position management (open/close/TP/SL)
+- Commission, spread, margin handling
+- Risk management (position sizing, max positions, drawdown)
+
+===== /Users/serkanozturk/Desktop/JTTWS/train_bot_v9.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+TRAIN BOT V9 - Google Colab Ready Training Script
+================================================================================
+
+Complete training pipeline for ULTIMATE FTMO TRADING BOT V9.
+
+Features:
+- Google Colab compatible (GPU accelerated)
+
+===== /Users/serkanozturk/Desktop/JTTWS/ultimate_bot_v7_professional.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+ULTIMATE FTMO TRADING BOT V7.0 PROFESSIONAL - TAM SİSTEM
+================================================================================
+
+🏆 TAM PROFESYONel TRADING SİSTEMİ
+✅ 12 Maddelik Strateji EKSIKSIZ Uygulanmış
+✅ Haftalık Range Analizi & Öğrenme
+✅ Hak Sistemi (USDJPY:25, EURUSD:21, GBPUSD:18)
+
+===== /Users/serkanozturk/Desktop/JTTWS/ultimate_bot_v8_ppo.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+ULTIMATE FTMO TRADING BOT V8.0 - PPO HYBRID
+================================================================================
+
+🏆 V8 ENHANCEMENTS OVER V7:
+✅ PPO (Proximal Policy Optimization) replaces Rainbow DQN
+✅ LSTM hybrid feature extraction for temporal patterns
+✅ Walk-Forward Training (90/30 day windows) for overfitting prevention
+
+===== /Users/serkanozturk/Desktop/JTTWS/ultimate_trading_bot_v6_final.py =====
+#!/usr/bin/env python3
+"""
+ULTIMATE FTMO TRADING BOT V6.0 FINAL
+=====================================
+2003-2024 Full Data Support
+Kelly Criterion + ATR Position Sizing
+23-Hour Auto Close
+VaR/CVaR Risk Management
+"""
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/upload_data.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+DATA UPLOAD SCRIPT FOR JTTWS V8
+================================================================================
+
+Handles uploading and extracting compressed data files.
+
+Usage:
+    1. Compress data locally:
+
+===== /Users/serkanozturk/Desktop/JTTWS/walk_forward_trainer.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+WALK-FORWARD TRAINER - V8 Overfitting Prevention
+================================================================================
+WalkForwardTrainer, time-series cross-validation ile model overfitting'ini
+kontrol eder. 90 gün train / 30 gün test window'larıyla rolling validation.
+
+Kullanım:
+    from walk_forward_trainer import WalkForwardTrainer
+
+===== /Users/serkanozturk/Desktop/JTTWS/weekly_reporter.py =====
+#!/usr/bin/env python3
+"""
+Weekly Reporter Module
+Generates detailed weekly performance reports with:
+- Per-pair profitability
+- News reaction analysis
+- Lot size analytics
+- Win/loss patterns
+"""
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/FINAL_COMPLETE_FIX.py =====
+#!/usr/bin/env python3
+"""
+ULTIMATE FİNAL FİX - TÜM SORUNLARI ÇÖZER
+- Telegram CHAT_ID ekle
+- Enhanced Logger aktif et
+- Haftalık rapor aktif et
+- Trade detaylarını logla
+- Her şeyi düzelt
+"""
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/JTTWS_ULTIMATE_BOT_V7_ALL_IN_ONE.py =====
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║            JTTWS ULTIMATE FTMO TRADING BOT V7.0 PROFESSIONAL                ║
+║                    "Clockwork Reliability, Maximum Transparency"             ║
+║                          *** ALL-IN-ONE VERSION ***                          ║
+║                                                                              ║
+║   🎯 12-Point Professional Strategy | 🛡️ Advanced Risk Management          ║
+
+===== /Users/serkanozturk/Desktop/JTTWS/advanced_backtester.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+ADVANCED BACKTESTER V9 - Monte Carlo & Walk-Forward
+================================================================================
+
+Provides:
+- Monte Carlo simulation for robustness testing
+- Walk-forward validation
+- Advanced metrics (Sharpe, Sortino, drawdown, profit factor)
+
+===== /Users/serkanozturk/Desktop/JTTWS/apply_final_fix.py =====
+#!/usr/bin/env python3
+"""
+Ultimate Bot V7 - FİNAL DÜZELTMELİ
+NewsBlackout ve TelegramReporter'ı tamamen yeniden yazıyor
+"""
+
+import os
+import re
+from pathlib import Path
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/auto_update_bot.py =====
+#!/usr/bin/env python3
+"""
+FTMO Trading Bot V7.0 - Otomatik Güncelleme Scripti
+Tüm dosyaları otomatik olarak günceller
+"""
+
+import os
+import sys
+import shutil
+from pathlib import Path
+
+===== /Users/serkanozturk/Desktop/JTTWS/backend_test.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+BACKEND TEST V9 - Comprehensive Testing for ULTIMATE FTMO TRADING BOT V9
+================================================================================
+
+Tests all V9 modules:
+1. FeatureEngineerV9 - 50+ technical indicators
+2. DataManagerV8 - Data loading with V9 integration
+3. SentimentAnalyzerV9 - Economic calendar & blackout periods
+
+===== /Users/serkanozturk/Desktop/JTTWS/bot_config.py =====
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+ULTIMATE FTMO TRADING BOT V7.0 PROFESSIONAL - Configuration
+Tüm ayarlar bu dosyada merkezi olarak yönetilir
+"""
+
+import os
+from datetime import time
+from pathlib import Path
+
+===== /Users/serkanozturk/Desktop/JTTWS/check_data_files.py =====
+#!/usr/bin/env python3
+import os
+from pathlib import Path
+
+print("=" * 70)
+print("DATA KLASÖRÜ ANALİZİ")
+print("=" * 70)
+
+base_dir = Path.home() / "Desktop" / "JTTWS" / "data"
+print(f"\nBase Directory: {base_dir}")
+
+===== /Users/serkanozturk/Desktop/JTTWS/check_initialize_bot.py =====
+#!/usr/bin/env python3
+"""
+TelegramReporter _initialize_bot metodunu kontrol et
+"""
+
+from pathlib import Path
+
+BASE_DIR = Path.home() / "Desktop" / "JTTWS"
+bot_file = BASE_DIR / "ultimate_bot_v7_professional.py"
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/check_telegram_code.py =====
+#!/usr/bin/env python3
+"""
+TelegramReporter kodunu kontrol et
+"""
+
+from pathlib import Path
+
+BASE_DIR = Path.home() / "Desktop" / "JTTWS"
+bot_file = BASE_DIR / "ultimate_bot_v7_professional.py"
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/combine_calendars.py =====
+#!/usr/bin/env python3
+"""
+Economic Calendar Combiner & Categorizer
+"""
+
+import pandas as pd
+import requests
+from datetime import datetime
+import logging
+import os
+
+===== /Users/serkanozturk/Desktop/JTTWS/data_aggregator_v8.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+DATA AGGREGATOR V8 - 15M to Daily Conversion
+================================================================================
+
+Converts 15-minute OHLCV data to daily aggregates for walk-forward training.
+
+Features:
+- OHLCV aggregation (open: first, high: max, low: min, close: last, volume: sum)
+
+===== /Users/serkanozturk/Desktop/JTTWS/data_manager_v8.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+DATA MANAGER V8 - Enhanced Data Loading for JTTWS Trading Bot
+================================================================================
+
+Handles:
+- Multiple CSV files per symbol (3-year chunks)
+- 15-minute OHLCV candlestick data
+- Weekly range files (ATR, volatility metrics)
+
+===== /Users/serkanozturk/Desktop/JTTWS/email_notifier.py =====
+#!/usr/bin/env python3
+"""
+Email Notification System
+"""
+
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+from datetime import datetime
+import logging
+
+===== /Users/serkanozturk/Desktop/JTTWS/enhanced_trade_logger.py =====
+#!/usr/bin/env python3
+"""
+Enhanced Trade Logger
+Her trade için detaylı bilgi kaydeder
+"""
+
+import logging
+from datetime import datetime, timedelta
+from typing import Dict, Optional
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/ensemble_manager.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+ENSEMBLE MANAGER V9 - Multi-Agent PPO Ensemble
+================================================================================
+
+Manages multiple PPO agents with different hyperparameters:
+- Agent selection based on performance
+- Voting mechanisms (majority, weighted)
+- Dynamic agent switching
+
+===== /Users/serkanozturk/Desktop/JTTWS/feature_engineer_v9.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+FEATURE ENGINEER V9 - ADVANCED TECHNICAL INDICATORS & MULTI-TIMEFRAME
+================================================================================
+
+Provides 50+ technical indicators using TA-Lib and custom calculations:
+- Trend Indicators: SMA, EMA, TEMA, WMA, ADX, PSAR, Supertrend
+- Momentum: RSI (multiple periods), Stochastic, Williams %R, ROC, MFI, CCI
+- Volatility: Bollinger Bands, ATR (multiple), Keltner, Donchian
+
+===== /Users/serkanozturk/Desktop/JTTWS/find_chat_id_warning.py =====
+#!/usr/bin/env python3
+"""
+"Telegram chat_id yok" uyarısını burada bulalım
+"""
+
+from pathlib import Path
+
+BASE_DIR = Path.home() / "Desktop" / "JTTWS"
+bot_file = BASE_DIR / "ultimate_bot_v7_professional.py"
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/fix_action_final.py =====
+#!/usr/bin/env python3
+"""
+Action referanslarını tamamen temizle
+"""
+
+from pathlib import Path
+
+print("🔧 Tüm action referansları temizleniyor...\n")
+
+BASE_DIR = Path.home() / "Desktop" / "JTTWS"
+
+===== /Users/serkanozturk/Desktop/JTTWS/fix_calendar_and_telegram.py =====
+#!/usr/bin/env python3
+"""
+Calendar ve Telegram sorunlarını düzelt
+"""
+
+import os
+from pathlib import Path
+
+print("🔧 Calendar ve Telegram düzeltiliyor...\n")
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/fix_datetime_error.py =====
+#!/usr/bin/env python3
+"""
+FTMO Bot - Datetime Hatası Düzeltme
+"""
+
+import os
+from pathlib import Path
+
+print("🔧 Datetime hatası düzeltiliyor...")
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/fix_local_paths.py =====
+#!/usr/bin/env python3
+"""
+Quick Fix Script for Local Execution
+=====================================
+Bu script lokal sistemde JTTWS V8 bot'unu çalıştırmadan önce
+path sorunlarını otomatik olarak düzeltir.
+
+Kullanım:
+    python fix_local_paths.py
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/fix_syntax_error.py =====
+#!/usr/bin/env python3
+"""
+Syntax hatası düzeltmesi
+\n karakterlerini temizle
+"""
+
+from pathlib import Path
+
+print("🔧 Syntax hatası düzeltiliyor...\n")
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/fix_telegram_chat_ids.py =====
+#!/usr/bin/env python3
+"""
+Telegram chat_ids listesine config'teki chat_id'yi ekle
+"""
+
+from pathlib import Path
+
+print("🔧 Telegram chat_ids sorunu düzeltiliyor...\n")
+
+BASE_DIR = Path.home() / "Desktop" / "JTTWS"
+
+===== /Users/serkanozturk/Desktop/JTTWS/fix_telegram_final.py =====
+#!/usr/bin/env python3
+"""
+Telegram Chat ID Sorunu - Son Düzeltme
+"""
+
+import os
+from pathlib import Path
+
+print("🔧 Telegram Chat ID sorunu düzeltiliyor...\n")
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/integrate_new_modules.py =====
+#!/usr/bin/env python3
+"""
+Yeni modülleri ana bot'a entegre et
+"""
+
+import os
+from pathlib import Path
+
+print("""
+╔══════════════════════════════════════════════════════════════════╗
+
+===== /Users/serkanozturk/Desktop/JTTWS/mega_upgrade_package.py =====
+#!/usr/bin/env python3
+"""
+FTMO Bot V7 - MEGA UPGRADE PACKAGE
+- Detaylı Trade Logging
+- Email Notifications
+- Haftalık Rapor Sistemi
+- Telegram Düzeltmesi
+"""
+
+import os
+
+===== /Users/serkanozturk/Desktop/JTTWS/news_manager.py =====
+#!/usr/bin/env python3
+"""
+News Manager Module - Enhanced News Blackout System
+Manages economic calendar events and trading restrictions
+"""
+
+import pandas as pd
+import numpy as np
+from datetime import datetime, timedelta
+import logging
+
+===== /Users/serkanozturk/Desktop/JTTWS/optuna_optimizer.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+OPTUNA OPTIMIZER - V8 Hyperparameter Tuning
+================================================================================
+OptunaOptimizer, PPO hyperparameter'larını (lr, clip_range, ent_coef, decay_rate)
+Optuna kullanarak optimize eder.
+
+Kullanım:
+    from optuna_optimizer import OptunaOptimizer
+
+===== /Users/serkanozturk/Desktop/JTTWS/ppo_agent.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+PPO AGENT - V8 PPO Enhancement with LSTM Hybrid
+================================================================================
+PPOAgent, Stable Baselines3 PPO ile RL trading agent'ı implement eder.
+LSTM feature extractor ile hibrit yaklaşım ve DQN fallback seçeneği sunar.
+
+Kullanım:
+    from ppo_agent import PPOAgent
+
+===== /Users/serkanozturk/Desktop/JTTWS/quick_fix_action_error.py =====
+#!/usr/bin/env python3
+"""
+Action error hızlı düzeltme
+"""
+
+from pathlib import Path
+
+print("🔧 Action hatası düzeltiliyor...\n")
+
+BASE_DIR = Path.home() / "Desktop" / "JTTWS"
+
+===== /Users/serkanozturk/Desktop/JTTWS/reward_shaper.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+REWARD SHAPER - V8 PPO Enhancement
+================================================================================
+RewardShaper, trading bot'un reward fonksiyonuna penalty'ler ekleyerek
+risk yönetimini güçlendirir. News blackout, volatility guards, correlation
+violations gibi durumları tespit eder ve cezalandırır.
+
+Kullanım:
+
+===== /Users/serkanozturk/Desktop/JTTWS/run_first_test.py =====
+#!/usr/bin/env python3
+"""
+Serkan Bey'in Botu için İlk Test Çalıştırması
+"""
+
+import warnings
+warnings.filterwarnings('ignore')
+
+print("=" * 60)
+print("🚀 JTTWS Trading Bot - İlk Test Çalıştırması")
+
+===== /Users/serkanozturk/Desktop/JTTWS/sentiment_analyzer.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+SENTIMENT ANALYZER V9 - Economic Calendar & News Blackout
+================================================================================
+
+Provides:
+- Economic calendar integration (investpy/pandas)
+- High-impact news detection
+- Trading blackout periods
+
+===== /Users/serkanozturk/Desktop/JTTWS/simplify_trade_logging.py =====
+#!/usr/bin/env python3
+"""
+Trade logging'i basitleştir - tüm karmaşık kodları kaldır
+"""
+
+from pathlib import Path
+import re
+
+print("🔧 Trade logging basitleştiriliyor...\n")
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/test_my_bot.py =====
+#!/usr/bin/env python3
+"""
+Serkan Bey'in Bot Sistemi için Özel Test Script
+"""
+
+import sys
+import os
+import warnings
+warnings.filterwarnings('ignore')
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/test_weekly_ranges.py =====
+#!/usr/bin/env python3
+"""Test Weekly Ranges - Haftalık Range Verilerini Test Et"""
+
+import pandas as pd
+import numpy as np
+from datetime import datetime
+import os
+
+data_path = os.path.expanduser("~/Desktop/JTTWS/data")
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/trading_environment_pro.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+PROFESSIONAL TRADING ENVIRONMENT V8
+================================================================================
+Profesyonel trading environment with:
+- Real balance tracking and updates
+- Position management (open/close/TP/SL)
+- Commission, spread, margin handling
+- Risk management (position sizing, max positions, drawdown)
+
+===== /Users/serkanozturk/Desktop/JTTWS/train_bot_v9.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+TRAIN BOT V9 - Google Colab Ready Training Script
+================================================================================
+
+Complete training pipeline for ULTIMATE FTMO TRADING BOT V9.
+
+Features:
+- Google Colab compatible (GPU accelerated)
+
+===== /Users/serkanozturk/Desktop/JTTWS/ultimate_bot_v7_professional.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+ULTIMATE FTMO TRADING BOT V7.0 PROFESSIONAL - TAM SİSTEM
+================================================================================
+
+🏆 TAM PROFESYONel TRADING SİSTEMİ
+✅ 12 Maddelik Strateji EKSIKSIZ Uygulanmış
+✅ Haftalık Range Analizi & Öğrenme
+✅ Hak Sistemi (USDJPY:25, EURUSD:21, GBPUSD:18)
+
+===== /Users/serkanozturk/Desktop/JTTWS/ultimate_bot_v8_ppo.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+ULTIMATE FTMO TRADING BOT V8.0 - PPO HYBRID
+================================================================================
+
+🏆 V8 ENHANCEMENTS OVER V7:
+✅ PPO (Proximal Policy Optimization) replaces Rainbow DQN
+✅ LSTM hybrid feature extraction for temporal patterns
+✅ Walk-Forward Training (90/30 day windows) for overfitting prevention
+
+===== /Users/serkanozturk/Desktop/JTTWS/ultimate_trading_bot_v6_final.py =====
+#!/usr/bin/env python3
+"""
+ULTIMATE FTMO TRADING BOT V6.0 FINAL
+=====================================
+2003-2024 Full Data Support
+Kelly Criterion + ATR Position Sizing
+23-Hour Auto Close
+VaR/CVaR Risk Management
+"""
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/upload_data.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+DATA UPLOAD SCRIPT FOR JTTWS V8
+================================================================================
+
+Handles uploading and extracting compressed data files.
+
+Usage:
+    1. Compress data locally:
+
+===== /Users/serkanozturk/Desktop/JTTWS/walk_forward_trainer.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+WALK-FORWARD TRAINER - V8 Overfitting Prevention
+================================================================================
+WalkForwardTrainer, time-series cross-validation ile model overfitting'ini
+kontrol eder. 90 gün train / 30 gün test window'larıyla rolling validation.
+
+Kullanım:
+    from walk_forward_trainer import WalkForwardTrainer
+
+===== /Users/serkanozturk/Desktop/JTTWS/weekly_reporter.py =====
+#!/usr/bin/env python3
+"""
+Weekly Reporter Module
+Generates detailed weekly performance reports with:
+- Per-pair profitability
+- News reaction analysis
+- Lot size analytics
+- Win/loss patterns
+"""
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/FINAL_COMPLETE_FIX.py =====
+#!/usr/bin/env python3
+"""
+ULTIMATE FİNAL FİX - TÜM SORUNLARI ÇÖZER
+- Telegram CHAT_ID ekle
+- Enhanced Logger aktif et
+- Haftalık rapor aktif et
+- Trade detaylarını logla
+- Her şeyi düzelt
+"""
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/JTTWS_ULTIMATE_BOT_V7_ALL_IN_ONE.py =====
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║            JTTWS ULTIMATE FTMO TRADING BOT V7.0 PROFESSIONAL                ║
+║                    "Clockwork Reliability, Maximum Transparency"             ║
+║                          *** ALL-IN-ONE VERSION ***                          ║
+║                                                                              ║
+║   🎯 12-Point Professional Strategy | 🛡️ Advanced Risk Management          ║
+
+===== /Users/serkanozturk/Desktop/JTTWS/advanced_backtester.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+ADVANCED BACKTESTER V9 - Monte Carlo & Walk-Forward
+================================================================================
+
+Provides:
+- Monte Carlo simulation for robustness testing
+- Walk-forward validation
+- Advanced metrics (Sharpe, Sortino, drawdown, profit factor)
+
+===== /Users/serkanozturk/Desktop/JTTWS/apply_final_fix.py =====
+#!/usr/bin/env python3
+"""
+Ultimate Bot V7 - FİNAL DÜZELTMELİ
+NewsBlackout ve TelegramReporter'ı tamamen yeniden yazıyor
+"""
+
+import os
+import re
+from pathlib import Path
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/auto_update_bot.py =====
+#!/usr/bin/env python3
+"""
+FTMO Trading Bot V7.0 - Otomatik Güncelleme Scripti
+Tüm dosyaları otomatik olarak günceller
+"""
+
+import os
+import sys
+import shutil
+from pathlib import Path
+
+===== /Users/serkanozturk/Desktop/JTTWS/backend_test.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+BACKEND TEST V9 - Comprehensive Testing for ULTIMATE FTMO TRADING BOT V9
+================================================================================
+
+Tests all V9 modules:
+1. FeatureEngineerV9 - 50+ technical indicators
+2. DataManagerV8 - Data loading with V9 integration
+3. SentimentAnalyzerV9 - Economic calendar & blackout periods
+
+===== /Users/serkanozturk/Desktop/JTTWS/bot_config.py =====
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+ULTIMATE FTMO TRADING BOT V7.0 PROFESSIONAL - Configuration
+Tüm ayarlar bu dosyada merkezi olarak yönetilir
+"""
+
+import os
+from datetime import time
+from pathlib import Path
+
+===== /Users/serkanozturk/Desktop/JTTWS/check_data_files.py =====
+#!/usr/bin/env python3
+import os
+from pathlib import Path
+
+print("=" * 70)
+print("DATA KLASÖRÜ ANALİZİ")
+print("=" * 70)
+
+base_dir = Path.home() / "Desktop" / "JTTWS" / "data"
+print(f"\nBase Directory: {base_dir}")
+
+===== /Users/serkanozturk/Desktop/JTTWS/check_initialize_bot.py =====
+#!/usr/bin/env python3
+"""
+TelegramReporter _initialize_bot metodunu kontrol et
+"""
+
+from pathlib import Path
+
+BASE_DIR = Path.home() / "Desktop" / "JTTWS"
+bot_file = BASE_DIR / "ultimate_bot_v7_professional.py"
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/check_telegram_code.py =====
+#!/usr/bin/env python3
+"""
+TelegramReporter kodunu kontrol et
+"""
+
+from pathlib import Path
+
+BASE_DIR = Path.home() / "Desktop" / "JTTWS"
+bot_file = BASE_DIR / "ultimate_bot_v7_professional.py"
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/combine_calendars.py =====
+#!/usr/bin/env python3
+"""
+Economic Calendar Combiner & Categorizer
+"""
+
+import pandas as pd
+import requests
+from datetime import datetime
+import logging
+import os
+
+===== /Users/serkanozturk/Desktop/JTTWS/data_aggregator_v8.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+DATA AGGREGATOR V8 - 15M to Daily Conversion
+================================================================================
+
+Converts 15-minute OHLCV data to daily aggregates for walk-forward training.
+
+Features:
+- OHLCV aggregation (open: first, high: max, low: min, close: last, volume: sum)
+
+===== /Users/serkanozturk/Desktop/JTTWS/data_manager_v8.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+DATA MANAGER V8 - Enhanced Data Loading for JTTWS Trading Bot
+================================================================================
+
+Handles:
+- Multiple CSV files per symbol (3-year chunks)
+- 15-minute OHLCV candlestick data
+- Weekly range files (ATR, volatility metrics)
+
+===== /Users/serkanozturk/Desktop/JTTWS/email_notifier.py =====
+#!/usr/bin/env python3
+"""
+Email Notification System
+"""
+
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+from datetime import datetime
+import logging
+
+===== /Users/serkanozturk/Desktop/JTTWS/enhanced_trade_logger.py =====
+#!/usr/bin/env python3
+"""
+Enhanced Trade Logger
+Her trade için detaylı bilgi kaydeder
+"""
+
+import logging
+from datetime import datetime, timedelta
+from typing import Dict, Optional
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/ensemble_manager.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+ENSEMBLE MANAGER V9 - Multi-Agent PPO Ensemble
+================================================================================
+
+Manages multiple PPO agents with different hyperparameters:
+- Agent selection based on performance
+- Voting mechanisms (majority, weighted)
+- Dynamic agent switching
+
+===== /Users/serkanozturk/Desktop/JTTWS/feature_engineer_v9.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+FEATURE ENGINEER V9 - ADVANCED TECHNICAL INDICATORS & MULTI-TIMEFRAME
+================================================================================
+
+Provides 50+ technical indicators using TA-Lib and custom calculations:
+- Trend Indicators: SMA, EMA, TEMA, WMA, ADX, PSAR, Supertrend
+- Momentum: RSI (multiple periods), Stochastic, Williams %R, ROC, MFI, CCI
+- Volatility: Bollinger Bands, ATR (multiple), Keltner, Donchian
+
+===== /Users/serkanozturk/Desktop/JTTWS/find_chat_id_warning.py =====
+#!/usr/bin/env python3
+"""
+"Telegram chat_id yok" uyarısını burada bulalım
+"""
+
+from pathlib import Path
+
+BASE_DIR = Path.home() / "Desktop" / "JTTWS"
+bot_file = BASE_DIR / "ultimate_bot_v7_professional.py"
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/fix_action_final.py =====
+#!/usr/bin/env python3
+"""
+Action referanslarını tamamen temizle
+"""
+
+from pathlib import Path
+
+print("🔧 Tüm action referansları temizleniyor...\n")
+
+BASE_DIR = Path.home() / "Desktop" / "JTTWS"
+
+===== /Users/serkanozturk/Desktop/JTTWS/fix_calendar_and_telegram.py =====
+#!/usr/bin/env python3
+"""
+Calendar ve Telegram sorunlarını düzelt
+"""
+
+import os
+from pathlib import Path
+
+print("🔧 Calendar ve Telegram düzeltiliyor...\n")
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/fix_datetime_error.py =====
+#!/usr/bin/env python3
+"""
+FTMO Bot - Datetime Hatası Düzeltme
+"""
+
+import os
+from pathlib import Path
+
+print("🔧 Datetime hatası düzeltiliyor...")
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/fix_local_paths.py =====
+#!/usr/bin/env python3
+"""
+Quick Fix Script for Local Execution
+=====================================
+Bu script lokal sistemde JTTWS V8 bot'unu çalıştırmadan önce
+path sorunlarını otomatik olarak düzeltir.
+
+Kullanım:
+    python fix_local_paths.py
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/fix_syntax_error.py =====
+#!/usr/bin/env python3
+"""
+Syntax hatası düzeltmesi
+\n karakterlerini temizle
+"""
+
+from pathlib import Path
+
+print("🔧 Syntax hatası düzeltiliyor...\n")
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/fix_telegram_chat_ids.py =====
+#!/usr/bin/env python3
+"""
+Telegram chat_ids listesine config'teki chat_id'yi ekle
+"""
+
+from pathlib import Path
+
+print("🔧 Telegram chat_ids sorunu düzeltiliyor...\n")
+
+BASE_DIR = Path.home() / "Desktop" / "JTTWS"
+
+===== /Users/serkanozturk/Desktop/JTTWS/fix_telegram_final.py =====
+#!/usr/bin/env python3
+"""
+Telegram Chat ID Sorunu - Son Düzeltme
+"""
+
+import os
+from pathlib import Path
+
+print("🔧 Telegram Chat ID sorunu düzeltiliyor...\n")
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/integrate_new_modules.py =====
+#!/usr/bin/env python3
+"""
+Yeni modülleri ana bot'a entegre et
+"""
+
+import os
+from pathlib import Path
+
+print("""
+╔══════════════════════════════════════════════════════════════════╗
+
+===== /Users/serkanozturk/Desktop/JTTWS/mega_upgrade_package.py =====
+#!/usr/bin/env python3
+"""
+FTMO Bot V7 - MEGA UPGRADE PACKAGE
+- Detaylı Trade Logging
+- Email Notifications
+- Haftalık Rapor Sistemi
+- Telegram Düzeltmesi
+"""
+
+import os
+
+===== /Users/serkanozturk/Desktop/JTTWS/news_manager.py =====
+#!/usr/bin/env python3
+"""
+News Manager Module - Enhanced News Blackout System
+Manages economic calendar events and trading restrictions
+"""
+
+import pandas as pd
+import numpy as np
+from datetime import datetime, timedelta
+import logging
+
+===== /Users/serkanozturk/Desktop/JTTWS/optuna_optimizer.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+OPTUNA OPTIMIZER - V8 Hyperparameter Tuning
+================================================================================
+OptunaOptimizer, PPO hyperparameter'larını (lr, clip_range, ent_coef, decay_rate)
+Optuna kullanarak optimize eder.
+
+Kullanım:
+    from optuna_optimizer import OptunaOptimizer
+
+===== /Users/serkanozturk/Desktop/JTTWS/ppo_agent.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+PPO AGENT - V8 PPO Enhancement with LSTM Hybrid
+================================================================================
+PPOAgent, Stable Baselines3 PPO ile RL trading agent'ı implement eder.
+LSTM feature extractor ile hibrit yaklaşım ve DQN fallback seçeneği sunar.
+
+Kullanım:
+    from ppo_agent import PPOAgent
+
+===== /Users/serkanozturk/Desktop/JTTWS/quick_fix_action_error.py =====
+#!/usr/bin/env python3
+"""
+Action error hızlı düzeltme
+"""
+
+from pathlib import Path
+
+print("🔧 Action hatası düzeltiliyor...\n")
+
+BASE_DIR = Path.home() / "Desktop" / "JTTWS"
+
+===== /Users/serkanozturk/Desktop/JTTWS/reward_shaper.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+REWARD SHAPER - V8 PPO Enhancement
+================================================================================
+RewardShaper, trading bot'un reward fonksiyonuna penalty'ler ekleyerek
+risk yönetimini güçlendirir. News blackout, volatility guards, correlation
+violations gibi durumları tespit eder ve cezalandırır.
+
+Kullanım:
+
+===== /Users/serkanozturk/Desktop/JTTWS/run_first_test.py =====
+#!/usr/bin/env python3
+"""
+Serkan Bey'in Botu için İlk Test Çalıştırması
+"""
+
+import warnings
+warnings.filterwarnings('ignore')
+
+print("=" * 60)
+print("🚀 JTTWS Trading Bot - İlk Test Çalıştırması")
+
+===== /Users/serkanozturk/Desktop/JTTWS/sentiment_analyzer.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+SENTIMENT ANALYZER V9 - Economic Calendar & News Blackout
+================================================================================
+
+Provides:
+- Economic calendar integration (investpy/pandas)
+- High-impact news detection
+- Trading blackout periods
+
+===== /Users/serkanozturk/Desktop/JTTWS/simplify_trade_logging.py =====
+#!/usr/bin/env python3
+"""
+Trade logging'i basitleştir - tüm karmaşık kodları kaldır
+"""
+
+from pathlib import Path
+import re
+
+print("🔧 Trade logging basitleştiriliyor...\n")
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/test_my_bot.py =====
+#!/usr/bin/env python3
+"""
+Serkan Bey'in Bot Sistemi için Özel Test Script
+"""
+
+import sys
+import os
+import warnings
+warnings.filterwarnings('ignore')
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/test_weekly_ranges.py =====
+#!/usr/bin/env python3
+"""Test Weekly Ranges - Haftalık Range Verilerini Test Et"""
+
+import pandas as pd
+import numpy as np
+from datetime import datetime
+import os
+
+data_path = os.path.expanduser("~/Desktop/JTTWS/data")
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/trading_environment_pro.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+PROFESSIONAL TRADING ENVIRONMENT V8
+================================================================================
+Profesyonel trading environment with:
+- Real balance tracking and updates
+- Position management (open/close/TP/SL)
+- Commission, spread, margin handling
+- Risk management (position sizing, max positions, drawdown)
+
+===== /Users/serkanozturk/Desktop/JTTWS/train_bot_v9.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+TRAIN BOT V9 - Google Colab Ready Training Script
+================================================================================
+
+Complete training pipeline for ULTIMATE FTMO TRADING BOT V9.
+
+Features:
+- Google Colab compatible (GPU accelerated)
+
+===== /Users/serkanozturk/Desktop/JTTWS/ultimate_bot_v7_professional.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+ULTIMATE FTMO TRADING BOT V7.0 PROFESSIONAL - TAM SİSTEM
+================================================================================
+
+🏆 TAM PROFESYONel TRADING SİSTEMİ
+✅ 12 Maddelik Strateji EKSIKSIZ Uygulanmış
+✅ Haftalık Range Analizi & Öğrenme
+✅ Hak Sistemi (USDJPY:25, EURUSD:21, GBPUSD:18)
+
+===== /Users/serkanozturk/Desktop/JTTWS/ultimate_bot_v8_ppo.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+ULTIMATE FTMO TRADING BOT V8.0 - PPO HYBRID
+================================================================================
+
+🏆 V8 ENHANCEMENTS OVER V7:
+✅ PPO (Proximal Policy Optimization) replaces Rainbow DQN
+✅ LSTM hybrid feature extraction for temporal patterns
+✅ Walk-Forward Training (90/30 day windows) for overfitting prevention
+
+===== /Users/serkanozturk/Desktop/JTTWS/ultimate_trading_bot_v6_final.py =====
+#!/usr/bin/env python3
+"""
+ULTIMATE FTMO TRADING BOT V6.0 FINAL
+=====================================
+2003-2024 Full Data Support
+Kelly Criterion + ATR Position Sizing
+23-Hour Auto Close
+VaR/CVaR Risk Management
+"""
+
+
+===== /Users/serkanozturk/Desktop/JTTWS/upload_data.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+DATA UPLOAD SCRIPT FOR JTTWS V8
+================================================================================
+
+Handles uploading and extracting compressed data files.
+
+Usage:
+    1. Compress data locally:
+
+===== /Users/serkanozturk/Desktop/JTTWS/walk_forward_trainer.py =====
+#!/usr/bin/env python3
+"""
+================================================================================
+WALK-FORWARD TRAINER - V8 Overfitting Prevention
+================================================================================
+WalkForwardTrainer, time-series cross-validation ile model overfitting'ini
+kontrol eder. 90 gün train / 30 gün test window'larıyla rolling validation.
+
+Kullanım:
+    from walk_forward_trainer import WalkForwardTrainer
+
+===== /Users/serkanozturk/Desktop/JTTWS/weekly_reporter.py =====
+#!/usr/bin/env python3
+"""
+Weekly Reporter Module
+Generates detailed weekly performance reports with:
+- Per-pair profitability
+- News reaction analysis
+- Lot size analytics
+- Win/loss patterns
+"""
+
+
