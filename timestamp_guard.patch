@@ -1,0 +1,18 @@
+--- JTTWS_v5_COMPLETE_FIXED.py.original
++++ JTTWS_v5_COMPLETE_FIXED.py
+@@ -516,6 +516,15 @@ class PaperTradingSystem:
+         if position_id not in self.positions:
+             return {"status": "ERROR", "reason": "Position not found"}
+         
++        # --- SAFE TIMESTAMP GUARD ---
++        if timestamp is None:
++            try:
++                import pandas as pd
++                timestamp = pd.Timestamp.utcnow().tz_localize('UTC')
++            except Exception:
++                from datetime import datetime, timezone
++                timestamp = datetime.now(timezone.utc)
++        
+         pos = self.positions[position_id]
+         symbol = pos['symbol']
+         quantity = pos['quantity']

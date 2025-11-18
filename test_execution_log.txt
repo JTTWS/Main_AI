@@ -1,0 +1,93 @@
+
+████████████████████████████████████████████████████████████████████████████████
+                    JTTWS v5 MARGIN DIAGNOSTIC SUITE
+████████████████████████████████████████████████████████████████████████████████
+
+================================================================================
+MARGIN CALCULATION TESTS
+================================================================================
+✓ PASS | EURUSD 0.010 lots @ 1.10000 => Margin: $11.00 (expected: $10-$15)
+✓ PASS | EURUSD 0.100 lots @ 1.10000 => Margin: $110.00 (expected: $100-$150)
+✓ PASS | GBPUSD 0.010 lots @ 1.27000 => Margin: $12.70 (expected: $10-$20)
+✓ PASS | USDJPY 0.010 lots @ 150.00000 => Margin: $10.00 (expected: $9-$12)
+✓ PASS | USDJPY 0.010 lots @ 155.00000 => Margin: $10.00 (expected: $9-$12)
+✓ PASS | AUDUSD 0.010 lots @ 0.66000 => Margin: $6.60 (expected: $6-$10)
+
+Margin Tests: 6 passed, 0 failed
+
+================================================================================
+PIP VALUE TESTS
+================================================================================
+✓ PASS | EURUSD @ 1.10000 => Pip Value: $10.00/lot (expected: $9-$11)
+✓ PASS | GBPUSD @ 1.27000 => Pip Value: $10.00/lot (expected: $9-$11)
+✓ PASS | USDJPY @ 150.00000 => Pip Value: $6.67/lot (expected: $6-$8)
+✓ PASS | AUDUSD @ 0.66000 => Pip Value: $10.00/lot (expected: $9-$11)
+
+Pip Value Tests: 4 passed, 0 failed
+
+================================================================================
+TRADE EXECUTION TESTS
+================================================================================
+2025-11-04 07:24:51,496 [INFO] Trading state reset
+2025-11-04 07:24:51,496 [INFO] PaperTradingSystem initialized with $25,000.00
+
+Initial Balance: $25,000.00
+Initial Available: $25,000.00
+
+Test 1: Execute EURUSD BUY 0.01 lots
+2025-11-04 07:24:51,497 [INFO] Trade EXECUTED: BUY 0.010 lots EURUSD @ 1.10000 (Margin: $11.00, Available: $24989.00)
+  Result: EXECUTED
+  Position ID: EURUSD_0
+  Margin Used: $11.00
+  Available After: $24,989.00
+  ✓ PASS
+
+Test 2: Close EURUSD position with profit
+2025-11-04 07:24:51,498 [INFO] Position CLOSED: EURUSD_0 | PnL: $+5.00 (+50.0 pips) | Balance: $25,005.00
+  Result: CLOSED
+  PnL: $+5.00
+  Pips: +50.0
+  Balance After: $25,005.00
+  ✓ PASS
+
+Test 3: Execute USDJPY SELL 0.01 lots
+2025-11-04 07:24:51,500 [INFO] Trade EXECUTED: SELL 0.010 lots USDJPY @ 150.00000 (Margin: $10.00, Available: $24995.00)
+  Result: EXECUTED
+  Margin Used: $10.00
+  ✓ PASS
+
+Test 4: Attempt trade with insufficient margin
+2025-11-04 07:24:51,501 [WARNING] Trade rejected: Insufficient margin. Required: $11.00, Available: $5.00
+  Result: REJECTED
+  Reason: Insufficient margin
+  ✓ PASS - Correctly rejected
+
+================================================================================
+EXECUTION TESTS: ALL PASSED ✓
+================================================================================
+
+================================================================================
+POSITION SIZING TESTS
+================================================================================
+2025-11-04 07:24:51,504 [INFO] DataManager initialized
+2025-11-04 07:24:51,505 [INFO] Trading state reset
+2025-11-04 07:24:51,505 [INFO] PaperTradingSystem initialized with $25,000.00
+2025-11-04 07:24:51,505 [INFO] UltimateTradingSystem initialized
+✓ PASS | EURUSD @ 1.10000 strength=1.0 => 0.0080 lots
+✓ PASS | USDJPY @ 150.00000 strength=1.0 => 0.0100 lots
+✓ PASS | GBPUSD @ 1.27000 strength=0.5 => 0.0040 lots
+
+Position Sizing: 3/3 passed
+
+████████████████████████████████████████████████████████████████████████████████
+FINAL SUMMARY
+████████████████████████████████████████████████████████████████████████████████
+✓ PASS | MARGIN
+✓ PASS | PIP VALUE
+✓ PASS | EXECUTION
+✓ PASS | POSITION SIZING
+
+================================================================================
+✓✓✓ ALL TESTS PASSED - SYSTEM READY FOR DEPLOYMENT ✓✓✓
+================================================================================
+
